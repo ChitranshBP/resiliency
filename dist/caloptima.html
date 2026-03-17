@@ -183,7 +183,7 @@
 
                 <!-- Mobile menu button -->
                 <div class="md:hidden flex items-center">
-                    <button class="focus:outline-none text-white group-[.scrolled]:text-gray-600">
+                    <button id="open-mobile-menu" class="focus:outline-none text-white group-[.scrolled]:text-gray-600">
                         <i data-lucide="menu" class="w-6 h-6"></i>
                     </button>
                 </div>
