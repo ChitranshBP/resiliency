@@ -9,7 +9,7 @@
                 
                 <!-- Brand Column -->
                 <div class="lg:col-span-2">
-                    <a href="#" class="block mb-8">
+                    <a href="index.php" class="block mb-8">
                         <img src="assets/images/logo/Resiliency-MindBody-Medicine-Logo.png" alt="Resiliency Mind+Body Medicine" class="h-12 w-auto object-contain brightness-0 invert">
                     </a>
                     <p class="font-light leading-relaxed mb-8 max-w-sm text-gray-400 text-sm">
@@ -35,11 +35,11 @@
                 <div>
                     <h4 class="text-white font-bold mb-8 tracking-wider uppercase text-xs">Clinic</h4>
                     <ul class="space-y-4 text-sm">
-                        <li><a href="#" class="hover:text-lightblue transition-colors flex items-center gap-2">About Our Clinic</a></li>
-                        <li><a href="#" class="hover:text-lightblue transition-colors flex items-center gap-2">Meet Our Providers</a></li>
-                        <li><a href="#" class="hover:text-lightblue transition-colors flex items-center gap-2">TMS Therapy</a></li>
+                        <li><a href="about.php" class="hover:text-lightblue transition-colors flex items-center gap-2">About Our Clinic</a></li>
+                        <li><a href="team.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Meet Our Providers</a></li>
+                        <li><a href="tms-therapy.php" class="hover:text-lightblue transition-colors flex items-center gap-2">TMS Therapy</a></li>
                         <li><a href="spravato-therapy.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Spravato Treatment</a></li>
-                        <li><a href="#" class="hover:text-lightblue transition-colors flex items-center gap-2">Clinic Blog</a></li>
+                        <li><a href="blog.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Clinic Blog</a></li>
                     </ul>
                 </div>
 
@@ -48,10 +48,10 @@
                     <h4 class="text-white font-bold mb-8 tracking-wider uppercase text-xs">Resources</h4>
                     <ul class="space-y-4 text-sm">
                         <li><a href="#" class="hover:text-lightblue transition-colors">Patient Portal</a></li>
-                        <li><a href="#" class="hover:text-lightblue transition-colors">New Patient Forms</a></li>
-                        <li><a href="#" class="hover:text-lightblue transition-colors">Insurance & Fees</a></li>
-                        <li><a href="#" class="hover:text-lightblue transition-colors">Safety Protocols</a></li>
-                        <li><a href="#" class="hover:text-lightblue transition-colors">Frequently Asked Questions</a></li>
+                        <li><a href="new-patient-form.php" class="hover:text-lightblue transition-colors">New Patient Forms</a></li>
+                        <li><a href="insurance.php" class="hover:text-lightblue transition-colors">Insurance & Fees</a></li>
+                        <li><a href="contact.php" class="hover:text-lightblue transition-colors">Contact Us</a></li>
+                        <li><a href="faqs.php" class="hover:text-lightblue transition-colors">Frequently Asked Questions</a></li>
                     </ul>
                 </div>
 
@@ -110,11 +110,11 @@
             </div>
 
             <div class="flex flex-col md:flex-row justify-between items-center text-xs font-light text-gray-500">
-                <p>&copy; 2024 Resiliency Mind + Body Medicine. All rights reserved.</p>
+                <p>&copy; 2026 Resiliency Mind + Body Medicine. All rights reserved.</p>
                 <div class="flex gap-8 mt-4 md:mt-0 uppercase tracking-widest">
-                    <a href="#" class="hover:text-white transition-colors">Privacy Policy</a>
-                    <a href="#" class="hover:text-white transition-colors">Terms of Service</a>
-                    <a href="#" class="hover:text-white transition-colors">Accessibility</a>
+                    <a href="privacy-policy.php" class="hover:text-white transition-colors">Privacy Policy</a>
+                    <a href="terms-of-service.php" class="hover:text-white transition-colors">Terms of Service</a>
+                    <a href="acceptable-use.php" class="hover:text-white transition-colors">Accessibility</a>
                 </div>
             </div>
         </div>

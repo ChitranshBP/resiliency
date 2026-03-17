@@ -53,7 +53,7 @@
             <div class="flex justify-between items-center h-24 transition-all duration-300 group-[.scrolled]:h-20">
                 <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center">
-                    <a href="#" class="block">
+                    <a href="index.php" class="block">
                         <!-- We use a brightness filter for the white variant before scrolling, and invert/original on scroll depending on the logo's original color -->
                         <img src="assets/images/logo/Resiliency-MindBody-Medicine-Logo.png" alt="Resiliency Mind+Body Medicine" class="h-16 w-auto object-contain transition-all duration-300 brightness-0 invert group-[.scrolled]:filter-none">
                     </a>
@@ -71,10 +71,10 @@
                         <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-64 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100 overflow-hidden">
                             <div class="p-2 space-y-1">
                                 <a href="tms-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS Therapy</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated TMS Protocols</a>
+                                <a href="accelerated-tms.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated TMS Protocols</a>
                                 <a href="spravato-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
                                 <a href="medication-management.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Integrative Psychiatry</a>
+                                <a href="integrative-psychiatry.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Integrative Psychiatry</a>
                             </div>
                         </div>
                     </div>
@@ -86,11 +86,11 @@
                         </button>
                         <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-64 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/well:opacity-100 group-hover/well:visible transition-all duration-300 transform translate-y-4 group-hover/well:translate-y-0 border border-gray-100 overflow-hidden">
                             <div class="p-2 space-y-1">
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">IV Vitamin Therapy</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medical Weight Loss</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">NAD+ Therapy</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Aesthetic / Skin Treatments</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Infrared / Recovery Therapies</a>
+                                <a href="iv-vitamin-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">IV Vitamin Therapy</a>
+                                <a href="weight-loss.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medical Weight Loss</a>
+                                <a href="nad-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">NAD+ Therapy</a>
+                                <a href="aesthetics.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Aesthetic / Skin Treatments</a>
+                                <a href="infrared-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Infrared / Recovery Therapies</a>
                             </div>
                         </div>
                     </div>
@@ -102,19 +102,19 @@
                         </button>
                         <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-80 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/cond:opacity-100 group-hover/cond:visible transition-all duration-300 transform translate-y-4 group-hover/cond:translate-y-0 border border-gray-100 overflow-hidden">
                             <div class="p-2 grid grid-cols-2 gap-x-2 gap-y-1">
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Depression</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Anxiety</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">OCD</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">PTSD</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">ADHD</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Bipolar Disorder</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Substance Abuse</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Autism</a>
+                                <a href="depression.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Depression</a>
+                                <a href="anxiety.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Anxiety</a>
+                                <a href="ocd.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">OCD</a>
+                                <a href="ptsd.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">PTSD</a>
+                                <a href="adhd.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">ADHD</a>
+                                <a href="bipolar.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Bipolar Disorder</a>
+                                <a href="substance-abuse.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Substance Abuse</a>
+                                <a href="autism.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Autism</a>
                             </div>
                         </div>
                     </div>
 
-                    <a href="#providers" class="text-sm font-medium text-white/90 hover:text-white group-[.scrolled]:text-gray-600 group-[.scrolled]:hover:text-primary transition-colors py-8">Meet The Team</a>
+                    <a href="team.php" class="text-sm font-medium text-white/90 hover:text-white group-[.scrolled]:text-gray-600 group-[.scrolled]:hover:text-primary transition-colors py-8">Meet The Team</a>
 
                     <!-- Resources Dropdown -->
                     <div class="relative group/res">
@@ -123,25 +123,25 @@
                         </button>
                         <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-56 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/res:opacity-100 group-hover/res:visible transition-all duration-300 transform translate-y-4 group-hover/res:translate-y-0 border border-gray-100 overflow-hidden">
                             <div class="p-2 space-y-1">
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">About Us</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">FAQs</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Insurance</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Blog</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Press / Media</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Patient Forms</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Compliance</a>
+                                <a href="about.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">About Us</a>
+                                <a href="faqs.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">FAQs</a>
+                                <a href="insurance.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Insurance</a>
+                                <a href="blog.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Blog</a>
+                                <a href="press-media.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Press / Media</a>
+                                <a href="new-patient-form.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Patient Forms</a>
+                                <a href="compliance.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Compliance</a>
                             </div>
                         </div>
                     </div>
 
-                    <a href="#contact" class="text-sm font-medium text-white/90 hover:text-white group-[.scrolled]:text-gray-600 group-[.scrolled]:hover:text-primary transition-colors py-8">Contact Us</a>
+                    <a href="contact.php" class="text-sm font-medium text-white/90 hover:text-white group-[.scrolled]:text-gray-600 group-[.scrolled]:hover:text-primary transition-colors py-8">Contact Us</a>
 
                 </nav>
 
                 <!-- CTA Button -->
                 <div class="hidden md:flex items-center space-x-4">
                     <p class="text-sm font-semibold flex items-center gap-2 text-white group-[.scrolled]:text-primary transition-colors">
-                        <i data-lucide="phone" class="w-4 h-4"></i> (555) 123-4567
+                        <i data-lucide="phone" class="w-4 h-4"></i> (949) 996-5355
                     </p>
                     <a href="#consultation" class="bg-white text-primary hover:bg-gray-100 group-[.scrolled]:bg-primary group-[.scrolled]:text-white group-[.scrolled]:hover:bg-primary/90 px-6 py-2.5 rounded-full text-sm font-medium transition-all shadow-[0_4px_14px_0_rgba(255,255,255,0.39)] group-[.scrolled]:shadow-[0_4px_14px_0_rgba(11,32,53,0.39)] hover:-translate-y-0.5 transform">
                         Book Appointment
@@ -179,10 +179,10 @@
                     </button>
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="tms-therapy.php" class="text-white/80 hover:text-white transition-colors">TMS Therapy</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Accelerated TMS Protocols</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
+                        <a href="accelerated-tms.php" class="text-white/80 hover:text-white transition-colors">Accelerated TMS Protocols</a>
+                        <a href="spravato-therapy.php" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
                         <a href="medication-management.php" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>
+                        <a href="integrative-psychiatry.php" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>
                     </div>
                 </div>
 
@@ -192,11 +192,11 @@
                         Wellness <i data-lucide="chevron-down" class="w-5 h-5 transition-transform duration-300"></i>
                     </button>
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">IV Vitamin Therapy</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Medical Weight Loss</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">NAD+ Therapy</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Aesthetic / Skin Treatments</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Infrared / Recovery Therapies</a>
+                        <a href="iv-vitamin-therapy.php" class="text-white/80 hover:text-white transition-colors">IV Vitamin Therapy</a>
+                        <a href="weight-loss.php" class="text-white/80 hover:text-white transition-colors">Medical Weight Loss</a>
+                        <a href="nad-therapy.php" class="text-white/80 hover:text-white transition-colors">NAD+ Therapy</a>
+                        <a href="aesthetics.php" class="text-white/80 hover:text-white transition-colors">Aesthetic / Skin Treatments</a>
+                        <a href="infrared-therapy.php" class="text-white/80 hover:text-white transition-colors">Infrared / Recovery Therapies</a>
                     </div>
                 </div>
 
@@ -206,18 +206,18 @@
                         Conditions We Treat <i data-lucide="chevron-down" class="w-5 h-5 transition-transform duration-300"></i>
                     </button>
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Depression</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Anxiety</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">OCD</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">PTSD</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">ADHD</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Bipolar Disorder</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Substance Abuse</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Autism</a>
+                        <a href="depression.php" class="text-white/80 hover:text-white transition-colors">Depression</a>
+                        <a href="anxiety.php" class="text-white/80 hover:text-white transition-colors">Anxiety</a>
+                        <a href="ocd.php" class="text-white/80 hover:text-white transition-colors">OCD</a>
+                        <a href="ptsd.php" class="text-white/80 hover:text-white transition-colors">PTSD</a>
+                        <a href="adhd.php" class="text-white/80 hover:text-white transition-colors">ADHD</a>
+                        <a href="bipolar.php" class="text-white/80 hover:text-white transition-colors">Bipolar Disorder</a>
+                        <a href="substance-abuse.php" class="text-white/80 hover:text-white transition-colors">Substance Abuse</a>
+                        <a href="autism.php" class="text-white/80 hover:text-white transition-colors">Autism</a>
                     </div>
                 </div>
 
-                <a href="#providers" class="text-lg font-medium text-white pb-2 border-b border-white/10 block">Meet The Team</a>
+                <a href="team.php" class="text-lg font-medium text-white pb-2 border-b border-white/10 block">Meet The Team</a>
 
                 <!-- Resources Accordion -->
                 <div>
@@ -225,17 +225,17 @@
                         Resources <i data-lucide="chevron-down" class="w-5 h-5 transition-transform duration-300"></i>
                     </button>
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">About Us</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">FAQs</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Insurance</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Blog</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Press / Media</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Patient Forms</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Compliance</a>
+                        <a href="about.php" class="text-white/80 hover:text-white transition-colors">About Us</a>
+                        <a href="faqs.php" class="text-white/80 hover:text-white transition-colors">FAQs</a>
+                        <a href="insurance.php" class="text-white/80 hover:text-white transition-colors">Insurance</a>
+                        <a href="blog.php" class="text-white/80 hover:text-white transition-colors">Blog</a>
+                        <a href="press-media.php" class="text-white/80 hover:text-white transition-colors">Press / Media</a>
+                        <a href="new-patient-form.php" class="text-white/80 hover:text-white transition-colors">Patient Forms</a>
+                        <a href="compliance.php" class="text-white/80 hover:text-white transition-colors">Compliance</a>
                     </div>
                 </div>
 
-                <a href="#contact" class="text-lg font-medium text-white pb-2 border-b border-white/10 block">Contact Us</a>
+                <a href="contact.php" class="text-lg font-medium text-white pb-2 border-b border-white/10 block">Contact Us</a>
 
             </nav>
 

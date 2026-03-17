@@ -1,0 +1,189 @@
+<?php include 'header.php'; ?>
+
+<main>
+    <!-- Hero Section -->
+    <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
+        <!-- Background Image -->
+        <div class="absolute inset-0 z-0 bg-[#0B2035]">
+            <img src="assets/images/hero_bg.png" alt="New Patient Forms" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
+        </div>
+
+        <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+            <div class="max-w-3xl reveal text-left">
+                <div class="flex items-center gap-3 mb-6">
+                    <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
+                    <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">New Patients</span>
+                </div>
+                <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
+                    Patient <br/><span class="text-[#23bfe2] font-light">Intake Forms</span>
+                </h1>
+                <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
+                    Complete your new patient forms online before your first visit to ensure a smooth, efficient appointment experience.
+                </p>
+                <div class="flex flex-col sm:flex-row gap-4">
+                    <a href="#forms" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                        View Forms <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                    </a>
+                    <a href="tel:+19499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
+                        <i data-lucide="phone" class="w-5 h-5"></i> (949) 996-5355
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Welcome Section -->
+    <section class="py-16 bg-white relative overflow-hidden">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="max-w-3xl mx-auto text-center reveal">
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                    <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Welcome</h2>
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                </div>
+                <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035] mb-6">Welcome to Resiliency Mind + Body Medicine</h3>
+                <p class="text-gray-600 text-lg font-light leading-relaxed">
+                    Welcome to Resiliency Mind + Body Medicine! To ensure we make the most of your first appointment, please complete the following intake forms prior to your visit. If you have questions, contact us at <a href="tel:+19499965355" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors">(949) 996-5355</a>.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Forms Section -->
+    <section id="forms" class="py-16 bg-neutral relative overflow-hidden">
+        <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                    <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Required Forms</h2>
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                </div>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Intake Forms</h3>
+                <p class="text-gray-600 text-lg font-light leading-relaxed">Please complete all required forms before your first appointment.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- New Patient Registration -->
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 p-8 reveal hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                        <i data-lucide="file-text" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">New Patient Registration</h4>
+                    <p class="text-gray-500 font-light leading-relaxed mb-6">Basic demographic information, emergency contacts, and medical history.</p>
+                    <a href="#" class="inline-flex items-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-6 py-3 rounded-full transition-all duration-300 shadow-md hover:-translate-y-1">
+                        Complete Form <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                    </a>
+                </div>
+
+                <!-- Psychiatric History -->
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 p-8 reveal reveal-delay-1 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                        <i data-lucide="clipboard" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Psychiatric History</h4>
+                    <p class="text-gray-500 font-light leading-relaxed mb-6">Detailed mental health history, prior treatments, and current symptoms.</p>
+                    <a href="#" class="inline-flex items-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-6 py-3 rounded-full transition-all duration-300 shadow-md hover:-translate-y-1">
+                        Complete Form <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                    </a>
+                </div>
+
+                <!-- Insurance Information -->
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 p-8 reveal hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                        <i data-lucide="file-check-2" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Insurance Information</h4>
+                    <p class="text-gray-500 font-light leading-relaxed mb-6">Upload your insurance card and complete benefits verification.</p>
+                    <a href="#" class="inline-flex items-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-6 py-3 rounded-full transition-all duration-300 shadow-md hover:-translate-y-1">
+                        Complete Form <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                    </a>
+                </div>
+
+                <!-- Consent Forms -->
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 p-8 reveal reveal-delay-1 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                        <i data-lucide="shield" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Consent Forms</h4>
+                    <p class="text-gray-500 font-light leading-relaxed mb-6">Review and sign consent for treatment, telehealth, and HIPAA authorization.</p>
+                    <a href="#" class="inline-flex items-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-6 py-3 rounded-full transition-all duration-300 shadow-md hover:-translate-y-1">
+                        Complete Form <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- What to Bring Section -->
+    <section class="py-16 bg-white relative overflow-hidden">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="max-w-3xl mx-auto reveal">
+                <div class="text-center mb-12">
+                    <div class="flex items-center justify-center gap-3 mb-4">
+                        <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Be Prepared</h2>
+                        <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                    </div>
+                    <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035] mb-6">What to Bring</h3>
+                </div>
+
+                <div class="space-y-4">
+                    <div class="flex items-center gap-4 bg-neutral rounded-xl p-5 border border-gray-100">
+                        <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="check" class="w-5 h-5"></i>
+                        </div>
+                        <p class="text-[#0B2035] font-medium">Valid photo ID</p>
+                    </div>
+                    <div class="flex items-center gap-4 bg-neutral rounded-xl p-5 border border-gray-100">
+                        <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="check" class="w-5 h-5"></i>
+                        </div>
+                        <p class="text-[#0B2035] font-medium">Insurance card (front and back)</p>
+                    </div>
+                    <div class="flex items-center gap-4 bg-neutral rounded-xl p-5 border border-gray-100">
+                        <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="check" class="w-5 h-5"></i>
+                        </div>
+                        <p class="text-[#0B2035] font-medium">List of current medications</p>
+                    </div>
+                    <div class="flex items-center gap-4 bg-neutral rounded-xl p-5 border border-gray-100">
+                        <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="check" class="w-5 h-5"></i>
+                        </div>
+                        <p class="text-[#0B2035] font-medium">Prior medical records (if available)</p>
+                    </div>
+                    <div class="flex items-center gap-4 bg-neutral rounded-xl p-5 border border-gray-100">
+                        <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="check" class="w-5 h-5"></i>
+                        </div>
+                        <p class="text-[#0B2035] font-medium">Payment method for copay</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-16 bg-[#0B2035] relative overflow-hidden">
+        <div class="absolute -top-32 -left-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+        <div class="absolute -bottom-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 reveal">
+            <h2 class="text-3xl md:text-4xl font-bold text-white mb-4">Questions?</h2>
+            <p class="text-gray-300 text-lg font-light mb-8 max-w-2xl mx-auto">We're here to help you prepare for your first visit.</p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="tel:+19499965355" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <i data-lucide="phone" class="w-5 h-5"></i> Call (949) 996-5355
+                </a>
+                <a href="mailto:info@resiliencymbmedicine.com" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
+                    <i data-lucide="mail" class="w-5 h-5"></i> info@resiliencymbmedicine.com
+                </a>
+            </div>
+        </div>
+    </section>
+</main>
+
+<?php include 'footer.php'; ?>
