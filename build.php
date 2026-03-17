@@ -50,6 +50,17 @@ $pages = [
     'privacy-policy.php' => 'privacy-policy.html',
     'compliance.php' => 'compliance.html',
     'acceptable-use.php' => 'acceptable-use.html',
+    'microneedling.php' => 'microneedling.html',
+    'medspa.php' => 'medspa.html',
+    'methylene-blue.php' => 'methylene-blue.html',
+    'caloptima.php' => 'caloptima.html',
+    'metrics.php' => 'metrics.html',
+    'vns-therapy.php' => 'vns-therapy.html',
+    'telehealth.php' => 'telehealth.html',
+    'pharmacogenetic-testing.php' => 'pharmacogenetic-testing.html',
+    'hormone-therapy.php' => 'hormone-therapy.html',
+    'newport-beach.php' => 'newport-beach.html',
+    'san-juan-capistrano.php' => 'san-juan-capistrano.html',
 ];
 $assets_dirs = ['assets', 'css', 'js'];
 

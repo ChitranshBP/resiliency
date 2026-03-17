@@ -94,8 +94,8 @@
                         <i data-lucide="map-pin" class="w-5 h-5"></i>
                     </div>
                     <div>
-                        <p class="text-[10px] uppercase tracking-widest text-gray-500 font-bold mb-1">Newport Beach</p>
-                        <a href="https://maps.google.com/?q=1501+Superior+Ave+STE+210+Newport+Beach+CA+92663" target="_blank" class="text-white font-medium text-sm hover:text-secondary transition-colors leading-snug block">1501 Superior Ave STE 210,<br>Newport Beach, CA 92663</a>
+                        <a href="newport-beach.php" class="text-[10px] uppercase tracking-widest text-gray-500 font-bold mb-1 hover:text-secondary transition-colors block">Newport Beach</a>
+                        <a href="newport-beach.php" class="text-white font-medium text-sm hover:text-secondary transition-colors leading-snug block">1501 Superior Ave STE 210,<br>Newport Beach, CA 92663</a>
                     </div>
                 </div>
                 <div class="flex items-start gap-4">
@@ -103,8 +103,8 @@
                         <i data-lucide="map-pin" class="w-5 h-5"></i>
                     </div>
                     <div>
-                        <p class="text-[10px] uppercase tracking-widest text-gray-500 font-bold mb-1">San Juan Capistrano</p>
-                        <a href="https://maps.google.com/?q=27184+Ortega+Hwy+STE+103+San+Juan+Capistrano+CA+92675" target="_blank" class="text-white font-medium text-sm hover:text-secondary transition-colors leading-snug block">27184 Ortega Hwy, STE 103,<br>San Juan Capistrano, CA 92675</a>
+                        <a href="san-juan-capistrano.php" class="text-[10px] uppercase tracking-widest text-gray-500 font-bold mb-1 hover:text-secondary transition-colors block">San Juan Capistrano</a>
+                        <a href="san-juan-capistrano.php" class="text-white font-medium text-sm hover:text-secondary transition-colors leading-snug block">27184 Ortega Hwy, STE 103,<br>San Juan Capistrano, CA 92675</a>
                     </div>
                 </div>
             </div>

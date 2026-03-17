@@ -68,13 +68,16 @@
                             Mental Health <i data-lucide="chevron-down" class="w-4 h-4 transition-transform group-hover/mh:rotate-180"></i>
                         </button>
                         <!-- Dropdown Content -->
-                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-64 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100 overflow-hidden">
+                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-72 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100 overflow-hidden max-h-[70vh] overflow-y-auto">
                             <div class="p-2 space-y-1">
                                 <a href="tms-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS Therapy</a>
-                                <a href="accelerated-tms.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated TMS Protocols</a>
+                                <a href="accelerated-tms.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated TMS (SWIFT)</a>
+                                <a href="vns-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">VNS Therapy</a>
                                 <a href="spravato-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
                                 <a href="medication-management.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
+                                <a href="pharmacogenetic-testing.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Pharmacogenetic Testing</a>
                                 <a href="integrative-psychiatry.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Integrative Psychiatry</a>
+                                <a href="telehealth.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Telehealth Visits</a>
                             </div>
                         </div>
                     </div>
@@ -84,13 +87,20 @@
                         <button class="flex items-center gap-1 text-sm font-medium text-white/90 hover:text-white group-[.scrolled]:text-gray-600 group-[.scrolled]:hover:text-primary transition-colors py-8">
                             Wellness <i data-lucide="chevron-down" class="w-4 h-4 transition-transform group-hover/well:rotate-180"></i>
                         </button>
-                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-64 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/well:opacity-100 group-hover/well:visible transition-all duration-300 transform translate-y-4 group-hover/well:translate-y-0 border border-gray-100 overflow-hidden">
+                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-72 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/well:opacity-100 group-hover/well:visible transition-all duration-300 transform translate-y-4 group-hover/well:translate-y-0 border border-gray-100 overflow-hidden max-h-[70vh] overflow-y-auto">
                             <div class="p-2 space-y-1">
                                 <a href="iv-vitamin-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">IV Vitamin Therapy</a>
-                                <a href="weight-loss.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medical Weight Loss</a>
                                 <a href="nad-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">NAD+ Therapy</a>
-                                <a href="aesthetics.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Aesthetic / Skin Treatments</a>
-                                <a href="infrared-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Infrared / Recovery Therapies</a>
+                                <a href="methylene-blue.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Methylene Blue IV</a>
+                                <a href="weight-loss.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medical Weight Loss</a>
+                                <a href="hormone-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Hormone Therapy</a>
+                                <a href="supplements.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Supplements</a>
+                                <a href="medspa.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medical Spa</a>
+                                <a href="aesthetics.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Aesthetic Treatments</a>
+                                <a href="microneedling.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Microneedling</a>
+                                <a href="cosmetic-injectables.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Cosmetic Injectables</a>
+                                <a href="neurotoxins.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Neurotoxins</a>
+                                <a href="infrared-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Infrared / Recovery</a>
                             </div>
                         </div>
                     </div>
@@ -110,6 +120,10 @@
                                 <a href="bipolar.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Bipolar Disorder</a>
                                 <a href="substance-abuse.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Substance Abuse</a>
                                 <a href="autism.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Autism</a>
+                                <a href="suicidal-ideation.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Suicidal Ideation</a>
+                                <a href="mental-clarity.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Mental Clarity</a>
+                                <a href="cognitive-enhancement.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Cognitive Enhancement</a>
+                                <a href="conditions.php" class="block px-4 py-3 text-sm text-[#23bfe2] hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">View All Conditions →</a>
                             </div>
                         </div>
                     </div>
@@ -121,11 +135,17 @@
                         <button class="flex items-center gap-1 text-sm font-medium text-white/90 hover:text-white group-[.scrolled]:text-gray-600 group-[.scrolled]:hover:text-primary transition-colors py-8">
                             Resources <i data-lucide="chevron-down" class="w-4 h-4 transition-transform group-hover/res:rotate-180"></i>
                         </button>
-                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-56 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/res:opacity-100 group-hover/res:visible transition-all duration-300 transform translate-y-4 group-hover/res:translate-y-0 border border-gray-100 overflow-hidden">
+                        <div class="absolute top-[80px] right-0 w-64 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/res:opacity-100 group-hover/res:visible transition-all duration-300 transform translate-y-4 group-hover/res:translate-y-0 border border-gray-100 overflow-hidden max-h-[70vh] overflow-y-auto">
                             <div class="p-2 space-y-1">
                                 <a href="about.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">About Us</a>
+                                <a href="reviews.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Patient Reviews</a>
+                                <a href="metrics.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Our Outcomes</a>
                                 <a href="faqs.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">FAQs</a>
+                                <a href="tms-faq.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS FAQ</a>
+                                <a href="tms-resources.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS Resources</a>
                                 <a href="insurance.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Insurance</a>
+                                <a href="caloptima.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">CalOptima Coverage</a>
+                                <a href="cherry-payment.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Payment Plans</a>
                                 <a href="blog.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Blog</a>
                                 <a href="press-media.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Press / Media</a>
                                 <a href="new-patient-form.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Patient Forms</a>
@@ -134,7 +154,20 @@
                         </div>
                     </div>
 
-                    <a href="contact.php" class="text-sm font-medium text-white/90 hover:text-white group-[.scrolled]:text-gray-600 group-[.scrolled]:hover:text-primary transition-colors py-8">Contact Us</a>
+                    <!-- Contact / Locations Dropdown -->
+                    <div class="relative group/loc">
+                        <button class="flex items-center gap-1 text-sm font-medium text-white/90 hover:text-white group-[.scrolled]:text-gray-600 group-[.scrolled]:hover:text-primary transition-colors py-8">
+                            Contact <i data-lucide="chevron-down" class="w-4 h-4 transition-transform group-hover/loc:rotate-180"></i>
+                        </button>
+                        <div class="absolute top-[80px] right-0 w-64 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/loc:opacity-100 group-hover/loc:visible transition-all duration-300 transform translate-y-4 group-hover/loc:translate-y-0 border border-gray-100 overflow-hidden">
+                            <div class="p-2 space-y-1">
+                                <a href="contact.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Contact Us</a>
+                                <a href="newport-beach.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Newport Beach Office</a>
+                                <a href="san-juan-capistrano.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">San Juan Capistrano Office</a>
+                                <a href="telehealth.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Telehealth / Virtual Visits</a>
+                            </div>
+                        </div>
+                    </div>
 
                 </nav>
 
@@ -179,10 +212,13 @@
                     </button>
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="tms-therapy.php" class="text-white/80 hover:text-white transition-colors">TMS Therapy</a>
-                        <a href="accelerated-tms.php" class="text-white/80 hover:text-white transition-colors">Accelerated TMS Protocols</a>
+                        <a href="accelerated-tms.php" class="text-white/80 hover:text-white transition-colors">Accelerated TMS (SWIFT)</a>
+                        <a href="vns-therapy.php" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
                         <a href="spravato-therapy.php" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
                         <a href="medication-management.php" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
+                        <a href="pharmacogenetic-testing.php" class="text-white/80 hover:text-white transition-colors">Pharmacogenetic Testing</a>
                         <a href="integrative-psychiatry.php" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>
+                        <a href="telehealth.php" class="text-white/80 hover:text-white transition-colors">Telehealth Visits</a>
                     </div>
                 </div>
 
@@ -193,10 +229,17 @@
                     </button>
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="iv-vitamin-therapy.php" class="text-white/80 hover:text-white transition-colors">IV Vitamin Therapy</a>
-                        <a href="weight-loss.php" class="text-white/80 hover:text-white transition-colors">Medical Weight Loss</a>
                         <a href="nad-therapy.php" class="text-white/80 hover:text-white transition-colors">NAD+ Therapy</a>
-                        <a href="aesthetics.php" class="text-white/80 hover:text-white transition-colors">Aesthetic / Skin Treatments</a>
-                        <a href="infrared-therapy.php" class="text-white/80 hover:text-white transition-colors">Infrared / Recovery Therapies</a>
+                        <a href="methylene-blue.php" class="text-white/80 hover:text-white transition-colors">Methylene Blue IV</a>
+                        <a href="weight-loss.php" class="text-white/80 hover:text-white transition-colors">Medical Weight Loss</a>
+                        <a href="hormone-therapy.php" class="text-white/80 hover:text-white transition-colors">Hormone Therapy</a>
+                        <a href="supplements.php" class="text-white/80 hover:text-white transition-colors">Supplements</a>
+                        <a href="medspa.php" class="text-white/80 hover:text-white transition-colors">Medical Spa</a>
+                        <a href="aesthetics.php" class="text-white/80 hover:text-white transition-colors">Aesthetic Treatments</a>
+                        <a href="microneedling.php" class="text-white/80 hover:text-white transition-colors">Microneedling</a>
+                        <a href="cosmetic-injectables.php" class="text-white/80 hover:text-white transition-colors">Cosmetic Injectables</a>
+                        <a href="neurotoxins.php" class="text-white/80 hover:text-white transition-colors">Neurotoxins</a>
+                        <a href="infrared-therapy.php" class="text-white/80 hover:text-white transition-colors">Infrared / Recovery</a>
                     </div>
                 </div>
 
@@ -214,6 +257,10 @@
                         <a href="bipolar.php" class="text-white/80 hover:text-white transition-colors">Bipolar Disorder</a>
                         <a href="substance-abuse.php" class="text-white/80 hover:text-white transition-colors">Substance Abuse</a>
                         <a href="autism.php" class="text-white/80 hover:text-white transition-colors">Autism</a>
+                        <a href="suicidal-ideation.php" class="text-white/80 hover:text-white transition-colors">Suicidal Ideation</a>
+                        <a href="mental-clarity.php" class="text-white/80 hover:text-white transition-colors">Mental Clarity</a>
+                        <a href="cognitive-enhancement.php" class="text-white/80 hover:text-white transition-colors">Cognitive Enhancement</a>
+                        <a href="conditions.php" class="text-[#23bfe2] hover:text-white transition-colors">View All Conditions →</a>
                     </div>
                 </div>
 
@@ -226,8 +273,14 @@
                     </button>
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="about.php" class="text-white/80 hover:text-white transition-colors">About Us</a>
+                        <a href="reviews.php" class="text-white/80 hover:text-white transition-colors">Patient Reviews</a>
+                        <a href="metrics.php" class="text-white/80 hover:text-white transition-colors">Our Outcomes</a>
                         <a href="faqs.php" class="text-white/80 hover:text-white transition-colors">FAQs</a>
+                        <a href="tms-faq.php" class="text-white/80 hover:text-white transition-colors">TMS FAQ</a>
+                        <a href="tms-resources.php" class="text-white/80 hover:text-white transition-colors">TMS Resources</a>
                         <a href="insurance.php" class="text-white/80 hover:text-white transition-colors">Insurance</a>
+                        <a href="caloptima.php" class="text-white/80 hover:text-white transition-colors">CalOptima Coverage</a>
+                        <a href="cherry-payment.php" class="text-white/80 hover:text-white transition-colors">Payment Plans</a>
                         <a href="blog.php" class="text-white/80 hover:text-white transition-colors">Blog</a>
                         <a href="press-media.php" class="text-white/80 hover:text-white transition-colors">Press / Media</a>
                         <a href="new-patient-form.php" class="text-white/80 hover:text-white transition-colors">Patient Forms</a>
@@ -235,7 +288,18 @@
                     </div>
                 </div>
 
-                <a href="contact.php" class="text-lg font-medium text-white pb-2 border-b border-white/10 block">Contact Us</a>
+                <!-- Contact / Locations Accordion -->
+                <div>
+                    <button class="mobile-accordion-toggle flex items-center justify-between w-full text-lg font-medium text-white pb-2 border-b border-white/10">
+                        Contact & Locations <i data-lucide="chevron-down" class="w-5 h-5 transition-transform duration-300"></i>
+                    </button>
+                    <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
+                        <a href="contact.php" class="text-white/80 hover:text-white transition-colors">Contact Us</a>
+                        <a href="newport-beach.php" class="text-white/80 hover:text-white transition-colors">Newport Beach Office</a>
+                        <a href="san-juan-capistrano.php" class="text-white/80 hover:text-white transition-colors">San Juan Capistrano Office</a>
+                        <a href="telehealth.php" class="text-white/80 hover:text-white transition-colors">Telehealth / Virtual Visits</a>
+                    </div>
+                </div>
 
             </nav>
 
