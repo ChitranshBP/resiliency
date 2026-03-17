@@ -73,7 +73,7 @@
                                 <a href="tms-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS Therapy</a>
                                 <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated TMS Protocols</a>
                                 <a href="spravato-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
-                                <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
+                                <a href="medication-management.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
                                 <a href="#" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Integrative Psychiatry</a>
                             </div>
                         </div>
@@ -181,7 +181,7 @@
                         <a href="tms-therapy.php" class="text-white/80 hover:text-white transition-colors">TMS Therapy</a>
                         <a href="#" class="text-white/80 hover:text-white transition-colors">Accelerated TMS Protocols</a>
                         <a href="#" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
-                        <a href="#" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
+                        <a href="medication-management.php" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
                         <a href="#" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>
                     </div>
                 </div>
