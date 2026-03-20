@@ -75,21 +75,154 @@
                     </div>
                 </div>
 
-                <!-- Image -->
-                <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
-                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/doctor_consult.png" alt="Integrative psychiatry consultation" class="w-full h-[550px] object-cover">
-                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
+                <!-- Video -->
+                <div class="w-full lg:w-1/2 flex justify-center reveal reveal-delay-1">
+                    <div class="rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5" style="aspect-ratio: 9/16; width: min(100%, 380px);">
+                        <iframe
+                            class="w-full h-full"
+                            src="https://www.youtube.com/embed/hcZ7shA4fPw"
+                            title="What is Integrative Psychiatry?"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen>
+                        </iframe>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-                    <!-- Floating Stat Badge -->
-                    <div class="absolute -bottom-8 -left-8 bg-white p-6 rounded-3xl border border-gray-100 shadow-[0_20px_40px_-10px_rgba(11,32,53,0.15)] flex items-center gap-5 group hover:-translate-y-2 transition-transform duration-500">
-                        <div class="w-16 h-16 bg-[#0B2035] rounded-2xl flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors duration-500">
-                            <i data-lucide="stethoscope" class="w-8 h-8"></i>
+    <!-- Integrative Treatment Plans -->
+    <section class="py-20 bg-white relative overflow-hidden">
+        <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-[#23bfe2] to-transparent"></div>
+        <div class="absolute -bottom-40 -right-40 w-[600px] h-[600px] bg-[#23bfe2]/5 rounded-full blur-[120px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+
+            <!-- Header -->
+            <div class="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-6 mb-16 reveal">
+                <div>
+                    <div class="flex items-center gap-3 mb-3">
+                        <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
+                        <span class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Our Approach</span>
+                    </div>
+                    <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035]">Integrative Treatment Plans</h3>
+                </div>
+                <p class="text-gray-500 font-light text-lg max-w-md leading-relaxed">Every plan is personalized — blending the best of psychiatry, nutrition, lifestyle, and functional medicine.</p>
+            </div>
+
+            <!-- Pillars: horizontal scrollable numbered list -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4 mb-20">
+                <!-- Medicine -->
+                <div class="group relative bg-[#0B2035] rounded-3xl p-6 overflow-hidden reveal cursor-default">
+                    <span class="absolute top-4 right-4 text-6xl font-black text-white/5 leading-none select-none">01</span>
+                    <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors duration-300">
+                        <i data-lucide="pill" class="w-6 h-6"></i>
+                    </div>
+                    <h4 class="text-white font-bold text-lg mb-3">Medicine</h4>
+                    <p class="text-gray-400 text-sm font-light leading-relaxed">Personalized medication plans using only what is truly needed — balancing effectiveness with comfort.</p>
+                </div>
+                <!-- Nutrition -->
+                <div class="group relative bg-[#0B2035] rounded-3xl p-6 overflow-hidden reveal cursor-default">
+                    <span class="absolute top-4 right-4 text-6xl font-black text-white/5 leading-none select-none">02</span>
+                    <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors duration-300">
+                        <i data-lucide="apple" class="w-6 h-6"></i>
+                    </div>
+                    <h4 class="text-white font-bold text-lg mb-3">Nutrition</h4>
+                    <p class="text-gray-400 text-sm font-light leading-relaxed">A balanced diet rich in omega-3s, vitamins, and minerals essential for optimal brain health and mood.</p>
+                </div>
+                <!-- Lifestyle -->
+                <div class="group relative bg-[#0B2035] rounded-3xl p-6 overflow-hidden reveal cursor-default">
+                    <span class="absolute top-4 right-4 text-6xl font-black text-white/5 leading-none select-none">03</span>
+                    <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors duration-300">
+                        <i data-lucide="activity" class="w-6 h-6"></i>
+                    </div>
+                    <h4 class="text-white font-bold text-lg mb-3">Lifestyle</h4>
+                    <p class="text-gray-400 text-sm font-light leading-relaxed">Exercise, sleep, stress management, and healthy relationships that profoundly affect mood and cognition.</p>
+                </div>
+                <!-- Supplements -->
+                <div class="group relative bg-[#0B2035] rounded-3xl p-6 overflow-hidden reveal cursor-default">
+                    <span class="absolute top-4 right-4 text-6xl font-black text-white/5 leading-none select-none">04</span>
+                    <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors duration-300">
+                        <i data-lucide="flask-conical" class="w-6 h-6"></i>
+                    </div>
+                    <h4 class="text-white font-bold text-lg mb-3">Supplements</h4>
+                    <p class="text-gray-400 text-sm font-light leading-relaxed">Vitamin D, magnesium, B vitamins, and Dr. LaFrenierre's own holistic supplement line for mood and cognition.</p>
+                </div>
+                <!-- Blood Tests -->
+                <div class="group relative bg-[#0B2035] rounded-3xl p-6 overflow-hidden reveal cursor-default">
+                    <span class="absolute top-4 right-4 text-6xl font-black text-white/5 leading-none select-none">05</span>
+                    <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors duration-300">
+                        <i data-lucide="test-tube" class="w-6 h-6"></i>
+                    </div>
+                    <h4 class="text-white font-bold text-lg mb-3">Blood Tests</h4>
+                    <p class="text-gray-400 text-sm font-light leading-relaxed">Vitamin deficiencies, hormone panels, and inflammation markers to fully assess total mind+body wellness.</p>
+                </div>
+            </div>
+
+            <!-- Psychiatry Visits -->
+            <div class="flex items-center gap-4 mb-10 reveal">
+                <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
+                <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035]">Psychiatry Visits</h3>
+            </div>
+
+            <div class="space-y-4">
+                <!-- Row 1 -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 reveal">
+                    <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300">
+                        <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="clipboard-list" class="w-6 h-6"></i>
                         </div>
                         <div>
-                            <p class="text-4xl font-bold text-[#0B2035] tracking-tight">4.9<span class="text-[#23bfe2]">&#9733;</span></p>
-                            <p class="text-xs text-gray-500 font-bold uppercase tracking-widest mt-1">Patient Rating</p>
+                            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-1">Includes pre-visit questionnaires</p>
+                            <h4 class="text-lg font-bold text-[#0B2035] mb-2">Comprehensive Assessments</h4>
+                            <p class="text-gray-500 text-sm font-light leading-relaxed">Treatment plan can include recommendations for medications, labs, therapy, lifestyle coaching, nutrition, and supplements.</p>
+                        </div>
+                    </div>
+                    <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300">
+                        <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="scale" class="w-6 h-6"></i>
+                        </div>
+                        <div>
+                            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-1">Weight Loss and Nutrition</p>
+                            <h4 class="text-lg font-bold text-[#0B2035] mb-2">Metabolic Assessments</h4>
+                            <p class="text-gray-500 text-sm font-light leading-relaxed">Safe, effective treatments for nutrition and weight goals. Medications such as Ozempic, Wegovy, and Mounjaro may be prescribed when indicated.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Row 2 -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 reveal">
+                    <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300">
+                        <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="heart-handshake" class="w-6 h-6"></i>
+                        </div>
+                        <div>
+                            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-1">Personal Holistic Approach</p>
+                            <h4 class="text-lg font-bold text-[#0B2035] mb-2">Substance Use & MAT</h4>
+                            <p class="text-gray-500 text-sm font-light leading-relaxed">Evidence-based treatment of substance use and dual-diagnosis conditions. Treatments include Suboxone MAT, Sublocade, Vivitrol, and TMS for smoking cessation.</p>
+                        </div>
+                    </div>
+                    <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300">
+                        <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="users" class="w-6 h-6"></i>
+                        </div>
+                        <div>
+                            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-1">Work with Our Exceptional Providers</p>
+                            <h4 class="text-lg font-bold text-[#0B2035] mb-2">IOP Collaboration</h4>
+                            <p class="text-gray-500 text-sm font-light leading-relaxed">High-quality, evidence-based mental health and substance use treatment services to IOP facilities via telemedicine. Contact our office to collaborate with Dr. LaFrenierre's team.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Row 3: full width -->
+                <div class="reveal">
+                    <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300">
+                        <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="thermometer" class="w-6 h-6"></i>
+                        </div>
+                        <div>
+                            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-1">Whole Body Healing</p>
+                            <h4 class="text-lg font-bold text-[#0B2035] mb-2">Hormone Assessments</h4>
+                            <p class="text-gray-500 text-sm font-light leading-relaxed">Full medical assessment including tests to screen for common hormone imbalances. We offer testosterone therapy, management of PCOS, and other hormone conditions — working alongside specialist providers to enhance total wellness.</p>
                         </div>
                     </div>
                 </div>

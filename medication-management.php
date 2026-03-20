@@ -432,59 +432,79 @@
                 <p class="text-gray-600 text-lg font-light leading-relaxed">Experience the difference of a physician-led practice that prioritizes your long-term health over quick fixes.</p>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <!-- Benefit 1 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="user-check" class="w-8 h-8"></i>
-                    </div>
-                    <h4 class="text-2xl font-bold text-primary mb-4">Board-Certified Providers</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Led by Dr. Stefani LaFrenierre, MD, our multidisciplinary team includes psychiatric nurse practitioners, physician associates, and wellness specialists.</p>
+            <div class="flex flex-col lg:flex-row gap-16 items-center">
+                <!-- Benefits List -->
+                <div class="w-full lg:w-1/2 reveal">
+                    <ul class="space-y-6">
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mt-1">
+                                <i data-lucide="user-check" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-xl font-bold text-primary mb-1">Board-Certified Providers</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Led by Dr. Stefani LaFrenierre, MD, our multidisciplinary team includes psychiatric nurse practitioners, physician associates, and wellness specialists.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mt-1">
+                                <i data-lucide="laptop" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-xl font-bold text-primary mb-1">In-Person & Telehealth</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Access high-quality psychiatric care from our Newport Beach or San Juan Capistrano offices, or from the comfort of your home via secure telemedicine.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mt-1">
+                                <i data-lucide="file-check-2" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-xl font-bold text-primary mb-1">Insurance Accepted</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">We are in-network with most major commercial insurance providers. Our team will verify your benefits before your first visit.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mt-1">
+                                <i data-lucide="layers" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-xl font-bold text-primary mb-1">Integrated Services</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Medication management seamlessly combined with TMS, SPRAVATO, IV therapy, supplements, and lifestyle interventions—all under one roof.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mt-1">
+                                <i data-lucide="timer" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-xl font-bold text-primary mb-1">Unhurried Appointments</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">We prioritize spending quality time with each patient, ensuring thorough evaluations and meaningful follow-ups—never rushed 10-minute visits.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mt-1">
+                                <i data-lucide="trending-up" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-xl font-bold text-primary mb-1">7,000+ Treatments</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">With over 7,000 completed treatments and an 80% clinic response rate, our patients achieve meaningful, lasting improvement in their mental health.</p>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
 
-                <!-- Benefit 2 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="laptop" class="w-8 h-8"></i>
+                <!-- YouTube Short -->
+                <div class="w-full lg:w-1/2 flex justify-center reveal">
+                    <div class="rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5" style="aspect-ratio: 9/16; width: min(100%, 400px);">
+                        <iframe
+                            class="w-full h-full"
+                            src="https://www.youtube.com/embed/VSIkQOOX9F8"
+                            title="Why Patients Choose Resiliency"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen>
+                        </iframe>
                     </div>
-                    <h4 class="text-2xl font-bold text-primary mb-4">In-Person & Telehealth</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Access high-quality psychiatric care from our Newport Beach or San Juan Capistrano offices, or from the comfort of your home via secure telemedicine.</p>
-                </div>
-
-                <!-- Benefit 3 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="file-check-2" class="w-8 h-8"></i>
-                    </div>
-                    <h4 class="text-2xl font-bold text-primary mb-4">Insurance Accepted</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">We are in-network with most major commercial insurance providers. Our team will verify your benefits before your first visit.</p>
-                </div>
-
-                <!-- Benefit 4 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="layers" class="w-8 h-8"></i>
-                    </div>
-                    <h4 class="text-2xl font-bold text-primary mb-4">Integrated Services</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Medication management seamlessly combined with TMS, SPRAVATO, IV therapy, supplements, and lifestyle interventions—all under one roof.</p>
-                </div>
-
-                <!-- Benefit 5 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="timer" class="w-8 h-8"></i>
-                    </div>
-                    <h4 class="text-2xl font-bold text-primary mb-4">Unhurried Appointments</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">We prioritize spending quality time with each patient, ensuring thorough evaluations and meaningful follow-ups—never rushed 10-minute visits.</p>
-                </div>
-
-                <!-- Benefit 6 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="trending-up" class="w-8 h-8"></i>
-                    </div>
-                    <h4 class="text-2xl font-bold text-primary mb-4">7,000+ Treatments</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">With over 7,000 completed treatments and an 80% clinic response rate, our patients achieve meaningful, lasting improvement in their mental health.</p>
                 </div>
             </div>
         </div>
