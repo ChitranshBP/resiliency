@@ -173,7 +173,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/depression_hero.png" alt="Depression Treatment" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/service_spravato.png" alt="Depression Treatment" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient (ensures readability) -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -203,7 +203,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-1 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/anxiety_hero.png" alt="Anxiety Consultation" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
+                            <img src="assets/images/doctor_consult.png" alt="Anxiety Consultation" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
                         </div>
                         <div class="absolute inset-0 z-0 bg-[#0B2035]/10"></div>
                         <!-- Overlay Gradient -->
@@ -234,7 +234,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-2 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/ocd_hero.png" alt="TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/service_tms.png" alt="TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -264,7 +264,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/ptsd_hero.png" alt="PTSD Wellness" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/service_wellness.png" alt="PTSD Wellness" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -294,7 +294,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-1 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/adhd_hero.png" alt="ADHD Management" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/service_med_management.png" alt="ADHD Management" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -324,7 +324,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/bipolar_hero.png" alt="Mood Disorder Support" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
+                            <img src="assets/images/service_iv.png" alt="Mood Disorder Support" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
                         </div>
                         <div class="absolute inset-0 z-0 bg-[#0B2035]/10"></div>
                         <!-- Overlay Gradient -->
