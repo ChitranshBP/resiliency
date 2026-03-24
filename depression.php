@@ -4,7 +4,7 @@
     <!-- Hero Section -->
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/med_tech_bg.png" alt="Depression Treatment" class="w-full h-full object-cover">
+            <img src="assets/images/depression_hero.png" alt="Depression Treatment Hope" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -21,7 +21,7 @@
                     Comprehensive, evidence-based treatment for major depressive disorder, persistent depression, and treatment-resistant depression using advanced therapies including Deep TMS and SPRAVATO.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
-                    <a href="#consultation" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Book a Free Discovery Call <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -43,19 +43,55 @@
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
                         <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Understanding Depression</h2>
                     </div>
-                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">More Than Just Feeling Sad</h3>
+                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Understanding Depression</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        Depression is more than feeling sad—it's a complex medical condition affecting brain chemistry, energy, sleep, concentration, and quality of life.
+                        Depression is a serious mood disorder characterized by persistent feelings of sadness, hopelessness, and a lack of interest or pleasure in daily activities. It can also cause various physical and emotional problems, significantly impacting one's ability to function at work and at home.
                     </p>
-                    <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
-                        At Resiliency, we offer a multi-modal approach combining conservative medication management, Deep TMS therapy, SPRAVATO, nutritional optimization, and lifestyle interventions to help you regain control of your life.
-                    </p>
+
+                    <div class="space-y-2 mb-6">
+                        <div class="flex items-start gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0"><i data-lucide="cloud" class="w-4 h-4"></i></div>
+                            <p class="text-gray-700 text-sm"><span class="font-bold text-[#0B2035]">Persistent Sadness</span> — Feeling down, empty, or hopeless most of the day</p>
+                        </div>
+                        <div class="flex items-start gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0"><i data-lucide="x-circle" class="w-4 h-4"></i></div>
+                            <p class="text-gray-700 text-sm"><span class="font-bold text-[#0B2035]">Loss of Interest</span> — No longer finding joy in activities you once enjoyed</p>
+                        </div>
+                        <div class="flex items-start gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0"><i data-lucide="utensils" class="w-4 h-4"></i></div>
+                            <p class="text-gray-700 text-sm"><span class="font-bold text-[#0B2035]">Changes in Appetite or Weight</span> — Significant weight loss or gain unrelated to dieting</p>
+                        </div>
+                        <div class="flex items-start gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0"><i data-lucide="moon" class="w-4 h-4"></i></div>
+                            <p class="text-gray-700 text-sm"><span class="font-bold text-[#0B2035]">Sleep Disturbances</span> — Trouble sleeping or sleeping too much</p>
+                        </div>
+                        <div class="flex items-start gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0"><i data-lucide="battery-low" class="w-4 h-4"></i></div>
+                            <p class="text-gray-700 text-sm"><span class="font-bold text-[#0B2035]">Fatigue</span> — Feeling tired or having little energy</p>
+                        </div>
+                        <div class="flex items-start gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0"><i data-lucide="brain" class="w-4 h-4"></i></div>
+                            <p class="text-gray-700 text-sm"><span class="font-bold text-[#0B2035]">Difficulty Concentrating</span> — Trouble focusing, remembering, or making decisions</p>
+                        </div>
+                        <div class="flex items-start gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0"><i data-lucide="alert-triangle" class="w-4 h-4"></i></div>
+                            <p class="text-gray-700 text-sm"><span class="font-bold text-[#0B2035]">Thoughts of Death or Suicide</span> — Frequent thoughts about death or suicidal ideation</p>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
-                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/med_tech_bg.png" alt="Depression Treatment at Resiliency" class="w-full h-[450px] object-cover">
-                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
+                <!-- Video (YT Short - 9:16 vertical) -->
+                <div class="w-full lg:w-1/2 relative reveal reveal-delay-1 flex justify-center">
+                    <div class="rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 w-[320px] h-[568px]">
+                        <iframe
+                            src="https://www.youtube.com/embed/Vg1x9wiPxrU"
+                            title="TMS for Depression Treatment at Resiliency Mind+Body Medicine"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen
+                            class="w-full h-full"
+                            loading="lazy"
+                        ></iframe>
                     </div>
                 </div>
             </div>
@@ -109,8 +145,101 @@
         </div>
     </section>
 
-    <!-- Why Choose Resiliency -->
+    <!-- How TMS Works -->
+    <section class="py-16 bg-white relative overflow-hidden">
+        <div class="absolute top-0 left-0 w-1/3 h-full bg-[#23bfe2]/5 skew-x-12 transform -translate-x-32 hidden lg:block pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                    <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">The Science</h2>
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                </div>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">How TMS Works for Depression</h3>
+                <p class="text-gray-600 text-lg leading-relaxed font-light">
+                    Transcranial magnetic stimulation (TMS) targets the brain's prefrontal cortex, an area known to regulate mood. Depression is often associated with decreased activity in this region. By delivering magnetic pulses, TMS stimulates nerve cells, enhancing brain activity and alleviating depressive symptoms.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
+                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="trending-down" class="w-8 h-8"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Effective Symptom Relief</h4>
+                    <p class="text-gray-500 font-light leading-relaxed">Many patients experience a significant reduction in depressive symptoms, with some achieving complete remission.</p>
+                </div>
+
+                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
+                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="shield-check" class="w-8 h-8"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Non-Invasive & Drug-Free</h4>
+                    <p class="text-gray-500 font-light leading-relaxed">TMS does not require anesthesia or medication, avoiding the side effects often associated with antidepressants.</p>
+                </div>
+
+                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
+                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="sparkles" class="w-8 h-8"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Sustainable Results</h4>
+                    <p class="text-gray-500 font-light leading-relaxed">TMS can provide long-lasting relief, helping patients maintain improved mood and quality of life.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Treatment Process -->
     <section class="py-16 bg-neutral relative overflow-hidden">
+        <div class="absolute -bottom-32 -left-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                    <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Your Journey</h2>
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                </div>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">The TMS Treatment Process</h3>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                <div class="relative reveal group">
+                    <div class="bg-white rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                        <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">01</div>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Comprehensive Evaluation</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">Our team assesses your medical history, current symptoms, and treatment goals to determine if TMS is suitable for you.</p>
+                    </div>
+                    <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
+                        <i data-lucide="chevron-right" class="w-8 h-8"></i>
+                    </div>
+                </div>
+
+                <div class="relative reveal reveal-delay-1 group">
+                    <div class="bg-white rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                        <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">02</div>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Personalized TMS Sessions</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">Each session lasts about 10 minutes, five days a week for several weeks. Sit comfortably while magnetic pulses are delivered—no anesthesia, resume activities immediately.</p>
+                    </div>
+                    <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
+                        <i data-lucide="chevron-right" class="w-8 h-8"></i>
+                    </div>
+                </div>
+
+                <div class="relative reveal reveal-delay-2 group">
+                    <div class="bg-white rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                        <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">03</div>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Ongoing Monitoring</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">Our team monitors your progress and adjusts the treatment plan as needed to ensure the best possible outcomes and help you reclaim your life.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Resiliency -->
+    <section class="py-16 bg-white relative overflow-hidden">
         <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -166,56 +295,87 @@
             <div class="space-y-4">
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>What if antidepressants haven't worked for me?</span>
+                        <span>What is Deep TMS for depression and who is it for?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            You may have treatment-resistant depression. We offer advanced options like Deep TMS and SPRAVATO that work through different mechanisms than traditional antidepressants, with 75-80% response rates.
+                            Deep TMS for depression is a non-invasive therapy that uses magnetic pulses to stimulate brain regions involved in mood regulation. It is FDA-cleared for major depressive disorder, particularly for those who have not achieved sufficient improvement from medications or psychotherapy. If you're experiencing persistent depression despite previous treatment, you may be a good candidate.
                         </div>
                     </div>
                 </div>
 
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>How long does depression treatment take?</span>
+                        <span>How many sessions are needed, and how long does each take?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Treatment timelines vary. TMS is typically 6 weeks of daily sessions, SPRAVATO involves twice-weekly sessions initially, and medication effects are usually felt within 4-6 weeks. Many patients notice improvement sooner with our integrated approach.
+                            A standard course often involves daily sessions (5 days per week) over 4-6 weeks. Each session usually takes around 20-30 minutes, depending on the protocol. Some accelerated or condensed protocols may exist, but the full course helps sustain results.
                         </div>
                     </div>
                 </div>
 
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>Do you treat postpartum depression?</span>
+                        <span>What are the side effects of TMS for depression?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. Our providers have expertise in perinatal mood disorders and can develop a safe, effective treatment plan for postpartum depression.
+                            Most patients experience mild to moderate side effects, such as scalp discomfort or mild headache during or after sessions, sometimes slight twitching at the stimulation site. These tend to lessen over time. The risk of serious side effects is very low with proper screening.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>How will I know if TMS is working, and is maintenance needed?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Improvement is monitored via symptom scales, patient feedback, and clinical evaluation. Some people notice mood lift, sleep improvements, and increased energy within a couple of weeks. Maintenance sessions or boosters may be recommended if symptoms reemerge or for long-term stability.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>What cost should I expect for TMS in Newport Beach?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Costs depend on insurance coverage. Most major insurances cover Deep TMS for depression; if uninsured or underinsured, we can provide cost estimates. We offer payment options, possibly financing through third parties, and will verify benefits before treatment to ensure you know your out-of-pocket cost.
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="#contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
 
     <!-- Final CTA -->
     <section class="py-16 relative overflow-hidden bg-white">
-        <div class="absolute inset-0 z-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-[#23bfe2]/10 via-transparent to-transparent"></div>
+        <div class="absolute inset-0 z-0">
+            <img src="assets/images/depression_relief.png" alt="Path to Healing" class="w-full h-full object-cover opacity-10">
+            <div class="absolute inset-0 bg-gradient-to-b from-white via-white/80 to-white"></div>
+        </div>
 
         <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 reveal">
             <h2 class="text-4xl md:text-5xl lg:text-6xl font-bold text-[#0B2035] mb-8 leading-tight">
@@ -225,7 +385,7 @@
                 Schedule a consultation with our team and discover a personalized treatment plan designed for your unique needs.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="#consultation" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Book a Free Discovery Call
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>

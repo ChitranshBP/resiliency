@@ -7,7 +7,7 @@
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
             <!-- <img src="assets/images/home/TMS-Therapy-Orange-County-homepage.webp" alt="Deep TMS Therapy" class="w-full h-full object-cover opacity-30 mix-blend-overlay border-none"> -->
             <!-- Placeholder for now if image isn't right, or we can use the same image with dark overlay -->
-            <img src="assets/images/service_tms.png" alt="Deep TMS Therapy" class="w-full h-full object-cover">
+            <img src="assets/images/anxiety_consultation.png" alt="Deep TMS Therapy Consultation" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 

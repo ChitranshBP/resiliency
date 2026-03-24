@@ -4,7 +4,7 @@
     <!-- Hero Section -->
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/med_tech_bg.png" alt="Anxiety Treatment" class="w-full h-full object-cover">
+            <img src="assets/images/anxiety_consultation.png" alt="Anxiety Treatment Consultation" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -21,7 +21,7 @@
                     Expert treatment for generalized anxiety, social anxiety, panic disorder, and phobias using a combination of advanced neuromodulation, medication management, and evidence-based therapies.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
-                    <a href="#consultation" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Book a Free Discovery Call <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -43,18 +43,57 @@
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
                         <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Understanding Anxiety</h2>
                     </div>
-                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">When Worry Takes Over</h3>
+                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Understanding Anxiety and Its Impact</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        Anxiety disorders involve persistent, excessive worry that interferes with daily life. They are among the most common mental health conditions, yet many people suffer without proper treatment.
+                        Anxiety is a common yet complex mental health condition characterized by excessive worry, fear, or nervousness. It can manifest in various forms, such as generalized anxiety disorder (GAD), panic disorder, social anxiety disorder, and specific phobias. Anxiety disorders affect millions of people worldwide, impacting their ability to function in daily life.
                     </p>
-                    <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
-                        Our approach addresses both the neurological and psychological components through Deep TMS therapy targeting anxiety-related brain circuits, conservative medication management, psychotherapy referrals, and lifestyle interventions.
+                    <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
+                        Living with anxiety can be debilitating, affecting both mental and physical health. Traditional treatments include therapy and medication, but not everyone responds well to these methods. This is where transcranial magnetic stimulation (TMS) offers a promising alternative.
                     </p>
+
+                    <div class="space-y-4 mb-6">
+                        <div class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0">
+                                <i data-lucide="alert-circle" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-[#0B2035] mb-1">Persistent Worry and Fear</h4>
+                                <p class="text-gray-600 font-light text-sm leading-relaxed">Overwhelming feelings of worry or fear disproportionate to the situation.</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0">
+                                <i data-lucide="heart-pulse" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-[#0B2035] mb-1">Physical Symptoms</h4>
+                                <p class="text-gray-600 font-light text-sm leading-relaxed">Increased heart rate, sweating, trembling, and gastrointestinal issues.</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0">
+                                <i data-lucide="brain" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-[#0B2035] mb-1">Cognitive Symptoms</h4>
+                                <p class="text-gray-600 font-light text-sm leading-relaxed">Difficulty concentrating, racing thoughts, and a constant sense of impending doom.</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] mt-0.5 flex-shrink-0">
+                                <i data-lucide="shield-alert" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-[#0B2035] mb-1">Behavioral Symptoms</h4>
+                                <p class="text-gray-600 font-light text-sm leading-relaxed">Avoiding triggering situations, restlessness, and irritability that significantly affect daily activities and relationships.</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/med_tech_bg.png" alt="Anxiety Treatment at Resiliency" class="w-full h-[450px] object-cover">
+                        <img src="assets/images/anxiety_hero.png" alt="Anxiety Symptoms and Impact" class="w-full h-[450px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
                 </div>
@@ -109,8 +148,113 @@
         </div>
     </section>
 
-    <!-- Why Choose Resiliency -->
+    <!-- How TMS Works for Anxiety -->
+    <section class="py-16 bg-white relative overflow-hidden">
+        <div class="absolute top-0 left-0 w-1/3 h-full bg-[#23bfe2]/5 skew-x-12 transform -translate-x-32 hidden lg:block pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="flex flex-col lg:flex-row items-center gap-16 lg:gap-20">
+                <!-- Image -->
+                <div class="w-full lg:w-1/2 relative reveal">
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
+                        <img src="assets/images/anxiety_relief.png" alt="TMS Treatment for Anxiety" class="w-full h-[500px] object-cover">
+                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
+                    </div>
+
+                    <!-- Floating Badge -->
+                    <div class="absolute -bottom-6 -right-6 bg-white p-5 rounded-3xl border border-gray-100 shadow-[0_20px_40px_-10px_rgba(11,32,53,0.15)] flex items-center gap-4 group hover:-translate-y-2 transition-transform duration-500">
+                        <div class="w-14 h-14 bg-[#0B2035] rounded-2xl flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors duration-500">
+                            <i data-lucide="zap" class="w-7 h-7"></i>
+                        </div>
+                        <div>
+                            <p class="text-3xl font-bold text-[#0B2035] tracking-tight">Non<span class="text-[#23bfe2]">-</span>Invasive</p>
+                            <p class="text-xs text-gray-500 font-bold uppercase tracking-widest mt-1">Drug-Free Treatment</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Content -->
+                <div class="w-full lg:w-1/2 text-[#0B2035] reveal reveal-delay-1">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
+                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">The Science</h2>
+                    </div>
+                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">How TMS Works for Anxiety Treatment</h3>
+                    <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
+                        Transcranial magnetic stimulation (TMS) is a breakthrough in mental health treatment. It delivers magnetic pulses to the prefrontal cortex, a brain region involved in mood and anxiety regulation. These pulses stimulate nerve cells, promoting improved neural activity and reducing anxiety symptoms.
+                    </p>
+                    <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
+                        One of the significant advantages of TMS is that it is non-invasive and drug-free. Unlike medications with numerous side effects, TMS is well-tolerated with minimal side effects, typically limited to mild discomfort at the treatment site.
+                    </p>
+                    <p class="text-gray-600 text-lg leading-relaxed font-light">
+                        Patients undergoing TMS often experience a substantial reduction in anxiety symptoms. This improvement can lead to better sleep, increased energy, and a more positive outlook on life. By normalizing brain activity, TMS helps patients regain control over their anxiety, enhancing their overall quality of life.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Our Treatment Process -->
     <section class="py-16 bg-neutral relative overflow-hidden">
+        <div class="absolute -bottom-32 -left-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                    <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Your Journey</h2>
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                </div>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Our Treatment Process</h3>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                <!-- Step 1 -->
+                <div class="relative reveal group">
+                    <div class="bg-white rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                        <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">01</div>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Initial Consultation</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">
+                            The journey to relief from anxiety begins with a comprehensive evaluation. Our team will assess your medical history and anxiety symptoms to determine if TMS is the right choice for you. We believe in a personalized approach, and this consultation allows us to tailor a treatment plan specifically to your needs.
+                        </p>
+                    </div>
+                    <!-- Connector -->
+                    <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
+                        <i data-lucide="chevron-right" class="w-8 h-8"></i>
+                    </div>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="relative reveal reveal-delay-1 group">
+                    <div class="bg-white rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                        <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">02</div>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">TMS Treatment Sessions</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">
+                            TMS sessions typically last about 10 minutes and are conducted five days a week for several weeks. During each session, you will sit comfortably while the TMS device delivers magnetic pulses to the targeted brain regions. TMS requires no recovery time, allowing you to return to daily activities immediately.
+                        </p>
+                    </div>
+                    <!-- Connector -->
+                    <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
+                        <i data-lucide="chevron-right" class="w-8 h-8"></i>
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="relative reveal reveal-delay-2 group">
+                    <div class="bg-white rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                        <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">03</div>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Continuous Support</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">
+                            Our team provides continuous support throughout the treatment process. We closely monitor your progress and make any necessary adjustments to your treatment plan to ensure optimal results. Our goal is to help you achieve lasting relief from anxiety, and we are committed to supporting you every step of the way.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Resiliency -->
+    <section class="py-16 bg-white relative overflow-hidden">
         <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -205,17 +349,48 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>How long before I start feeling less anxious with TMS therapy?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Many patients notice some relief in anxiety symptoms within 2-3 weeks of starting treatment. Improvements often include reduced frequency of panic or worry, better sleep, and reduced muscle tension. Full benefit may take the entire course (4-6 weeks), depending on individual response.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Is TMS for anxiety safe and what are the risks?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes, when administered by trained professionals, TMS is generally safe. Common side effects include scalp or forehead discomfort, headache, or tingling. The risk of serious side effects (like seizures) is extremely low after proper screening. Our Newport Beach team ensures safety by reviewing medical history, contraindications, and monitoring during treatment.
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="#contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
 
     <!-- Final CTA -->
     <section class="py-16 relative overflow-hidden bg-white">
-        <div class="absolute inset-0 z-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-[#23bfe2]/10 via-transparent to-transparent"></div>
+        <div class="absolute inset-0 z-0">
+            <img src="assets/images/anxiety_relief.png" alt="Path to Recovery" class="w-full h-full object-cover opacity-10">
+            <div class="absolute inset-0 bg-gradient-to-b from-white via-white/80 to-white"></div>
+        </div>
 
         <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 reveal">
             <h2 class="text-4xl md:text-5xl lg:text-6xl font-bold text-[#0B2035] mb-8 leading-tight">
@@ -225,7 +400,7 @@
                 Schedule a consultation with our team and discover a personalized treatment plan designed for your unique needs.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="#consultation" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Book a Free Discovery Call
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>

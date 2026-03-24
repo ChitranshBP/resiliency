@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:resiliencymbmedicine.com)",
+      "WebFetch(domain:webcache.googleusercontent.com)",
+      "WebSearch",
+      "WebFetch(domain:neurohealthmd.org)",
+      "Bash(curl -L -o focus_pro.png \"https://neurohealthmd.org/cdn/shop/files/Focus_Pro.png?v=1771872545&width=800\")",
+      "Bash(curl -L -o focus_pro_facts.png \"https://neurohealthmd.org/cdn/shop/files/FocusLabel.png?v=1771872545&width=800\")",
+      "Bash(curl -L -o mood_boost_pro.png \"https://neurohealthmd.org/cdn/shop/files/Moodboost_Pro.png?v=1771872345&width=800\")",
+      "Bash(curl -L -o mood_boost_pro_facts.png \"https://neurohealthmd.org/cdn/shop/files/MoodBoostPro-Resiliency-Lot_B-63189-M_5X2.25_1.png?v=1771872345&width=800\")",
+      "Bash(curl -L -o neuro_harmony.png \"https://neurohealthmd.org/cdn/shop/files/Neuro_Harmony.png?v=1771872624&width=800\")",
+      "Bash(curl -L -o neuro_harmony_facts.png \"https://neurohealthmd.org/cdn/shop/files/Corporate_Modern_Fun_Business_Anniversary_-_Instagram_Post_1.jpg?v=1771872624&width=800\")",
+      "Bash(curl -L -o sleep_support.png \"https://neurohealthmd.org/cdn/shop/files/Sleep_Support.png?v=1771872483&width=800\")",
+      "Bash(curl -L -o sleep_support_facts.png \"https://neurohealthmd.org/cdn/shop/files/SleepSupport-nutrition.png?v=1771872483&width=800\")",
+      "Bash(curl -sL -o focus_pro.png \"https://neurohealthmd.org/cdn/shop/files/Focus_Pro.png?v=1771872545&width=1946\")",
+      "Bash(curl -sL -o focus_pro_facts.png \"https://neurohealthmd.org/cdn/shop/files/FocusLabel.png?v=1771872545&width=1946\")",
+      "Bash(curl -sL -o mood_boost_pro.png \"https://neurohealthmd.org/cdn/shop/files/Moodboost_Pro.png?v=1771872345&width=1946\")",
+      "Bash(curl -sL -o mood_boost_pro_facts.png \"https://neurohealthmd.org/cdn/shop/files/MoodBoostPro-Resiliency-Lot_B-63189-M_5X2.25_1.png?v=1771872345&width=1946\")",
+      "Bash(curl -sL -o neuro_harmony.png \"https://neurohealthmd.org/cdn/shop/files/Neuro_Harmony.png?v=1771872624&width=1946\")",
+      "Bash(curl -sL -o neuro_harmony_facts.png \"https://neurohealthmd.org/cdn/shop/files/Corporate_Modern_Fun_Business_Anniversary_-_Instagram_Post_1.jpg?v=1771872624&width=1946\")",
+      "Bash(curl -sL -o sleep_support.png \"https://neurohealthmd.org/cdn/shop/files/Sleep_Support.png?v=1771872483&width=1946\")",
+      "Bash(curl -sL -o sleep_support_facts.png \"https://neurohealthmd.org/cdn/shop/files/SleepSupport-nutrition.png?v=1771872483&width=1946\")",
+      "WebFetch(domain:www.breakthrupsych.com)",
+      "WebFetch(domain:neurolief.com)",
+      "WebFetch(domain:www.hcplive.com)",
+      "WebFetch(domain:www.psychiatrictimes.com)",
+      "WebFetch(domain:www.prnewswire.com)"
+    ]
+  }
+}

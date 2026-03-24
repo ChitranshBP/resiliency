@@ -18,7 +18,7 @@
                         Personalized treatments for depression, anxiety, OCD, and PTSD using evidence-based therapies and advanced neuromodulation technology.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 mb-10">
-                        <a href="#consultation" class="bg-lightblue text-primary font-bold px-8 py-3.5 rounded-full text-center transition-all hover:bg-[#1aadd0] hover:shadow-lg shadow-md hover:-translate-y-1 transform">
+                        <a href="contact.php" class="bg-lightblue text-primary font-bold px-8 py-3.5 rounded-full text-center transition-all hover:bg-[#1aadd0] hover:shadow-lg shadow-md hover:-translate-y-1 transform">
                             Book Free Discovery Call
                         </a>
                         <a href="#treatments" class="bg-white/10 backdrop-blur-sm border border-white/30 text-white font-medium px-8 py-3.5 rounded-full text-center transition-all hover:bg-white/20">
@@ -67,7 +67,7 @@
                     <p class="text-gray-600 mb-6 font-light text-sm leading-relaxed max-w-sm mx-auto lg:mx-0">
                         Research shows evidence-based psychiatry and advanced neuromodulation can significantly boost mental health.
                     </p>
-                    <a href="#" class="inline-flex items-center gap-2 bg-primary text-white font-bold uppercase tracking-wider text-[10px] px-6 py-2.5 rounded-md transition-all hover:bg-primary/90 hover:shadow-md">
+                    <a href="tms-therapy.php" class="inline-flex items-center gap-2 bg-primary text-white font-bold uppercase tracking-wider text-[10px] px-6 py-2.5 rounded-md transition-all hover:bg-primary/90 hover:shadow-md">
                         LEARN MORE <i data-lucide="arrow-up-right" class="w-3.5 h-3.5"></i>
                     </a>
                 </div>
@@ -173,7 +173,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_spravato.png" alt="Depression Treatment" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/depression_hero.png" alt="Depression Treatment" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient (ensures readability) -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -191,7 +191,7 @@
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Advanced therapies including Deep TMS, SPRAVATO, and tailored medication management for persistent, treatment-resistant depression scenarios.
                                     </p>
-                                    <a href="#" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="depression.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -203,7 +203,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-1 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/doctor_consult.png" alt="Anxiety Consultation" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
+                            <img src="assets/images/anxiety_hero.png" alt="Anxiety Consultation" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
                         </div>
                         <div class="absolute inset-0 z-0 bg-[#0B2035]/10"></div>
                         <!-- Overlay Gradient -->
@@ -222,7 +222,7 @@
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Comprehensive, multi-modal management for generalized anxiety, severe panic disorders, social anxiety, and phobias.
                                     </p>
-                                    <a href="#" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="anxiety.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -234,7 +234,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-2 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_tms.png" alt="TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/ocd_hero.png" alt="TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -252,7 +252,7 @@
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Specialized, FDA-approved Deep TMS protocols using the BrainsWay H7-coil, specifically designed to target obsessive and compulsive circuitry.
                                     </p>
-                                    <a href="#" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="ocd.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -264,7 +264,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_wellness.png" alt="PTSD Wellness" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/ptsd_hero.png" alt="PTSD Wellness" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -282,7 +282,7 @@
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Deeply compassionate, trauma-informed care utilizing integrative approaches, lifestyle optimization, and neuro-restorative modalities.
                                     </p>
-                                    <a href="#" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="ptsd.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -294,7 +294,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-1 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_med_management.png" alt="ADHD Management" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/adhd_hero.png" alt="ADHD Management" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -312,7 +312,7 @@
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Precision diagnosis and highly tailored medication management to enhance focus, executive function, and overall cognitive performance.
                                     </p>
-                                    <a href="#" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="adhd.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -324,7 +324,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_iv.png" alt="Mood Disorder Support" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
+                            <img src="assets/images/bipolar_hero.png" alt="Mood Disorder Support" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
                         </div>
                         <div class="absolute inset-0 z-0 bg-[#0B2035]/10"></div>
                         <!-- Overlay Gradient -->
@@ -343,7 +343,7 @@
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Careful psychiatric evaluation, mood stabilization, and management protocols for bipolar disorder and complex mood cyclings.
                                     </p>
-                                    <a href="#" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="bipolar.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -355,7 +355,7 @@
 
                 <!-- View All Button -->
                 <div class="mt-16 text-center reveal">
-                    <a href="#" class="inline-flex items-center gap-2 bg-[#0B2035] text-white hover:bg-[#23bfe2] hover:text-[#0B2035] font-bold px-10 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1">
+                    <a href="conditions.php" class="inline-flex items-center gap-2 bg-[#0B2035] text-white hover:bg-[#23bfe2] hover:text-[#0B2035] font-bold px-10 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1">
                         View All Conditions <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                 </div>
@@ -367,7 +367,7 @@
             
             <!-- Section Background Image -->
             <div class="absolute inset-0 z-0">
-                <img src="assets/images/med_tech_bg.png" alt="Clinical Environment Background" class="w-full h-full object-cover">
+                <img src="assets/images/anxiety_consultation.png" alt="Clinical Environment Background" class="w-full h-full object-cover">
             </div>
             
             <!-- Premium Dark Overlay -->
@@ -443,7 +443,7 @@
                             </li>
                         </ul>
                         
-                        <a href="#" class="inline-flex items-center justify-center gap-2 bg-white text-primary hover:bg-[#23bfe2] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-[0_4px_20px_rgba(255,255,255,0.1)] hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] hover:-translate-y-1">
+                        <a href="tms-therapy.php" class="inline-flex items-center justify-center gap-2 bg-white text-primary hover:bg-[#23bfe2] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-[0_4px_20px_rgba(255,255,255,0.1)] hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] hover:-translate-y-1">
                             Explore TMS Protocol <i data-lucide="arrow-right" class="w-5 h-5"></i>
                         </a>
                     </div>
@@ -521,7 +521,7 @@
                         <h4 class="text-xl font-bold text-primary mb-3">Deep TMS Therapy</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Breakthrough magnetic stimulation targeting deeper brain regions for robust remission.</p>
                         <div class="mb-6">
-                            <a href="#" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="tms-therapy.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -533,7 +533,7 @@
                         <h4 class="text-xl font-bold text-primary mb-3">SPRAVATO® (Esketamine)</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">First-of-its-kind FDA-approved nasal spray for treatment-resistant depression.</p>
                         <div class="mb-6">
-                            <a href="#" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="spravato-therapy.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -545,7 +545,7 @@
                         <h4 class="text-xl font-bold text-primary mb-3">IV Drip Therapy</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Customized intravenous vitamin infusions to optimize hydration, energy, and overall wellbeing.</p>
                         <div class="mb-6">
-                            <a href="#" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="iv-vitamin-therapy.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -557,7 +557,7 @@
                         <h4 class="text-xl font-bold text-primary mb-3">Medical Weight Loss</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Physician-supervised programs addressing the mind-body connection in metabolic health.</p>
                         <div class="mb-6">
-                            <a href="#" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="weight-loss.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -569,7 +569,7 @@
                         <h4 class="text-xl font-bold text-primary mb-3">Medical Management</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Expert psychiatric prescribing carefully tailored to your unique biology and needs.</p>
                         <div class="mb-6">
-                            <a href="#" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="medication-management.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -581,7 +581,7 @@
                         <h4 class="text-xl font-bold text-primary mb-3">Wellness Services</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Integrative and complementary approaches to ensure holistic optimization of mind and body.</p>
                         <div class="mb-6">
-                            <a href="#" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="integrative-psychiatry.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -591,13 +591,13 @@
                     <!-- Service 7: ProlivRx -->
                     <div class="bg-white rounded-2xl flex flex-col h-full border-[2px] border-primary p-6 shadow-sm hover:shadow-md transition-all duration-300 reveal">
                         <h4 class="text-xl font-bold text-primary mb-3">Proliv™Rx</h4>
-                        <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Proprietary, medical-grade neurological supplementation formulated to support cognitive resilience.</p>
+                        <p class="text-gray-600 mb-6 font-light text-sm flex-grow">FDA-approved, at-home brain neuromodulation therapy for treatment-resistant depression.</p>
                         <div class="mb-6">
-                            <a href="#" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="proliv-rx.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/service_supplement.jpg" alt="ProlivRx" class="w-full h-48 object-cover rounded-xl mt-auto">
+                        <img src="assets/images/med_tech_bg.png" alt="Proliv Rx At-Home Neuromodulation" class="w-full h-48 object-cover rounded-xl mt-auto">
                     </div>
 
                     <!-- Service 8: VNS Therapy -->
@@ -605,7 +605,7 @@
                         <h4 class="text-xl font-bold text-primary mb-3">VNS Therapy</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Advanced Vagus Nerve Stimulation technology offering long-term relief for resistant conditions.</p>
                         <div class="mb-6">
-                            <a href="#" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="vns-therapy.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -797,7 +797,7 @@
                             <p class="font-medium text-white">Let's build a foundation for lasting wellness together.</p>
                         </div>
                         
-                        <a href="#consultation" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold uppercase tracking-wider text-xs px-8 py-4 rounded-md transition-all hover:bg-opacity-90 hover:shadow-md hover:-translate-y-1">
+                        <a href="team.php" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold uppercase tracking-wider text-xs px-8 py-4 rounded-md transition-all hover:bg-opacity-90 hover:shadow-md hover:-translate-y-1">
                             GET TO KNOW DR. LAFRENIERRE <i data-lucide="arrow-up-right" class="w-4 h-4"></i>
                         </a>
 
@@ -1026,13 +1026,13 @@
                 </p>
                 
                 <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                    <a href="#consultation" class="group relative inline-flex items-center justify-center bg-lightblue hover:bg-[#1aadd0] text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl overflow-hidden text-lg w-full sm:w-auto">
+                    <a href="contact.php" class="group relative inline-flex items-center justify-center bg-lightblue hover:bg-[#1aadd0] text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl overflow-hidden text-lg w-full sm:w-auto">
                         <span class="relative z-10 flex items-center gap-2">
                             Book Free Discovery Call
                             <i data-lucide="arrow-right" class="w-5 h-5 transform group-hover:translate-x-1 transition-transform"></i>
                         </span>
                     </a>
-                    <a href="#" class="group inline-flex items-center justify-center bg-white/5 hover:bg-white/10 border-2 border-white/20 hover:border-white/40 text-white font-semibold px-10 py-5 rounded-full transition-all duration-300 text-lg w-full sm:w-auto">
+                    <a href="contact.php" class="group inline-flex items-center justify-center bg-white/5 hover:bg-white/10 border-2 border-white/20 hover:border-white/40 text-white font-semibold px-10 py-5 rounded-full transition-all duration-300 text-lg w-full sm:w-auto">
                         Contact Our Team
                     </a>
                 </div>

@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/service_vns.png" alt="VNS Therapy" class="w-full h-full object-cover">
+            <img src="assets/images/anxiety_consultation.png" alt="VNS Therapy Consultation" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -22,7 +22,7 @@
                     Vagus Nerve Stimulation using the LivaNova Symmetry™ System—an FDA-cleared, implantable neuromodulation therapy for treatment-resistant depression and epilepsy.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
-                    <a href="#consultation" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule a Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="#about" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center">
@@ -78,7 +78,7 @@
                 <!-- Badge -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/service_vns.png" alt="VNS Therapy device and consultation" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/bipolar_relief.png" alt="VNS Therapy stability and care" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
@@ -142,6 +142,124 @@
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Progressive Improvement</h4>
                     <p class="text-gray-400 font-light leading-relaxed">Benefits typically build gradually over months as the brain's neural circuits are progressively modulated.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- The Vagus Nerve -->
+    <section class="py-16 bg-white relative overflow-hidden">
+        <div class="absolute top-0 left-0 w-1/3 h-full bg-[#23bfe2]/5 skew-x-12 transform -translate-x-32 hidden lg:block pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="flex flex-col lg:flex-row items-center gap-16 lg:gap-20">
+                <!-- Content -->
+                <div class="w-full lg:w-1/2 text-[#0B2035] reveal">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
+                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">The Vagus Nerve</h2>
+                    </div>
+                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">What is the Vagus Nerve?</h3>
+                    <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
+                        The vagus nerve is the longest cranial nerve in the body, running from the brain all the way to the large intestine. It plays a critical role in regulating many of the body's most important functions.
+                    </p>
+
+                    <div class="grid grid-cols-2 gap-3">
+                        <div class="flex items-center gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] flex-shrink-0"><i data-lucide="smile" class="w-4 h-4"></i></div>
+                            <span class="text-gray-700 text-sm font-medium">Mood regulation</span>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] flex-shrink-0"><i data-lucide="utensils" class="w-4 h-4"></i></div>
+                            <span class="text-gray-700 text-sm font-medium">Digestion</span>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] flex-shrink-0"><i data-lucide="heart-pulse" class="w-4 h-4"></i></div>
+                            <span class="text-gray-700 text-sm font-medium">Heart rate & blood pressure</span>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] flex-shrink-0"><i data-lucide="wind" class="w-4 h-4"></i></div>
+                            <span class="text-gray-700 text-sm font-medium">Respiration</span>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] flex-shrink-0"><i data-lucide="shield" class="w-4 h-4"></i></div>
+                            <span class="text-gray-700 text-sm font-medium">Immune responses</span>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] flex-shrink-0"><i data-lucide="ear" class="w-4 h-4"></i></div>
+                            <span class="text-gray-700 text-sm font-medium">Sensory perception</span>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] flex-shrink-0"><i data-lucide="message-circle" class="w-4 h-4"></i></div>
+                            <span class="text-gray-700 text-sm font-medium">Speech & taste</span>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2] flex-shrink-0"><i data-lucide="droplets" class="w-4 h-4"></i></div>
+                            <span class="text-gray-700 text-sm font-medium">Mucus & saliva production</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Image -->
+                <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
+                        <img src="assets/images/depression_relief.png" alt="The Vagus Nerve and mental wellness" class="w-full h-[500px] object-cover">
+                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Treatment Process -->
+    <section class="py-16 bg-white relative overflow-hidden">
+        <div class="absolute -bottom-32 -left-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                    <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Your Journey</h2>
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                </div>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">The VNS Treatment Process</h3>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                <div class="relative reveal group">
+                    <div class="bg-neutral rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                        <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">01</div>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Evaluation & Candidacy</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">
+                            Our team conducts a thorough psychiatric evaluation to determine if VNS is appropriate based on your treatment history, diagnosis, and overall health. We manage insurance prior authorization, which typically requires a 6-month process handled by the manufacturer.
+                        </p>
+                    </div>
+                    <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
+                        <i data-lucide="chevron-right" class="w-8 h-8"></i>
+                    </div>
+                </div>
+
+                <div class="relative reveal reveal-delay-1 group">
+                    <div class="bg-neutral rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                        <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">02</div>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Outpatient Implantation</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">
+                            The device is surgically implanted during an outpatient procedure lasting 1-2 hours under general anesthesia. A pacemaker-like pulse generator is placed under the skin below the left collarbone, connected to a wire along the vagus nerve. Same-day discharge is typical.
+                        </p>
+                    </div>
+                    <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
+                        <i data-lucide="chevron-right" class="w-8 h-8"></i>
+                    </div>
+                </div>
+
+                <div class="relative reveal reveal-delay-2 group">
+                    <div class="bg-neutral rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                        <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">03</div>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Programming & Ongoing Care</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">
+                            Programming and pulse adjustments are performed in-office and are quick and painless. Your physician adjusts the electrical pulse frequency and duration for optimal results. VNS is an adjunctive long-term treatment—you continue your existing therapies alongside it.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -232,7 +350,7 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            VNS for treatment-resistant depression is covered by many insurance plans and Medicare. Our team manages prior authorization and benefits verification.
+                            VNS is covered by many insurance plans and Medicare. Prior authorization typically requires approximately 6 months and is managed by the device manufacturer. Our team assists with benefits verification throughout the process.
                         </div>
                     </div>
                 </div>
@@ -247,21 +365,54 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            The most common side effects include temporary voice changes, cough, and throat discomfort during stimulation, which are generally mild and well-tolerated.
+                            The most common side effects include temporary hoarseness, cough, shortness of breath, and throat discomfort during stimulation. These are generally mild and well-tolerated, often decreasing over time.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Where is the device implanted and is it visible?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            The device is implanted during outpatient hospital surgery lasting 1-2 hours under general anesthesia, with same-day discharge typical. The lead wire remains invisible, and the neurostimulator (approximately 2 inches in diameter) is positioned below the left collarbone. It may be slightly visible on smaller frames.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 5 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Will I still need to take my medications?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes. VNS is an add-on treatment designed to complement your existing care. Most patients continue their antidepressant medications and other therapies alongside VNS for the best outcomes.
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="#contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
 
     <!-- Final CTA -->
     <section class="py-16 relative overflow-hidden bg-white">
-        <div class="absolute inset-0 z-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-[#23bfe2]/10 via-transparent to-transparent"></div>
+        <div class="absolute inset-0 z-0">
+            <img src="assets/images/anxiety_relief.png" alt="Path to Relief" class="w-full h-full object-cover opacity-10">
+            <div class="absolute inset-0 bg-gradient-to-b from-white via-white/80 to-white"></div>
+        </div>
 
         <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 reveal">
             <h2 class="text-4xl md:text-5xl lg:text-6xl font-bold text-[#0B2035] mb-8 leading-tight">
@@ -271,7 +422,7 @@
                 Schedule a consultation with our team to discuss whether VNS Therapy could be the next step in your treatment journey.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="#consultation" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule a Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>

@@ -71,6 +71,24 @@
                                 </div>
                                 <span class="text-[#0B2035] font-semibold text-base">Monthly follow-ups with dose optimization</span>
                             </li>
+                            <li class="flex items-center gap-4">
+                                <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2]">
+                                    <i data-lucide="check" class="w-5 h-5"></i>
+                                </div>
+                                <span class="text-[#0B2035] font-semibold text-base">Nutritional and lifestyle coaching for sustainable habits</span>
+                            </li>
+                            <li class="flex items-center gap-4">
+                                <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2]">
+                                    <i data-lucide="check" class="w-5 h-5"></i>
+                                </div>
+                                <span class="text-[#0B2035] font-semibold text-base">Behavioral health support for stress and emotional eating</span>
+                            </li>
+                            <li class="flex items-center gap-4">
+                                <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2]">
+                                    <i data-lucide="check" class="w-5 h-5"></i>
+                                </div>
+                                <span class="text-[#0B2035] font-semibold text-base">Community and peer support for motivation</span>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -113,7 +131,7 @@
                 <h3 class="text-4xl md:text-5xl font-bold text-white mb-6">The Science Behind GLP-1 Medications</h3>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <!-- Card 1 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-colors reveal">
                     <div class="flex items-start gap-5">
@@ -121,8 +139,8 @@
                             <i data-lucide="brain" class="w-6 h-6"></i>
                         </div>
                         <div>
-                            <h4 class="text-white font-bold text-lg mb-2">Appetite Regulation</h4>
-                            <p class="text-gray-400 font-light">GLP-1 medications enhance feelings of fullness and satisfaction by targeting brain regions that control hunger signals, naturally reducing caloric intake.</p>
+                            <h4 class="text-white font-bold text-lg mb-2">Mimicking Natural Hormones</h4>
+                            <p class="text-gray-400 font-light">These medications mimic GLP-1, a hormone that regulates appetite and food intake by enhancing feelings of fullness and satisfaction.</p>
                         </div>
                     </div>
                 </div>
@@ -133,8 +151,8 @@
                             <i data-lucide="timer" class="w-6 h-6"></i>
                         </div>
                         <div>
-                            <h4 class="text-white font-bold text-lg mb-2">Gastric Slowing</h4>
-                            <p class="text-gray-400 font-light">These medications slow down gastric emptying, extending the feeling of fullness after meals so you eat less without feeling deprived.</p>
+                            <h4 class="text-white font-bold text-lg mb-2">Slowing Digestion</h4>
+                            <p class="text-gray-400 font-light">They slow down gastric emptying, extending the feeling of fullness after meals, thus reducing overall calorie intake.</p>
                         </div>
                     </div>
                 </div>
@@ -145,8 +163,20 @@
                             <i data-lucide="activity" class="w-6 h-6"></i>
                         </div>
                         <div>
-                            <h4 class="text-white font-bold text-lg mb-2">Metabolic Improvement</h4>
-                            <p class="text-gray-400 font-light">Stimulate insulin production and improve insulin sensitivity, supporting healthy blood sugar levels and overall metabolic function.</p>
+                            <h4 class="text-white font-bold text-lg mb-2">Improving Insulin Sensitivity</h4>
+                            <p class="text-gray-400 font-light">They enhance your body's response to insulin, supporting metabolic health and reducing the risk of type 2 diabetes.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-colors reveal reveal-delay-3">
+                    <div class="flex items-start gap-5">
+                        <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                            <i data-lucide="clipboard-check" class="w-6 h-6"></i>
+                        </div>
+                        <div>
+                            <h4 class="text-white font-bold text-lg mb-2">Clinical Evidence</h4>
+                            <p class="text-gray-400 font-light">Clinical trials demonstrate their effectiveness in promoting significant weight loss and improving overall quality of life.</p>
                         </div>
                     </div>
                 </div>
@@ -172,7 +202,7 @@
                     <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">01</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-3">Initial Consultation</h4>
-                        <p class="text-gray-500 font-light leading-relaxed text-sm">Comprehensive assessment of your medical history, current medications, and weight loss objectives—available in-person or via telehealth.</p>
+                        <p class="text-gray-500 font-light leading-relaxed text-sm">Start with an in-person or telemedicine consultation to determine your weight loss goals. If you are in-network with one of our many insurance providers, this visit may be covered by insurance!</p>
                     </div>
                     <!-- Connector Arrow -->
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
@@ -184,8 +214,8 @@
                 <div class="relative reveal reveal-delay-1 group">
                     <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">02</div>
-                        <h4 class="text-xl font-bold text-[#0B2035] mb-3">Personalized Plan</h4>
-                        <p class="text-gray-500 font-light leading-relaxed text-sm">Your provider develops a tailored program including GLP-1 medication selection, dietary recommendations, and exercise guidance.</p>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-3">Comprehensive Blood Tests</h4>
+                        <p class="text-gray-500 font-light leading-relaxed text-sm">Book an appointment with LabCorp or Quest to receive your comprehensive blood tests to ensure the safest and most effective treatment plan.</p>
                     </div>
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
                         <i data-lucide="chevron-right" class="w-8 h-8"></i>
@@ -196,8 +226,8 @@
                 <div class="relative reveal reveal-delay-2 group">
                     <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">03</div>
-                        <h4 class="text-xl font-bold text-[#0B2035] mb-3">Weekly Injections</h4>
-                        <p class="text-gray-500 font-light leading-relaxed text-sm">Once-weekly self-administered injections at home, with options for in-office administration at our Newport Beach location.</p>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-3">Begin Treatment</h4>
+                        <p class="text-gray-500 font-light leading-relaxed text-sm">Come in the office at our Newport Beach location, or receive a prescription for at-home injections! Meet monthly to determine if dose adjustments are necessary.</p>
                     </div>
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
                         <i data-lucide="chevron-right" class="w-8 h-8"></i>
@@ -219,49 +249,58 @@
         <div class="absolute top-1/2 left-0 w-64 h-64 bg-[#23bfe2]/5 rounded-full blur-3xl -z-10 -translate-x-1/2"></div>
     </section>
 
-    <!-- Clinical Results -->
+    <!-- Benefits of Semaglutide and Tirzepatide -->
     <section class="py-16 bg-neutral relative overflow-hidden">
         <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-3xl mx-auto mb-20 reveal">
-                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Proven Results</h2>
-                <h3 class="text-4xl md:text-5xl font-bold text-primary mb-6">Clinical Outcomes</h3>
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Why Choose GLP-1 Therapy</h2>
+                <h3 class="text-4xl md:text-5xl font-bold text-primary mb-6">Benefits of Semaglutide and Tirzepatide</h3>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <!-- Stat 1 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <!-- Benefit 1 -->
                 <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="trending-down" class="w-8 h-8"></i>
+                        <i data-lucide="badge-check" class="w-8 h-8"></i>
                     </div>
-                    <p class="text-5xl font-bold text-[#0B2035] mb-3">15<span class="text-[#23bfe2]">%</span></p>
-                    <p class="text-gray-500 font-light leading-relaxed">Average body weight loss with semaglutide in clinical trials</p>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">FDA-Approved Weight Loss</h4>
+                    <p class="text-gray-500 font-light leading-relaxed">Clinical trials have demonstrated that people lost an average of 15% of their body weight on semaglutide, and an average of 20% when taking tirzepatide.</p>
                 </div>
 
-                <!-- Stat 2 -->
+                <!-- Benefit 2 -->
                 <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="trending-down" class="w-8 h-8"></i>
+                        <i data-lucide="brain" class="w-8 h-8"></i>
                     </div>
-                    <p class="text-5xl font-bold text-[#0B2035] mb-3">20<span class="text-[#23bfe2]">%</span></p>
-                    <p class="text-gray-500 font-light leading-relaxed">Average body weight loss with tirzepatide in clinical trials</p>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Reduces Food Cravings</h4>
+                    <p class="text-gray-500 font-light leading-relaxed">Works by activating certain areas in the brain that control appetite and food cravings.</p>
                 </div>
 
-                <!-- Stat 3 -->
+                <!-- Benefit 3 -->
                 <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="users" class="w-8 h-8"></i>
+                        <i data-lucide="syringe" class="w-8 h-8"></i>
                     </div>
-                    <p class="text-5xl font-bold text-[#0B2035] mb-3">80<span class="text-[#23bfe2]">%+</span></p>
-                    <p class="text-gray-500 font-light leading-relaxed">Of patients achieve clinically significant weight reduction</p>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Convenient to Use</h4>
+                    <p class="text-gray-500 font-light leading-relaxed">A once-weekly weight-loss injection that can be comfortably self-administered at home.</p>
+                </div>
+
+                <!-- Benefit 4 -->
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group text-center">
+                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="heart-pulse" class="w-8 h-8"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Improves Metabolic Health</h4>
+                    <p class="text-gray-500 font-light leading-relaxed">Reduces blood sugar levels, lowers blood pressure, and decreases cholesterol and triglyceride levels.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Comprehensive Health Benefits -->
-    <section class="py-16 bg-white relative overflow-hidden">
+    <section class="py-16 bg-neutral relative overflow-hidden">
         <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
