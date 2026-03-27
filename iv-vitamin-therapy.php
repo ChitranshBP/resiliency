@@ -22,7 +22,7 @@
                     Direct infusion of essential nutrients, amino acids, and antioxidants to promote energy, cellular repair, mental clarity, and overall wellness—physician-supervised for safety.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
-                    <a href="#consultation" class="group relative inline-flex items-center justify-center bg-[#23bfe2] hover:bg-white text-[#0B2035] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl">
+                    <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#23bfe2] hover:bg-white text-[#0B2035] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl">
                         <span class="relative z-10 flex items-center gap-2">
                             Book a Session
                             <i data-lucide="arrow-up-right" class="w-5 h-5 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -359,7 +359,7 @@
                 Experience the difference of physician-supervised IV vitamin therapy. Book your session and start feeling your best.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="#consultation" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Book Your IV Session
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>

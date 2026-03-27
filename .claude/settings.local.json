@@ -25,7 +25,13 @@
       "WebFetch(domain:neurolief.com)",
       "WebFetch(domain:www.hcplive.com)",
       "WebFetch(domain:www.psychiatrictimes.com)",
-      "WebFetch(domain:www.prnewswire.com)"
+      "WebFetch(domain:www.prnewswire.com)",
+      "WebFetch(domain:www.dreringriffiths.com)",
+      "Bash(for f:*)",
+      "Bash(do sed:*)",
+      "Bash(echo \"Updated $f\")",
+      "Bash(done)",
+      "WebFetch(domain:resiliencymbm.intakeq.com)"
     ]
   }
 }
