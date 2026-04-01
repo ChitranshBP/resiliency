@@ -41,7 +41,8 @@
       "Bash(curl -L -o scan.png \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Scan.png\")",
       "Bash(curl -L -o hoag.jpeg \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Hoag-Medical-Group.jpeg\")",
       "Bash(curl -L -o health-net.png \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Health-Net.png\")",
-      "Bash(curl -L -o mhn.jpeg \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/MHN.jpeg\")"
+      "Bash(curl -L -o mhn.jpeg \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/MHN.jpeg\")",
+      "WebFetch(domain:doctorsonsocialmedia.com)"
     ]
   }
 }
