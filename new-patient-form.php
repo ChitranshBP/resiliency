@@ -50,69 +50,27 @@
         </div>
     </section>
 
-    <!-- Forms Section -->
+    <!-- New Patient Form Section -->
     <section id="forms" class="py-16 bg-neutral relative overflow-hidden">
         <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
 
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center reveal">
                 <div class="flex items-center justify-center gap-3 mb-4">
                     <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
-                    <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Required Forms</h2>
+                    <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">New Patient Inquiry</h2>
                     <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
                 </div>
-                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Intake Forms</h3>
-                <p class="text-gray-600 text-lg font-light leading-relaxed">Please complete all required forms before your first appointment.</p>
-            </div>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Complete Your Intake Form</h3>
+                <p class="text-gray-600 text-lg font-light leading-relaxed mb-10 max-w-2xl mx-auto">Click the button below to access and complete the new patient inquiry form. This single form covers all the information we need for your first visit.</p>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <!-- New Patient Registration -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 p-8 reveal hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
-                        <i data-lucide="file-text" class="w-7 h-7"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">New Patient Registration</h4>
-                    <p class="text-gray-500 font-light leading-relaxed mb-6">Basic demographic information, emergency contacts, and medical history.</p>
-                    <a href="#" class="inline-flex items-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-6 py-3 rounded-full transition-all duration-300 shadow-md hover:-translate-y-1">
-                        Complete Form <i data-lucide="arrow-right" class="w-4 h-4"></i>
-                    </a>
-                </div>
-
-                <!-- Psychiatric History -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 p-8 reveal reveal-delay-1 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
-                        <i data-lucide="clipboard" class="w-7 h-7"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Psychiatric History</h4>
-                    <p class="text-gray-500 font-light leading-relaxed mb-6">Detailed mental health history, prior treatments, and current symptoms.</p>
-                    <a href="#" class="inline-flex items-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-6 py-3 rounded-full transition-all duration-300 shadow-md hover:-translate-y-1">
-                        Complete Form <i data-lucide="arrow-right" class="w-4 h-4"></i>
-                    </a>
-                </div>
-
-                <!-- Insurance Information -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 p-8 reveal hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
-                        <i data-lucide="file-check-2" class="w-7 h-7"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Insurance Information</h4>
-                    <p class="text-gray-500 font-light leading-relaxed mb-6">Upload your insurance card and complete benefits verification.</p>
-                    <a href="#" class="inline-flex items-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-6 py-3 rounded-full transition-all duration-300 shadow-md hover:-translate-y-1">
-                        Complete Form <i data-lucide="arrow-right" class="w-4 h-4"></i>
-                    </a>
-                </div>
-
-                <!-- Consent Forms -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 p-8 reveal reveal-delay-1 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
-                        <i data-lucide="shield" class="w-7 h-7"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Consent Forms</h4>
-                    <p class="text-gray-500 font-light leading-relaxed mb-6">Review and sign consent for treatment, telehealth, and HIPAA authorization.</p>
-                    <a href="#" class="inline-flex items-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-6 py-3 rounded-full transition-all duration-300 shadow-md hover:-translate-y-1">
-                        Complete Form <i data-lucide="arrow-right" class="w-4 h-4"></i>
-                    </a>
-                </div>
+                <a href="https://intakeq.com/new/exzmni/hitbhg" target="_blank" rel="noopener" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-12 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl text-lg">
+                    <span class="flex items-center gap-3">
+                        <i data-lucide="file-text" class="w-6 h-6"></i>
+                        New Patient Inquiry Form
+                        <i data-lucide="external-link" class="w-5 h-5 transform group-hover:translate-x-1 transition-transform"></i>
+                    </span>
+                </a>
             </div>
         </div>
     </section>

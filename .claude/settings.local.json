@@ -31,7 +31,17 @@
       "Bash(do sed:*)",
       "Bash(echo \"Updated $f\")",
       "Bash(done)",
-      "WebFetch(domain:resiliencymbm.intakeq.com)"
+      "WebFetch(domain:resiliencymbm.intakeq.com)",
+      "Bash(curl -L -o anthem.webp \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Anthem-BlueCross-BlueShield.webp\")",
+      "Bash(curl -L -o aetna.webp \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Aetna.webp\")",
+      "Bash(curl -L -o cigna.webp \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Cigna-Healthcare.webp\")",
+      "Bash(curl -L -o blue-california.webp \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Blue-California.webp\")",
+      "Bash(curl -L -o magellan.webp \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Magellan-Health.webp\")",
+      "Bash(curl -L -o triwest.png \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Triwest-Healthcare-Alliance.png\")",
+      "Bash(curl -L -o scan.png \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Scan.png\")",
+      "Bash(curl -L -o hoag.jpeg \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Hoag-Medical-Group.jpeg\")",
+      "Bash(curl -L -o health-net.png \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Health-Net.png\")",
+      "Bash(curl -L -o mhn.jpeg \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/MHN.jpeg\")"
     ]
   }
 }

@@ -48,91 +48,83 @@
                 <p class="text-gray-600 text-lg font-light leading-relaxed">We're in-network with the following insurance providers. Our team verifies your benefits before your first visit.</p>
             </div>
 
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 reveal">
-                <!-- Insurance Cards -->
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">Aetna</p>
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6 reveal">
+                <!-- Aetna -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/aetna.webp" alt="Aetna" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Aetna</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">Anthem Blue Cross Blue Shield</p>
+                <!-- Anthem Blue Cross Blue Shield -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/anthem.webp" alt="Anthem Blue Cross Blue Shield" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Anthem BCBS</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">Blue Shield of California</p>
+                <!-- Blue Shield of California -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/blue-california.webp" alt="Blue Shield of California" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Blue Shield of CA</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">CalOptima Health</p>
+                <!-- CalOptima Health -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/caloptima.svg" alt="CalOptima Health" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">CalOptima Health</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">Cigna</p>
+                <!-- Cigna -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/cigna.webp" alt="Cigna Healthcare" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Cigna Healthcare</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">Health Net</p>
+                <!-- Health Net -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/health-net.png" alt="Health Net" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Health Net</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">Hoag Medical Group</p>
+                <!-- Hoag Medical Group -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/hoag.jpeg" alt="Hoag Medical Group" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Hoag Medical Group</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">Magellan Health</p>
+                <!-- Magellan Health -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/magellan.webp" alt="Magellan Health" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Magellan Health</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">MHN (Managed Health Network)</p>
+                <!-- Medicare -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/medicare.webp" alt="Medicare" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Medicare</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">Medicare</p>
+                <!-- MHN -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/mhn.jpeg" alt="MHN - Managed Health Network" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">MHN</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">Optum</p>
+                <!-- Optum -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/optum.webp" alt="Optum" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Optum</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">TriCare</p>
+                <!-- SCAN -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/scan.png" alt="SCAN Health Plan" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">SCAN Health Plan</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
-                    </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">TriWest Healthcare Alliance</p>
+                <!-- TriCare -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/tricare.webp" alt="TriCare" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">TriCare</p>
                 </div>
-                <div class="bg-neutral rounded-[2rem] p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 text-center group">
-                    <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-3 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="check" class="w-5 h-5"></i>
+                <!-- TriWest Healthcare Alliance -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <img src="assets/images/insurance/triwest.png" alt="TriWest Healthcare Alliance" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">TriWest</p>
+                </div>
+                <!-- United Healthcare -->
+                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-3">
+                        <i data-lucide="shield-check" class="w-8 h-8"></i>
                     </div>
-                    <p class="text-[#0B2035] font-semibold text-sm">United Healthcare</p>
+                    <p class="text-[#0B2035] font-semibold text-xs">United Healthcare</p>
                 </div>
             </div>
         </div>

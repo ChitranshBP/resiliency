@@ -224,8 +224,127 @@
         </div>
     </section>
 
-    <!-- Locations Section -->
+    <!-- Meet Our Team Section -->
     <section class="py-16 bg-white relative overflow-hidden">
+        <div class="absolute -bottom-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                    <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Our Providers</h2>
+                    <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
+                </div>
+                <h3 class="text-4xl md:text-5xl font-bold text-primary mb-6">Meet Our Team</h3>
+                <p class="text-gray-600 text-lg font-light leading-relaxed">A multidisciplinary team of board-certified psychiatrists, physician associates, and psychiatric nurse practitioners dedicated to your well-being.</p>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mb-12">
+                <!-- Dr. Stefani LaFrenierre -->
+                <a href="team.php" class="group reveal">
+                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                        <div class="h-56 overflow-hidden">
+                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Dr.-Stefani-LaFrenierre-MD-1024x862.png" alt="Dr. Stefani LaFrenierre, MD" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-5 text-center">
+                            <h4 class="text-sm font-bold text-primary leading-tight">Dr. Stefani LaFrenierre, MD</h4>
+                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Founder & Psychiatrist</p>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Dr. Erin Griffiths -->
+                <a href="team.php" class="group reveal reveal-delay-1">
+                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                        <div class="h-56 overflow-hidden">
+                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Dr.-Erin-Griffiths-DO-MA-1024x862.png" alt="Dr. Erin Griffiths, DO, MA" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-5 text-center">
+                            <h4 class="text-sm font-bold text-primary leading-tight">Dr. Erin Griffiths, DO, MA</h4>
+                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Holistic Psychiatrist</p>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Dr. Heather Wong -->
+                <a href="team.php" class="group reveal reveal-delay-2">
+                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                        <div class="h-56 overflow-hidden">
+                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Dr.-Heather-Wong-DMSc-MPAS-PA-C-CAQ-Psych-1024x862.png" alt="Dr. Heather Wong" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-5 text-center">
+                            <h4 class="text-sm font-bold text-primary leading-tight">Dr. Heather Wong, PA-C</h4>
+                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Physician Associate</p>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Milinda Estrada -->
+                <a href="team.php" class="group reveal reveal-delay-3">
+                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                        <div class="h-56 overflow-hidden">
+                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/10/Milinda.png" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-5 text-center">
+                            <h4 class="text-sm font-bold text-primary leading-tight">Milinda Estrada, PA-C</h4>
+                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Physician Associate</p>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Regina Dizon -->
+                <a href="team.php" class="group reveal">
+                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                        <div class="h-56 overflow-hidden">
+                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Regina-Dizon-PMHNP-BC-1024x862.png" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-5 text-center">
+                            <h4 class="text-sm font-bold text-primary leading-tight">Regina Dizon, PMHNP-BC</h4>
+                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Psychiatric NP</p>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Brian Tran -->
+                <a href="team.php" class="group reveal reveal-delay-1">
+                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                        <div class="h-56 overflow-hidden">
+                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/08/Brian-Tran-team-headshot-1024x862.png" alt="Brian Tran, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-5 text-center">
+                            <h4 class="text-sm font-bold text-primary leading-tight">Brian Tran, PMHNP-BC</h4>
+                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Psychiatric NP</p>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Lina Kurdi -->
+                <a href="team.php" class="group reveal reveal-delay-2">
+                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                        <div class="h-56 overflow-hidden">
+                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Lina-Kurdi-PMHNP-BC-Resiliency-1024x862.png" alt="Lina Kurdi, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-5 text-center">
+                            <h4 class="text-sm font-bold text-primary leading-tight">Lina Kurdi, PMHNP-BC</h4>
+                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Psychiatric NP</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="text-center reveal">
+                <a href="team.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl">
+                    <span class="flex items-center gap-2">
+                        View Full Team & Bios
+                        <i data-lucide="arrow-right" class="w-5 h-5 transform group-hover:translate-x-1 transition-transform"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Locations Section -->
+    <section class="py-16 bg-neutral relative overflow-hidden">
         <div class="absolute -top-32 -left-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
