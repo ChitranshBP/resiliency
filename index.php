@@ -2,7 +2,7 @@
     <main>
         
         <!-- 1. Hero Section -->
-        <section class="relative h-[90vh] min-h-[600px] flex items-center justify-center overflow-hidden">
+        <section class="relative h-[70vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
             <!-- Background Video -->
             <div class="absolute inset-0 z-0">
                 <video autoplay loop muted playsinline class="w-full h-full object-cover">
