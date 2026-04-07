@@ -96,7 +96,7 @@
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/service_wellness.png" alt="Medical weight loss program" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/medical_weight_loss_consultation_clean.png" alt="Medical weight loss program" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
@@ -133,50 +133,50 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <!-- Card 1 -->
-                <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-colors reveal">
-                    <div class="flex items-start gap-5">
-                        <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
-                            <i data-lucide="brain" class="w-6 h-6"></i>
+                <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-all duration-300 reveal group">
+                    <div class="flex flex-col items-center text-center gap-4">
+                        <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="brain" class="w-7 h-7"></i>
                         </div>
                         <div>
-                            <h4 class="text-white font-bold text-lg mb-2">Mimicking Natural Hormones</h4>
-                            <p class="text-gray-400 font-light">These medications mimic GLP-1, a hormone that regulates appetite and food intake by enhancing feelings of fullness and satisfaction.</p>
+                            <h4 class="text-white font-bold text-xl mb-3">Mimicking Natural Hormones</h4>
+                            <p class="text-gray-400 font-light leading-relaxed">These medications mimic GLP-1, a hormone that regulates appetite and food intake by enhancing feelings of fullness and satisfaction.</p>
                         </div>
                     </div>
                 </div>
                 <!-- Card 2 -->
-                <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-colors reveal reveal-delay-1">
-                    <div class="flex items-start gap-5">
-                        <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
-                            <i data-lucide="timer" class="w-6 h-6"></i>
+                <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-1 group">
+                    <div class="flex flex-col items-center text-center gap-4">
+                        <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="timer" class="w-7 h-7"></i>
                         </div>
                         <div>
-                            <h4 class="text-white font-bold text-lg mb-2">Slowing Digestion</h4>
-                            <p class="text-gray-400 font-light">They slow down gastric emptying, extending the feeling of fullness after meals, thus reducing overall calorie intake.</p>
+                            <h4 class="text-white font-bold text-xl mb-3">Slowing Digestion</h4>
+                            <p class="text-gray-400 font-light leading-relaxed">They slow down gastric emptying, extending the feeling of fullness after meals, thus reducing overall calorie intake.</p>
                         </div>
                     </div>
                 </div>
                 <!-- Card 3 -->
-                <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-colors reveal reveal-delay-2">
-                    <div class="flex items-start gap-5">
-                        <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
-                            <i data-lucide="activity" class="w-6 h-6"></i>
+                <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-2 group">
+                    <div class="flex flex-col items-center text-center gap-4">
+                        <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="activity" class="w-7 h-7"></i>
                         </div>
                         <div>
-                            <h4 class="text-white font-bold text-lg mb-2">Improving Insulin Sensitivity</h4>
-                            <p class="text-gray-400 font-light">They enhance your body's response to insulin, supporting metabolic health and reducing the risk of type 2 diabetes.</p>
+                            <h4 class="text-white font-bold text-xl mb-3">Improving Insulin Sensitivity</h4>
+                            <p class="text-gray-400 font-light leading-relaxed">They enhance your body's response to insulin, supporting metabolic health and reducing the risk of type 2 diabetes.</p>
                         </div>
                     </div>
                 </div>
                 <!-- Card 4 -->
-                <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-colors reveal reveal-delay-3">
-                    <div class="flex items-start gap-5">
-                        <div class="w-12 h-12 bg-[#23bfe2]/20 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
-                            <i data-lucide="clipboard-check" class="w-6 h-6"></i>
+                <div class="bg-white/5 border border-white/10 rounded-2xl p-8 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-3 group">
+                    <div class="flex flex-col items-center text-center gap-4">
+                        <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] flex-shrink-0 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="clipboard-check" class="w-7 h-7"></i>
                         </div>
                         <div>
-                            <h4 class="text-white font-bold text-lg mb-2">Clinical Evidence</h4>
-                            <p class="text-gray-400 font-light">Clinical trials demonstrate their effectiveness in promoting significant weight loss and improving overall quality of life.</p>
+                            <h4 class="text-white font-bold text-xl mb-3">Clinical Evidence</h4>
+                            <p class="text-gray-400 font-light leading-relaxed">Clinical trials demonstrate their effectiveness in promoting significant weight loss and improving overall quality of life.</p>
                         </div>
                     </div>
                 </div>

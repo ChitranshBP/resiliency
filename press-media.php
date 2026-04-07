@@ -171,7 +171,7 @@
                 </a>
 
                 <!-- Press Card 6 - Harvard Fellowship -->
-                <div class="bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
+                <div class="bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-xl transition-all duration-300 hover:-translate-y-2 lg:col-start-2">
                     <div class="flex items-center gap-3 mb-4">
                         <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2]">
                             <i data-lucide="graduation-cap" class="w-5 h-5"></i>

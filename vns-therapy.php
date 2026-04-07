@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/anxiety_consultation.png" alt="VNS Therapy Consultation" class="w-full h-full object-cover">
+            <img src="assets/images/vns_therapy_device.png" alt="VNS Therapy Consultation" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -78,7 +78,7 @@
                 <!-- Badge -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/bipolar_relief.png" alt="VNS Therapy stability and care" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/vns_therapy_device.png" alt="Realistic VNS Therapy stability and care" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
