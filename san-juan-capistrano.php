@@ -145,12 +145,12 @@
                     <p class="text-gray-300 font-light leading-relaxed">Ongoing medication management with our conservative, integrative approach.</p>
                 </div>
 
-                <!-- TMS Therapy -->
+                <!-- Deep TMS Therapy -->
                 <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-xl font-bold text-white mb-3">TMS Therapy</h4>
+                    <h4 class="text-xl font-bold text-white mb-3">Deep TMS Therapy</h4>
                     <p class="text-gray-300 font-light leading-relaxed">Deep TMS sessions for depression, OCD, anxiety, and PTSD.</p>
                 </div>
 

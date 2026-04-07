@@ -179,21 +179,21 @@
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Step 1 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4">01</div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Consultation</h4>
                     <p class="text-gray-500 font-light leading-relaxed">Your provider assesses your skin concerns and goals to create a customized treatment plan.</p>
                 </div>
 
                 <!-- Step 2 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4">02</div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Treatment</h4>
                     <p class="text-gray-500 font-light leading-relaxed">Numbing cream is applied, then SkinPen creates precise micro-channels. The procedure takes 30-60 minutes.</p>
                 </div>
 
                 <!-- Step 3 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4">03</div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Recovery & Results</h4>
                     <p class="text-gray-500 font-light leading-relaxed">Mild redness for 24-48 hours. New collagen forms over weeks, with optimal results visible at 4-6 weeks. Results last up to 6 months.</p>

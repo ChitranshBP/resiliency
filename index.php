@@ -14,14 +14,14 @@
             <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
                 <div class="max-w-2xl reveal">
                     <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-6">
-                        Transforming Mental Health with Advanced <span class="text-secondary font-light">Psychiatry & TMS Therapy</span>
+                        Transforming Mental Health with Advanced <span class="text-secondary font-light">Psychiatry & Deep TMS Therapy</span>
                     </h1>
                     <p class="text-lg md:text-xl text-gray-100 mb-8 leading-relaxed font-light">
                         Personalized treatments for depression, anxiety, OCD, and PTSD using evidence-based therapies and advanced neuromodulation technology.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 mb-10">
                         <a href="contact.php" class="bg-lightblue text-primary font-bold px-8 py-3.5 rounded-full text-center transition-all hover:bg-[#1aadd0] hover:shadow-lg shadow-md hover:-translate-y-1 transform">
-                            Book Free Discovery Call
+                           Schedule Your Consultation
                         </a>
                         <a href="#treatments" class="bg-white/10 backdrop-blur-sm border border-white/30 text-white font-medium px-8 py-3.5 rounded-full text-center transition-all hover:bg-white/20">
                             Explore Treatments
@@ -205,9 +205,8 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-1 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/doctor_consult.png" alt="Anxiety Consultation" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
+                            <img src="assets/images/doctor_consult.png" alt="Anxiety Consultation" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
-                        <div class="absolute inset-0 z-0 bg-[#0B2035]/10"></div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
                         <!-- Hover Overlay -->
@@ -236,7 +235,7 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-2 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_tms.png" alt="TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/service_tms.png" alt="Deep TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -326,9 +325,8 @@
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_iv.png" alt="Mood Disorder Support" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 grayscale mix-blend-multiply opacity-80">
+                            <img src="assets/images/service_iv.png" alt="Mood Disorder Support" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
-                        <div class="absolute inset-0 z-0 bg-[#0B2035]/10"></div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
                         <!-- Hover Overlay -->
@@ -414,7 +412,7 @@
                         <h3 class="text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">Advanced <span class="text-[#23bfe2] font-light italic">Deep TMS</span> Therapy</h3>
                         
                         <p class="text-gray-300 text-lg mb-10 leading-relaxed font-light">
-                            Transcranial Magnetic Stimulation (TMS) is a highly effective, non-invasive treatment utilizing precise magnetic fields to stimulate deeply-seated nerve cells in the brain, driving robust remission for depression and OCD.
+                            Transcranial Magnetic Stimulation (Deep TMS) is a highly effective, non-invasive treatment utilizing precise magnetic fields to stimulate deeply-seated nerve cells in the brain, driving robust remission for depression and OCD.
                         </p>
                         
                         <!-- Feature List -->
@@ -446,7 +444,7 @@
                         </ul>
                         
                         <a href="tms-therapy.php" class="inline-flex items-center justify-center gap-2 bg-white text-primary hover:bg-[#23bfe2] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-[0_4px_20px_rgba(255,255,255,0.1)] hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] hover:-translate-y-1">
-                            Explore TMS Protocol <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                            Explore Deep TMS Protocol <i data-lucide="arrow-right" class="w-5 h-5"></i>
                         </a>
                     </div>
                 </div>
@@ -678,7 +676,7 @@
                         </div>
                         <div class="p-4 md:p-5 flex flex-col md:flex-row items-center text-center md:text-left md:justify-start gap-2 border-r border-gray-100 text-gray-500">
                             <i data-lucide="x" class="w-4 h-4 text-red-400 flex-shrink-0"></i> 
-                            <span class="text-xs md:text-sm font-medium leading-snug">Standard TMS only</span>
+                            <span class="text-xs md:text-sm font-medium leading-snug">Standard Deep TMS only</span>
                         </div>
                         <div class="p-4 md:p-5 flex flex-col md:flex-row items-center text-center md:text-left md:justify-start gap-2 bg-[#518efa]/5 group-hover:bg-[#518efa]/10 transition-colors border-l border-transparent md:border-[#518efa]/20">
                             <i data-lucide="check" class="w-4 h-4 text-[#23bfe2] flex-shrink-0"></i> 
@@ -697,7 +695,7 @@
                         </div>
                         <div class="p-4 md:p-5 flex flex-col md:flex-row items-center text-center md:text-left md:justify-start gap-2 bg-[#518efa]/5 group-hover:bg-[#518efa]/10 transition-colors border-l border-transparent md:border-[#518efa]/20">
                             <i data-lucide="check" class="w-4 h-4 text-[#23bfe2] flex-shrink-0"></i> 
-                            <span class="text-xs md:text-sm font-bold text-[#0B2035] leading-snug">6-Day Accelerated TMS protocol</span>
+                            <span class="text-xs md:text-sm font-bold text-[#0B2035] leading-snug">6-Day Accelerated Deep TMS protocol</span>
                         </div>
                     </div>
 
@@ -812,7 +810,7 @@
                                 <i data-lucide="leaf" class="w-6 h-6 text-[#23bfe2]"></i> Integrative Care
                             </div>
                             <div class="flex items-center gap-2 text-white font-medium text-sm md:text-base">
-                                <i data-lucide="cpu" class="w-6 h-6 text-[#23bfe2]"></i> TMS Specialist
+                                <i data-lucide="cpu" class="w-6 h-6 text-[#23bfe2]"></i> Deep TMS Specialist
                             </div>
                         </div>
                     </div>
@@ -927,7 +925,7 @@
                             <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                         </div>
                         <p class="text-gray-700 text-sm leading-relaxed mb-6">
-                            "The TMS treatments were life changing for my OCD. The techs were so fun to talk to every day, making the 6 weeks fly by."
+                            "The Deep TMS treatments were life changing for my OCD. The techs were so fun to talk to every day, making the 6 weeks fly by."
                         </p>
                         <div class="flex items-center justify-between">
                             <div class="flex items-center gap-3">
@@ -1030,7 +1028,7 @@
                 <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                     <a href="contact.php" class="group relative inline-flex items-center justify-center bg-lightblue hover:bg-[#1aadd0] text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl overflow-hidden text-lg w-full sm:w-auto">
                         <span class="relative z-10 flex items-center gap-2">
-                            Book Free Discovery Call
+                            Schedule Your Consultation
                             <i data-lucide="arrow-right" class="w-5 h-5 transform group-hover:translate-x-1 transition-transform"></i>
                         </span>
                     </a>

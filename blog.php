@@ -19,7 +19,7 @@
                     Our <br/><span class="text-[#23bfe2] font-light">Blog</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
-                    Expert insights on mental health, TMS therapy, integrative psychiatry, and wellness from the team at Resiliency Mind + Body Medicine.
+                    Expert insights on mental health, Deep TMS therapy, integrative psychiatry, and wellness from the team at Resiliency Mind + Body Medicine.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="#articles" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -55,7 +55,7 @@
                     </div>
                     <div class="p-8">
                         <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">TMS Therapy</span>
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS Therapy</span>
                             <span class="text-gray-400 text-sm font-light">Coming Soon</span>
                         </div>
                         <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Understanding Treatment-Resistant Depression</h3>
@@ -75,12 +75,12 @@
                     </div>
                     <div class="p-8">
                         <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">TMS Therapy</span>
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS Therapy</span>
                             <span class="text-gray-400 text-sm font-light">Coming Soon</span>
                         </div>
-                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">TMS Therapy for High Performers</h3>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Deep TMS Therapy for High Performers</h3>
                         <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
-                            How busy professionals are using accelerated TMS to address workplace stress and burnout.
+                            How busy professionals are using accelerated Deep TMS to address workplace stress and burnout.
                         </p>
                         <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
                             Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
@@ -155,7 +155,7 @@
                     </div>
                     <div class="p-8">
                         <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">TMS Therapy</span>
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS Therapy</span>
                             <span class="text-gray-400 text-sm font-light">Coming Soon</span>
                         </div>
                         <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">The Science Behind Integrative Psychiatry</h3>

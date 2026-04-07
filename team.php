@@ -198,7 +198,7 @@
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Cyrus Jimenez</h4>
-                        <p class="text-gray-500 text-sm font-medium mt-1">TMS Technician</p>
+                        <p class="text-gray-500 text-sm font-medium mt-1">Deep TMS Technician</p>
                     </div>
                 </div>
 

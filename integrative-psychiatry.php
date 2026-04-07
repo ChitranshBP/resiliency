@@ -199,7 +199,7 @@
                         <div>
                             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-1">Personal Holistic Approach</p>
                             <h4 class="text-lg font-bold text-[#0B2035] mb-2">Substance Use & MAT</h4>
-                            <p class="text-gray-500 text-sm font-light leading-relaxed">Evidence-based treatment of substance use and dual-diagnosis conditions. Treatments include Suboxone MAT, Sublocade, Vivitrol, and TMS for smoking cessation.</p>
+                            <p class="text-gray-500 text-sm font-light leading-relaxed">Evidence-based treatment of substance use and dual-diagnosis conditions. Treatments include Suboxone MAT, Sublocade, Vivitrol, and Deep TMS for smoking cessation.</p>
                         </div>
                     </div>
                     <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300">
@@ -489,7 +489,7 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Benefit 1 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="user-check" class="w-8 h-8"></i>
                     </div>
@@ -498,16 +498,16 @@
                 </div>
 
                 <!-- Benefit 2 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="layers" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-2xl font-bold text-primary mb-4">All-In-One Practice</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Psychiatry, TMS, SPRAVATO, IV therapy, supplements, and lifestyle medicine under one roof.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Psychiatry, Deep TMS, SPRAVATO, IV therapy, supplements, and lifestyle medicine under one roof.</p>
                 </div>
 
                 <!-- Benefit 3 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="laptop" class="w-8 h-8"></i>
                     </div>
@@ -516,7 +516,7 @@
                 </div>
 
                 <!-- Benefit 4 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="file-check-2" class="w-8 h-8"></i>
                     </div>
@@ -525,7 +525,7 @@
                 </div>
 
                 <!-- Benefit 5 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="timer" class="w-8 h-8"></i>
                     </div>
@@ -534,12 +534,12 @@
                 </div>
 
                 <!-- Benefit 6 -->
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="trending-up" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Proven Results</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">7,000+ treatments completed with 80% clinic response rates for TMS and SPRAVATO.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">7,000+ treatments completed with 80% clinic response rates for Deep TMS and SPRAVATO.</p>
                 </div>
             </div>
         </div>
@@ -609,7 +609,7 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Absolutely. We offer secure telehealth appointments for psychiatric evaluations, medication management, and treatment planning. Some services like TMS, SPRAVATO, and IV therapy require in-person visits at our Newport Beach or San Juan Capistrano offices.
+                            Absolutely. We offer secure telehealth appointments for psychiatric evaluations, medication management, and treatment planning. Some services like Deep TMS, SPRAVATO, and IV therapy require in-person visits at our Newport Beach or San Juan Capistrano offices.
                         </div>
                     </div>
                 </div>
@@ -635,7 +635,7 @@
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
-                        Book a Free Discovery Call
+                        Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
                     </span>
                 </a>

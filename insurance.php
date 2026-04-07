@@ -144,16 +144,16 @@
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Card 1 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal group">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-8 h-8"></i>
                     </div>
-                    <h4 class="text-2xl font-bold text-white mb-4">TMS Therapy</h4>
+                    <h4 class="text-2xl font-bold text-white mb-4">Deep TMS Therapy</h4>
                     <p class="text-gray-400 font-light leading-relaxed">Covered by most commercial insurers and Medicare for treatment-resistant depression and OCD. We handle prior authorization.</p>
                 </div>
 
                 <!-- Card 2 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="droplets" class="w-8 h-8"></i>
                     </div>
@@ -162,7 +162,7 @@
                 </div>
 
                 <!-- Card 3 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="pill" class="w-8 h-8"></i>
                     </div>
@@ -248,7 +248,7 @@
                             </div>
                             <div>
                                 <h4 class="text-xl font-bold text-[#0B2035] mb-2">Prior Authorization</h4>
-                                <p class="text-gray-500 font-light leading-relaxed">For TMS, SPRAVATO, and other procedures, we handle the entire prior authorization process with your insurer.</p>
+                                <p class="text-gray-500 font-light leading-relaxed">For Deep TMS, SPRAVATO, and other procedures, we handle the entire prior authorization process with your insurer.</p>
                             </div>
                         </div>
 
@@ -283,7 +283,7 @@
                 <a href="tel:+19499965355" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         <i data-lucide="phone" class="w-6 h-6"></i>
-                        Call Us: (949) 996-5355
+                        Call : (949) 996-5355
                     </span>
                 </a>
                 <a href="contact.php" class="inline-flex items-center gap-2 text-[#0B2035] font-bold hover:text-[#23bfe2] transition-colors text-lg">

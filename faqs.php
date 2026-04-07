@@ -58,7 +58,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                We offer Deep TMS therapy, Accelerated TMS (SWIFT protocol), SPRAVATO (esketamine), conservative medication management, integrative psychiatry, IV vitamin therapy, NAD+ therapy, medical weight loss, aesthetic treatments, and more.
+                                We offer Deep TMS therapy, Accelerated Deep TMS (SWIFT protocol), SPRAVATO (esketamine), conservative medication management, integrative psychiatry, IV vitamin therapy, NAD+ therapy, medical weight loss, aesthetic treatments, and more.
                             </div>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Yes! We offer secure telehealth appointments for psychiatric evaluations, medication management, and treatment planning. Some services like TMS, SPRAVATO, and IV therapy require in-person visits.
+                                Yes! We offer secure telehealth appointments for psychiatric evaluations, medication management, and treatment planning. Some services like Deep TMS, SPRAVATO, and IV therapy require in-person visits.
                             </div>
                         </div>
                     </div>
@@ -93,19 +93,19 @@
                 </div>
             </div>
 
-            <!-- Category 2: TMS Therapy -->
+            <!-- Category 2: Deep TMS Therapy -->
             <div class="mb-16 reveal">
                 <div class="flex items-center gap-3 mb-8">
                     <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2]">
                         <i data-lucide="brain" class="w-5 h-5"></i>
                     </div>
-                    <h2 class="text-2xl md:text-3xl font-bold text-[#0B2035]">TMS Therapy</h2>
+                    <h2 class="text-2xl md:text-3xl font-bold text-[#0B2035]">Deep TMS Therapy</h2>
                 </div>
 
                 <div class="space-y-4">
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">What is TMS?</span>
+                            <span class="text-[#0B2035]">What is Deep TMS?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
@@ -119,42 +119,42 @@
 
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">Does TMS hurt?</span>
+                            <span class="text-[#0B2035]">Does Deep TMS hurt?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                TMS is generally well-tolerated. Most patients describe a mild tapping sensation on the scalp. Any discomfort typically subsides after the first week of sessions.
+                                Deep TMS is generally well-tolerated. Most patients describe a mild tapping sensation on the scalp. Any discomfort typically subsides after the first week of sessions.
                             </div>
                         </div>
                     </div>
 
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">How many TMS sessions will I need?</span>
+                            <span class="text-[#0B2035]">How many Deep TMS sessions will I need?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Standard protocol is 36 sessions over 7&ndash;12 weeks. Our Accelerated TMS (SWIFT) protocol offers 50 sessions over just 5&ndash;10 days for rapid results.
+                                Standard protocol is 36 sessions over 7&ndash;12 weeks. Our Accelerated Deep TMS (SWIFT) protocol offers 50 sessions over just 5&ndash;10 days for rapid results.
                             </div>
                         </div>
                     </div>
 
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">Will insurance cover TMS?</span>
+                            <span class="text-[#0B2035]">Will insurance cover Deep TMS?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Most commercial insurers and Medicare cover TMS for treatment-resistant depression. Our team handles verification and prior authorization.
+                                Most commercial insurers and Medicare cover Deep TMS for treatment-resistant depression. Our team handles verification and prior authorization.
                             </div>
                         </div>
                     </div>

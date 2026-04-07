@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/hero_bg.png" alt="TMS Therapy FAQ" class="w-full h-full object-cover">
+            <img src="assets/images/hero_bg.png" alt="Deep TMS Therapy FAQ" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -16,7 +16,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Patient Resources</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    TMS Therapy <br/><span class="text-[#23bfe2] font-light">FAQ</span>
+                    Deep TMS Therapy <br/><span class="text-[#23bfe2] font-light">FAQ</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Detailed answers to frequently asked questions about Transcranial Magnetic Stimulation therapy.
@@ -39,19 +39,19 @@
 
         <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
-            <!-- Category 1: About TMS -->
+            <!-- Category 1: About Deep TMS -->
             <div class="mb-16 reveal">
                 <div class="flex items-center gap-3 mb-8">
                     <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2]">
                         <i data-lucide="brain" class="w-5 h-5"></i>
                     </div>
-                    <h2 class="text-2xl md:text-3xl font-bold text-[#0B2035]">About TMS</h2>
+                    <h2 class="text-2xl md:text-3xl font-bold text-[#0B2035]">About Deep TMS</h2>
                 </div>
 
                 <div class="space-y-4">
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">What is TMS?</span>
+                            <span class="text-[#0B2035]">What is Deep TMS?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
@@ -65,7 +65,7 @@
 
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">How does TMS work?</span>
+                            <span class="text-[#0B2035]">How does Deep TMS work?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
@@ -79,14 +79,14 @@
 
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">What conditions does TMS treat?</span>
+                            <span class="text-[#0B2035]">What conditions does Deep TMS treat?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                TMS is FDA-cleared for major depressive disorder, anxious depression, OCD, and smoking cessation. It is also showing promising results for PTSD, anxiety, bipolar depression, and substance use disorders.
+                                Deep TMS is FDA-cleared for major depressive disorder, anxious depression, OCD, and smoking cessation. It is also showing promising results for PTSD, anxiety, bipolar depression, and substance use disorders.
                             </div>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
 
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">Does TMS hurt?</span>
+                            <span class="text-[#0B2035]">Does Deep TMS hurt?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
@@ -140,7 +140,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Yes. No sedation is required for TMS therapy. You can drive and return to normal activities immediately after your session.
+                                Yes. No sedation is required for Deep TMS therapy. You can drive and return to normal activities immediately after your session.
                             </div>
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Standard protocol is 36 sessions over 7&ndash;12 weeks. Our Accelerated TMS (SWIFT) protocol offers 50 sessions over just 5&ndash;10 days for rapid results.
+                                Standard protocol is 36 sessions over 7&ndash;12 weeks. Our Accelerated Deep TMS (SWIFT) protocol offers 50 sessions over just 5&ndash;10 days for rapid results.
                             </div>
                         </div>
                     </div>
@@ -213,14 +213,14 @@
                 <div class="space-y-4">
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">Will insurance cover TMS?</span>
+                            <span class="text-[#0B2035]">Will insurance cover Deep TMS?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Most commercial insurers and Medicare cover TMS for treatment-resistant depression. Our team handles verification and prior authorization on your behalf.
+                                Most commercial insurers and Medicare cover Deep TMS for treatment-resistant depression. Our team handles verification and prior authorization on your behalf.
                             </div>
                         </div>
                     </div>
@@ -234,7 +234,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Typically, insurance requires having tried and failed 2&ndash;4 antidepressant medications and having engaged in psychotherapy before approving TMS coverage.
+                                Typically, insurance requires having tried and failed 2&ndash;4 antidepressant medications and having engaged in psychotherapy before approving Deep TMS coverage.
                             </div>
                         </div>
                     </div>
@@ -253,7 +253,7 @@
                 Have More <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">Questions?</span>
             </h2>
             <p class="text-xl text-gray-600 mb-12 font-light max-w-2xl mx-auto leading-relaxed">
-                Our team is here to answer any questions you have about TMS therapy and help you determine if it's right for you.
+                Our team is here to answer any questions you have about Deep TMS therapy and help you determine if it's right for you.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">

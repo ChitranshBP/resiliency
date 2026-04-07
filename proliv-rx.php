@@ -164,7 +164,7 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="zap" class="w-7 h-7"></i>
                     </div>
@@ -172,7 +172,7 @@
                     <p class="text-gray-500 font-light text-sm leading-relaxed">Forehead electrodes stimulate the supraorbital and supratrochlear trigeminal nerve branches bilaterally.</p>
                 </div>
 
-                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="radio" class="w-7 h-7"></i>
                     </div>
@@ -180,7 +180,7 @@
                     <p class="text-gray-500 font-light text-sm leading-relaxed">Rear electrodes stimulate the two greater occipital nerve branches at the back of the head.</p>
                 </div>
 
-                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
@@ -188,7 +188,7 @@
                     <p class="text-gray-500 font-light text-sm leading-relaxed">Electrical pulses travel through sensory nerves to the brainstem, then into thalamo-cortical and limbic networks.</p>
                 </div>
 
-                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="smile" class="w-7 h-7"></i>
                     </div>
@@ -353,7 +353,7 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="rocket" class="w-7 h-7"></i>
                     </div>
@@ -361,7 +361,7 @@
                     <p class="text-gray-500 font-light leading-relaxed">We are part of the initial deployment of Proliv™Rx, bringing this breakthrough to our patients first.</p>
                 </div>
 
-                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="user-check" class="w-7 h-7"></i>
                     </div>
@@ -369,15 +369,15 @@
                     <p class="text-gray-500 font-light leading-relaxed">Led by Dr. LaFrenierre, double board-certified in Psychiatry and Addiction Medicine.</p>
                 </div>
 
-                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="layers" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Integrated Treatment</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Proliv™Rx alongside TMS, SPRAVATO, VNS, medication management, and lifestyle medicine.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Proliv™Rx alongside Deep TMS, SPRAVATO, VNS, medication management, and lifestyle medicine.</p>
                 </div>
 
-                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group">
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="file-check-2" class="w-7 h-7"></i>
                     </div>
@@ -399,14 +399,14 @@
             <div class="space-y-4">
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>How is Proliv™Rx different from TMS?</span>
+                        <span>How is Proliv™Rx different from Deep TMS?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            TMS requires daily in-clinic sessions over several weeks. Proliv™Rx is prescribed by your clinician but self-administered at home using a wearable headset, eliminating the need for frequent clinic visits while maintaining physician oversight through app-based monitoring.
+                            Deep TMS requires daily in-clinic sessions over several weeks. Proliv™Rx is prescribed by your clinician but self-administered at home using a wearable headset, eliminating the need for frequent clinic visits while maintaining physician oversight through app-based monitoring.
                         </div>
                     </div>
                 </div>

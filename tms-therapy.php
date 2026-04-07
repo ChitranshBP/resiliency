@@ -35,7 +35,7 @@
         </div>
     </section>
 
-    <!-- What is TMS Section -->
+    <!-- What is Deep TMS Section -->
     <section class="py-16 relative overflow-hidden bg-white">
         <!-- Decorative Background -->
         <div class="absolute top-0 right-0 w-1/3 h-full bg-[#23bfe2]/5 -skew-x-12 transform translate-x-32 hidden lg:block pointer-events-none"></div>
@@ -46,14 +46,14 @@
                 <div class="w-full lg:w-1/2 text-[#0B2035] reveal">
                     <div class="flex items-center gap-3 mb-4">
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
-                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Understanding TMS</h2>
+                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Understanding Deep TMS</h2>
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">What is Transcranial Magnetic Stimulation?</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
                         Deep Transcranial Magnetic Stimulation (dTMS) utilizing the BrainsWay H-Coil technology is a non-invasive, outpatient therapy. It works by sending safe, targeted magnetic pulses to stimulate neurons in specific brain regions associated with mood control and obsessive-compulsive behaviors.
                     </p>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
-                        Unlike systemic treatments like medication, TMS targets only the brain circuits that need healing, drastically reducing the risk of uncomfortable bodily side effects. Our clinic provides precise, customized TMS mapping to ensure maximum therapeutic benefit.
+                        Unlike systemic treatments like medication, Deep TMS targets only the brain circuits that need healing, drastically reducing the risk of uncomfortable bodily side effects. Our clinic provides precise, customized Deep TMS mapping to ensure maximum therapeutic benefit.
                     </p>
                     
                     <div class="bg-neutral p-6 rounded-2xl mb-8 border border-gray-100">
@@ -117,7 +117,7 @@
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
                         <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Neural Impact</h2>
                     </div>
-                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 text-white">Before and After Brain Effects of TMS</h3>
+                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 text-white">Before and After Brain Effects of Deep TMS</h3>
                     
                     <div class="space-y-6 text-gray-300 font-light leading-relaxed text-lg">
                         <p>
@@ -127,7 +127,7 @@
                             After a course of Deep TMS, the scan depicts more balanced activity in mood-related brain networks, reflecting improved neural functioning.
                         </p>
                         <p class="text-sm text-gray-400 italic mt-8 border-l-2 border-[#23bfe2] pl-4">
-                            *While individual results vary and PET scans are not used to guide routine clinical care, these visuals help explain how TMS can modulate brain circuits involved in mood regulation.
+                            *While individual results vary and PET scans are not used to guide routine clinical care, these visuals help explain how Deep TMS can modulate brain circuits involved in mood regulation.
                         </p>
                     </div>
                 </div>
@@ -141,7 +141,7 @@
                         <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-white/10 bg-[#0B2035]/50 backdrop-blur-sm p-2 ring-1 ring-white/20">
                             <img 
                                 src="assets/images/mental-Health/TMS/how-tms-works-2048x1152.webp" 
-                                alt="Before and After PET Scans showing TMS Neural Impact" 
+                                alt="Before and After PET Scans showing Deep TMS Neural Impact" 
                                 class="w-full h-auto rounded-[2rem] object-cover transition-transform duration-700 group-hover:scale-[1.02]"
                             >
                             
@@ -157,7 +157,7 @@
         </div>
     </section>
 
-    <!-- Deep TMS vs. Standard TMS Comparison Video -->
+    <!-- Deep TMS vs. Standard Deep TMS Comparison Video -->
     <section class="py-16 bg-white relative overflow-hidden">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <div class="flex flex-col lg:flex-row items-center gap-12 lg:gap-20">
@@ -167,7 +167,7 @@
                         <iframe 
                             class="absolute inset-0 w-full h-full"
                             src="https://www.youtube.com/embed/p2xO4FdpAo0?rel=0" 
-                            title="Deep TMS vs. First Generation TMS Animated Video" 
+                            title="Deep TMS vs. First Generation Deep TMS Animated Video" 
                             frameborder="0" 
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                             allowfullscreen>
@@ -181,9 +181,9 @@
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
                         <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">The Tech Advantage</h2>
                     </div>
-                    <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035] mb-6 leading-tight">Deep TMS vs. <br><span class="text-gray-400 font-light italic">First Generation TMS</span></h3>
+                    <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035] mb-6 leading-tight">Deep TMS vs. <br><span class="text-gray-400 font-light italic">First Generation Deep TMS</span></h3>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
-                        Not all TMS technologies are created equal. Watch this animated comparison to see how Deep TMS technology reaches deeper and broader brain structures than traditional figure-8 coils, leading to better clinical outcomes.
+                        Not all Deep TMS technologies are created equal. Watch this animated comparison to see how Deep TMS technology reaches deeper and broader brain structures than traditional figure-8 coils, leading to better clinical outcomes.
                     </p>
                     
                     <ul class="space-y-4">
@@ -214,7 +214,7 @@
         <div class="absolute top-1/2 left-0 w-64 h-64 bg-[#23bfe2]/5 rounded-full blur-3xl -z-10 -translate-x-1/2"></div>
     </section>
 
-    <!-- Why Choose TMS (Benefits) Grid -->
+    <!-- Why Choose Deep TMS (Benefits) Grid -->
     <section class="py-16 bg-neutral relative overflow-hidden">
         <!-- Abstract background accents -->
         <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
@@ -228,16 +228,16 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Benefit 1 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="shield-check" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-2xl font-bold text-primary mb-4">No Systemic Effects</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Unlike medications that circulate through the entire body causing weight gain, sexual dysfunction, or extreme fatigue, TMS strictly focuses on the brain.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Unlike medications that circulate through the entire body causing weight gain, sexual dysfunction, or extreme fatigue, Deep TMS strictly focuses on the brain.</p>
                 </div>
                 
                 <!-- Benefit 2 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="clock" class="w-8 h-8"></i>
                     </div>
@@ -246,7 +246,7 @@
                 </div>
 
                 <!-- Benefit 3 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="zap" class="w-8 h-8"></i>
                     </div>
@@ -255,16 +255,16 @@
                 </div>
 
                 <!-- Benefit 4 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="file-check-2" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Insurance Covered</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">TMS is widely recognized and covered by most major commercial insurance providers, as well as Medicare, for treatment-resistant depression.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS is widely recognized and covered by most major commercial insurance providers, as well as Medicare, for treatment-resistant depression.</p>
                 </div>
 
                 <!-- Benefit 5 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain-circuit" class="w-8 h-8"></i>
                     </div>
@@ -273,7 +273,7 @@
                 </div>
 
                 <!-- Benefit 6 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="infinity" class="w-8 h-8"></i>
                     </div>
@@ -299,12 +299,12 @@
                         <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">The Resiliency Difference</h2>
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold text-[#0B2035] mb-8 leading-tight">
-                        Explore What Makes TMS Therapy at <span class="text-[#23bfe2]">Resiliency Unique</span> with Dr. LaFrenierre
+                        Explore What Makes Deep TMS Therapy at <span class="text-[#23bfe2]">Resiliency Unique</span> with Dr. LaFrenierre
                     </h3>
                     
                     <div class="space-y-6 text-gray-600 text-lg font-light leading-relaxed">
                         <p class="relative pl-8 border-l-4 border-[#23bfe2]">
-                            With a deep understanding of the nuances of mental health care, Dr. LaFrenierre’s approach to Transcranial Magnetic Stimulation (TMS) Therapy goes beyond traditional methods, offering personalized and compassionate care tailored to each patient’s unique needs.
+                            With a deep understanding of the nuances of mental health care, Dr. LaFrenierre’s approach to Transcranial Magnetic Stimulation (Deep TMS) Therapy goes beyond traditional methods, offering personalized and compassionate care tailored to each patient’s unique needs.
                         </p>
                         <p>
                             By focusing on innovative techniques and a holistic treatment model, Resiliency is redefining what it means to support mental well-being, helping patients achieve lasting, transformative results.
@@ -326,7 +326,7 @@
                         <div class="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white ring-1 ring-gray-100">
                             <img 
                                 src="assets/images/mental-Health/TMS/Dr.-L-tms.webp" 
-                                alt="Dr. LaFrenierre with TMS Technology" 
+                                alt="Dr. LaFrenierre with Deep TMS Technology" 
                                 class="w-full h-[500px] object-cover object-top grayscale-[0.2] transition-all duration-700 group-hover:grayscale-0 group-hover:scale-105"
                             >
                             
@@ -397,14 +397,14 @@
                 <!-- FAQ Item 1 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>Does TMS Therapy hurt?</span>
+                        <span>Does Deep TMS Therapy hurt?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            TMS is generally quite well-tolerated and is strictly non-invasive. Most patients describe the feeling of the magnetic pulses as a mild tapping sensation on the scalp. Scalp discomfort or mild headaches may occur initially, but typically subside completely after the first week of sessions as you habituate.
+                            Deep TMS is generally quite well-tolerated and is strictly non-invasive. Most patients describe the feeling of the magnetic pulses as a mild tapping sensation on the scalp. Scalp discomfort or mild headaches may occur initially, but typically subside completely after the first week of sessions as you habituate.
                         </div>
                     </div>
                 </div>
@@ -419,7 +419,7 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes, absolutely! Because TMS therapy doesn't require anesthesia or sedation of any kind, it has zero impact on your cognitive alertness. You can safely drive to and from your appointments and seamlessly return to work or normal activities immediately afterward.
+                            Yes, absolutely! Because Deep TMS therapy doesn't require anesthesia or sedation of any kind, it has zero impact on your cognitive alertness. You can safely drive to and from your appointments and seamlessly return to work or normal activities immediately afterward.
                         </div>
                     </div>
                 </div>
@@ -434,7 +434,7 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Most commercial insurance carriers and Medicare provide robust coverage for TMS as a treatment for Major Depressive Disorder when medical necessity criteria are met (typically, having tried and failed 2 to 4 different oral antidepressants and having engaged in psychotherapy). Our dedicated clinic team will perform a full benefits verification for you.
+                            Most commercial insurance carriers and Medicare provide robust coverage for Deep TMS as a treatment for Major Depressive Disorder when medical necessity criteria are met (typically, having tried and failed 2 to 4 different oral antidepressants and having engaged in psychotherapy). Our dedicated clinic team will perform a full benefits verification for you.
                         </div>
                     </div>
                 </div>
@@ -517,7 +517,7 @@
                         <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                     </div>
                     <p class="text-gray-700 text-base leading-relaxed mb-8 font-light italic">
-                        "The clinic space is beautiful and calming—not at all like a cold hospital. Dr. LaFrenierre's team made the TMS process easy to understand and the results have been truly transformative for my mental health."
+                        "The clinic space is beautiful and calming—not at all like a cold hospital. Dr. LaFrenierre's team made the Deep TMS process easy to understand and the results have been truly transformative for my mental health."
                     </p>
                     <div class="flex items-center justify-between border-t border-gray-50 pt-6">
                         <div class="flex items-center gap-3">

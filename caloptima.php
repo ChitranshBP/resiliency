@@ -108,7 +108,7 @@
                     <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-lg font-bold text-white mb-2">TMS Therapy</h4>
+                    <h4 class="text-lg font-bold text-white mb-2">Deep TMS Therapy</h4>
                     <p class="text-gray-400 font-light text-sm leading-relaxed">Deep TMS with prior authorization for qualifying conditions.</p>
                 </div>
 
@@ -136,21 +136,21 @@
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Step 1 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4">01</div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Verify Benefits</h4>
                     <p class="text-gray-500 font-light leading-relaxed">Call us at (949) 996-5355 or provide your CalOptima member ID. Our team verifies your coverage and benefits.</p>
                 </div>
 
                 <!-- Step 2 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4">02</div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Prior Authorization</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">For TMS and SPRAVATO, we handle the entire prior authorization process with CalOptima on your behalf.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">For Deep TMS and SPRAVATO, we handle the entire prior authorization process with CalOptima on your behalf.</p>
                 </div>
 
                 <!-- Step 3 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4">03</div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Schedule Your Visit</h4>
                     <p class="text-gray-500 font-light leading-relaxed">Once benefits are confirmed, we schedule your initial appointment at our Newport Beach or San Juan Capistrano office.</p>
@@ -201,14 +201,14 @@
                 <!-- FAQ Item 3 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>Is TMS covered under CalOptima?</span>
+                        <span>Is Deep TMS covered under CalOptima?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            TMS may be covered with prior authorization for qualifying diagnoses. Our team manages the entire authorization process.
+                            Deep TMS may be covered with prior authorization for qualifying diagnoses. Our team manages the entire authorization process.
                         </div>
                     </div>
                 </div>

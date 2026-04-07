@@ -18,11 +18,11 @@
                     Treatment for <br/><span class="text-[#23bfe2] font-light">Suicidal Ideation</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
-                    Find hope and healing with TMS and SPRAVATO® — advanced, evidence-based treatments for severe depression and suicidal ideation at Resiliency Mind+Body Medicine.
+                    Find hope and healing with Deep TMS and SPRAVATO® — advanced, evidence-based treatments for severe depression and suicidal ideation at Resiliency Mind+Body Medicine.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
-                        Book a Free Discovery Call <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                        Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
                         <i data-lucide="phone" class="w-5 h-5"></i> (949) 996-5355
@@ -92,7 +92,7 @@
                     <div class="rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 w-[320px] h-[568px]">
                         <iframe
                             src="https://www.youtube.com/embed/-LYaC5mNnDo"
-                            title="TMS and SPRAVATO for Suicidal Ideation at Resiliency"
+                            title="Deep TMS and SPRAVATO for Suicidal Ideation at Resiliency"
                             frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen
@@ -105,7 +105,7 @@
         </div>
     </section>
 
-    <!-- How TMS & SPRAVATO Work -->
+    <!-- How Deep TMS & SPRAVATO Work -->
     <section class="py-16 bg-[#0B2035] relative overflow-hidden text-white border-t border-white/10">
         <div class="absolute inset-0 z-0 bg-gradient-to-b from-[#0B2035] via-[#0B2035]/95 to-[#0B2035]"></div>
         <div class="absolute -top-40 -left-40 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
@@ -122,19 +122,19 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <!-- TMS -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:-translate-y-2 transition-all duration-300 reveal group">
+                <!-- Deep TMS -->
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:-translate-y-2 transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-2xl font-bold mb-4">How TMS Works for Suicidal Ideation</h4>
+                    <h4 class="text-2xl font-bold mb-4">How Deep TMS Works for Suicidal Ideation</h4>
                     <p class="text-gray-300 font-light leading-relaxed">
-                        Transcranial magnetic stimulation (TMS) targets specific brain areas involved in mood regulation and emotional control. By delivering magnetic pulses to these regions, TMS can help modulate brain activity, reducing the intensity and frequency of suicidal thoughts and improving overall mental health.
+                        Transcranial magnetic stimulation (Deep TMS) targets specific brain areas involved in mood regulation and emotional control. By delivering magnetic pulses to these regions, Deep TMS can help modulate brain activity, reducing the intensity and frequency of suicidal thoughts and improving overall mental health.
                     </p>
                 </div>
 
                 <!-- SPRAVATO -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="droplets" class="w-7 h-7"></i>
                     </div>
@@ -158,7 +158,7 @@
                     <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Benefits</h2>
                     <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
                 </div>
-                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Benefits of TMS and SPRAVATO®</h3>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Benefits of Deep TMS and SPRAVATO®</h3>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -175,7 +175,7 @@
                         <i data-lucide="shield-check" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Non-Invasive and Drug-Free</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">TMS does not require medication, avoiding potential side effects of pharmaceuticals.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS does not require medication, avoiding potential side effects of pharmaceuticals.</p>
                 </div>
 
                 <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
@@ -183,7 +183,7 @@
                         <i data-lucide="heart" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Emotional Stability</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">TMS and SPRAVATO® can help enhance mood stability and emotional well-being by improving brain function.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS and SPRAVATO® can help enhance mood stability and emotional well-being by improving brain function.</p>
                 </div>
             </div>
 
@@ -217,7 +217,7 @@
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">01</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-4">Comprehensive Evaluation</h4>
                         <p class="text-gray-500 font-light leading-relaxed">
-                            Our team assesses your medical history, current symptoms, and treatment goals to determine if TMS or SPRAVATO® is the right choice for you.
+                            Our team assesses your medical history, current symptoms, and treatment goals to determine if Deep TMS or SPRAVATO® is the right choice for you.
                         </p>
                     </div>
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
@@ -230,7 +230,7 @@
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">02</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-4">Personalized Treatment</h4>
                         <p class="text-gray-500 font-light leading-relaxed">
-                            TMS sessions last about 10 minutes, five days a week for several weeks. SPRAVATO® sessions last 2 hours and occur twice weekly for the first month for suicidal ideations. No anesthesia needed for either.
+                            Deep TMS sessions last about 10 minutes, five days a week for several weeks. SPRAVATO® sessions last 2 hours and occur twice weekly for the first month for suicidal ideations. No anesthesia needed for either.
                         </p>
                     </div>
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
@@ -262,15 +262,15 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="heart-handshake" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Compassionate Care</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Patient-centered care with experienced clinicians utilizing the latest TMS technology and tailored treatment plans.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Patient-centered care with experienced clinicians utilizing the latest Deep TMS technology and tailored treatment plans.</p>
                 </div>
 
-                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="layers" class="w-7 h-7"></i>
                     </div>
@@ -278,15 +278,15 @@
                     <p class="text-gray-500 font-light leading-relaxed">Complementary therapies and support services to enhance your treatment experience and outcomes.</p>
                 </div>
 
-                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="building-2" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">State-of-the-Art Facilities</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Newport Beach and San Juan Capistrano locations equipped with the latest advancements in TMS technology.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Newport Beach and San Juan Capistrano locations equipped with the latest advancements in Deep TMS technology.</p>
                 </div>
 
-                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group">
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="file-check-2" class="w-7 h-7"></i>
                     </div>
@@ -343,7 +343,7 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. After initial stabilization, we develop comprehensive long-term treatment plans including medication, therapy referrals, TMS, and regular monitoring.
+                            Yes. After initial stabilization, we develop comprehensive long-term treatment plans including medication, therapy referrals, Deep TMS, and regular monitoring.
                         </div>
                     </div>
                 </div>
@@ -372,7 +372,7 @@
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
-                        Book a Free Discovery Call
+                        Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
                     </span>
                 </a>

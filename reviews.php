@@ -112,7 +112,7 @@
                         <i data-lucide="star" class="w-5 h-5 text-[#23bfe2] fill-[#23bfe2]"></i>
                     </div>
                     <p class="text-gray-600 font-light leading-relaxed italic mb-6">
-                        "The clinic space is beautiful and calming&mdash;not at all like a cold hospital. The TMS process was easy to understand and the results have been transformative."
+                        "The clinic space is beautiful and calming&mdash;not at all like a cold hospital. The Deep TMS process was easy to understand and the results have been transformative."
                     </p>
                     <div class="flex items-center gap-4">
                         <div class="w-12 h-12 bg-[#0B2035] rounded-full flex items-center justify-center text-white font-bold text-sm">SL</div>
@@ -184,7 +184,7 @@
                         <i data-lucide="star" class="w-5 h-5 text-[#23bfe2] fill-[#23bfe2]"></i>
                     </div>
                     <p class="text-gray-600 font-light leading-relaxed italic mb-6">
-                        "The team helped me safely taper off medications I'd been on for years while introducing TMS and lifestyle changes. Fewer pills, better results."
+                        "The team helped me safely taper off medications I'd been on for years while introducing Deep TMS and lifestyle changes. Fewer pills, better results."
                     </p>
                     <div class="flex items-center gap-4">
                         <div class="w-12 h-12 bg-[#0B2035] rounded-full flex items-center justify-center text-white font-bold text-sm">RK</div>
@@ -210,12 +210,12 @@
                 Start Your <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">Journey</span>
             </h2>
             <p class="text-xl text-gray-600 mb-12 font-light max-w-2xl mx-auto leading-relaxed">
-                Take the first step toward lasting mental wellness. Book a free discovery call with our team today.
+                Take the first step toward lasting mental wellness. Schedule Your Consultation with our team today.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
-                        Book a Free Discovery Call
+                        Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
                     </span>
                 </a>

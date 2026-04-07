@@ -22,7 +22,7 @@
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
-                        Book a Free Discovery Call <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                        Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
                         <i data-lucide="phone" class="w-5 h-5"></i> (949) 996-5355
@@ -85,7 +85,7 @@
                     <div class="rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 w-[320px] h-[568px]">
                         <iframe
                             src="https://www.youtube.com/embed/Vg1x9wiPxrU"
-                            title="TMS for Depression Treatment at Resiliency Mind+Body Medicine"
+                            title="Deep TMS for Depression Treatment at Resiliency Mind+Body Medicine"
                             frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen
@@ -110,7 +110,7 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal group">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
@@ -118,7 +118,7 @@
                     <p class="text-gray-300 font-light leading-relaxed">FDA-cleared non-invasive brain stimulation with 75%+ response rates for treatment-resistant depression.</p>
                 </div>
 
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="droplets" class="w-7 h-7"></i>
                     </div>
@@ -126,7 +126,7 @@
                     <p class="text-gray-300 font-light leading-relaxed">FDA-approved esketamine nasal spray for treatment-resistant depression.</p>
                 </div>
 
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="pill" class="w-7 h-7"></i>
                     </div>
@@ -134,7 +134,7 @@
                     <p class="text-gray-300 font-light leading-relaxed">Conservative, personalized psychiatric medication with regular review.</p>
                 </div>
 
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-3 group">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-3 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="leaf" class="w-7 h-7"></i>
                     </div>
@@ -145,7 +145,7 @@
         </div>
     </section>
 
-    <!-- How TMS Works -->
+    <!-- How Deep TMS Works -->
     <section class="py-16 bg-white relative overflow-hidden">
         <div class="absolute top-0 left-0 w-1/3 h-full bg-[#23bfe2]/5 skew-x-12 transform -translate-x-32 hidden lg:block pointer-events-none"></div>
 
@@ -156,9 +156,9 @@
                     <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">The Science</h2>
                     <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
                 </div>
-                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">How TMS Works for Depression</h3>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">How Deep TMS Works for Depression</h3>
                 <p class="text-gray-600 text-lg leading-relaxed font-light">
-                    Transcranial magnetic stimulation (TMS) targets the brain's prefrontal cortex, an area known to regulate mood. Depression is often associated with decreased activity in this region. By delivering magnetic pulses, TMS stimulates nerve cells, enhancing brain activity and alleviating depressive symptoms.
+                    Transcranial magnetic stimulation (Deep TMS) targets the brain's prefrontal cortex, an area known to regulate mood. Depression is often associated with decreased activity in this region. By delivering magnetic pulses, Deep TMS stimulates nerve cells, enhancing brain activity and alleviating depressive symptoms.
                 </p>
             </div>
 
@@ -176,7 +176,7 @@
                         <i data-lucide="shield-check" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Non-Invasive & Drug-Free</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">TMS does not require anesthesia or medication, avoiding the side effects often associated with antidepressants.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS does not require anesthesia or medication, avoiding the side effects often associated with antidepressants.</p>
                 </div>
 
                 <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
@@ -184,7 +184,7 @@
                         <i data-lucide="sparkles" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Sustainable Results</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">TMS can provide long-lasting relief, helping patients maintain improved mood and quality of life.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS can provide long-lasting relief, helping patients maintain improved mood and quality of life.</p>
                 </div>
             </div>
         </div>
@@ -201,7 +201,7 @@
                     <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Your Journey</h2>
                     <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
                 </div>
-                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">The TMS Treatment Process</h3>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">The Deep TMS Treatment Process</h3>
             </div>
 
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -209,7 +209,7 @@
                     <div class="bg-white rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">01</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-4">Comprehensive Evaluation</h4>
-                        <p class="text-gray-500 font-light leading-relaxed">Our team assesses your medical history, current symptoms, and treatment goals to determine if TMS is suitable for you.</p>
+                        <p class="text-gray-500 font-light leading-relaxed">Our team assesses your medical history, current symptoms, and treatment goals to determine if Deep TMS is suitable for you.</p>
                     </div>
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
                         <i data-lucide="chevron-right" class="w-8 h-8"></i>
@@ -219,7 +219,7 @@
                 <div class="relative reveal reveal-delay-1 group">
                     <div class="bg-white rounded-[2rem] p-10 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">02</div>
-                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Personalized TMS Sessions</h4>
+                        <h4 class="text-xl font-bold text-[#0B2035] mb-4">Personalized Deep TMS Sessions</h4>
                         <p class="text-gray-500 font-light leading-relaxed">Each session lasts about 10 minutes, five days a week for several weeks. Sit comfortably while magnetic pulses are delivered—no anesthesia, resume activities immediately.</p>
                     </div>
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
@@ -249,7 +249,7 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="user-check" class="w-7 h-7"></i>
                     </div>
@@ -257,15 +257,15 @@
                     <p class="text-gray-500 font-light leading-relaxed">Led by Dr. LaFrenierre, double board-certified in Psychiatry and Addiction Medicine, with a multidisciplinary team.</p>
                 </div>
 
-                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="layers" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Integrated Treatment</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Medication, TMS, SPRAVATO, IV therapy, and lifestyle medicine all under one roof.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Medication, Deep TMS, SPRAVATO, IV therapy, and lifestyle medicine all under one roof.</p>
                 </div>
 
-                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="laptop" class="w-7 h-7"></i>
                     </div>
@@ -273,7 +273,7 @@
                     <p class="text-gray-500 font-light leading-relaxed">Flexible appointment options at our Newport Beach and San Juan Capistrano offices or via secure video.</p>
                 </div>
 
-                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group">
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="file-check-2" class="w-7 h-7"></i>
                     </div>
@@ -323,7 +323,7 @@
 
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>What are the side effects of TMS for depression?</span>
+                        <span>What are the side effects of Deep TMS for depression?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
@@ -337,7 +337,7 @@
 
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>How will I know if TMS is working, and is maintenance needed?</span>
+                        <span>How will I know if Deep TMS is working, and is maintenance needed?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
@@ -351,7 +351,7 @@
 
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>What cost should I expect for TMS in Newport Beach?</span>
+                        <span>What cost should I expect for Deep TMS in Newport Beach?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
@@ -387,7 +387,7 @@
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
-                        Book a Free Discovery Call
+                        Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
                     </span>
                 </a>

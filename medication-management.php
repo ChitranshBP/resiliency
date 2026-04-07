@@ -162,7 +162,7 @@
                                 </div>
                                 <div>
                                     <h4 class="text-white font-bold text-lg mb-2">Integrative Alternatives</h4>
-                                    <p class="text-gray-400 font-light">We actively incorporate psychotherapy, nutritional counseling, lifestyle coaching, TMS therapy, and other modalities as part of your comprehensive treatment plan.</p>
+                                    <p class="text-gray-400 font-light">We actively incorporate psychotherapy, nutritional counseling, lifestyle coaching, Deep TMS therapy, and other modalities as part of your comprehensive treatment plan.</p>
                                 </div>
                             </div>
                         </div>
@@ -359,7 +359,7 @@
                         </div>
                         <div class="flex items-center gap-3 bg-white rounded-xl p-4 border border-gray-100">
                             <div class="bg-[#23bfe2]/10 p-2 rounded-lg text-[#23bfe2]"><i data-lucide="brain" class="w-5 h-5"></i></div>
-                            <span class="text-[#0B2035] font-medium text-sm">TMS Therapy</span>
+                            <span class="text-[#0B2035] font-medium text-sm">Deep TMS Therapy</span>
                         </div>
                         <div class="flex items-center gap-3 bg-white rounded-xl p-4 border border-gray-100">
                             <div class="bg-[#23bfe2]/10 p-2 rounded-lg text-[#23bfe2]"><i data-lucide="apple" class="w-5 h-5"></i></div>
@@ -469,7 +469,7 @@
                             </div>
                             <div>
                                 <h4 class="text-xl font-bold text-primary mb-1">Integrated Services</h4>
-                                <p class="text-gray-500 font-light leading-relaxed">Medication management seamlessly combined with TMS, SPRAVATO, IV therapy, supplements, and lifestyle interventions—all under one roof.</p>
+                                <p class="text-gray-500 font-light leading-relaxed">Medication management seamlessly combined with Deep TMS, SPRAVATO, IV therapy, supplements, and lifestyle interventions—all under one roof.</p>
                             </div>
                         </li>
                         <li class="flex items-start gap-4">
@@ -656,7 +656,7 @@
                         <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                     </div>
                     <p class="text-gray-700 text-base leading-relaxed mb-8 font-light italic">
-                        "The team at Resiliency helped me safely taper off medications I'd been on for years while introducing TMS and lifestyle changes. I feel better now than I have in a decade—with fewer pills."
+                        "The team at Resiliency helped me safely taper off medications I'd been on for years while introducing Deep TMS and lifestyle changes. I feel better now than I have in a decade—with fewer pills."
                     </p>
                     <div class="flex items-center justify-between border-t border-gray-50 pt-6">
                         <div class="flex items-center gap-3">
@@ -718,7 +718,7 @@
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
-                        Book a Free Discovery Call
+                        Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
                     </span>
                 </a>

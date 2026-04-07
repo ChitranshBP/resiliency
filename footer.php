@@ -37,7 +37,7 @@
                     <ul class="space-y-4 text-sm">
                         <li><a href="about.php" class="hover:text-lightblue transition-colors flex items-center gap-2">About Our Clinic</a></li>
                         <li><a href="team.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Meet Our Providers</a></li>
-                        <li><a href="tms-therapy.php" class="hover:text-lightblue transition-colors flex items-center gap-2">TMS Therapy</a></li>
+                        <li><a href="tms-therapy.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Deep TMS Therapy</a></li>
                         <li><a href="spravato-therapy.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Spravato Treatment</a></li>
                         <li><a href="blog.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Clinic Blog</a></li>
                     </ul>

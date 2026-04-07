@@ -19,7 +19,7 @@
                     Newport Beach <br/><span class="text-[#23bfe2] font-light">Location</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
-                    Advanced psychiatric care, TMS therapy, SPRAVATO, and integrative wellness at our primary Newport Beach clinic&mdash;conveniently located on Superior Avenue.
+                    Advanced psychiatric care, Deep TMS therapy, SPRAVATO, and integrative wellness at our primary Newport Beach clinic&mdash;conveniently located on Superior Avenue.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="#location-details" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -136,12 +136,12 @@
                     <p class="text-gray-300 font-light leading-relaxed">BrainsWay Deep TMS for depression, OCD, anxiety, and PTSD. FDA-cleared with 80% response rates.</p>
                 </div>
 
-                <!-- Accelerated TMS (SWIFT) -->
+                <!-- Accelerated Deep TMS (SWIFT) -->
                 <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
                         <i data-lucide="zap" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-xl font-bold text-white mb-3">Accelerated TMS (SWIFT)</h4>
+                    <h4 class="text-xl font-bold text-white mb-3">Accelerated Deep TMS (SWIFT)</h4>
                     <p class="text-gray-300 font-light leading-relaxed">Remission in 5 days with our accelerated protocol. BrainsWay Ultra Provider.</p>
                 </div>
 

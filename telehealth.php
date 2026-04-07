@@ -141,7 +141,7 @@
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Treatment Planning</h4>
-                    <p class="text-gray-400 font-light leading-relaxed">Collaborative treatment planning for integrative psychiatry, including discussion of TMS, SPRAVATO, and other in-person therapies.</p>
+                    <p class="text-gray-400 font-light leading-relaxed">Collaborative treatment planning for integrative psychiatry, including discussion of Deep TMS, SPRAVATO, and other in-person therapies.</p>
                 </div>
 
                 <!-- Service 4 -->
@@ -185,7 +185,7 @@
                                     <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2]">
                                         <i data-lucide="check" class="w-4 h-4"></i>
                                     </div>
-                                    <span class="text-[#0B2035] font-medium text-sm">Accelerated TMS (SWIFT)</span>
+                                    <span class="text-[#0B2035] font-medium text-sm">Accelerated Deep TMS (SWIFT)</span>
                                 </div>
                                 <div class="flex items-center gap-3">
                                     <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2]">

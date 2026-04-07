@@ -126,7 +126,7 @@
                     </div>
                     <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Reel Medicine Media Feature</h3>
                     <p class="text-gray-600 font-light leading-relaxed mb-6">
-                        Dr. LaFrenierre welcomed Reel Medicine Media to Resiliency Mind+Body Medicine, sharing insights on TMS therapy and integrative psychiatric care in Orange County.
+                        Dr. LaFrenierre welcomed Reel Medicine Media to Resiliency Mind+Body Medicine, sharing insights on Deep TMS therapy and integrative psychiatric care in Orange County.
                     </p>
                     <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm">
                         <i data-lucide="external-link" class="w-4 h-4"></i>
@@ -134,7 +134,7 @@
                     </div>
                 </a>
 
-                <!-- Press Card 4 - Advancing TMS -->
+                <!-- Press Card 4 - Advancing Deep TMS -->
                 <div class="bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
                     <div class="flex items-center gap-3 mb-4">
                         <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2]">
@@ -142,9 +142,9 @@
                         </div>
                         <span class="text-sm text-gray-400 font-light">Clinical Research</span>
                     </div>
-                    <h3 class="text-xl font-bold text-[#0B2035] mb-3">Multi-Site TMS Research Involvement</h3>
+                    <h3 class="text-xl font-bold text-[#0B2035] mb-3">Multi-Site Deep TMS Research Involvement</h3>
                     <p class="text-gray-600 font-light leading-relaxed mb-6">
-                        Dr. LaFrenierre is a leader in the developing field of Transcranial Magnetic Stimulation with involvement in multi-site TMS studies and on-site advancement of specialized TMS PTSD protocols.
+                        Dr. LaFrenierre is a leader in the developing field of Transcranial Magnetic Stimulation with involvement in multi-site Deep TMS studies and on-site advancement of specialized Deep TMS PTSD protocols.
                     </p>
                     <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm">
                         <i data-lucide="flask-conical" class="w-4 h-4"></i>

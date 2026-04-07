@@ -70,8 +70,8 @@
                         <!-- Dropdown Content -->
                         <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-72 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100 overflow-hidden max-h-[70vh] overflow-y-auto">
                             <div class="p-2 space-y-1">
-                                <a href="tms-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS Therapy</a>
-                                <a href="accelerated-tms.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated TMS (SWIFT)</a>
+                                <a href="tms-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Deep TMS Therapy</a>
+                                <a href="accelerated-tms.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated Deep TMS (SWIFT)</a>
                                 <a href="vns-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">VNS Therapy</a>
                                 <a href="spravato-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
                                 <a href="medication-management.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
@@ -141,8 +141,8 @@
                                 <a href="reviews.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Patient Reviews</a>
                                 <a href="metrics.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Our Outcomes</a>
                                 <a href="faqs.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">FAQs</a>
-                                <a href="tms-faq.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS FAQ</a>
-                                <a href="tms-resources.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS Resources</a>
+                                <a href="tms-faq.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Deep TMS FAQ</a>
+                                <a href="tms-resources.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Deep TMS Resources</a>
                                 <a href="insurance.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Insurance</a>
                                 <a href="caloptima.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">CalOptima Coverage</a>
                                 <a href="cherry-payment.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Payment Plans</a>
@@ -177,7 +177,7 @@
                         <i data-lucide="phone" class="w-4 h-4"></i> (949) 996-5355
                     </p>
                     <a href="contact.php" class="bg-white text-primary hover:bg-gray-100 group-[.scrolled]:bg-primary group-[.scrolled]:text-white group-[.scrolled]:hover:bg-primary/90 px-6 py-2.5 rounded-full text-sm font-medium transition-all shadow-[0_4px_14px_0_rgba(255,255,255,0.39)] group-[.scrolled]:shadow-[0_4px_14px_0_rgba(11,32,53,0.39)] hover:-translate-y-0.5 transform">
-                        Book Appointment
+                        Book an Appointment
                     </a>
                 </div>
 
@@ -211,8 +211,8 @@
                         Mental Health <i data-lucide="chevron-down" class="w-5 h-5 transition-transform duration-300"></i>
                     </button>
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
-                        <a href="tms-therapy.php" class="text-white/80 hover:text-white transition-colors">TMS Therapy</a>
-                        <a href="accelerated-tms.php" class="text-white/80 hover:text-white transition-colors">Accelerated TMS (SWIFT)</a>
+                        <a href="tms-therapy.php" class="text-white/80 hover:text-white transition-colors">Deep TMS Therapy</a>
+                        <a href="accelerated-tms.php" class="text-white/80 hover:text-white transition-colors">Accelerated Deep TMS (SWIFT)</a>
                         <a href="vns-therapy.php" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
                         <a href="spravato-therapy.php" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
                         <a href="medication-management.php" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
@@ -276,8 +276,8 @@
                         <a href="reviews.php" class="text-white/80 hover:text-white transition-colors">Patient Reviews</a>
                         <a href="metrics.php" class="text-white/80 hover:text-white transition-colors">Our Outcomes</a>
                         <a href="faqs.php" class="text-white/80 hover:text-white transition-colors">FAQs</a>
-                        <a href="tms-faq.php" class="text-white/80 hover:text-white transition-colors">TMS FAQ</a>
-                        <a href="tms-resources.php" class="text-white/80 hover:text-white transition-colors">TMS Resources</a>
+                        <a href="tms-faq.php" class="text-white/80 hover:text-white transition-colors">Deep TMS FAQ</a>
+                        <a href="tms-resources.php" class="text-white/80 hover:text-white transition-colors">Deep TMS Resources</a>
                         <a href="insurance.php" class="text-white/80 hover:text-white transition-colors">Insurance</a>
                         <a href="caloptima.php" class="text-white/80 hover:text-white transition-colors">CalOptima Coverage</a>
                         <a href="cherry-payment.php" class="text-white/80 hover:text-white transition-colors">Payment Plans</a>
@@ -305,7 +305,7 @@
 
             <div class="mt-10">
                 <a href="contact.php" class="bg-lightblue text-primary font-bold px-8 py-4 rounded-full text-center block w-full hover:bg-[#1aadd0] transition-colors">
-                    Book Appointment
+                    Book an Appointment
                 </a>
             </div>
         </div>

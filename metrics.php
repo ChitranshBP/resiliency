@@ -75,7 +75,7 @@
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-1 group text-center">
                     <p class="text-5xl md:text-6xl font-bold text-[#23bfe2] mb-3">80%</p>
                     <h4 class="text-xl font-bold text-white mb-2">Clinic Response Rate</h4>
-                    <p class="text-gray-300 font-light text-sm leading-relaxed">Patient response rate for TMS and SPRAVATO combined.</p>
+                    <p class="text-gray-300 font-light text-sm leading-relaxed">Patient response rate for Deep TMS and SPRAVATO combined.</p>
                 </div>
 
                 <!-- Stat 3 -->
@@ -89,7 +89,7 @@
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-1 group text-center">
                     <p class="text-5xl md:text-6xl font-bold text-[#23bfe2] mb-3">87.8%</p>
                     <h4 class="text-xl font-bold text-white mb-2">SWIFT Response Rate</h4>
-                    <p class="text-gray-300 font-light text-sm leading-relaxed">Hamilton Depression Rating Scale response rate for Accelerated TMS protocol.</p>
+                    <p class="text-gray-300 font-light text-sm leading-relaxed">Hamilton Depression Rating Scale response rate for Accelerated Deep TMS protocol.</p>
                 </div>
             </div>
         </div>
@@ -110,7 +110,7 @@
                 <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
                     <p class="text-4xl font-bold text-[#23bfe2] mb-3">78%</p>
                     <h4 class="text-xl font-bold text-primary mb-4">Remission Rate</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Hamilton Depression Rating Scale remission rate for the SWIFT Accelerated TMS protocol.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Hamilton Depression Rating Scale remission rate for the SWIFT Accelerated Deep TMS protocol.</p>
                 </div>
 
                 <!-- Card 2 -->
@@ -124,7 +124,7 @@
                 <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
                     <p class="text-4xl font-bold text-[#23bfe2] mb-3">70%</p>
                     <h4 class="text-xl font-bold text-primary mb-4">Fewer Visits</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Accelerated TMS reduces clinic visits by 70% compared to standard TMS protocol.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Accelerated Deep TMS reduces clinic visits by 70% compared to standard Deep TMS protocol.</p>
                 </div>
             </div>
         </div>
@@ -156,12 +156,12 @@
                 Ready to <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">Experience These Results?</span>
             </h2>
             <p class="text-xl text-gray-600 mb-12 font-light max-w-2xl mx-auto leading-relaxed">
-                Book a free discovery call and learn how our evidence-based treatments can help you achieve lasting improvement.
+                Schedule Your Consultation and learn how our evidence-based treatments can help you achieve lasting improvement.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
-                        Book a Free Discovery Call
+                        Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
                     </span>
                 </a>

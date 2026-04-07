@@ -69,7 +69,7 @@
                                 <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2]">
                                     <i data-lucide="check" class="w-5 h-5"></i>
                                 </div>
-                                <span class="text-[#0B2035] font-semibold text-base">Complementary to other treatments (TMS, medication)</span>
+                                <span class="text-[#0B2035] font-semibold text-base">Complementary to other treatments (Deep TMS, medication)</span>
                             </li>
                         </ul>
                     </div>
@@ -291,8 +291,8 @@
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-lg font-bold text-primary mb-2">Beyond TMS & SPRAVATO</h4>
-                    <p class="text-gray-500 font-light text-sm leading-relaxed">Those who have tried TMS and/or SPRAVATO without adequate response.</p>
+                    <h4 class="text-lg font-bold text-primary mb-2">Beyond Deep TMS & SPRAVATO</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Those who have tried Deep TMS and/or SPRAVATO without adequate response.</p>
                 </div>
 
                 <!-- Candidate 3 -->
@@ -328,14 +328,14 @@
                 <!-- FAQ Item 1 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>How is VNS different from TMS?</span>
+                        <span>How is VNS different from Deep TMS?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            TMS is non-invasive and delivered in daily clinic sessions. VNS requires a minor surgical procedure to implant a device that then delivers continuous therapy 24/7. VNS is typically considered after TMS and other non-invasive options have been tried.
+                            Deep TMS is non-invasive and delivered in daily clinic sessions. VNS requires a minor surgical procedure to implant a device that then delivers continuous therapy 24/7. VNS is typically considered after Deep TMS and other non-invasive options have been tried.
                         </div>
                     </div>
                 </div>

@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/service_tms.png" alt="Accelerated TMS SWIFT Protocol" class="w-full h-full object-cover">
+            <img src="assets/images/service_tms.png" alt="Accelerated Deep TMS SWIFT Protocol" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -16,7 +16,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Rapid Relief Protocol</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    Accelerated TMS <br/><span class="text-[#23bfe2] font-light">SWIFT Protocol</span>
+                    Accelerated Deep TMS <br/><span class="text-[#23bfe2] font-light">SWIFT Protocol</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Achieve remission in 5 days instead of 6 weeks with BrainsWay's revolutionary SWIFT Protocol—delivering concentrated Deep TMS sessions for faster, more efficient results.
@@ -33,7 +33,7 @@
         </div>
     </section>
 
-    <!-- What is Accelerated TMS Section -->
+    <!-- What is Accelerated Deep TMS Section -->
     <section id="how-it-works" class="py-16 relative overflow-hidden bg-white">
         <!-- Decorative Background -->
         <div class="absolute top-0 right-0 w-1/3 h-full bg-[#23bfe2]/5 -skew-x-12 transform translate-x-32 hidden lg:block pointer-events-none"></div>
@@ -46,9 +46,9 @@
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
                         <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Understanding SWIFT</h2>
                     </div>
-                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">What is the Accelerated TMS Protocol?</h3>
+                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">What is the Accelerated Deep TMS Protocol?</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        Accelerated TMS delivers theta burst stimulation for 9 minutes at a time, multiple times a day, for 5 days. Traditional TMS delivers theta burst stimulation for 3 minutes once a day for 6 weeks. The accelerated protocol reduces the traditional 20-visit acute treatment phase to just 6 half days, followed by weekly maintenance visits for 4 weeks. This reduces clinic visits in the acute phase by approximately 70%.
+                        Accelerated Deep TMS delivers theta burst stimulation for 9 minutes at a time, multiple times a day, for 5 days. Traditional Deep TMS delivers theta burst stimulation for 3 minutes once a day for 6 weeks. The accelerated protocol reduces the traditional 20-visit acute treatment phase to just 6 half days, followed by weekly maintenance visits for 4 weeks. This reduces clinic visits in the acute phase by approximately 70%.
                     </p>
 
                     <div class="bg-neutral p-6 rounded-2xl mb-8 border border-gray-100">
@@ -78,7 +78,7 @@
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/home/TMS-Therapy-Orange-County-homepage.webp" alt="Accelerated TMS SWIFT Protocol Treatment" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/home/TMS-Therapy-Orange-County-homepage.webp" alt="Accelerated Deep TMS SWIFT Protocol Treatment" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
@@ -101,7 +101,7 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                 <!-- Card 1 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="user-check" class="w-8 h-8"></i>
                     </div>
@@ -110,7 +110,7 @@
                 </div>
 
                 <!-- Card 2 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="pill" class="w-8 h-8"></i>
                     </div>
@@ -119,7 +119,7 @@
                 </div>
 
                 <!-- Card 3 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="zap" class="w-8 h-8"></i>
                     </div>
@@ -128,7 +128,7 @@
                 </div>
 
                 <!-- Card 4 -->
-                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group">
+                <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="calendar" class="w-8 h-8"></i>
                     </div>
@@ -212,7 +212,7 @@
                         <iframe
                             class="w-full h-full"
                             src="https://www.youtube.com/embed/eYx7pSlnBLs"
-                            title="What Is Accelerated TMS?"
+                            title="What Is Accelerated Deep TMS?"
                             frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen>
@@ -226,7 +226,7 @@
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
                         <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Experience Resiliency</h2>
                     </div>
-                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">What Is Accelerated TMS?</h3>
+                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">What Is Accelerated Deep TMS?</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
                         At Resiliency Mind + Body Medicine, your treatment journey is guided by board-certified psychiatrists and a highly experienced neuromodulation team dedicated to whole-person care.
                     </p>
@@ -250,7 +250,7 @@
                 <!-- FAQ Item 1 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>How long does each accelerated TMS session take?</span>
+                        <span>How long does each accelerated Deep TMS session take?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
@@ -265,7 +265,7 @@
                 <!-- FAQ Item 2 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>Is Accelerated TMS covered by insurance?</span>
+                        <span>Is Accelerated Deep TMS covered by insurance?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
@@ -280,14 +280,14 @@
                 <!-- FAQ Item 3 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>How does Accelerated TMS compare to standard TMS?</span>
+                        <span>How does Accelerated Deep TMS compare to standard Deep TMS?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="faq-content px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            While standard TMS requires daily sessions over 6 weeks, Accelerated TMS compresses this into just 5 days of intensive treatment. Clinical studies show comparable or superior response and remission rates with the accelerated approach.
+                            While standard Deep TMS requires daily sessions over 6 weeks, Accelerated Deep TMS compresses this into just 5 days of intensive treatment. Clinical studies show comparable or superior response and remission rates with the accelerated approach.
                         </div>
                     </div>
                 </div>
@@ -329,7 +329,7 @@
                 </div>
                 <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Patient Experiences</h3>
                 <p class="text-gray-600 text-lg font-light leading-relaxed">
-                    Real results from patients who chose Accelerated TMS at Resiliency to reclaim their mental wellness.
+                    Real results from patients who chose Accelerated Deep TMS at Resiliency to reclaim their mental wellness.
                 </p>
             </div>
 
@@ -394,7 +394,7 @@
                         <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                     </div>
                     <p class="text-gray-700 text-base leading-relaxed mb-8 font-light italic">
-                        "Being able to complete my TMS treatment in less than a week was a game-changer. I couldn't afford to take weeks off work, and this made it possible."
+                        "Being able to complete my Deep TMS treatment in less than a week was a game-changer. I couldn't afford to take weeks off work, and this made it possible."
                     </p>
                     <div class="flex items-center justify-between border-t border-gray-50 pt-6">
                         <div class="flex items-center gap-3">
@@ -429,7 +429,7 @@
                 Ready for <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">Rapid Relief?</span>
             </h2>
             <p class="text-xl text-gray-600 mb-12 font-light max-w-2xl mx-auto leading-relaxed">
-                Discover if the Accelerated TMS SWIFT Protocol can help you achieve remission in just 5 days. Schedule your consultation today.
+                Discover if the Accelerated Deep TMS SWIFT Protocol can help you achieve remission in just 5 days. Schedule your consultation today.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
