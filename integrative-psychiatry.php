@@ -436,18 +436,6 @@
                                 class="w-full h-[500px] object-cover object-top grayscale-[0.2] transition-all duration-700 group-hover:grayscale-0 group-hover:scale-105"
                             >
 
-                            <!-- Floating Credential -->
-                            <div class="absolute bottom-10 -right-6 bg-[#0B2035] text-white p-6 rounded-3xl shadow-2xl border border-white/10 group-hover:-translate-y-2 transition-transform duration-500">
-                                <div class="flex items-center gap-4">
-                                    <div class="w-12 h-12 bg-[#23bfe2] rounded-2xl flex items-center justify-center text-[#0B2035]">
-                                        <i data-lucide="award" class="w-6 h-6"></i>
-                                    </div>
-                                    <div>
-                                        <p class="font-bold text-lg leading-tight">Board Certified</p>
-                                        <p class="text-[#23bfe2] text-xs font-bold uppercase tracking-widest mt-1">Psychiatry & Addiction Medicine</p>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>

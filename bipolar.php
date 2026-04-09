@@ -4,7 +4,7 @@
     <!-- Hero Section -->
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/bipolar_hero.png" alt="Bipolar Disorder Treatment Stability" class="w-full h-full object-cover">
+            <img src="assets/images/hero_bg.png" alt="Bipolar Disorder Treatment Stability" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -151,6 +151,7 @@
                 <p class="text-gray-300 text-lg font-light leading-relaxed">Deep TMS works best when it is part of a broader, personalized treatment strategy. At Resiliency, bipolar disorder care may include:</p>
             </div>
 
+            <!-- First row: 3 cards -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- 1. Medication Management -->
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal group flex flex-col items-center text-center">
@@ -178,9 +179,12 @@
                     <h4 class="text-xl font-bold mb-3">Evidence-Based Supplements</h4>
                     <p class="text-gray-300 font-light leading-relaxed">Select supplements may be incorporated into care plans when supported by clinical evidence. These are never used as a replacement for medical treatment but can play a supportive role in brain health, energy, and mood regulation under physician guidance.</p>
                 </div>
+            </div>
 
+            <!-- Second row: 2 centered cards -->
+            <div class="flex flex-col md:flex-row justify-center gap-6 mt-6">
                 <!-- 4. BrainsWay Deep TMS -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal group flex flex-col items-center text-center">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal group flex flex-col items-center text-center w-full md:w-[calc(33.333%-0.75rem)]">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
@@ -189,7 +193,7 @@
                 </div>
 
                 <!-- 5. Ongoing Monitoring -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-1 group md:col-span-2 lg:col-span-2">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center w-full md:w-[calc(33.333%-0.75rem)]">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="activity" class="w-7 h-7"></i>
                     </div>

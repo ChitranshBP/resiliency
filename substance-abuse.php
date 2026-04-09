@@ -4,7 +4,7 @@
     <!-- Hero Section -->
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/substance_abuse_hero.png" alt="Substance Use Disorder Resilience" class="w-full h-full object-cover">
+            <img src="assets/images/substance_abuse_freedom.png" alt="Substance Use Disorder Resilience" class="w-full h-full object-cover object-[50%_35%]">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -84,7 +84,7 @@
 
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/substance_abuse_hero.png" alt="Substance Use Disorder Treatment at Resiliency" class="w-full h-[450px] object-cover">
+                        <img src="assets/images/substance_abuse_freedom.png" alt="Substance Use Disorder Treatment at Resiliency" class="w-full h-[450px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/tms_machine.png" alt="Deep TMS for Smoking Cessation" class="w-full h-[500px] object-cover">
+                        <img src="assets/images/stimulator-doctor-patient-in-office-h1-helmet-5.jpg" alt="Deep TMS for Smoking Cessation" class="w-full h-[500px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
@@ -151,7 +151,7 @@
                 <p class="text-gray-300 text-lg font-light leading-relaxed">Deep TMS for substance use is offered as part of a comprehensive treatment plan that can include:</p>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="pill" class="w-7 h-7"></i>

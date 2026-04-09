@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/service_wellness.png" alt="Hormone Therapy" class="w-full h-full object-cover">
+            <img src="assets/images/hormone_therapy_hero.png" alt="Hormone Therapy" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -78,7 +78,7 @@
                 <!-- Badge -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/service_wellness.png" alt="Hormone therapy and metabolic assessment" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/hormone_therapy_hero.png" alt="Hormone therapy and metabolic assessment" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
@@ -118,8 +118,8 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <!-- Hormone 1 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal">
-                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto">
                         <i data-lucide="activity" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Thyroid (TSH, T3, T4)</h4>
@@ -127,8 +127,8 @@
                 </div>
 
                 <!-- Hormone 2 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal reveal-delay-1">
-                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal reveal-delay-1 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto">
                         <i data-lucide="zap" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Testosterone</h4>
@@ -136,8 +136,8 @@
                 </div>
 
                 <!-- Hormone 3 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal reveal-delay-2">
-                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal reveal-delay-2 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto">
                         <i data-lucide="heart" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Estrogen & Progesterone</h4>
@@ -145,8 +145,8 @@
                 </div>
 
                 <!-- Hormone 4 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal">
-                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Cortisol & Adrenal</h4>

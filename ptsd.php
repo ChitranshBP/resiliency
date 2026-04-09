@@ -4,7 +4,7 @@
     <!-- Hero Section -->
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/ptsd_hero.png" alt="PTSD Treatment Peace" class="w-full h-full object-cover">
+            <img src="assets/images/hero_bg.png" alt="PTSD Treatment Peace" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 

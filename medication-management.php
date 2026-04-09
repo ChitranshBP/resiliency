@@ -632,12 +632,12 @@
                         <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                     </div>
                     <p class="text-gray-700 text-base leading-relaxed mb-8 font-light italic">
-                        "Dr. LaFrenierre took the time to understand my complete history before prescribing anything. For the first time, I felt like a doctor actually cared about finding the right treatment instead of just writing a prescription."
+                        "I have never before found a psychiatric group that is so clearly dedicated to making people better. Dr. L and her entire team will guide you to be a better version of yourself. I can honestly say that I am better today because Dr. LaFrenierre and her team listened to my story and devised a treatment plan for me."
                     </p>
                     <div class="flex items-center justify-between border-t border-gray-50 pt-6">
                         <div class="flex items-center gap-3">
-                            <div class="w-10 h-10 rounded-full bg-pink-100 text-[#0B2035] flex items-center justify-center font-bold text-sm">JM</div>
-                            <span class="font-bold text-gray-800">Jennifer M.</span>
+                            <div class="w-10 h-10 rounded-full bg-pink-100 text-[#0B2035] flex items-center justify-center font-bold text-sm">PM</div>
+                            <span class="font-bold text-gray-800">Pagu Ma</span>
                         </div>
                         <div class="flex items-center gap-2 text-xs text-gray-400">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3">
@@ -656,12 +656,12 @@
                         <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                     </div>
                     <p class="text-gray-700 text-base leading-relaxed mb-8 font-light italic">
-                        "The team at Resiliency helped me safely taper off medications I'd been on for years while introducing Deep TMS and lifestyle changes. I feel better now than I have in a decade—with fewer pills."
+                        "Brian Tran is very pleasant and easy to work with. He has been a real help. Rylee in the front office is a dream! She really makes things easy as well as being a cheerful and friendly presence. I can highly recommend this facility."
                     </p>
                     <div class="flex items-center justify-between border-t border-gray-50 pt-6">
                         <div class="flex items-center gap-3">
-                            <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 text-[#23bfe2] flex items-center justify-center font-bold text-sm">RK</div>
-                            <span class="font-bold text-gray-800">Robert K.</span>
+                            <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 text-[#23bfe2] flex items-center justify-center font-bold text-sm">LM</div>
+                            <span class="font-bold text-gray-800">Lory Moger</span>
                         </div>
                         <div class="flex items-center gap-2 text-xs text-gray-400">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3">
@@ -680,12 +680,12 @@
                         <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                     </div>
                     <p class="text-gray-700 text-base leading-relaxed mb-8 font-light italic">
-                        "I appreciate the holistic approach here. They didn't just hand me a prescription—they asked about my diet, sleep, exercise, and stress levels. It's truly comprehensive care."
+                        "TMS truly changed my life. I was debilitated by depression and anxiety for years. I had done a variety of therapy and tried countless meds. The experience at Resiliency was more than I could have asked for. I truly looked forward to coming to my treatment every day."
                     </p>
                     <div class="flex items-center justify-between border-t border-gray-50 pt-6">
                         <div class="flex items-center gap-3">
-                            <div class="w-10 h-10 rounded-full bg-indigo-100 text-[#0B2035] flex items-center justify-center font-bold text-sm">AP</div>
-                            <span class="font-bold text-gray-800">Amanda P.</span>
+                            <div class="w-10 h-10 rounded-full bg-indigo-100 text-[#0B2035] flex items-center justify-center font-bold text-sm">AB</div>
+                            <span class="font-bold text-gray-800">Annessa Brock</span>
                         </div>
                         <div class="flex items-center gap-2 text-xs text-gray-400">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3">
@@ -710,7 +710,7 @@
 
         <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 reveal">
             <h2 class="text-4xl md:text-5xl lg:text-6xl font-bold text-[#0B2035] mb-8 leading-tight">
-                Ready for a <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">Thoughtful Approach</span> to Your Care?
+                Ready for a <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">Thoughtful Care</span> Experience?
             </h2>
             <p class="text-xl text-gray-600 mb-12 font-light max-w-2xl mx-auto leading-relaxed">
                 Schedule a consultation with our team and discover how conservative medication management can help you achieve lasting mental wellness—with fewer side effects and more personalized attention.

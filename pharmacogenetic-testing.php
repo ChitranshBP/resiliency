@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/anxiety_consultation.png" alt="Pharmacogenetic Testing Consultation" class="w-full h-full object-cover">
+            <img src="assets/images/anxiety_consultation.png" alt="Pharmacogenetic Testing Consultation" class="w-full h-full object-cover object-[50%_30%]">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -273,7 +273,7 @@
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
-                        Ask About Pharmacogenetic Testing
+                        Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
                     </span>
                 </a>

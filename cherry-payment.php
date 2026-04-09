@@ -91,48 +91,48 @@
             </div>
 
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4">
+                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4 mx-auto">
                         <i data-lucide="sparkles" class="w-6 h-6"></i>
                     </div>
                     <h4 class="text-lg font-bold text-white">Aesthetic Treatments</h4>
                     <p class="text-gray-400 font-light mt-2">Botox, fillers, Sculptra</p>
                 </div>
 
-                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4">
+                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4 mx-auto">
                         <i data-lucide="droplets" class="w-6 h-6"></i>
                     </div>
                     <h4 class="text-lg font-bold text-white">IV Vitamin Therapy</h4>
                     <p class="text-gray-400 font-light mt-2">Revitalize with IV infusions</p>
                 </div>
 
-                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4">
+                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4 mx-auto">
                         <i data-lucide="zap" class="w-6 h-6"></i>
                     </div>
                     <h4 class="text-lg font-bold text-white">NAD+ Therapy</h4>
                     <p class="text-gray-400 font-light mt-2">Cellular renewal treatments</p>
                 </div>
 
-                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4">
+                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4 mx-auto">
                         <i data-lucide="scale" class="w-6 h-6"></i>
                     </div>
                     <h4 class="text-lg font-bold text-white">Medical Weight Loss</h4>
                     <p class="text-gray-400 font-light mt-2">Physician-guided programs</p>
                 </div>
 
-                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4">
+                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4 mx-auto">
                         <i data-lucide="pill" class="w-6 h-6"></i>
                     </div>
                     <h4 class="text-lg font-bold text-white">Supplements</h4>
                     <p class="text-gray-400 font-light mt-2">Professional-grade supplements</p>
                 </div>
 
-                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4">
+                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mb-4 mx-auto">
                         <i data-lucide="heart-handshake" class="w-6 h-6"></i>
                     </div>
                     <h4 class="text-lg font-bold text-white">Other Self-Pay Services</h4>

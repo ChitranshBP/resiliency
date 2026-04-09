@@ -22,7 +22,7 @@
                     Advanced psychiatric care, Deep TMS therapy, SPRAVATO, and integrative wellness at our primary Newport Beach clinic&mdash;conveniently located on Superior Avenue.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
-                    <a href="#location-details" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="https://share.google/hjl1TwIaO3LemeCe4" target="_blank" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         View Location Details <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:+19499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -128,8 +128,8 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Deep TMS Therapy -->
-                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Deep TMS Therapy</h4>
@@ -137,8 +137,8 @@
                 </div>
 
                 <!-- Accelerated Deep TMS (SWIFT) -->
-                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="zap" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Accelerated Deep TMS (SWIFT)</h4>
@@ -146,8 +146,8 @@
                 </div>
 
                 <!-- SPRAVATO Treatment -->
-                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="droplets" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">SPRAVATO&reg; Treatment</h4>
@@ -155,8 +155,8 @@
                 </div>
 
                 <!-- Medication Management -->
-                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="pill" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Medication Management</h4>
@@ -164,8 +164,8 @@
                 </div>
 
                 <!-- IV & NAD+ Therapy -->
-                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="flask-conical" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">IV &amp; NAD+ Therapy</h4>
@@ -173,8 +173,8 @@
                 </div>
 
                 <!-- Medical Spa -->
-                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="sparkles" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Medical Spa</h4>
@@ -263,8 +263,8 @@
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- By Car -->
-                <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 shadow-soft reveal hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 shadow-soft reveal hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="navigation" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">By Car</h4>
@@ -272,8 +272,8 @@
                 </div>
 
                 <!-- From the 73 Freeway -->
-                <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 shadow-soft reveal reveal-delay-1 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 shadow-soft reveal reveal-delay-1 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="map-pin" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">From the 73 Freeway</h4>
@@ -281,8 +281,8 @@
                 </div>
 
                 <!-- First Visit -->
-                <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 shadow-soft reveal reveal-delay-2 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6">
+                <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 shadow-soft reveal reveal-delay-2 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="phone" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">First Visit?</h4>

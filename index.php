@@ -2,7 +2,7 @@
     <main>
         
         <!-- 1. Hero Section -->
-        <section class="relative min-h-screen flex items-center justify-center overflow-hidden pt-24 pb-12">
+        <section class="relative h-[85vh] min-h-[600px] flex items-center justify-center overflow-hidden pt-24 pb-12">
             <!-- Background Video -->
             <div class="absolute inset-0 z-0">
                 <video autoplay loop muted playsinline class="w-full h-full object-cover">
@@ -849,72 +849,62 @@
                             <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                         </div>
                         <p class="text-gray-700 text-sm leading-relaxed mb-6">
-                            "After struggling with depression for 10 years and trying 6 different medications, Deep TMS finally gave me my life back. The staff here is so compassionate, I felt safe the entire journey."
+                            "Resiliency has changed my life. I've been treatment resistant and suffered debilitating depression since childhood with no relief. Since coming here I've been able to get up, get a job and even start going out with friends again. Thank you to Lauren, Rylee, and Brian for being the most supportive care team ever."
                         </p>
                         <div class="flex items-center justify-between">
                             <div class="flex items-center gap-3">
-                                <div class="w-8 h-8 rounded-full bg-pink-500 text-white flex items-center justify-center font-bold text-xs">MT</div>
-                                <span class="font-bold text-sm text-gray-800">Michael T.</span>
+                                <div class="w-8 h-8 rounded-full bg-pink-500 text-white flex items-center justify-center font-bold text-xs">JM</div>
+                                <span class="font-bold text-sm text-gray-800">Jesse M</span>
                             </div>
                             <div class="flex items-center gap-2 text-xs text-gray-400">
-                                2 weeks ago <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
+                                Google Review <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
                             </div>
                         </div>
                     </div>
 
                     <!-- Review Card 2 -->
                     <div class="break-inside-avoid bg-white border border-gray-100 p-6 rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                        <div class="flex items-center justify-between mb-4">
-                            <div class="flex items-center gap-3">
-                                <div class="w-8 h-8 rounded-full bg-blue-500 text-white flex items-center justify-center font-bold text-xs">SL</div>
-                                <span class="font-bold text-sm text-gray-800">Sarah L.</span>
-                            </div>
-                            <div class="flex items-center gap-1 text-gray-300">
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                            </div>
+                        <div class="flex items-center gap-1 text-[#23bfe2] mb-3">
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                         </div>
                         <p class="text-gray-700 text-sm leading-relaxed mb-6">
-                            "SPRAVATO treatments completely lifted the heavy fog of my treatment-resistant depression. The clinic space is beautiful and calming—not at all like a cold hospital."
+                            "TMS truly changed my life. I was debilitated by depression and anxiety for years. I had done a variety of therapy and mental health treatment and tried countless meds which helped alleviate some symptoms but never got me to a place where I felt like my anxiety and depression was manageable. The experience at Resiliency was more than I could have asked for."
                         </p>
                         <div class="flex items-center justify-between">
+                            <div class="flex items-center gap-3">
+                                <div class="w-8 h-8 rounded-full bg-blue-500 text-white flex items-center justify-center font-bold text-xs">AB</div>
+                                <span class="font-bold text-sm text-gray-800">Annessa Brock</span>
+                            </div>
                             <div class="flex items-center gap-2 text-xs text-gray-400">
-                                1 month ago <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
+                                Google Review <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
                             </div>
                         </div>
                     </div>
 
                     <!-- Review Card 3 -->
                     <div class="break-inside-avoid bg-white border border-gray-100 p-6 rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                        <div class="flex items-center justify-between mb-4">
-                            <div class="flex items-center gap-3">
-                                <div class="w-8 h-8 rounded-full bg-indigo-500 text-white flex items-center justify-center font-bold text-xs">DR</div>
-                                <span class="font-bold text-sm text-gray-800">David R.</span>
-                            </div>
-                            <div class="flex items-center gap-1 text-gray-300">
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 text-gray-200"></i>
-                            </div>
+                        <div class="flex items-center gap-1 text-[#23bfe2] mb-3">
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                         </div>
-                        <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                            "Dr. LaFrenierre is incredibly thorough and actually listens. For the first time, I felt like my doctor was looking at my whole lifestyle, not just trying to hand me a pill."
+                        <p class="text-gray-700 text-sm leading-relaxed mb-6">
+                            "I can't say enough good things about my experience at Resiliency Mind + Body Medicine, especially because of Cyrus, my TMS technician. He is skilled, knowledgeable, and genuinely invested in his patients' well-being."
                         </p>
-                        <div class="flex items-center justify-between mb-4">
-                            <div class="flex items-center gap-2 text-xs text-gray-400">
-                                2 months ago <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
+                        <div class="flex items-center justify-between">
+                            <div class="flex items-center gap-3">
+                                <div class="w-8 h-8 rounded-full bg-indigo-500 text-white flex items-center justify-center font-bold text-xs">RC</div>
+                                <span class="font-bold text-sm text-gray-800">R Court</span>
                             </div>
-                        </div>
-                        
-                        <!-- Owner Response -->
-                        <div class="bg-gray-50 rounded-lg p-3 text-sm">
-                            <span class="font-bold text-gray-700 text-xs block mb-1">Response from the owner</span>
-                            <p class="text-gray-600 text-xs">Thank you so much, David! We believe whole-person care is the foundation of lasting resilience.</p>
+                            <div class="flex items-center gap-2 text-xs text-gray-400">
+                                Google Review <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
+                            </div>
                         </div>
                     </div>
 
@@ -928,15 +918,15 @@
                             <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                         </div>
                         <p class="text-gray-700 text-sm leading-relaxed mb-6">
-                            "The Deep TMS treatments were life changing for my OCD. The techs were so fun to talk to every day, making the 6 weeks fly by."
+                            "I have never before found a psychiatric group that is so clearly dedicated to making people better. I finally feel like I am under the care of capable people. I can honestly say that I am better today because Dr. LaFrenierre and her team listened to my story and devised a treatment plan for me."
                         </p>
                         <div class="flex items-center justify-between">
                             <div class="flex items-center gap-3">
-                                <div class="w-8 h-8 rounded-full bg-green-500 text-white flex items-center justify-center font-bold text-xs">EK</div>
-                                <span class="font-bold text-sm text-gray-800">Emily K.</span>
+                                <div class="w-8 h-8 rounded-full bg-green-500 text-white flex items-center justify-center font-bold text-xs">PM</div>
+                                <span class="font-bold text-sm text-gray-800">Pagu Ma</span>
                             </div>
                             <div class="flex items-center gap-2 text-xs text-gray-400">
-                                3 months ago <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
+                                Google Review <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
                             </div>
                         </div>
                     </div>
@@ -951,47 +941,39 @@
                             <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                         </div>
                         <p class="text-gray-700 text-sm leading-relaxed mb-6">
-                            "Highly responsive team. Getting an appointment was easy, and the portal for messaging providers is very convenient. Top tier integrative care."
+                            "I have completed 8 weeks of treatments with Resiliency Mind + Body. It has been years since I felt the relief Dr. L provided. If you feel you are at the end of your rope and exhausted by medications that don't yield the result you hope and pray for, reach out to Resiliency. I am beyond grateful."
                         </p>
                         <div class="flex items-center justify-between">
                             <div class="flex items-center gap-3">
-                                <div class="w-8 h-8 rounded-full bg-purple-500 text-white flex items-center justify-center font-bold text-xs">JM</div>
-                                <span class="font-bold text-sm text-gray-800">James M.</span>
+                                <div class="w-8 h-8 rounded-full bg-purple-500 text-white flex items-center justify-center font-bold text-xs">WR</div>
+                                <span class="font-bold text-sm text-gray-800">Wayne Rizzo</span>
                             </div>
                             <div class="flex items-center gap-2 text-xs text-gray-400">
-                                4 months ago <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
+                                Google Review <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
                             </div>
                         </div>
                     </div>
 
                     <!-- Review Card 6 -->
                     <div class="break-inside-avoid bg-white border border-gray-100 p-6 rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                        <div class="flex items-center justify-between mb-4">
-                            <div class="flex items-center gap-3">
-                                <div class="w-8 h-8 rounded-full bg-red-400 text-white flex items-center justify-center font-bold text-xs">AW</div>
-                                <span class="font-bold text-sm text-gray-800">Anna W.</span>
-                            </div>
-                            <div class="flex items-center gap-1 text-gray-300">
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                                <i data-lucide="star" class="w-4 h-4 fill-gray-300"></i>
-                            </div>
+                        <div class="flex items-center gap-1 text-[#23bfe2] mb-3">
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                            <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                         </div>
-                        <p class="text-gray-700 text-sm leading-relaxed mb-4">
-                            "The boutique clinic setting is so welcoming. They offer complimentary snacks, great coffee, and a really relaxing waiting area. Doesn't feel like a medical office."
+                        <p class="text-gray-700 text-sm leading-relaxed mb-6">
+                            "Truly wonderful down to earth folks who genuinely care about you. They went above and beyond for me in so many ways. The staff are all exceptional people who love what they do and it shows. I can't emphasize enough how amazing and hardworking this team is."
                         </p>
-                        <div class="flex items-center justify-between mb-4">
-                            <div class="flex items-center gap-2 text-xs text-gray-400">
-                                6 months ago <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
+                        <div class="flex items-center justify-between">
+                            <div class="flex items-center gap-3">
+                                <div class="w-8 h-8 rounded-full bg-red-400 text-white flex items-center justify-center font-bold text-xs">KH</div>
+                                <span class="font-bold text-sm text-gray-800">Kyle Hauk</span>
                             </div>
-                        </div>
-                        
-                        <!-- Owner Response -->
-                        <div class="bg-gray-50 rounded-lg p-3 text-sm">
-                            <span class="font-bold text-gray-700 text-xs block mb-1">Response from the owner</span>
-                            <p class="text-gray-600 text-xs">Glad you enjoyed the space! We designed it specifically to feel safe and restorative.</p>
+                            <div class="flex items-center gap-2 text-xs text-gray-400">
+                                Google Review <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" class="h-3 ml-1">
+                            </div>
                         </div>
                     </div>
 

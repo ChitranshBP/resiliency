@@ -46,11 +46,12 @@
                 <p class="text-gray-600 text-lg font-light leading-relaxed">Board-certified psychiatrists, physician associates, and psychiatric nurse practitioners delivering expert care.</p>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-20">
+            <!-- First row: 4 cards -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                 <!-- Dr. Stefani LaFrenierre -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer" onclick="openBioModal('stefani')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Dr.-Stefani-LaFrenierre-MD-1024x862.png" alt="Dr. Stefani LaFrenierre, MD" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/stefani.png" alt="Dr. Stefani LaFrenierre, MD" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Dr. Stefani LaFrenierre, MD</h4>
@@ -64,7 +65,7 @@
                 <!-- Dr. Erin Griffiths -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer" onclick="openBioModal('erin')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Dr.-Erin-Griffiths-DO-MA-1024x862.png" alt="Dr. Erin Griffiths, DO, MA" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/erin.png" alt="Dr. Erin Griffiths, DO, MA" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Dr. Erin Griffiths, DO, MA</h4>
@@ -78,7 +79,7 @@
                 <!-- Dr. Heather Wong -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('heather')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Dr.-Heather-Wong-DMSc-MPAS-PA-C-CAQ-Psych-1024x862.png" alt="Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/heather.png" alt="Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych</h4>
@@ -92,7 +93,7 @@
                 <!-- Milinda Estrada -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden cursor-pointer" onclick="openBioModal('milinda')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/10/Milinda.png" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/milinda.png" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Milinda Estrada, PA-C</h4>
@@ -102,11 +103,14 @@
                         </p>
                     </div>
                 </div>
+            </div>
 
+            <!-- Second row: 3 centered cards -->
+            <div class="flex flex-col md:flex-row justify-center gap-6 mt-6 mb-20">
                 <!-- Regina Dizon -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer" onclick="openBioModal('regina')">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer w-full md:w-[calc(25%-1.125rem)]" onclick="openBioModal('regina')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Regina-Dizon-PMHNP-BC-1024x862.png" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/regina.png" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Regina Dizon, PMHNP-BC</h4>
@@ -118,9 +122,9 @@
                 </div>
 
                 <!-- Brian Tran -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer" onclick="openBioModal('brian')">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer w-full md:w-[calc(25%-1.125rem)]" onclick="openBioModal('brian')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/08/Brian-Tran-team-headshot-1024x862.png" alt="Brian Tran, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/brian.png" alt="Brian Tran, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Brian Tran, PMHNP-BC</h4>
@@ -132,9 +136,9 @@
                 </div>
 
                 <!-- Lina Kurdi -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('lina')">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer w-full md:w-[calc(25%-1.125rem)]" onclick="openBioModal('lina')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Lina-Kurdi-PMHNP-BC-Resiliency-1024x862.png" alt="Lina Kurdi, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/lina.png" alt="Lina Kurdi, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Lina Kurdi, PMHNP-BC</h4>
@@ -157,11 +161,12 @@
                 <p class="text-gray-600 text-lg font-light leading-relaxed">The dedicated professionals who keep our practice running and ensure your experience is seamless.</p>
             </div>
 
+            <!-- First row: 4 cards -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                 <!-- Lauren Kim -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/10/Lauren-1024x862.png" alt="Lauren Kim" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/lauren.png" alt="Lauren Kim" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Lauren Kim</h4>
@@ -172,7 +177,7 @@
                 <!-- Jeffrey Phan -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Jeffrey-Phan-1024x862.png" alt="Jeffrey Phan" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/jeffrey.png" alt="Jeffrey Phan" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Jeffrey Phan</h4>
@@ -183,7 +188,7 @@
                 <!-- Dana Yan -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Dana-Yan-1024x862.png" alt="Dana Yan" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/dana.png" alt="Dana Yan" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Dana Yan</h4>
@@ -194,18 +199,21 @@
                 <!-- Cyrus Jimenez -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/09/Cyrus-1024x862.png" alt="Cyrus Jimenez" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/cyrus.png" alt="Cyrus Jimenez" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Cyrus Jimenez</h4>
                         <p class="text-gray-500 text-sm font-medium mt-1">Deep TMS Technician</p>
                     </div>
                 </div>
+            </div>
 
+            <!-- Second row: 3 centered cards -->
+            <div class="flex flex-col md:flex-row justify-center gap-6 mt-6">
                 <!-- Loren Mendez -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden w-full md:w-[calc(25%-1.125rem)]">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/09/Loren-1024x862.png" alt="Loren Mendez" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/loren.png" alt="Loren Mendez" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Loren Mendez</h4>
@@ -214,9 +222,9 @@
                 </div>
 
                 <!-- Rylee Hickman -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden w-full md:w-[calc(25%-1.125rem)]">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/09/Rylee-1024x862.png" alt="Rylee Hickman" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/rylee.png" alt="Rylee Hickman" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Rylee Hickman</h4>
@@ -225,24 +233,13 @@
                 </div>
 
                 <!-- Cathleen Sliney -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden w-full md:w-[calc(25%-1.125rem)]">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Cathleen-Sliney-1024x862.png" alt="Cathleen Sliney" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                        <img src="assets/images/team/cathleen.png" alt="Cathleen Sliney" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Cathleen Sliney</h4>
                         <p class="text-gray-500 text-sm font-medium mt-1">Front Office Coordinator</p>
-                    </div>
-                </div>
-
-                <!-- Yuli Plascencia -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
-                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="https://www.resiliencymbmedicine.com/wp-content/uploads/2025/10/Yuli.png" alt="Yuli Plascencia" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
-                    </div>
-                    <div class="p-6">
-                        <h4 class="text-lg font-bold text-primary">Yuli Plascencia</h4>
-                        <p class="text-gray-500 text-sm font-medium mt-1">Revenue Cycle & Operations</p>
                     </div>
                 </div>
             </div>
@@ -288,7 +285,7 @@
         <div class="flex flex-col md:flex-row">
             <!-- Image -->
             <div class="md:w-2/5 flex-shrink-0">
-                <img id="bioModalImg" src="" alt="" class="w-full h-64 md:h-full object-cover object-top rounded-t-3xl md:rounded-l-3xl md:rounded-tr-none">
+                <img id="bioModalImg" src="" alt="" class="w-full h-64 md:h-full object-cover object-[50%_20%] rounded-t-3xl md:rounded-l-3xl md:rounded-tr-none">
             </div>
             <!-- Bio Text -->
             <div class="md:w-3/5 p-8">
@@ -308,7 +305,7 @@ const teamBios = {
     stefani: {
         name: 'Dr. Stefani LaFrenierre, MD',
         title: 'Psychiatrist & Addiction Medicine | Founder',
-        img: 'https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Dr.-Stefani-LaFrenierre-MD-1024x862.png',
+        img: 'assets/images/team/stefani.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/stefani-lafrenierre-md/',
         bio: `<p>Dr. Stefani LaFrenierre is the founder of Resiliency Mind+Body Medicine and a licensed Medical Doctor who is double board-certified in Adult Psychiatry and Addiction Medicine.</p>
               <p>She received her Medical Degree from the David Geffen School of Medicine at UCLA and completed her Adult Psychiatry residency training at San Mateo Behavioral Health and Recovery Services. She also completed a fellowship through the Harvard Program in Refugee Trauma with a certification in Global Mental Health, Trauma and Recovery.</p>
@@ -318,7 +315,7 @@ const teamBios = {
     erin: {
         name: 'Dr. Erin Griffiths, DO, MA',
         title: 'Holistic Psychiatrist',
-        img: 'https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Dr.-Erin-Griffiths-DO-MA-1024x862.png',
+        img: 'assets/images/team/erin.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/erin-griffiths-do-ma/',
         bio: `<p>Dr. Erin Griffiths is a board-certified holistic psychiatrist with a Doctor of Osteopathic Medicine (D.O.) degree and a Master of Arts. She is also a certified yoga teacher with breath work training certification.</p>
               <p>Dr. Griffiths practices in a holistic manner, both in the way she practices medicine and in her personal life. She offers a different approach to psychiatry, working towards health and wellness instead of maintenance of disease that is common in traditional, medication-focused medical practices.</p>
@@ -327,7 +324,7 @@ const teamBios = {
     heather: {
         name: 'Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych',
         title: 'Physician Associate',
-        img: 'https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Dr.-Heather-Wong-DMSc-MPAS-PA-C-CAQ-Psych-1024x862.png',
+        img: 'assets/images/team/heather.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/heather-wong-dmsc-mpas-pa-c-caq-psych/',
         bio: `<p>Dr. Heather Wong is a Doctorate level Physician Associate who has been working in Psychiatry and Addiction Medicine for more than six years.</p>
               <p>She is experienced in the treatment of depression, anxiety, ADHD, PTSD, bipolar disorders, substance use and dual diagnosis disorders. She has performed in several leadership positions, including as an associate medical director managing medical and psychiatric needs for multiple facilities. She also has developed and implemented culturally competent care processes while in her previous leadership positions.</p>
@@ -337,7 +334,7 @@ const teamBios = {
     milinda: {
         name: 'Milinda Estrada, PA-C',
         title: 'Physician Associate',
-        img: 'https://resiliencymbmedicine.com/wp-content/uploads/2025/10/Milinda.png',
+        img: 'assets/images/team/milinda.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/milinda-estrada-pa-c/',
         bio: `<p>Milinda Estrada earned her Master of Medical Science in Physician Assistant Studies from Chapman University and completed her undergraduate degree at Hamilton College in Clinton, New York, with a major in Biology and a minor in Women's and Gender Studies.</p>
               <p>As a Physician Associate at Resiliency Mind+Body Medicine, Milinda brings a compassionate, patient-centered approach to psychiatric care. She is dedicated to working collaboratively with patients to develop individualized treatment plans that address the full spectrum of mental health needs.</p>`
@@ -345,7 +342,7 @@ const teamBios = {
     regina: {
         name: 'Regina Dizon, PMHNP-BC',
         title: 'Psychiatric Nurse Practitioner',
-        img: 'https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Regina-Dizon-PMHNP-BC-1024x862.png',
+        img: 'assets/images/team/regina.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/regina-dizon-pmhnp-bc/',
         bio: `<p>Regina Dizon is a passionate and highly experienced board-certified Psychiatric Mental Health Nurse Practitioner, proudly serving patients at Resiliency Mind+Body Medicine.</p>
               <p>Her background also includes roles as an emergency medical technician, medical assistant, and nursing assistant, giving her a broad foundation and a personal touch in caring for patients.</p>
@@ -354,7 +351,7 @@ const teamBios = {
     brian: {
         name: 'Brian Tran, PMHNP-BC',
         title: 'Psychiatric Nurse Practitioner',
-        img: 'https://resiliencymbmedicine.com/wp-content/uploads/2025/08/Brian-Tran-team-headshot-1024x862.png',
+        img: 'assets/images/team/brian.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/brian-tran-pmhnp-bc/',
         bio: `<p>Brian Tran is a board-certified Psychiatric Mental Health Nurse Practitioner. He earned his Master of Science in Nursing from Azusa Pacific University.</p>
               <p>Brian brings experience in diagnosing and treating mental health conditions across the lifespan, with a strong background in medication management, psychotherapy, and evidence-based care, having worked in both outpatient and multidisciplinary team settings.</p>
@@ -363,7 +360,7 @@ const teamBios = {
     lina: {
         name: 'Lina Kurdi, PMHNP-BC',
         title: 'Psychiatric Nurse Practitioner',
-        img: 'https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Lina-Kurdi-PMHNP-BC-Resiliency-1024x862.png',
+        img: 'assets/images/team/lina.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/lina-kurdi-pmhnp-bc/',
         bio: `<p>Lina Kurdi is a board-certified Psychiatric Mental Health Nurse Practitioner from Irvine, California. She brings a diverse clinical background to her work, practicing both as a PMHNP and as an ER/Trauma Registered Nurse at UCI Medical Center.</p>
               <p>Lina earned her Bachelor of Arts in Psychology from the University of California, Santa Barbara, and her Master of Science in Nursing from the University of San Diego. She later completed her post-master's Psychiatric Mental Health Nurse Practitioner certification through Western University of Health Sciences.</p>

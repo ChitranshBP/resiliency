@@ -272,7 +272,7 @@
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
-                        Experience Methylene Blue IV
+                        Explore Methylene Blue IV Therapy
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
                     </span>
                 </a>

@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/hero_bg.png" alt="Telehealth Appointments" class="w-full h-full object-cover">
+            <img src="assets/images/telehealth_hero.png" alt="Telehealth Appointments" class="w-full h-full object-cover object-[50%_70%]">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -23,7 +23,7 @@
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
-                        Book a Virtual Visit <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                        Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="#about" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center">
                         Learn More
@@ -78,7 +78,7 @@
                 <!-- Badge -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/hero_bg.png" alt="Telehealth virtual visit" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/telehealth_hero.png" alt="Telehealth virtual visit" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
@@ -118,8 +118,8 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <!-- Service 1 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal">
-                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto">
                         <i data-lucide="file-check-2" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Psychiatric Evaluations</h4>
@@ -127,8 +127,8 @@
                 </div>
 
                 <!-- Service 2 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal reveal-delay-1">
-                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal reveal-delay-1 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto">
                         <i data-lucide="pill" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Medication Management</h4>
@@ -136,8 +136,8 @@
                 </div>
 
                 <!-- Service 3 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal reveal-delay-2">
-                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal reveal-delay-2 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Treatment Planning</h4>
@@ -145,8 +145,8 @@
                 </div>
 
                 <!-- Service 4 -->
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal">
-                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5">
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:bg-white/10 transition-colors reveal text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto">
                         <i data-lucide="heart" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Follow-Up Visits</h4>
@@ -237,7 +237,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Step 1 -->
                 <div class="relative reveal group">
-                    <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                    <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full text-center">
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">01</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-3">Schedule</h4>
                         <p class="text-gray-500 font-light leading-relaxed text-sm">Book your telehealth appointment online or by calling (949) 996-5355. Choose a time that works for your schedule.</p>
@@ -249,7 +249,7 @@
 
                 <!-- Step 2 -->
                 <div class="relative reveal reveal-delay-1 group">
-                    <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                    <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full text-center">
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">02</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-3">Connect</h4>
                         <p class="text-gray-500 font-light leading-relaxed text-sm">You'll receive a secure video link before your appointment. Join from any device with a camera, microphone, and internet connection.</p>
@@ -261,7 +261,7 @@
 
                 <!-- Step 3 -->
                 <div class="relative reveal reveal-delay-2 group">
-                    <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
+                    <div class="bg-neutral rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full text-center">
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">03</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-3">Receive Care</h4>
                         <p class="text-gray-500 font-light leading-relaxed text-sm">Meet with your provider for a thorough virtual visit. Prescriptions and referrals are sent electronically.</p>
@@ -340,7 +340,7 @@
 
         <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 reveal">
             <h2 class="text-4xl md:text-5xl lg:text-6xl font-bold text-[#0B2035] mb-8 leading-tight">
-                Book a <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">Virtual Visit</span>
+                Schedule Your <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">Consultation</span>
             </h2>
             <p class="text-xl text-gray-600 mb-12 font-light max-w-2xl mx-auto leading-relaxed">
                 Schedule a secure telehealth appointment with our team and receive expert psychiatric care from wherever you are.
@@ -348,7 +348,7 @@
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
-                        Book a Virtual Visit
+                        Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
                     </span>
                 </a>

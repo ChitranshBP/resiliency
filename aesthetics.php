@@ -78,7 +78,7 @@
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/service_wellness.png" alt="Aesthetic treatments at Resiliency" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/aesthetics_approach.png" alt="Aesthetic treatments at Resiliency" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
