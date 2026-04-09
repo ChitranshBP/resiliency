@@ -16,7 +16,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Aesthetic Treatments</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    Neurotoxin<br/><span class="text-[#23bfe2] font-light">Treatments</span>
+                    Neurotoxin<span class="text-[#23bfe2] font-light">Treatments</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Expert Botox and Jeuveau injections for wrinkle reduction, facial rejuvenation, and preventative aging—administered by trained medical professionals at our Newport Beach clinic.

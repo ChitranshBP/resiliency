@@ -15,7 +15,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Peak Performance</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    Cognitive <br/><span class="text-[#23bfe2] font-light">Enhancement</span>
+                    Cognitive <span class="text-[#23bfe2] font-light">Enhancement</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Optimize your brain performance with physician-supervised cognitive enhancement protocols including NAD+ therapy, targeted supplements, metabolic optimization, and neuromodulation.

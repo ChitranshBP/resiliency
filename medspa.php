@@ -16,7 +16,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Aesthetic Wellness</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    Medical Spa<br/><span class="text-[#23bfe2] font-light">Newport Beach</span>
+                    Medical Spa<span class="text-[#23bfe2] font-light">Newport Beach</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Where medical expertise meets aesthetic artistry—physician-supervised cosmetic treatments, skin rejuvenation, and wellness therapies at Resiliency Mind + Body Medicine.

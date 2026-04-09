@@ -16,7 +16,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Advanced Neuromodulation</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    VNS <br/><span class="text-[#23bfe2] font-light">Therapy</span>
+                    VNS <span class="text-[#23bfe2] font-light">Therapy</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Vagus Nerve Stimulation using the LivaNova Symmetry™ System—an FDA-cleared, implantable neuromodulation therapy for treatment-resistant depression and epilepsy.

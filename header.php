@@ -77,6 +77,7 @@
                                 <a href="medication-management.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
                                 <a href="pharmacogenetic-testing.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Pharmacogenetic Testing</a>
                                 <a href="integrative-psychiatry.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Integrative Psychiatry</a>
+                                <a href="proliv-rx.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Proliv™ Rx</a>
                                 <a href="telehealth.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Telehealth Visits</a>
                             </div>
                         </div>
@@ -218,6 +219,7 @@
                         <a href="medication-management.php" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
                         <a href="pharmacogenetic-testing.php" class="text-white/80 hover:text-white transition-colors">Pharmacogenetic Testing</a>
                         <a href="integrative-psychiatry.php" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>
+                        <a href="proliv-rx.php" class="text-white/80 hover:text-white transition-colors">Proliv™ Rx</a>
                         <a href="telehealth.php" class="text-white/80 hover:text-white transition-colors">Telehealth Visits</a>
                     </div>
                 </div>

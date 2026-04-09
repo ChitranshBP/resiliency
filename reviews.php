@@ -16,7 +16,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Patient Experiences</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    Our <br/><span class="text-[#23bfe2] font-light">Reviews</span>
+                    Our <span class="text-[#23bfe2] font-light">Reviews</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Read what our patients say about their experience at Resiliency Mind + Body Medicine.

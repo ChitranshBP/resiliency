@@ -16,7 +16,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Patient Resources</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    Deep TMS Therapy <br/><span class="text-[#23bfe2] font-light">FAQ</span>
+                    Deep TMS Therapy <span class="text-[#23bfe2] font-light">FAQ</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Detailed answers to frequently asked questions about Transcranial Magnetic Stimulation therapy.

@@ -4,7 +4,7 @@
     <!-- Hero Section -->
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/adhd_hero.png" alt="ADHD Treatment Focus" class="w-full h-full object-cover">
+            <img src="assets/images/adhd_hero.png" alt="ADHD Treatment Focus" class="w-full h-full object-cover object-[50%_30%]">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -15,7 +15,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Mental Health Treatment</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    ADHD <br/><span class="text-[#23bfe2] font-light">Treatment</span>
+                    ADHD <span class="text-[#23bfe2] font-light">Treatment</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Comprehensive ADHD management with careful diagnostic evaluation, conservative medication options, and integrative strategies for improved focus, organization, and daily functioning.

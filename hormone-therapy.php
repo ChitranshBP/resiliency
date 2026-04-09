@@ -16,7 +16,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Integrative Wellness</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    Hormone <br/><span class="text-[#23bfe2] font-light">Therapy</span>
+                    Hormone <span class="text-[#23bfe2] font-light">Therapy</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Comprehensive hormone and metabolic assessment with evidence-based hormone replacement therapy to address mood, energy, cognition, and overall vitality.
