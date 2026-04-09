@@ -61,6 +61,7 @@ $pages = [
     'hormone-therapy.php' => 'hormone-therapy.html',
     'newport-beach.php' => 'newport-beach.html',
     'san-juan-capistrano.php' => 'san-juan-capistrano.html',
+    'proliv-rx.php' => 'proliv-rx.html',
 ];
 $assets_dirs = ['assets', 'css', 'js'];
 
