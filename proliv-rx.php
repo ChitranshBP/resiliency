@@ -4,7 +4,7 @@
     <!-- Hero Section -->
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/proliv_rx_device.png" alt="Proliv Rx Neuromodulation" class="w-full h-full object-cover object-[50%_35%]">
+            <img src="assets/images/Proliv™Rx-IMG-FINAL.png" alt="Proliv Rx Neuromodulation" class="w-full h-full object-cover object-[50%_35%]">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -46,7 +46,7 @@
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">What is Proliv™Rx?</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        Proliv™Rx is the first FDA-approved (Class III PMA), prescription, clinician-directed neuromodulation therapy that can be administered at home. It delivers focal, multi-channel, external Combined Occipital and Trigeminal Afferent Stimulation (eCOT-AS) through a non-invasive wearable headset.
+                        Proliv™Rx is the first FDA-approved (Class II PMA), prescription, clinician-directed neuromodulation therapy that can be administered at home. It delivers focal, multi-channel, external Combined Occipital and Trigeminal Afferent Stimulation (eCOT-AS) through a non-invasive wearable headset.
                     </p>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
                         The device applies gentle electrical pulses to targeted neural pathways associated with depression—without invasive procedures and with low risk of systemic side effects. At Resiliency Mind+Body Medicine, we are proud to be part of the initial rollout of this groundbreaking therapy.
@@ -58,7 +58,7 @@
                                 <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2]">
                                     <i data-lucide="check" class="w-5 h-5"></i>
                                 </div>
-                                <span class="text-[#0B2035] font-semibold text-base">FDA-approved (Class III PMA) for MDD</span>
+                                <span class="text-[#0B2035] font-semibold text-base">FDA-approved (Class II PMA) for MDD</span>
                             </li>
                             <li class="flex items-center gap-4">
                                 <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2]">
@@ -85,7 +85,7 @@
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/proliv_rx_device.png" alt="Proliv Rx Device" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/Proliv™Rx-IMG-FINAL.png" alt="Proliv Rx Device" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 

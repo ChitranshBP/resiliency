@@ -62,22 +62,8 @@
                     </div>
                 </div>
 
-                <!-- Dr. Erin Griffiths -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer" onclick="openBioModal('erin')">
-                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/erin.png" alt="Dr. Erin Griffiths, DO, MA" class="w-full h-full object-cover object-top transition-transform duration-500">
-                    </div>
-                    <div class="p-6">
-                        <h4 class="text-lg font-bold text-primary">Dr. Erin Griffiths, DO, MA</h4>
-                        <p class="text-[#23bfe2] text-sm font-semibold mt-1">Holistic Psychiatrist</p>
-                        <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
-                            <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
-                        </p>
-                    </div>
-                </div>
-
                 <!-- Dr. Heather Wong -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('heather')">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer" onclick="openBioModal('heather')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/heather.png" alt="Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -91,7 +77,7 @@
                 </div>
 
                 <!-- Milinda Estrada -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden cursor-pointer" onclick="openBioModal('milinda')">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('milinda')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/milinda.png" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -103,12 +89,9 @@
                         </p>
                     </div>
                 </div>
-            </div>
 
-            <!-- Second row: 3 centered cards -->
-            <div class="flex flex-col md:flex-row justify-center gap-6 mt-6 mb-20">
                 <!-- Regina Dizon -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer w-full md:w-[calc(25%-1.125rem)]" onclick="openBioModal('regina')">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden cursor-pointer" onclick="openBioModal('regina')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/regina.png" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -120,9 +103,12 @@
                         </p>
                     </div>
                 </div>
+            </div>
 
+            <!-- Second row: 2 centered cards -->
+            <div class="flex flex-col md:flex-row justify-center flex-wrap gap-6 mt-6 mb-20">
                 <!-- Brian Tran -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer w-full md:w-[calc(25%-1.125rem)]" onclick="openBioModal('brian')">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer w-full md:w-[calc(50%-0.75rem)] lg:w-[calc(33.333%-1rem)] xl:w-[calc(25%-1.125rem)]" onclick="openBioModal('brian')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/brian.png" alt="Brian Tran, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -136,7 +122,7 @@
                 </div>
 
                 <!-- Lina Kurdi -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer w-full md:w-[calc(25%-1.125rem)]" onclick="openBioModal('lina')">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer w-full md:w-[calc(50%-0.75rem)] lg:w-[calc(33.333%-1rem)] xl:w-[calc(25%-1.125rem)]" onclick="openBioModal('lina')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/lina.png" alt="Lina Kurdi, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -311,15 +297,6 @@ const teamBios = {
               <p>She received her Medical Degree from the David Geffen School of Medicine at UCLA and completed her Adult Psychiatry residency training at San Mateo Behavioral Health and Recovery Services. She also completed a fellowship through the Harvard Program in Refugee Trauma with a certification in Global Mental Health, Trauma and Recovery.</p>
               <p>Dr. LaFrenierre has expertise in the treatment of depression, anxiety, ADHD, PTSD, bipolar disorders, psychotic disorders, autism spectrum, neuro-divergent spectrum, substance use and dual diagnosis disorders. She has performed in several leadership positions, including Medical Director of an addiction treatment group practice and as Chief Resident during her training.</p>
               <p>Her treatment philosophy focuses on building resiliency through holistic, long-lasting changes to help her patients achieve a balanced and fulfilling life. She provides a warm, empathic, and active therapy style, and brings a conservative approach to medication while considering all aspects of health in treatment planning.</p>`
-    },
-    erin: {
-        name: 'Dr. Erin Griffiths, DO, MA',
-        title: 'Holistic Psychiatrist',
-        img: 'assets/images/team/erin.png',
-        bookUrl: 'https://resiliencymbmedicine.com/our-team/erin-griffiths-do-ma/',
-        bio: `<p>Dr. Erin Griffiths is a board-certified holistic psychiatrist with a Doctor of Osteopathic Medicine (D.O.) degree and a Master of Arts. She is also a certified yoga teacher with breath work training certification.</p>
-              <p>Dr. Griffiths practices in a holistic manner, both in the way she practices medicine and in her personal life. She offers a different approach to psychiatry, working towards health and wellness instead of maintenance of disease that is common in traditional, medication-focused medical practices.</p>
-              <p>She specializes in women's wellness, particularly during midlife transitions, drawing from both her extensive medical training and personal experience to provide compassionate, integrative care. Dr. Griffiths is passionate about helping patients achieve balance through a whole-person approach that addresses mind, body, and spirit.</p>`
     },
     heather: {
         name: 'Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych',

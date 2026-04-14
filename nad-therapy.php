@@ -69,7 +69,7 @@
                                 <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2]">
                                     <i data-lucide="check" class="w-5 h-5"></i>
                                 </div>
-                                <span class="text-[#0B2035] font-semibold text-base">Sessions last 1-2 hours with immediate benefits</span>
+                                <span class="text-[#0B2035] font-semibold text-base">Sessions last 1 hour with immediate benefits</span>
                             </li>
                         </ul>
                     </div>
@@ -78,7 +78,7 @@
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/service_supplement.jpg" alt="NAD+ IV Therapy session" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/nad_iv_therapy.png" alt="NAD+ IV Therapy session" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
@@ -248,7 +248,7 @@
                     <div class="bg-white rounded-[2rem] p-8 border border-gray-100 hover:shadow-xl transition-all duration-300 h-full">
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">02</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-3">Comfortable Infusion</h4>
-                        <p class="text-gray-500 font-light leading-relaxed text-sm">Relax in our comfortable clinic as your NAD+ IV is administered by a licensed nurse over 1-2 hours.</p>
+                        <p class="text-gray-500 font-light leading-relaxed text-sm">Relax in our comfortable clinic as your NAD+ IV is administered by a licensed nurse over 1 hour.</p>
                     </div>
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
                         <i data-lucide="chevron-right" class="w-8 h-8"></i>
@@ -301,7 +301,7 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            NAD+ infusions typically last 1-2 hours depending on the dosage. You can relax comfortably, read, work on your laptop, or simply rest during your session.
+                            NAD+ infusions typically last 1 hour depending on the dosage. You can relax comfortably, read, work on your laptop, or simply rest during your session.
                         </div>
                     </div>
                 </div>

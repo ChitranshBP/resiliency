@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/service_supplement.jpg" alt="Supplements & Nutraceuticals" class="w-full h-full object-cover">
+            <img src="assets/images/supplements/mood_boost_pro.png" alt="Supplements & Nutraceuticals" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -16,7 +16,7 @@
                     <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Supplements Service in Newport Beach, CA</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
-                    NeuroHealth<span class="text-[#23bfe2] font-light">MD</span>
+                    Resiliency Mind+Body Medicine <span class="text-[#23bfe2] font-light">MD</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
                     Your premier destination for cutting-edge supplements meticulously crafted to optimize mental health and neuron vitality. Founded by Dr. Stefani LaFrenierre, a double board-certified physician.
@@ -44,11 +44,11 @@
                 <div class="w-full lg:w-1/2 text-[#0B2035] reveal">
                     <div class="flex items-center gap-3 mb-4">
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
-                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Welcome to NeuroHealthMD</h2>
+                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Welcome to Resiliency Mind+Body Medicine</h2>
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Physician-Developed Supplements</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        At NeuroHealthMD, we understand the intricate interplay between nutrition and neurological health. That's why each of our supplements is backed by scientific research and formulated with the highest quality ingredients to ensure maximum effectiveness.
+                        At Resiliency Mind+Body Medicine , we understand the intricate interplay between nutrition and neurological health. That's why each of our supplements is backed by scientific research and formulated with the highest quality ingredients to ensure maximum effectiveness.
                     </p>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
                         Whether you're looking to sharpen your focus, boost your mood, or safeguard your brain against age-related decline, we have a solution for you. Our range of products caters to various aspects of mental health and neuron health, including memory enhancement, stress reduction, and mood stabilization.
@@ -87,7 +87,7 @@
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/service_supplement.jpg" alt="NeuroHealthMD Supplements" class="w-full h-[550px] object-cover">
+                        <img src="assets/images/supplements/mood_boost_pro.png" alt="NeuroHealthMD Supplements" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
@@ -615,7 +615,7 @@
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <div class="text-center max-w-3xl mx-auto mb-20 reveal">
-                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">The NeuroHealthMD Difference</h2>
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">The Resiliency Mind+Body Medicine Difference</h2>
                 <h3 class="text-4xl md:text-5xl font-bold mb-6">Why Choose Our Supplements?</h3>
             </div>
 

@@ -19,7 +19,7 @@
                     Accelerated Deep TMS <span class="text-[#23bfe2] font-light">SWIFT Protocol</span>
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
-                    Achieve remission in 5 days instead of 6 weeks with BrainsWay's revolutionary SWIFT Protocol—delivering concentrated Deep TMS sessions for faster, more efficient results.
+                    Achieve remission with BrainsWay's revolutionary SWIFT Protocol—a 6-day protocol over 2 weeks delivering concentrated Deep TMS sessions for faster, more efficient results.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -48,7 +48,7 @@
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">What is the Accelerated Deep TMS Protocol?</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        Accelerated Deep TMS delivers theta burst stimulation for 9 minutes at a time, multiple times a day, for 5 days. Traditional Deep TMS delivers theta burst stimulation for 3 minutes once a day for 6 weeks. The accelerated protocol reduces the traditional 20-visit acute treatment phase to just 6 half days, followed by weekly maintenance visits for 4 weeks. This reduces clinic visits in the acute phase by approximately 70%.
+                        Accelerated Deep TMS delivers theta burst stimulation for 9 minutes at a time, multiple times a day, for <strong class="font-semibold text-primary">6 days spread over 2 weeks</strong>. Traditional Deep TMS delivers theta burst stimulation for 3 minutes once a day for 6 weeks. The accelerated protocol reduces the traditional 20-visit acute treatment phase to just <strong class="font-semibold text-primary">6 half days</strong>, followed by weekly maintenance visits for 4 weeks. Because these sessions do <strong class="font-semibold text-primary">not need to be continuous</strong>, this approach is <strong class="font-semibold text-primary">easy to work into your work schedule</strong>, effectively reducing clinic visits in the acute phase by approximately 70%.
                     </p>
 
                     <div class="bg-neutral p-6 rounded-2xl mb-8 border border-gray-100">
@@ -57,7 +57,7 @@
                                 <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2]">
                                     <i data-lucide="check" class="w-5 h-5"></i>
                                 </div>
-                                <span class="text-[#0B2035] font-semibold text-base">Remission in just 5 days of treatment</span>
+                                <span class="text-[#0B2035] font-semibold text-base">Remission in just 6 days of treatment</span>
                             </li>
                             <li class="flex items-center gap-4">
                                 <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2]">
@@ -257,13 +257,13 @@
                     </button>
                     <div class="faq-content px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Each theta burst stimulation session lasts approximately 9 minutes. Multiple sessions are delivered throughout the day over 5 consecutive days, with rest periods between sessions.
+                            Each theta burst stimulation session lasts approximately 9 minutes. Multiple sessions are delivered throughout the day over 6 consecutive days, with rest periods between sessions.
                         </div>
                     </div>
                 </div>
 
                 <!-- FAQ Item 2 -->
-                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                <!-- <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
                         <span>Is Accelerated Deep TMS covered by insurance?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
@@ -275,7 +275,7 @@
                             Deep TMS is FDA-cleared and many insurance providers cover it for depression and OCD. Coverage is expanding for PTSD and anxiety. Our team handles full benefits verification and prior authorization for you.
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- FAQ Item 3 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
@@ -287,7 +287,7 @@
                     </button>
                     <div class="faq-content px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            While standard Deep TMS requires daily sessions over 6 weeks, Accelerated Deep TMS compresses this into just 5 days of intensive treatment. Clinical studies show comparable or superior response and remission rates with the accelerated approach.
+                            While standard Deep TMS requires daily sessions over 6 weeks, Accelerated Deep TMS compresses this into just 6 days of intensive treatment. Clinical studies show comparable or superior response and remission rates with the accelerated approach.
                         </div>
                     </div>
                 </div>
@@ -429,7 +429,7 @@
                 Ready for <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">Rapid Relief?</span>
             </h2>
             <p class="text-xl text-gray-600 mb-12 font-light max-w-2xl mx-auto leading-relaxed">
-                Discover if the Accelerated Deep TMS SWIFT Protocol can help you achieve remission in just 5 days. Schedule your consultation today.
+                Discover if the Accelerated Deep TMS SWIFT Protocol can help you achieve remission in just 6 days. Schedule your consultation today.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">

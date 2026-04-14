@@ -357,7 +357,7 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. We provide Suboxone (buprenorphine) treatment for opioid use disorder as part of a comprehensive recovery program.
+                            Yes. We provide Suboxone (buprenorphine/naloxone) treatment for opioid use disorder as part of a comprehensive recovery program.
                         </div>
                     </div>
                 </div>

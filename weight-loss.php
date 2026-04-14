@@ -96,7 +96,7 @@
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/medical_weight_loss_consultation_clean.png" alt="Medical weight loss program" class="w-full h-[550px] object-cover">
+                        <img src="assets\images\dr-L-patient-2.webp" alt="Medical weight loss program" class="w-full h-[550px] object-cover object-[50%_30%]">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 

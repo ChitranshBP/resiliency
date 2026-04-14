@@ -146,9 +146,9 @@
                             >
                             
                             <!-- Overlay Label -->
-                            <div class="absolute bottom-6 left-1/2 -translate-x-1/2 bg-[#0B2035]/80 backdrop-blur-md px-6 py-2 rounded-full border border-white/10">
+                            <!-- <div class="absolute bottom-6 left-1/2 -translate-x-1/2 bg-[#0B2035]/80 backdrop-blur-md px-6 py-2 rounded-full border border-white/10">
                                 <p class="text-[10px] text-[#23bfe2] font-bold uppercase tracking-[0.2em] whitespace-nowrap">Brain Activity Simulation</p>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

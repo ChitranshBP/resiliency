@@ -58,7 +58,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                We offer Deep TMS therapy, Accelerated Deep TMS (SWIFT protocol), SPRAVATO (esketamine), conservative medication management, integrative psychiatry, IV vitamin therapy, NAD+ therapy, medical weight loss, aesthetic treatments, and more.
+                                We offer Deep TMS therapy, Accelerated Deep TMS (SWIFT protocol), SPRAVATO (esketamine), conservative medication management, integrative psychiatry, IV vitamin therapy, NAD+ therapy, medical weight loss and more.
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Standard protocol is 36 sessions over 7&ndash;12 weeks. Our Accelerated Deep TMS (SWIFT) protocol offers 50 sessions over just 5&ndash;10 days for rapid results.
+                                Standard protocol is 36 sessions over 6&ndash;8 weeks. Our Accelerated Deep TMS (SWIFT) protocol offers 30 sessions over just 6 days for rapid results.
                             </div>
                         </div>
                     </div>
@@ -220,7 +220,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                We accept Aetna, Anthem Blue Cross Blue Shield, Blue Shield of California, CalOptima, Cigna, Health Net, Hoag Medical Group, Magellan, MHN, Medicare, Optum, TriCare, TriWest, and United Healthcare.
+                                We accept Aetna, Anthem Blue Cross Blue Shield, Blue Shield of California, CalOptima, Cigna, Health Net, Hoag Medical Group, Magellan, MHN, Medicare, Optum, TriCare, TriWest, United Healthcare and others, please gives us a call to verify your benefits .
                             </div>
                         </div>
                     </div>

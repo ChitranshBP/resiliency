@@ -72,13 +72,14 @@
                             <div class="p-2 space-y-1">
                                 <a href="tms-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Deep TMS Therapy</a>
                                 <a href="accelerated-tms.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated Deep TMS (SWIFT)</a>
-                                <a href="vns-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">VNS Therapy</a>
                                 <a href="spravato-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
                                 <a href="medication-management.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
                                 <a href="pharmacogenetic-testing.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Pharmacogenetic Testing</a>
                                 <a href="integrative-psychiatry.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Integrative Psychiatry</a>
                                 <a href="proliv-rx.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Proliv™ Rx</a>
                                 <a href="telehealth.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Telehealth Visits</a>
+                                <a href="vns-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">VNS Therapy</a>
+
                             </div>
                         </div>
                     </div>
@@ -92,16 +93,9 @@
                             <div class="p-2 space-y-1">
                                 <a href="iv-vitamin-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">IV Vitamin Therapy</a>
                                 <a href="nad-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">NAD+ Therapy</a>
-                                <a href="methylene-blue.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Methylene Blue IV</a>
                                 <a href="weight-loss.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medical Weight Loss</a>
                                 <a href="hormone-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Hormone Therapy</a>
                                 <a href="supplements.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Supplements</a>
-                                <a href="medspa.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medical Spa</a>
-                                <a href="aesthetics.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Aesthetic Treatments</a>
-                                <a href="microneedling.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Microneedling</a>
-                                <a href="cosmetic-injectables.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Cosmetic Injectables</a>
-                                <a href="neurotoxins.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Neurotoxins</a>
-                                <a href="infrared-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Infrared / Recovery</a>
                             </div>
                         </div>
                     </div>
@@ -214,13 +208,14 @@
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="tms-therapy.php" class="text-white/80 hover:text-white transition-colors">Deep TMS Therapy</a>
                         <a href="accelerated-tms.php" class="text-white/80 hover:text-white transition-colors">Accelerated Deep TMS (SWIFT)</a>
-                        <a href="vns-therapy.php" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
                         <a href="spravato-therapy.php" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
                         <a href="medication-management.php" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
                         <a href="pharmacogenetic-testing.php" class="text-white/80 hover:text-white transition-colors">Pharmacogenetic Testing</a>
                         <a href="integrative-psychiatry.php" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>
                         <a href="proliv-rx.php" class="text-white/80 hover:text-white transition-colors">Proliv™ Rx</a>
                         <a href="telehealth.php" class="text-white/80 hover:text-white transition-colors">Telehealth Visits</a>
+                      <a href="vns-therapy.php" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
+
                     </div>
                 </div>
 
@@ -232,16 +227,9 @@
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="iv-vitamin-therapy.php" class="text-white/80 hover:text-white transition-colors">IV Vitamin Therapy</a>
                         <a href="nad-therapy.php" class="text-white/80 hover:text-white transition-colors">NAD+ Therapy</a>
-                        <a href="methylene-blue.php" class="text-white/80 hover:text-white transition-colors">Methylene Blue IV</a>
                         <a href="weight-loss.php" class="text-white/80 hover:text-white transition-colors">Medical Weight Loss</a>
                         <a href="hormone-therapy.php" class="text-white/80 hover:text-white transition-colors">Hormone Therapy</a>
                         <a href="supplements.php" class="text-white/80 hover:text-white transition-colors">Supplements</a>
-                        <a href="medspa.php" class="text-white/80 hover:text-white transition-colors">Medical Spa</a>
-                        <a href="aesthetics.php" class="text-white/80 hover:text-white transition-colors">Aesthetic Treatments</a>
-                        <a href="microneedling.php" class="text-white/80 hover:text-white transition-colors">Microneedling</a>
-                        <a href="cosmetic-injectables.php" class="text-white/80 hover:text-white transition-colors">Cosmetic Injectables</a>
-                        <a href="neurotoxins.php" class="text-white/80 hover:text-white transition-colors">Neurotoxins</a>
-                        <a href="infrared-therapy.php" class="text-white/80 hover:text-white transition-colors">Infrared / Recovery</a>
                     </div>
                 </div>
 

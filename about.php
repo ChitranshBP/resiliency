@@ -253,21 +253,8 @@
                     </div>
                 </a>
 
-                <!-- Dr. Erin Griffiths -->
-                <a href="team.php" class="group reveal reveal-delay-1">
-                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                        <div class="h-56 overflow-hidden">
-                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Dr.-Erin-Griffiths-DO-MA-1024x862.png" alt="Dr. Erin Griffiths, DO, MA" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
-                        </div>
-                        <div class="p-5 text-center">
-                            <h4 class="text-sm font-bold text-primary leading-tight">Dr. Erin Griffiths, DO, MA</h4>
-                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Holistic Psychiatrist</p>
-                        </div>
-                    </div>
-                </a>
-
                 <!-- Dr. Heather Wong -->
-                <a href="team.php" class="group reveal reveal-delay-2">
+                <a href="team.php" class="group reveal reveal-delay-1">
                     <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                         <div class="h-56 overflow-hidden">
                             <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Dr.-Heather-Wong-DMSc-MPAS-PA-C-CAQ-Psych-1024x862.png" alt="Dr. Heather Wong" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
@@ -280,7 +267,7 @@
                 </a>
 
                 <!-- Milinda Estrada -->
-                <a href="team.php" class="group reveal reveal-delay-3">
+                <a href="team.php" class="group reveal reveal-delay-2">
                     <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                         <div class="h-56 overflow-hidden">
                             <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/10/Milinda.png" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
@@ -291,12 +278,9 @@
                         </div>
                     </div>
                 </a>
-            </div>
 
-            <!-- Second row: 3 centered cards -->
-            <div class="flex flex-col sm:flex-row justify-center gap-6 mb-12">
                 <!-- Regina Dizon -->
-                <a href="team.php" class="group reveal w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(25%-1.125rem)]">
+                <a href="team.php" class="group reveal reveal-delay-3">
                     <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                         <div class="h-56 overflow-hidden">
                             <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Regina-Dizon-PMHNP-BC-1024x862.png" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
@@ -307,9 +291,12 @@
                         </div>
                     </div>
                 </a>
+            </div>
 
+            <!-- Second row: 2 centered cards -->
+            <div class="flex flex-col sm:flex-row justify-center flex-wrap gap-6 mb-12">
                 <!-- Brian Tran -->
-                <a href="team.php" class="group reveal reveal-delay-1 w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(25%-1.125rem)]">
+                <a href="team.php" class="group reveal w-full sm:w-[calc(50%-0.75rem)] md:w-[calc(33.333%-1rem)] lg:w-[calc(25%-1.125rem)]">
                     <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                         <div class="h-56 overflow-hidden">
                             <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/08/Brian-Tran-team-headshot-1024x862.png" alt="Brian Tran, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
@@ -322,7 +309,7 @@
                 </a>
 
                 <!-- Lina Kurdi -->
-                <a href="team.php" class="group reveal reveal-delay-2 w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(25%-1.125rem)]">
+                <a href="team.php" class="group reveal reveal-delay-1 w-full sm:w-[calc(50%-0.75rem)] md:w-[calc(33.333%-1rem)] lg:w-[calc(25%-1.125rem)]">
                     <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                         <div class="h-56 overflow-hidden">
                             <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Lina-Kurdi-PMHNP-BC-Resiliency-1024x862.png" alt="Lina Kurdi, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">

@@ -45,7 +45,7 @@
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Focus, Function, Thrive</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        ADHD affects attention, impulsivity, and executive function in both children and adults. It can impact every area of life from work performance to relationships.
+                        ADHD affects attention, impulsivity, and executive function in adults, often presenting uniquely as life demands increase. It can impact every area of life from career performance to relationships.
                     </p>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
                         Our approach begins with thorough diagnostic evaluation and develops personalized treatment plans that may include stimulant or non-stimulant medications, lifestyle modifications, nutritional optimization, and behavioral strategies.
@@ -54,7 +54,7 @@
 
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/adhd_understanding.png" alt="Understanding ADHD Focus" class="w-full h-[450px] object-cover">
+                        <img src="assets/images/adhd_adult_understanding.png" alt="Understanding Adult ADHD Focus" class="w-full h-[450px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
                 </div>

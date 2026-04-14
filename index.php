@@ -391,7 +391,7 @@
                         </div>
 
                         <!-- Floating Stat Badge (Glassmorphism) -->
-                        <div class="absolute -bottom-8 -right-4 lg:-right-8 bg-white/10 backdrop-blur-xl p-5 md:p-6 rounded-2xl border border-white/20 shadow-2xl flex items-center gap-4 group hover:-translate-y-2 transition-transform duration-500">
+                        <!-- <div class="absolute -bottom-8 -right-4 lg:-right-8 bg-white/10 backdrop-blur-xl p-5 md:p-6 rounded-2xl border border-white/20 shadow-2xl flex items-center gap-4 group hover:-translate-y-2 transition-transform duration-500">
                             <div class="w-12 h-12 md:w-14 md:h-14 bg-[#23bfe2]/20 rounded-xl flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-primary transition-colors duration-500">
                                 <i data-lucide="zap" class="w-6 h-6 md:w-7 md:h-7"></i>
                             </div>
@@ -399,7 +399,7 @@
                                 <p class="text-sm md:text-base font-bold text-white tracking-wide">Breakthrough Tech</p>
                                 <p class="text-xs md:text-sm text-[#23bfe2] font-medium uppercase tracking-wider">FDA-Cleared</p>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     
                     <!-- Content Side -->
@@ -433,7 +433,7 @@
                                 <div class="mt-1 bg-white/10 p-1.5 rounded-full text-[#23bfe2]">
                                     <i data-lucide="check" class="w-4 h-4"></i>
                                 </div>
-                                <span class="text-white/90 font-medium text-base md:text-lg">FDA-approved for Depression, Anxious Depression, and OCD</span>
+                                <span class="text-white/90 font-medium text-base md:text-lg">FDA-approved for MDD, Anxious MDD, and OCD</span>
                             </li>
                             <li class="flex items-start gap-4">
                                 <div class="mt-1 bg-white/10 p-1.5 rounded-full text-[#23bfe2]">
@@ -600,7 +600,7 @@
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/proliv_rx_device.png" alt="Proliv Rx At-Home Neuromodulation" class="w-full h-48 object-cover rounded-xl mt-auto">
+                        <img src="assets/images/Proliv™Rx-IMG-FINAL.png" alt="Proliv Rx At-Home Neuromodulation" class="w-full h-48 object-cover rounded-xl mt-auto">
                     </div>
 
                     <!-- Service 8: VNS Therapy -->
@@ -679,7 +679,7 @@
                         </div>
                         <div class="p-4 md:p-5 flex flex-col md:flex-row items-center text-center md:text-left md:justify-start gap-2 border-r border-gray-100 text-gray-500">
                             <i data-lucide="x" class="w-4 h-4 text-red-400 flex-shrink-0"></i> 
-                            <span class="text-xs md:text-sm font-medium leading-snug">Standard Deep TMS only</span>
+                            <span class="text-xs md:text-sm font-medium leading-snug">Standard TMS only</span>
                         </div>
                         <div class="p-4 md:p-5 flex flex-col md:flex-row items-center text-center md:text-left md:justify-start gap-2 bg-[#518efa]/5 group-hover:bg-[#518efa]/10 transition-colors border-l border-transparent md:border-[#518efa]/20">
                             <i data-lucide="check" class="w-4 h-4 text-[#23bfe2] flex-shrink-0"></i> 

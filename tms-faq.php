@@ -126,7 +126,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Most patients describe a mild tapping sensation. Any scalp discomfort typically subsides after the first week of treatment.
+                                Deep TMS does not hurt. Most patients describe a mild tapping sensation. Any scalp discomfort typically subsides after the first week of treatment.
                             </div>
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Standard protocol is 36 sessions over 7&ndash;12 weeks. Our Accelerated Deep TMS (SWIFT) protocol offers 50 sessions over just 5&ndash;10 days for rapid results.
+                                Standard protocol is 36 sessions over 6&ndash;8 weeks. Our Accelerated Deep TMS (SWIFT) protocol offers 30 sessions over just 6 days for rapid results.
                             </div>
                         </div>
                     </div>
@@ -234,7 +234,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Typically, insurance requires having tried and failed 2&ndash;4 antidepressant medications and having engaged in psychotherapy before approving Deep TMS coverage.
+                                Typically, insurance requires having tried and failed 2 antidepressant medications and having engaged in psychotherapy before approving Deep TMS coverage.
                             </div>
                         </div>
                     </div>

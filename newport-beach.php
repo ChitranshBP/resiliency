@@ -201,7 +201,7 @@
                 </a>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
                 <!-- Dr. Stefani LaFrenierre -->
                 <div class="bg-white rounded-[2rem] p-6 border border-gray-100 shadow-soft reveal hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                     <div class="flex items-center gap-4 mb-4">
@@ -216,22 +216,8 @@
                     <p class="text-gray-500 font-light leading-relaxed">Founder, double board-certified in Adult Psychiatry and Addiction Medicine.</p>
                 </div>
 
-                <!-- Dr. Erin Griffiths -->
-                <div class="bg-white rounded-[2rem] p-6 border border-gray-100 shadow-soft reveal reveal-delay-1 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                    <div class="flex items-center gap-4 mb-4">
-                        <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
-                            <i data-lucide="user" class="w-6 h-6"></i>
-                        </div>
-                        <div>
-                            <h4 class="text-lg font-bold text-[#0B2035]">Dr. Erin Griffiths, DO, MA</h4>
-                            <p class="text-[#23bfe2] text-sm font-semibold">Holistic Psychiatrist</p>
-                        </div>
-                    </div>
-                    <p class="text-gray-500 font-light leading-relaxed">Integrative psychiatrist with holistic treatment approach.</p>
-                </div>
-
                 <!-- Dr. Heather Wong -->
-                <div class="bg-white rounded-[2rem] p-6 border border-gray-100 shadow-soft reveal reveal-delay-2 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
+                <div class="bg-white rounded-[2rem] p-6 border border-gray-100 shadow-soft reveal reveal-delay-1 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                     <div class="flex items-center gap-4 mb-4">
                         <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
                             <i data-lucide="user" class="w-6 h-6"></i>

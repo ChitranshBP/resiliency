@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/spravato_therapy.png" alt="Spravato Treatment Consultation" class="w-full h-full object-cover">
+            <img src="assets\images\dr-L-with-p.jpg" alt="Spravato Treatment Consultation" class="w-full h-full object-cover object-[50%_30%] ">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -74,7 +74,7 @@
                 <!-- Image with decorative elements -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100">
-                        <img src="assets/images/spravato_therapy.png" alt="Spravato Treatment relief" class="w-full h-[500px] object-cover">
+                        <img src="assets\images\dr-L-with-p.jpg" alt="Spravato Treatment relief" class="w-full h-[500px] object-cover object-top ">
                         <div class="absolute inset-0 bg-gradient-to-t from-[#0B2035]/40 to-transparent"></div>
                     </div>
                     
@@ -171,10 +171,10 @@
                         </p>
                     </div>
 
-                    <div class="mt-12 flex items-center gap-6">
+                    <!-- <div class="mt-12 flex items-center gap-6">
                         <div class="w-16 h-[1px] bg-gray-300"></div>
                         <p class="font-serif italic text-2xl text-[#0B2035]">Dr. LaFrenierre, MD</p>
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="w-full lg:w-1/2 reveal reveal-delay-1">

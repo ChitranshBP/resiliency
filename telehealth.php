@@ -199,12 +199,12 @@
                                     </div>
                                     <span class="text-[#0B2035] font-medium text-sm">IV Vitamin & NAD+ Therapy</span>
                                 </div>
-                                <div class="flex items-center gap-3">
+                                <!-- <div class="flex items-center gap-3">
                                     <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2]">
                                         <i data-lucide="check" class="w-4 h-4"></i>
                                     </div>
                                     <span class="text-[#0B2035] font-medium text-sm">Aesthetic Treatments</span>
-                                </div>
+                                </div> -->
                                 <div class="flex items-center gap-3">
                                     <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2]">
                                         <i data-lucide="check" class="w-4 h-4"></i>

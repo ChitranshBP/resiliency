@@ -156,7 +156,7 @@
                         <i data-lucide="brain" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-2xl font-bold text-white mb-4">NAD+ IV</h4>
-                    <p class="text-gray-400 font-light leading-relaxed">Nicotinamide adenine dinucleotide for cellular repair, anti-aging, cognitive enhancement, and mental resilience. Sessions last 1-2 hours.</p>
+                    <p class="text-gray-400 font-light leading-relaxed">Nicotinamide adenine dinucleotide for cellular repair, anti-aging, cognitive enhancement, and mental resilience. Sessions last 1 hour.</p>
                 </div>
             </div>
         </div>
@@ -173,22 +173,22 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-                <!-- Booster 1 - ShapeUp -->
+                <!-- Booster 1 - Vitamin B12 -->
                 <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="trending-up" class="w-7 h-7"></i>
+                        <i data-lucide="zap" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-lg font-bold text-primary mb-2">ShapeUp</h4>
-                    <p class="text-gray-500 font-light text-sm leading-relaxed">A blend of vitamins and amino acids that enhances cognitive function, increases metabolism, regulates mood, and promotes brain function.</p>
+                    <h4 class="text-lg font-bold text-primary mb-2">Vitamin B12</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Essential for metabolism and nerve function. A quick injection to boost sustained energy, improve mood, and enhance mental focus.</p>
                 </div>
 
-                <!-- Booster 2 - Triple Defense -->
+                <!-- Booster 2 - NAD+ -->
                 <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="shield-check" class="w-7 h-7"></i>
+                        <i data-lucide="activity" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-lg font-bold text-primary mb-2">Triple Defense</h4>
-                    <p class="text-gray-500 font-light text-sm leading-relaxed">Glutathione, Vitamin C, and Zinc combined to promote healing, healthy immune systems, and antioxidant protection.</p>
+                    <h4 class="text-lg font-bold text-primary mb-2">NAD+ Booster</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">A concentrated dose of Nicotinamide Adenine Dinucleotide to support cellular energy, improve mental clarity, and promote healthy aging.</p>
                 </div>
 
                 <!-- Booster 3 - Glutathione -->
@@ -290,7 +290,7 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Most IV drip sessions take 45-60 minutes. NAD+ infusions typically require 1-2 hours depending on the dosage. You can relax comfortably during your session.
+                            Most IV drip sessions take 45-60 minutes. NAD+ infusions typically require 1 hour depending on the dosage. You can relax comfortably during your session.
                         </div>
                     </div>
                 </div>

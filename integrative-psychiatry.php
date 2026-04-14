@@ -191,31 +191,8 @@
                     </div>
                 </div>
                 <!-- Row 2 -->
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 reveal">
-                    <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300">
-                        <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
-                            <i data-lucide="heart-handshake" class="w-6 h-6"></i>
-                        </div>
-                        <div>
-                            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-1">Personal Holistic Approach</p>
-                            <h4 class="text-lg font-bold text-[#0B2035] mb-2">Substance Use & MAT</h4>
-                            <p class="text-gray-500 text-sm font-light leading-relaxed">Evidence-based treatment of substance use and dual-diagnosis conditions. Treatments include Suboxone MAT, Sublocade, Vivitrol, and Deep TMS for smoking cessation.</p>
-                        </div>
-                    </div>
-                    <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300">
-                        <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
-                            <i data-lucide="users" class="w-6 h-6"></i>
-                        </div>
-                        <div>
-                            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-1">Work with Our Exceptional Providers</p>
-                            <h4 class="text-lg font-bold text-[#0B2035] mb-2">IOP Collaboration</h4>
-                            <p class="text-gray-500 text-sm font-light leading-relaxed">High-quality, evidence-based mental health and substance use treatment services to IOP facilities via telemedicine. Contact our office to collaborate with Dr. LaFrenierre's team.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Row 3: full width -->
-                <div class="reveal">
-                    <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300">
+                <div class="flex justify-center mt-4 reveal">
+                    <div class="flex gap-5 bg-[#f8fafc] border border-gray-100 rounded-2xl p-6 hover:border-[#23bfe2]/40 hover:shadow-md transition-all duration-300 w-full md:w-[calc(50%-0.5rem)]">
                         <div class="w-12 h-12 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
                             <i data-lucide="thermometer" class="w-6 h-6"></i>
                         </div>

@@ -54,7 +54,7 @@
 
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/adhd_hero.png" alt="Cognitive Enhancement at Resiliency" class="w-full h-[450px] object-cover">
+                        <img src="assets\images\dr-L-Holding-brain.webp" alt="Cognitive Enhancement at Resiliency" class="w-full h-[450px] object-cover object-[50%_30%]">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
                 </div>
@@ -74,6 +74,16 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+
+       <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-3 group flex flex-col items-center text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="zap" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-xl font-bold mb-3">Deep TMS Neuromodulation</h4>
+                    <p class="text-gray-300 font-light leading-relaxed">Targeted brain stimulation to enhance neural connectivity and cognitive performance.</p>
+                </div>
+
+
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-7 h-7"></i>
@@ -98,13 +108,7 @@
                     <p class="text-gray-300 font-light leading-relaxed">Hormone, thyroid, and metabolic assessment to remove cognitive barriers.</p>
                 </div>
 
-                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-8 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-3 group flex flex-col items-center text-center">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="zap" class="w-7 h-7"></i>
-                    </div>
-                    <h4 class="text-xl font-bold mb-3">Deep TMS Neuromodulation</h4>
-                    <p class="text-gray-300 font-light leading-relaxed">Targeted brain stimulation to enhance neural connectivity and cognitive performance.</p>
-                </div>
+         
             </div>
         </div>
     </section>

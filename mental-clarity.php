@@ -4,7 +4,7 @@
     <!-- Hero Section -->
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/anxiety_consultation.png" alt="Mental Clarity Treatment" class="w-full h-full object-cover object-[50%_30%]">
+            <img src="assets/images/home/Resiliency01.webp" alt="Mental Clarity Treatment" class="w-full h-full object-cover object-[80%_60%]">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 
@@ -47,14 +47,17 @@
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
                         Brain fog, poor concentration, and mental fatigue can stem from depression, anxiety, hormonal imbalances, nutritional deficiencies, or chronic stress.
                     </p>
-                    <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
+                    <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
                         Our integrative approach identifies and treats the root causes—combining psychiatric evaluation, lab work, nutritional assessment, and targeted interventions to restore mental clarity.
+                    </p>
+                    <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
+                        Additionally, we offer a specialized <strong class="font-semibold text-[#0B2035]">Mental Boost Protocol</strong> using advanced Deep TMS technology. This quick, 3-minute treatment administered 1-3 times a week is specifically designed to safely boost mental clarity and improve cognitive function, helping you feel sharper and more focused.
                     </p>
                 </div>
 
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/ocd_relief.png" alt="Mental Clarity Treatment at Resiliency" class="w-full h-[450px] object-cover">
+                        <img src="assets/images/home/Resiliency01.webp" alt="Mental Clarity Treatment at Resiliency" class="w-full h-[450px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
                 </div>
