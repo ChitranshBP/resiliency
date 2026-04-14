@@ -13,6 +13,10 @@
 
             <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
                 <div class="max-w-2xl reveal">
+                    <div class="flex items-center gap-3 mb-6">
+                        <span class="h-[2px] w-8 bg-secondary"></span>
+                        <span class="text-secondary text-sm font-bold tracking-widest uppercase">Start Now, Feel Better By Summer</span>
+                    </div>
                     <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-6">
                         Transforming Mental Health with Advanced <span class="text-secondary font-light">Psychiatry & Deep TMS Therapy</span>
                     </h1>
