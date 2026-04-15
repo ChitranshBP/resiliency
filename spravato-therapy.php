@@ -5,7 +5,7 @@
     <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets\images\dr-L-with-p.jpg" alt="Spravato Treatment Consultation" class="w-full h-full object-cover object-[50%_30%] ">
+            <img src="assets/images/spravato-banner.png" alt="Spravato Treatment Consultation" class="w-full h-full object-cover object-[50%_30%] ">
             <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
         </div>
 

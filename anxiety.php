@@ -91,10 +91,11 @@
                     </div>
                 </div>
 
-                <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
-                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/anxiety_hero.png" alt="Anxiety Symptoms and Impact" class="w-full h-[450px] object-cover">
-                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
+                <!-- Video Container -->
+                <div class="w-full lg:w-1/2 relative reveal reveal-delay-1 flex justify-center lg:justify-end lg:pr-8">
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 w-full max-w-[366px] aspect-[9/16]">
+                        <iframe class="w-full h-full" src="https://www.youtube.com/embed/x3Jkrgw6Iys" title="Understanding Anxiety" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent pointer-events-none"></div>
                     </div>
                 </div>
             </div>

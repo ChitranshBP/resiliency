@@ -541,7 +541,7 @@
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/service_spravato.png" alt="SPRAVATO" class="w-full h-48 object-cover rounded-xl mt-auto">
+                        <img src="assets/images/spravato-home.jpg" alt="SPRAVATO" class="w-full h-48 object-cover rounded-xl object-[50%_30%]">
                     </div>
 
                     <!-- Service 3 -->
@@ -565,7 +565,7 @@
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/service_weight_loss.png" alt="Medical Weight Loss" class="w-full h-48 object-cover rounded-xl mt-auto">
+                        <img src="assets/images/anxiety_consultation.png" alt="Medical Weight Loss" class="w-full h-48 object-cover rounded-xl mt-auto">
                     </div>
 
                     <!-- Service 5 -->

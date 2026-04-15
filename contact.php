@@ -102,48 +102,25 @@
                         <h3 class="text-2xl font-bold text-[#0B2035] mb-2">Send Us a Message</h3>
                         <p class="text-gray-500 font-light mb-8">Fill out the form below and we'll get back to you as soon as possible.</p>
 
-                        <form action="#" method="POST" class="space-y-6">
-                            <!-- Full Name -->
-                            <div>
-                                <label for="full_name" class="block text-sm font-bold text-[#0B2035] mb-2">Full Name</label>
-                                <input type="text" id="full_name" name="full_name" required placeholder="Your full name" class="w-full bg-white border border-gray-200 rounded-xl px-5 py-4 text-[#0B2035] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#23bfe2]/30 focus:border-[#23bfe2] transition-colors">
-                            </div>
-
-                            <!-- Email -->
-                            <div>
-                                <label for="email" class="block text-sm font-bold text-[#0B2035] mb-2">Email Address</label>
-                                <input type="email" id="email" name="email" required placeholder="you@example.com" class="w-full bg-white border border-gray-200 rounded-xl px-5 py-4 text-[#0B2035] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#23bfe2]/30 focus:border-[#23bfe2] transition-colors">
-                            </div>
-
-                            <!-- Phone -->
-                            <div>
-                                <label for="phone" class="block text-sm font-bold text-[#0B2035] mb-2">Phone Number</label>
-                                <input type="tel" id="phone" name="phone" placeholder="(555) 123-4567" class="w-full bg-white border border-gray-200 rounded-xl px-5 py-4 text-[#0B2035] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#23bfe2]/30 focus:border-[#23bfe2] transition-colors">
-                            </div>
-
-                            <!-- Subject -->
-                            <div>
-                                <label for="subject" class="block text-sm font-bold text-[#0B2035] mb-2">Subject</label>
-                                <select id="subject" name="subject" class="w-full bg-white border border-gray-200 rounded-xl px-5 py-4 text-[#0B2035] focus:outline-none focus:ring-2 focus:ring-[#23bfe2]/30 focus:border-[#23bfe2] transition-colors appearance-none">
-                                    <option value="" disabled selected>Select a subject</option>
-                                    <option value="general">General Inquiry</option>
-                                    <option value="appointment">Schedule Appointment</option>
-                                    <option value="insurance">Insurance Question</option>
-                                    <option value="other">Other</option>
-                                </select>
-                            </div>
-
-                            <!-- Message -->
-                            <div>
-                                <label for="message" class="block text-sm font-bold text-[#0B2035] mb-2">Message</label>
-                                <textarea id="message" name="message" rows="5" required placeholder="How can we help you?" class="w-full bg-white border border-gray-200 rounded-xl px-5 py-4 text-[#0B2035] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#23bfe2]/30 focus:border-[#23bfe2] transition-colors resize-none"></textarea>
-                            </div>
-
-                            <!-- Submit -->
-                            <button type="submit" class="w-full bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl flex items-center justify-center gap-2 text-lg">
-                                Send Message <i data-lucide="send" class="w-5 h-5"></i>
-                            </button>
-                        </form>
+                        <iframe
+                            src="https://api.leadconnectorhq.com/widget/form/eqfimwhyHxljWdNlikHo"
+                            style="width:100%;height:100%;border:none;border-radius:3px"
+                            id="inline-eqfimwhyHxljWdNlikHo" 
+                            data-layout="{'id':'INLINE'}"
+                            data-trigger-type="alwaysShow"
+                            data-trigger-value=""
+                            data-activation-type="alwaysActivated"
+                            data-activation-value=""
+                            data-deactivation-type="neverDeactivate"
+                            data-deactivation-value=""
+                            data-form-name="New Website Form"
+                            data-height="402"
+                            data-layout-iframe-id="inline-eqfimwhyHxljWdNlikHo"
+                            data-form-id="eqfimwhyHxljWdNlikHo"
+                            title="New Website Form"
+                        >
+                        </iframe>
+                        <script src="https://link.msgsndr.com/js/form_embed.js"></script>
                     </div>
                 </div>
 

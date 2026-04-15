@@ -157,52 +157,47 @@
         </div>
     </section>
 
-    <!-- Deep TMS vs. Standard Deep TMS Comparison Video -->
+    <!-- Deep TMS with Resiliency Video Section -->
     <section class="py-16 bg-white relative overflow-hidden">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <div class="flex flex-col lg:flex-row items-center gap-12 lg:gap-20">
-                <!-- Video Side -->
-                <div class="w-full lg:w-3/5 reveal">
-                    <div class="relative pt-[56.25%] rounded-[2rem] overflow-hidden shadow-2xl border border-gray-100 group">
-                        <iframe 
-                            class="absolute inset-0 w-full h-full"
-                            src="https://www.youtube.com/embed/p2xO4FdpAo0?rel=0" 
-                            title="Deep TMS vs. First Generation Deep TMS Animated Video" 
-                            frameborder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                            allowfullscreen>
-                        </iframe>
+                
+                <!-- Video Side (Short Format) -->
+                <div class="w-full lg:w-1/2 relative reveal flex justify-center lg:justify-center">
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 w-full max-w-[366px] aspect-[9/16]">
+                        <iframe class="w-full h-full" src="https://www.youtube.com/embed/S0hRwlIZXYQ" title="Deep TMS with Resiliency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent pointer-events-none"></div>
                     </div>
                 </div>
 
                 <!-- Content Side -->
-                <div class="w-full lg:w-2/5 reveal reveal-delay-1">
+                <div class="w-full lg:w-1/2 reveal reveal-delay-1 flex flex-col justify-center">
                     <div class="flex items-center gap-3 mb-6">
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
-                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">The Tech Advantage</h2>
+                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Personalized Care</h2>
                     </div>
-                    <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035] mb-6 leading-tight">Deep TMS vs. <br><span class="text-gray-400 font-light italic">First Generation Deep TMS</span></h3>
+                    <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035] mb-6 leading-tight">Deep TMS <br><span class="text-[#23bfe2] font-light">with Resiliency</span></h3>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
-                        Not all Deep TMS technologies are created equal. Watch this animated comparison to see how Deep TMS technology reaches deeper and broader brain structures than traditional figure-8 coils, leading to better clinical outcomes.
+                        Experience advanced psychiatric care at Resiliency with state-of-the-art BrainsWay Deep TMS technology. Our dedicated team provides a comfortable, supportive environment throughout your treatment journey, tailoring each protocol specifically to your needs for depression or OCD.
                     </p>
                     
                     <ul class="space-y-4">
                         <li class="flex items-start gap-3">
                             <div class="mt-1 bg-[#23bfe2]/10 p-1.5 rounded-full text-[#23bfe2]">
-                                <i data-lucide="zap" class="w-4 h-4"></i>
+                                <i data-lucide="check" class="w-4 h-4"></i>
                             </div>
                             <div>
-                                <h4 class="font-bold text-[#0B2035] text-sm">Greater Depth</h4>
-                                <p class="text-sm text-gray-500 font-light">Stimulates deeper brain structures associated with mood.</p>
+                                <h4 class="font-bold text-[#0B2035] text-sm">Dedicated Team</h4>
+                                <p class="text-sm text-gray-500 font-light">Hands-on guidance and support from experienced technicians and providers.</p>
                             </div>
                         </li>
                         <li class="flex items-start gap-3">
                             <div class="mt-1 bg-[#23bfe2]/10 p-1.5 rounded-full text-[#23bfe2]">
-                                <i data-lucide="maximize" class="w-4 h-4"></i>
+                                <i data-lucide="check" class="w-4 h-4"></i>
                             </div>
                             <div>
-                                <h4 class="font-bold text-[#0B2035] text-sm">Broader Coverage</h4>
-                                <p class="text-sm text-gray-500 font-light">Targets a wider area of the brain to ensure effective neural modulation.</p>
+                                <h4 class="font-bold text-[#0B2035] text-sm">Comfortable Setting</h4>
+                                <p class="text-sm text-gray-500 font-light">A relaxing environment designed for your comfort and peace of mind.</p>
                             </div>
                         </li>
                     </ul>
