@@ -2,23 +2,23 @@
 
 <main>
     <!-- Hero Section -->
-    <section class="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden pt-24">
+    <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
             <img src="assets/images/hero_bg.png" alt="Privacy Policy" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/95 via-[#0B2035]/80 to-[#0B2035]/50"></div>
+            <div class="absolute inset-0 bg-[#0B2035]/85 md:bg-gradient-to-r md:from-[#0B2035]/95 md:via-[#0B2035]/80 md:to-[#0B2035]/50"></div>
         </div>
 
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
             <div class="max-w-3xl reveal text-left">
-                <div class="flex items-center gap-3 mb-6">
+                <div class="flex items-center gap-3 mb-4 sm:mb-6">
                     <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
-                    <span class="text-[#23bfe2] text-sm font-bold tracking-widest uppercase">Legal</span>
+                    <span class="text-[#23bfe2] text-xs sm:text-sm font-bold tracking-widest uppercase">Legal</span>
                 </div>
-                <h1 class="text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6">
+                <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Privacy <span class="text-[#23bfe2] font-light">Policy</span>
                 </h1>
-                <p class="text-lg md:text-xl text-gray-200 mb-10 leading-relaxed font-light max-w-2xl">
+                <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     How Resiliency Mind + Body Medicine collects, uses, and protects your personal information.
                 </p>
             </div>

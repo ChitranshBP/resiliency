@@ -2,38 +2,38 @@
     <main>
         
         <!-- 1. Hero Section -->
-        <section class="relative h-[85vh] min-h-[600px] flex items-center justify-center overflow-hidden pt-24 pb-12">
+        <section class="relative min-h-[600px] md:h-[85vh] flex items-center justify-center overflow-hidden pt-28 pb-16 md:pt-24 md:pb-12">
             <!-- Background Video -->
             <div class="absolute inset-0 z-0">
                 <video autoplay loop muted playsinline class="w-full h-full object-cover">
                     <source src="https://res.cloudinary.com/de4kw1t2i/video/upload/v1774957698/334716_1_Online-Video-Cutter.Com_wn4n7v.webm" type="video/webm">
                 </video>
-                <div class="absolute inset-0 bg-gradient-to-r from-primary/90 via-primary/70 to-transparent"></div>
+                <div class="absolute inset-0 bg-primary/80 md:bg-gradient-to-r md:from-primary/90 md:via-primary/70 md:to-transparent"></div>
             </div>
 
             <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
                 <div class="max-w-2xl reveal">
-                    <div class="flex items-center gap-3 mb-6">
-                        <span class="h-[2px] w-8 bg-secondary"></span>
-                        <span class="text-secondary text-sm font-bold tracking-widest uppercase">Start Now, Feel Better By Summer</span>
+                    <div class="flex items-center gap-3 mb-4 sm:mb-6">
+                        <span class="h-[2px] w-8 bg-secondary flex-shrink-0"></span>
+                        <span class="text-secondary text-xs sm:text-sm font-bold tracking-widest uppercase">Start Now, Feel Better By Summer</span>
                     </div>
-                    <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-6">
+                    <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                         Transforming Mental Health with Advanced <span class="text-secondary font-light">Psychiatry & Deep TMS Therapy</span>
                     </h1>
-                    <p class="text-lg md:text-xl text-gray-100 mb-8 leading-relaxed font-light">
+                    <p class="text-base sm:text-lg md:text-xl text-gray-100 mb-6 sm:mb-8 leading-relaxed font-light">
                         Personalized treatments for depression, anxiety, OCD, and PTSD using evidence-based therapies and advanced neuromodulation technology.
                     </p>
-                    <div class="flex flex-col sm:flex-row gap-4 mb-10">
-                        <a href="contact.php" class="bg-lightblue text-primary font-bold px-8 py-3.5 rounded-full text-center transition-all hover:bg-[#1aadd0] hover:shadow-lg shadow-md hover:-translate-y-1 transform">
+                    <div class="flex flex-col sm:flex-row gap-3 sm:gap-4 mb-8 sm:mb-10">
+                        <a href="contact.php" class="bg-lightblue text-primary font-bold px-6 sm:px-8 py-3.5 rounded-full text-center text-sm sm:text-base transition-all hover:bg-[#1aadd0] hover:shadow-lg shadow-md hover:-translate-y-1 transform">
                            Schedule Your Consultation
                         </a>
-                        <a href="#treatments" class="bg-white/10 backdrop-blur-sm border border-white/30 text-white font-medium px-8 py-3.5 rounded-full text-center transition-all hover:bg-white/20">
+                        <a href="#treatments" class="bg-white/10 backdrop-blur-sm border border-white/30 text-white font-medium px-6 sm:px-8 py-3.5 rounded-full text-center text-sm sm:text-base transition-all hover:bg-white/20">
                             Explore Treatments
                         </a>
                     </div>
 
                     <!-- Trust Badges -->
-                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 pt-6 border-t border-white/20">
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 pt-6 border-t border-white/20">
                         <div class="flex items-center gap-2 text-white/90">
                             <i data-lucide="shield-check" class="w-5 h-5 text-secondary"></i>
                             <span class="text-sm font-medium">FDA Approved</span>
