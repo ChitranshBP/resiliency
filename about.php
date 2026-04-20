@@ -1,3 +1,61 @@
+<?php
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalOrganization",
+  "name": "Resiliency Mind + Body Medicine",
+  "url": "https://resiliencymbmedicine.com",
+  "logo": "https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png",
+  "description": "Boutique clinical practice specializing in advanced neuro-psychiatric treatments and integrative wellness in Orange County, CA.",
+  "telephone": "(949) 996-5355",
+  "foundingDate": "2020",
+  "medicalSpecialty": ["Psychiatry", "Addiction Medicine", "Neuromodulation"],
+  "employee": [
+    {
+      "@type": "Physician",
+      "name": "Dr. Stefani LaFrenierre, MD",
+      "jobTitle": "Founder & Board-Certified Psychiatrist",
+      "description": "Double board-certified in Adult Psychiatry and Addiction Medicine. Medical degree from UCLA David Geffen School of Medicine. Residency at San Mateo Behavioral Health. Named Chief Resident and recipient of the Resident Award in Excellence.",
+      "medicalSpecialty": ["Psychiatry", "Addiction Medicine"],
+      "alumniOf": [
+        {"@type": "EducationalOrganization", "name": "UCLA David Geffen School of Medicine"},
+        {"@type": "EducationalOrganization", "name": "San Mateo Behavioral Health"}
+      ],
+      "worksFor": {
+        "@type": "MedicalOrganization",
+        "name": "Resiliency Mind + Body Medicine"
+      }
+    }
+  ],
+  "location": [
+    {
+      "@type": "MedicalClinic",
+      "name": "Newport Beach",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1501 Superior Ave, Suite 210",
+        "addressLocality": "Newport Beach",
+        "addressRegion": "CA",
+        "postalCode": "92663"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "name": "San Juan Capistrano",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "27184 Ortega Hwy, STE 103",
+        "addressLocality": "San Juan Capistrano",
+        "addressRegion": "CA",
+        "postalCode": "92675"
+      }
+    }
+  ]
+}
+</script>
+SCHEMA;
+?>
 <?php include 'header.php'; ?>
 
 <main>

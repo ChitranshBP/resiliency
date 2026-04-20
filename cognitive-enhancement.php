@@ -3,6 +3,14 @@ $page_title       = 'Cognitive Enhancement Newport Beach &amp; Orange County | B
 $page_description = 'Physician-supervised cognitive enhancement in Newport Beach &amp; Orange County, CA. NAD+ therapy, targeted supplements, metabolic optimization &amp; neuromodulation for peak brain performance. Call (949) 996-5355.';
 $page_keywords    = 'cognitive enhancement Newport Beach, brain optimization Orange County, cognitive performance Newport Beach CA, brain enhancement Orange County, NAD therapy cognitive Newport Beach, neuromodulation brain boost Orange County CA, cognitive enhancement doctor Newport Beach';
 $page_canonical   = 'https://resiliencymbmedicine.com/cognitive-enhancement.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"Cognitive Enhancement Program","description":"Physician-supervised cognitive enhancement using NAD+ therapy, supplements, metabolic optimization, and neuromodulation in Newport Beach and Orange County, CA.","url":"https://resiliencymbmedicine.com/cognitive-enhancement.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is cognitive enhancement safe?","acceptedAnswer":{"@type":"Answer","text":"Yes. Our cognitive enhancement protocols use physician-supervised, evidence-based interventions including NAD+ IV therapy, targeted nutrients, and TMS — all with established safety profiles."}},{"@type":"Question","name":"How long until I see cognitive enhancement results?","acceptedAnswer":{"@type":"Answer","text":"Many patients notice improved focus and mental clarity within 2-4 weeks of starting a program. Full benefits develop over 1-3 months of consistent treatment."}},{"@type":"Question","name":"Do I need a diagnosis to access cognitive enhancement services?","acceptedAnswer":{"@type":"Answer","text":"No diagnosis is required. Healthy individuals seeking to optimize performance are welcome, as are patients with cognitive symptoms or mild impairment."}},{"@type":"Question","name":"Who is a good candidate for cognitive enhancement?","acceptedAnswer":{"@type":"Answer","text":"Professionals seeking peak performance, students, individuals with age-related cognitive changes, and those recovering from burnout, brain fog, or post-COVID cognitive symptoms."}},{"@type":"Question","name":"What tests are done before starting cognitive enhancement?","acceptedAnswer":{"@type":"Answer","text":"We perform a comprehensive evaluation including cognitive screening, metabolic labs, hormonal assessment, and nutritional analysis to design your personalized protocol."}},{"@type":"Question","name":"Can cognitive enhancement treatments be done remotely?","acceptedAnswer":{"@type":"Answer","text":"Some components like supplement protocols and dietary coaching can be managed via telehealth. NAD+ infusions and TMS require in-person visits at our Newport Beach or San Juan Capistrano clinic."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -213,6 +221,21 @@ $page_canonical   = 'https://resiliencymbmedicine.com/cognitive-enhancement.php'
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             No. Cognitive enhancement is available to healthy individuals seeking optimization as well as those with identified deficits.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Who is a good candidate for cognitive enhancement programs?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Our cognitive enhancement programs are suited for professionals seeking peak mental performance, students looking to optimize focus and memory, individuals experiencing age-related cognitive changes, and patients recovering from burnout or brain fog. We recommend combining <a href="nad-therapy.php" class="text-[#23bfe2] underline hover:text-white">NAD+ therapy</a>, <a href="iv-vitamin-therapy.php" class="text-[#23bfe2] underline hover:text-white">IV vitamin infusions</a>, and <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> for best results.
                         </div>
                     </div>
                 </div>

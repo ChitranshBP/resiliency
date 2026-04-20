@@ -1,3 +1,42 @@
+<?php
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "name": "Resiliency Mind + Body Medicine – San Juan Capistrano",
+  "url": "https://resiliencymbmedicine.com/san-juan-capistrano.php",
+  "image": "https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png",
+  "description": "Board-certified psychiatric clinic in San Juan Capistrano, CA offering Deep TMS Therapy, SPRAVATO, medication management, IV therapy, and integrative psychiatry.",
+  "telephone": "(949) 996-5355",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "27184 Ortega Hwy, STE 103",
+    "addressLocality": "San Juan Capistrano",
+    "addressRegion": "CA",
+    "postalCode": "92675",
+    "addressCountry": "US"
+  },
+  "medicalSpecialty": ["Psychiatry", "Addiction Medicine", "Neuromodulation"],
+  "hasMap": "https://maps.google.com/?q=27184+Ortega+Hwy+STE+103+San+Juan+Capistrano+CA+92675",
+  "priceRange": "$$",
+  "parentOrganization": {
+    "@type": "MedicalBusiness",
+    "name": "Resiliency Mind + Body Medicine",
+    "url": "https://resiliencymbmedicine.com"
+  },
+  "availableService": [
+    {"@type": "MedicalTherapy", "name": "Deep TMS Therapy"},
+    {"@type": "MedicalTherapy", "name": "SPRAVATO Treatment"},
+    {"@type": "MedicalTherapy", "name": "Psychiatric Medication Management"},
+    {"@type": "MedicalTherapy", "name": "IV Vitamin Therapy"},
+    {"@type": "MedicalTherapy", "name": "Medical Weight Loss"},
+    {"@type": "MedicalTherapy", "name": "Hormone Therapy"}
+  ]
+}
+</script>
+SCHEMA;
+?>
 <?php include 'header.php'; ?>
 
 <main>

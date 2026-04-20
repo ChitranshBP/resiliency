@@ -1,3 +1,13 @@
+<?php
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"TMS for Cannabis-Induced Psychosis","description":"Deep TMS therapy for cannabis-induced psychosis and substance use-related psychiatric symptoms at Resiliency Mind + Body Medicine, Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/tms-for-cannabis-induced-psychosis.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can TMS reverse cannabis-induced psychosis?","acceptedAnswer":{"@type":"Answer","text":"TMS can significantly reduce psychotic symptoms including hallucinations and paranoia associated with cannabis use. Results depend on duration of cannabis use, extent of symptoms, and treatment compliance."}},{"@type":"Question","name":"Do I need to be fully abstinent before starting TMS?","acceptedAnswer":{"@type":"Answer","text":"Complete abstinence before and during treatment is strongly recommended. Continued cannabis use can re-trigger symptoms and significantly reduce TMS effectiveness."}},{"@type":"Question","name":"How is TMS for cannabis psychosis different from standard TMS for depression?","acceptedAnswer":{"@type":"Answer","text":"We tailor the target brain region and stimulation frequency to address your dominant symptoms — hallucinations, cravings, depression, or cognitive slowing — rather than using a standard depression protocol."}},{"@type":"Question","name":"Does stopping cannabis use improve TMS treatment outcomes?","acceptedAnswer":{"@type":"Answer","text":"Yes. Abstaining from cannabis significantly enhances TMS effectiveness. Continued use can re-trigger psychotic symptoms and interfere with neural recovery during treatment."}},{"@type":"Question","name":"Can TMS help with cannabis cravings?","acceptedAnswer":{"@type":"Answer","text":"Yes. Deep TMS has demonstrated effectiveness for substance use cravings by targeting reward circuitry in the brain, making it a valuable component of comprehensive cannabis use disorder treatment."}},{"@type":"Question","name":"Will I need medication alongside TMS for cannabis-induced psychosis?","acceptedAnswer":{"@type":"Answer","text":"In many cases, yes. We integrate medication management with TMS for comprehensive symptom control. Our goal is to stabilize symptoms rapidly then taper medications as appropriate."}}]}
+</script>
+SCHEMA;
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -219,6 +229,21 @@
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             We tailor the target region and frequency based on your dominant symptoms—whether hallucinations, cravings, depression, or cognitive slowing—rather than using the standard depression protocol alone.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 6 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Does stopping cannabis use improve TMS treatment outcomes?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes — abstaining from cannabis significantly enhances the effectiveness of <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS treatment</a>. Continued use can re-trigger psychotic symptoms and interfere with neural recovery. We provide guidance on <a href="substance-abuse.php" class="text-[#23bfe2] underline hover:text-white">substance use cessation</a> as part of your treatment plan and may coordinate <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">medication management</a> to support abstinence and stabilize mood throughout your TMS course.
                         </div>
                     </div>
                 </div>

@@ -12,6 +12,14 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11289954101"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-11289954101');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?></title>
@@ -123,6 +131,10 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
       }
     }
     </script>
+
+    <?php if (isset($page_schema) && $page_schema): ?>
+    <?php echo $page_schema; ?>
+    <?php endif; ?>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

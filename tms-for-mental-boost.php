@@ -1,3 +1,13 @@
+<?php
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"TMS for Mental Boost & Cognitive Enhancement","description":"Non-invasive Deep TMS therapy to enhance focus, memory, and cognitive performance in healthy individuals and those with mild cognitive changes in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/tms-for-mental-boost.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How long before I notice a cognitive boost from TMS?","acceptedAnswer":{"@type":"Answer","text":"Many patients report improved focus and mental clarity within the first 1-2 weeks of treatment. Full cognitive benefits typically develop over the full course of sessions."}},{"@type":"Question","name":"Is TMS for mental boost FDA-approved?","acceptedAnswer":{"@type":"Answer","text":"TMS is FDA-cleared for depression and OCD. Its use for cognitive enhancement is an emerging evidence-based application. Our providers discuss the evidence and expected outcomes during your consultation."}},{"@type":"Question","name":"Is there downtime after a TMS mental boost session?","acceptedAnswer":{"@type":"Answer","text":"No. TMS sessions require no anesthesia and you can return to work, drive, and resume all normal activities immediately after each session."}},{"@type":"Question","name":"Can TMS for mental boost be combined with other cognitive treatments?","acceptedAnswer":{"@type":"Answer","text":"Yes. We often pair TMS with NAD+ IV therapy, IV vitamin infusions, and our full cognitive enhancement program for optimal brain performance results."}},{"@type":"Question","name":"Who is a good candidate for TMS cognitive enhancement?","acceptedAnswer":{"@type":"Answer","text":"High-performing professionals, students, individuals experiencing age-related cognitive changes, and those recovering from burnout or post-COVID brain fog are all good candidates."}},{"@type":"Question","name":"How many sessions are needed for cognitive enhancement?","acceptedAnswer":{"@type":"Answer","text":"A typical course ranges from 10-20 sessions depending on your goals and baseline. Our team designs a personalized protocol at your initial consultation."}}]}
+</script>
+SCHEMA;
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -218,6 +228,21 @@
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             No. TMS sessions are comfortable and require no anesthesia or recovery. You can return to work, drive, and resume all normal activities immediately.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 6 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Can TMS for mental boost be combined with other cognitive treatments?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes. For optimal results, we often pair TMS with <a href="nad-therapy.php" class="text-[#23bfe2] underline hover:text-white">NAD+ IV therapy</a>, <a href="iv-vitamin-therapy.php" class="text-[#23bfe2] underline hover:text-white">IV vitamin infusions</a>, and our full <a href="cognitive-enhancement.php" class="text-[#23bfe2] underline hover:text-white">cognitive enhancement program</a>. This multi-modal approach targets brain stimulation, cellular energy, and nutritional optimization simultaneously. <a href="contact.php" class="text-[#23bfe2] underline hover:text-white">Schedule a consultation</a> at our Newport Beach or San Juan Capistrano clinic to build your personalized plan.
                         </div>
                     </div>
                 </div>

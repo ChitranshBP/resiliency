@@ -3,6 +3,14 @@ $page_title       = 'Substance Use &amp; Smoking Cessation Newport Beach | Deep 
 $page_description = 'FDA-cleared Deep TMS for substance use disorders &amp; smoking cessation in Newport Beach &amp; Orange County, CA. BrainsWay® Deep TMS plus physician-led medication management for addiction recovery. Call (949) 996-5355.';
 $page_keywords    = 'substance use treatment Newport Beach, addiction treatment Orange County, smoking cessation Newport Beach CA, TMS for addiction Orange County, substance use disorder Newport Beach, nicotine addiction treatment Orange County CA, addiction psychiatrist Newport Beach';
 $page_canonical   = 'https://resiliencymbmedicine.com/substance-abuse.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalCondition","name":"Substance Use Disorder","alternateName":["Addiction","Substance Abuse","Smoking Cessation","Nicotine Addiction"],"description":"Deep TMS and physician-led treatment for substance use disorders and smoking cessation in Newport Beach and San Juan Capistrano, CA. FDA-cleared BrainsWay Deep TMS for addiction.","url":"https://resiliencymbmedicine.com/substance-abuse.php","relevantSpecialty":"Addiction Medicine","signOrSymptom":[{"@type":"MedicalSymptom","name":"Cravings"},{"@type":"MedicalSymptom","name":"Loss of control"},{"@type":"MedicalSymptom","name":"Withdrawal symptoms"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"},{"@type":"MedicalTherapy","name":"Integrative Psychiatry","url":"https://resiliencymbmedicine.com/integrative-psychiatry.php"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you prescribe Suboxone for opioid use disorder?","acceptedAnswer":{"@type":"Answer","text":"Yes. We offer medication-assisted treatment including Suboxone (buprenorphine/naloxone) for opioid use disorder as part of a comprehensive addiction treatment program."}},{"@type":"Question","name":"What is dual diagnosis treatment?","acceptedAnswer":{"@type":"Answer","text":"Dual diagnosis treatment addresses co-occurring substance use disorder and mental health conditions like depression, anxiety, or PTSD simultaneously, which produces better outcomes than treating each condition separately."}},{"@type":"Question","name":"Can Deep TMS help with addiction?","acceptedAnswer":{"@type":"Answer","text":"Yes. BrainsWay Deep TMS is FDA-cleared for smoking cessation and has shown effectiveness for other addiction cravings by targeting reward circuitry in the brain."}},{"@type":"Question","name":"How many Deep TMS sessions are needed for smoking cessation?","acceptedAnswer":{"@type":"Answer","text":"The standard protocol for smoking cessation involves 18 sessions over 6 weeks, with each session lasting approximately 18 minutes. Many patients experience significant craving reduction within the first two weeks."}},{"@type":"Question","name":"Is medication-assisted treatment covered by insurance?","acceptedAnswer":{"@type":"Answer","text":"Yes. Most insurance plans cover medication-assisted treatment for substance use disorders. Our team verifies your benefits before starting treatment."}},{"@type":"Question","name":"Can I receive addiction treatment via telehealth?","acceptedAnswer":{"@type":"Answer","text":"Medication management and counseling coordination are available via telehealth. Deep TMS for addiction and in-office procedures require visits to our Newport Beach or San Juan Capistrano clinic."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -393,6 +401,21 @@ $page_canonical   = 'https://resiliencymbmedicine.com/substance-abuse.php';
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             Research shows Deep TMS can modulate brain circuits involved in craving and impulse control. It's an emerging tool we integrate into comprehensive addiction treatment.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>How many Deep TMS sessions are typically needed for smoking cessation?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            The standard Deep TMS protocol for smoking cessation involves 18 sessions over 6 weeks. Each session is approximately 18 minutes. Unlike many other smoking cessation approaches, <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS</a> works by directly targeting the brain circuits involved in addiction and craving. Many patients experience a significant reduction in cravings within the first two weeks of treatment.
                         </div>
                     </div>
                 </div>

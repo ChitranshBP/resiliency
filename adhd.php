@@ -3,6 +3,14 @@ $page_title       = 'ADHD Treatment Newport Beach &amp; Orange County | Adult AD
 $page_description = 'Comprehensive adult ADHD treatment in Newport Beach &amp; Orange County, CA. Diagnostic evaluation, conservative medication management &amp; integrative strategies from a board-certified psychiatrist. Call (949) 996-5355.';
 $page_keywords    = 'ADHD treatment Newport Beach, adult ADHD psychiatrist Orange County, ADHD doctor Newport Beach CA, adult ADHD medication management Orange County, ADHD diagnosis Newport Beach, ADHD psychiatrist San Juan Capistrano, adult attention deficit disorder treatment Orange County';
 $page_canonical   = 'https://resiliencymbmedicine.com/adhd.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalCondition","name":"Attention Deficit Hyperactivity Disorder","alternateName":["ADHD","Adult ADHD","ADD"],"description":"Comprehensive adult ADHD treatment with diagnostic evaluation, conservative medication management, and integrative strategies in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/adhd.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Inattention"},{"@type":"MedicalSymptom","name":"Impulsivity"},{"@type":"MedicalSymptom","name":"Hyperactivity"},{"@type":"MedicalSymptom","name":"Executive dysfunction"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"},{"@type":"MedicalTherapy","name":"Integrative Psychiatry","url":"https://resiliencymbmedicine.com/integrative-psychiatry.php"},{"@type":"MedicalTherapy","name":"Pharmacogenetic Testing","url":"https://resiliencymbmedicine.com/pharmacogenetic-testing.php"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you diagnose ADHD in adults?","acceptedAnswer":{"@type":"Answer","text":"We use a comprehensive evaluation including clinical interview, validated rating scales, developmental history, and ruling out other conditions that can mimic ADHD symptoms."}},{"@type":"Question","name":"Do you prescribe stimulant medications for ADHD?","acceptedAnswer":{"@type":"Answer","text":"We can prescribe stimulants when clinically indicated and after thorough evaluation. We also offer non-stimulant alternatives and integrative approaches for patients who prefer or require them."}},{"@type":"Question","name":"Can adults be newly diagnosed with ADHD?","acceptedAnswer":{"@type":"Answer","text":"Absolutely. Many adults are diagnosed for the first time in their 30s, 40s, or beyond. Our providers have extensive experience evaluating and treating adult-onset ADHD presentations."}},{"@type":"Question","name":"Can you treat ADHD without stimulant medications?","acceptedAnswer":{"@type":"Answer","text":"Yes. We offer non-stimulant medications, integrative psychiatry approaches, nutritional optimization, and lifestyle interventions as effective alternatives to stimulants."}},{"@type":"Question","name":"Does pharmacogenetic testing help with ADHD medication selection?","acceptedAnswer":{"@type":"Answer","text":"Yes. PGx testing can identify which ADHD medications your body metabolizes optimally, helping select the most effective option with the fewest side effects from the start."}},{"@type":"Question","name":"Can ADHD co-occur with anxiety or depression?","acceptedAnswer":{"@type":"Answer","text":"Yes. ADHD frequently co-occurs with anxiety, depression, and sleep disorders. We address all co-occurring conditions in a comprehensive, integrated treatment plan."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -267,6 +275,21 @@ $page_canonical   = 'https://resiliencymbmedicine.com/adhd.php';
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             Absolutely. Many adults are diagnosed later in life. Our providers have extensive experience evaluating and treating adult ADHD.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Can you treat adult ADHD without stimulant medications?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes. While stimulant medications can be effective for ADHD, they are not appropriate for everyone. We offer non-stimulant medication options, <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry approaches</a>, nutritional optimization, and lifestyle interventions as alternatives. <a href="pharmacogenetic-testing.php" class="text-[#23bfe2] underline hover:text-white">Pharmacogenetic testing</a> can also help identify the most effective medication with the fewest side effects for your genetic profile.
                         </div>
                     </div>
                 </div>

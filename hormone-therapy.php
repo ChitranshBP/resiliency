@@ -3,6 +3,14 @@ $page_title       = 'Hormone Therapy Newport Beach | HRT &amp; Metabolic Optimiz
 $page_description = 'Comprehensive hormone assessment &amp; replacement therapy in Newport Beach &amp; Orange County, CA. Address mood, energy, cognition &amp; vitality with evidence-based HRT. Call (949) 996-5355.';
 $page_keywords    = 'hormone therapy Newport Beach, HRT Orange County CA, hormone replacement therapy Newport Beach, testosterone therapy Orange County, menopause treatment Newport Beach, bioidentical hormones Orange County, hormone optimization San Juan Capistrano';
 $page_canonical   = 'https://resiliencymbmedicine.com/hormone-therapy.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"Hormone Therapy","description":"Comprehensive hormone assessment and evidence-based hormone replacement therapy for mood, energy, cognition, and vitality in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/hormone-therapy.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you test hormone levels?","acceptedAnswer":{"@type":"Answer","text":"We use comprehensive blood and saliva testing panels to assess testosterone, estrogen, progesterone, thyroid hormones, cortisol, DHEA, and other key hormones."}},{"@type":"Question","name":"Is hormone therapy safe?","acceptedAnswer":{"@type":"Answer","text":"When properly prescribed and monitored by a physician, hormone therapy has an excellent safety profile. We use evidence-based dosing and monitor levels regularly."}},{"@type":"Question","name":"Will hormone therapy replace my psychiatric medication?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Hormone optimization can reduce the need for some psychiatric medications by addressing root hormonal causes of mood symptoms. We manage this transition carefully."}},{"@type":"Question","name":"How long before I notice results from hormone therapy?","acceptedAnswer":{"@type":"Answer","text":"Most patients notice improvements in energy, mood, and sleep within 4-6 weeks. Full benefits including cognitive and body composition changes develop over 3-6 months."}},{"@type":"Question","name":"What hormones do you treat?","acceptedAnswer":{"@type":"Answer","text":"We address thyroid hormones, testosterone, estrogen, progesterone, cortisol, DHEA, and other metabolic hormones that affect mood, energy, and cognition."}},{"@type":"Question","name":"Can hormone therapy help with menopause symptoms?","acceptedAnswer":{"@type":"Answer","text":"Yes. Hormone therapy is highly effective for menopausal symptoms including hot flashes, mood swings, brain fog, sleep disruption, and loss of libido."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -253,6 +261,21 @@ $page_canonical   = 'https://resiliencymbmedicine.com/hormone-therapy.php';
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             Hormone optimization complements psychiatric treatment—it doesn't replace it. Correcting hormonal imbalances often improves response to psychiatric medications and may allow dose reductions over time.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>How long before I notice results from hormone therapy?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Most patients begin noticing improvements in energy, mood, and sleep within 4 to 6 weeks of starting hormone therapy. Full benefits — including cognitive improvements and changes in body composition — typically develop over 3 to 6 months. We monitor your levels regularly and adjust your protocol as needed. <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-white">Integrative psychiatry</a> and <a href="iv-vitamin-therapy.php" class="text-[#23bfe2] underline hover:text-white">IV vitamin therapy</a> are often combined for optimal results.
                         </div>
                     </div>
                 </div>

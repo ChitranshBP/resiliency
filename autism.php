@@ -3,6 +3,14 @@ $page_title       = 'Autism Spectrum Support Newport Beach &amp; Orange County |
 $page_description = 'Specialized psychiatric support for autism spectrum disorder (ASD) in Newport Beach &amp; Orange County, CA. Compassionate, individualized care addressing co-occurring mental health conditions. Call (949) 996-5355.';
 $page_keywords    = 'autism spectrum support Newport Beach, ASD psychiatrist Orange County, autism psychiatric care Newport Beach CA, autism spectrum disorder treatment Orange County, autism doctor Newport Beach, ASD mental health Orange County CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/autism.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalCondition","name":"Autism Spectrum Disorder","alternateName":["ASD","Autism","Autism Spectrum"],"description":"Specialized psychiatric support for autism spectrum disorder addressing co-occurring mental health conditions with compassionate, individualized care in Newport Beach and Orange County, CA.","url":"https://resiliencymbmedicine.com/autism.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Social communication difficulties"},{"@type":"MedicalSymptom","name":"Sensory sensitivities"},{"@type":"MedicalSymptom","name":"Repetitive behaviors"},{"@type":"MedicalSymptom","name":"Co-occurring anxiety or depression"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"},{"@type":"MedicalTherapy","name":"Integrative Psychiatry","url":"https://resiliencymbmedicine.com/integrative-psychiatry.php"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you diagnose autism spectrum disorder?","acceptedAnswer":{"@type":"Answer","text":"We provide psychiatric evaluation for suspected ASD in adults and can work alongside other specialists for comprehensive assessment. We focus on psychiatric management and co-occurring conditions."}},{"@type":"Question","name":"How is medication management different for autistic individuals?","acceptedAnswer":{"@type":"Answer","text":"Autistic individuals may have different sensitivities to medications and atypical responses. We use conservative, low-and-slow dosing strategies and pharmacogenetic testing to optimize medication selection."}},{"@type":"Question","name":"Do you work with adults on the autism spectrum?","acceptedAnswer":{"@type":"Answer","text":"Yes. Our practice has significant experience supporting adults with ASD, including those newly diagnosed in adulthood and those managing co-occurring conditions like anxiety, ADHD, and depression."}},{"@type":"Question","name":"Do you offer telehealth for autism spectrum support?","acceptedAnswer":{"@type":"Answer","text":"Yes. Medication management consultations and follow-up appointments are available via telehealth, which can be particularly helpful for individuals who find travel or unfamiliar environments challenging."}},{"@type":"Question","name":"Can you treat co-occurring conditions like anxiety and ADHD in ASD patients?","acceptedAnswer":{"@type":"Answer","text":"Yes. We specialize in treating co-occurring psychiatric conditions in ASD patients including anxiety, ADHD, OCD, depression, and sleep disorders as part of a comprehensive care plan."}},{"@type":"Question","name":"Do you coordinate care with ASD therapists and specialists?","acceptedAnswer":{"@type":"Answer","text":"Yes. We work collaboratively with behavioral therapists, occupational therapists, and other ASD specialists to provide integrated, coordinated care."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -267,6 +275,21 @@ $page_canonical   = 'https://resiliencymbmedicine.com/autism.php';
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             Yes. Many adults receive late diagnoses. Our providers are experienced in supporting autistic adults with mental health management and quality of life optimization.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Do you offer telehealth appointments for autism spectrum support?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes. Many of our psychiatric consultations, <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">medication management</a> check-ins, and follow-up appointments for autism spectrum patients are available via <a href="telehealth.php" class="text-[#23bfe2] underline hover:text-white">secure telehealth</a>. This can be especially helpful for individuals who find travel or unfamiliar environments challenging. In-person visits are available at our Newport Beach and San Juan Capistrano offices.
                         </div>
                     </div>
                 </div>

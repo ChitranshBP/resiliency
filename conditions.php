@@ -194,6 +194,124 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
     </section>
 </main>
 
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const triggers = document.querySelectorAll('.bg-white\\/5 button');
+        triggers.forEach(trigger => {
+            trigger.addEventListener('click', () => {
+                const icon = trigger.querySelector('[data-lucide="plus"]');
+                const content = trigger.nextElementSibling;
+                if (content.classList.contains('hidden')) {
+                    triggers.forEach(other => {
+                        if (other !== trigger) {
+                            other.nextElementSibling.classList.add('hidden');
+                            other.querySelector('[data-lucide="plus"]').style.transform = 'rotate(0deg)';
+                        }
+                    });
+                    content.classList.remove('hidden');
+                    if (icon) icon.style.transform = 'rotate(45deg)';
+                } else {
+                    content.classList.add('hidden');
+                    if (icon) icon.style.transform = 'rotate(0deg)';
+                }
+            });
+        });
+    });
+</script>
+
+    <!-- FAQ Section -->
+    <section class="py-16 bg-[#0B2035] text-white relative border-t-[8px] border-[#23bfe2]">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16 reveal">
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Common Questions</h2>
+                <h3 class="text-4xl md:text-5xl font-bold">Frequently Asked Questions</h3>
+            </div>
+            <div class="space-y-4">
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>What mental health conditions do you treat in Newport Beach and San Juan Capistrano?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            We treat a comprehensive range of psychiatric conditions including <a href="depression.php" class="text-[#23bfe2] underline hover:text-white">major depressive disorder</a>, <a href="anxiety.php" class="text-[#23bfe2] underline hover:text-white">generalized anxiety & panic disorder</a>, <a href="ocd.php" class="text-[#23bfe2] underline hover:text-white">OCD</a>, <a href="ptsd.php" class="text-[#23bfe2] underline hover:text-white">PTSD</a>, <a href="adhd.php" class="text-[#23bfe2] underline hover:text-white">adult ADHD</a>, <a href="bipolar.php" class="text-[#23bfe2] underline hover:text-white">bipolar disorder</a>, <a href="substance-abuse.php" class="text-[#23bfe2] underline hover:text-white">substance use disorders</a>, <a href="autism.php" class="text-[#23bfe2] underline hover:text-white">autism spectrum</a>, and <a href="suicidal-ideation.php" class="text-[#23bfe2] underline hover:text-white">suicidal ideation</a>.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>How do I know which treatment is right for my condition?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            During your initial psychiatric evaluation, Dr. LaFrenierre will conduct a comprehensive assessment of your symptoms, history, and biology to recommend the most appropriate treatment approach. This may include <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">SPRAVATO®</a>, <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">medication management</a>, or a combination of therapies.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Do you treat patients who haven't responded to other treatments?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Absolutely. We specialize in treatment-resistant cases. Both <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">SPRAVATO® (esketamine)</a> are FDA-approved specifically for patients who have not found relief with standard antidepressant medications. Our <a href="accelerated-tms.php" class="text-[#23bfe2] underline hover:text-white">Accelerated TMS SWIFT Protocol</a> is also available for faster results.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Do you offer telehealth for ongoing condition management?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes. Our <a href="telehealth.php" class="text-[#23bfe2] underline hover:text-white">telehealth appointments</a> are available for psychiatric evaluations, medication follow-ups, and care coordination for patients throughout Orange County and California. Some treatments require in-person visits at our Newport Beach or San Juan Capistrano clinics.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Are your providers board-certified psychiatrists?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes. Our clinic is led by Dr. Stefani LaFrenierre, MD, who is double board-certified in Adult Psychiatry and Addiction Medicine. She earned her medical degree from UCLA and completed her residency at San Mateo Behavioral Health. Learn more on our <a href="about.php" class="text-[#23bfe2] underline hover:text-white">about page</a> or meet the full <a href="team.php" class="text-[#23bfe2] underline hover:text-white">clinical team</a>.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>How soon can I get an appointment at your Orange County clinics?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            We strive to accommodate new patients quickly. Contact us at (949) 996-5355 or <a href="contact.php" class="text-[#23bfe2] underline hover:text-white">book online</a> to schedule your initial consultation. You can also complete your <a href="new-patient-form.php" class="text-[#23bfe2] underline hover:text-white">new patient forms</a> in advance to streamline your first visit.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center mt-12">
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+            </div>
+        </div>
+    </section>
+
     <!-- Also Explore -->
     <section class="py-12 bg-gray-50 border-t border-gray-100">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

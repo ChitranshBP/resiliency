@@ -3,6 +3,14 @@ $page_title       = 'Bipolar Disorder Treatment Newport Beach &amp; Orange Count
 $page_description = 'Multi-modality bipolar disorder treatment in Newport Beach &amp; Orange County, CA. Deep TMS, SPRAVATO &amp; expert medication management for mood stabilization. Board-certified psychiatrist. Call (949) 996-5355.';
 $page_keywords    = 'bipolar disorder treatment Newport Beach, bipolar psychiatrist Orange County, mood disorder treatment Newport Beach CA, bipolar medication management Orange County, bipolar disorder doctor Newport Beach, mood stabilization psychiatry Orange County CA, TMS for bipolar Orange County';
 $page_canonical   = 'https://resiliencymbmedicine.com/bipolar.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalCondition","name":"Bipolar Disorder","alternateName":["Bipolar I","Bipolar II","Manic Depression","Mood Disorder"],"description":"Multi-modality bipolar disorder treatment including Deep TMS, SPRAVATO, and expert medication management for mood stabilization in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/bipolar.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Manic episodes"},{"@type":"MedicalSymptom","name":"Depressive episodes"},{"@type":"MedicalSymptom","name":"Mood instability"},{"@type":"MedicalSymptom","name":"Impulsivity"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"},{"@type":"MedicalTherapy","name":"SPRAVATO Treatment","url":"https://resiliencymbmedicine.com/spravato-therapy.php"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can Deep TMS Therapy help with bipolar depression?","acceptedAnswer":{"@type":"Answer","text":"Deep TMS can be a valuable adjunct for bipolar depressive episodes in carefully selected patients. Protocol adjustments are made to minimize the risk of mood switching."}},{"@type":"Question","name":"Will I need medication for life with bipolar disorder?","acceptedAnswer":{"@type":"Answer","text":"Many patients with bipolar disorder require long-term mood stabilization. Our goal is to find the most effective, lowest-burden regimen that maintains your stability."}},{"@type":"Question","name":"Do you treat both Bipolar I and Bipolar II?","acceptedAnswer":{"@type":"Answer","text":"Yes. We treat the full spectrum of bipolar disorders including Bipolar I, Bipolar II, and cyclothymia with personalized treatment plans for each type."}},{"@type":"Question","name":"What mood stabilizers do you use for bipolar disorder?","acceptedAnswer":{"@type":"Answer","text":"We use evidence-based mood stabilizers including lithium, valproate, lamotrigine, and atypical antipsychotics, selected based on your specific bipolar type, history, and pharmacogenetic profile."}},{"@type":"Question","name":"Can SPRAVATO help with bipolar depression?","acceptedAnswer":{"@type":"Answer","text":"SPRAVATO use in bipolar disorder is considered carefully. It may be appropriate in certain cases under close supervision. Our psychiatrist assesses each patient individually."}},{"@type":"Question","name":"Do you offer telehealth for bipolar disorder management?","acceptedAnswer":{"@type":"Answer","text":"Yes. Medication management and follow-up care for bipolar disorder are available via secure telehealth. In-person visits are required for Deep TMS and SPRAVATO sessions."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -406,6 +414,21 @@ $page_canonical   = 'https://resiliencymbmedicine.com/bipolar.php';
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             Yes. Our providers have extensive experience managing all types of bipolar spectrum disorders.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Can Deep TMS Therapy help with bipolar depression?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> can be a valuable adjunct treatment for the depressive episodes of bipolar disorder, particularly in patients who have not responded adequately to mood stabilizers or antidepressants. We carefully evaluate each patient's history and current mood state before recommending TMS, as treatment protocol adjustments are needed for bipolar patients to minimize the risk of mood switching. Contact us to discuss your specific situation.
                         </div>
                     </div>
                 </div>

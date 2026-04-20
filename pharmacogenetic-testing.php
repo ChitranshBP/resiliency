@@ -3,6 +3,14 @@ $page_title       = 'Pharmacogenetic Testing Newport Beach | DNA-Guided Medicati
 $page_description = 'Pharmacogenetic (PGx) testing in Newport Beach &amp; Orange County, CA. DNA-guided psychiatric medication selection to find the right medication faster with fewer side effects. Call (949) 996-5355.';
 $page_keywords    = 'pharmacogenetic testing Newport Beach, PGx testing Orange County, DNA medication testing Newport Beach CA, genetic psychiatric testing Orange County, pharmacogenomics Newport Beach, medication gene testing Orange County CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/pharmacogenetic-testing.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalTest","name":"Pharmacogenetic Testing","alternateName":"PGx Testing","description":"DNA-guided psychiatric medication selection to identify which medications are most effective for your unique genetic profile, reducing trial and error.","url":"https://resiliencymbmedicine.com/pharmacogenetic-testing.php","usesDevice":{"@type":"MedicalDevice","name":"Cheek Swab DNA Collection Kit"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is pharmacogenetic testing covered by insurance?","acceptedAnswer":{"@type":"Answer","text":"Many insurance plans cover pharmacogenetic testing, especially when there is a documented history of failed medication trials. Our team verifies your coverage before ordering the test."}},{"@type":"Question","name":"How accurate is pharmacogenetic testing?","acceptedAnswer":{"@type":"Answer","text":"PGx testing identifies genetic variants in drug-metabolizing enzymes with high accuracy. While it does not guarantee a medication will work, it significantly reduces trial and error by identifying medications that are likely ineffective or poorly tolerated."}},{"@type":"Question","name":"Do I need to stop my current medications for the test?","acceptedAnswer":{"@type":"Answer","text":"No. Pharmacogenetic testing uses a DNA cheek swab and does not require any medication changes. You can continue your current medications normally."}},{"@type":"Question","name":"How is my DNA sample collected for pharmacogenetic testing?","acceptedAnswer":{"@type":"Answer","text":"Collection is simple and painless — a cheek swab completed in our office. Results are available within 1-2 weeks and are used to guide medication management decisions."}},{"@type":"Question","name":"What medications does PGx testing cover?","acceptedAnswer":{"@type":"Answer","text":"PGx testing covers most psychiatric medications including antidepressants, antipsychotics, mood stabilizers, and ADHD medications, identifying which ones your body processes optimally."}},{"@type":"Question","name":"Will my PGx results change over time?","acceptedAnswer":{"@type":"Answer","text":"No. Your DNA does not change, so your pharmacogenetic test results are permanent and can be used to guide medication decisions throughout your lifetime."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -255,6 +263,21 @@ $page_canonical   = 'https://resiliencymbmedicine.com/pharmacogenetic-testing.ph
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             No. The cheek swab can be collected regardless of your current medication regimen. Results help optimize your existing treatment plan.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>How is my DNA sample collected for pharmacogenetic testing?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            The process is simple and painless — it typically involves a cheek swab that you can complete in our office. Results are usually available within 1 to 2 weeks. Our providers then use your genetic profile to guide <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">medication management</a> decisions, helping identify which medications are most likely to be effective and well-tolerated for your unique biology. Learn more on our <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry page</a>.
                         </div>
                     </div>
                 </div>

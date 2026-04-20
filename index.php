@@ -1,8 +1,82 @@
+<?php
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Resiliency Mind + Body Medicine",
+  "url": "https://resiliencymbmedicine.com",
+  "description": "Orange County's leading psychiatric clinic offering Deep TMS Therapy, SPRAVATO, and personalized mental health care in Newport Beach & San Juan Capistrano, CA.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://resiliencymbmedicine.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes Resiliency Mind + Body Medicine different from a standard psychiatrist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Resiliency, we go far beyond a 15-minute medication check. Our board-certified psychiatrist Dr. LaFrenierre combines Deep TMS Therapy, SPRAVATO® treatment, conservative medication management, and integrative psychiatry into a truly personalized care plan. We treat the whole person — not just symptoms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What conditions do you treat at your Newport Beach and San Juan Capistrano clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We specialize in depression, anxiety, OCD, PTSD, adult ADHD, bipolar disorder, substance use disorders, autism spectrum, and suicidal ideation at our Newport Beach and San Juan Capistrano, CA clinics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Deep TMS Therapy and is it right for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deep TMS (Transcranial Magnetic Stimulation) is an FDA-cleared, non-invasive brain stimulation treatment. It requires no anesthesia, has no systemic side effects, and patients can drive themselves to appointments. It is particularly effective for treatment-resistant depression, OCD, and anxious depression."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you accept insurance at your Orange County clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We accept most major commercial insurance carriers and Medicare for services like Deep TMS Therapy and psychiatric evaluations. SPRAVATO® is also covered by many insurance plans when medical necessity criteria are met. Call us at (949) 996-5355 for a benefits check."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer telehealth appointments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We offer secure, HIPAA-compliant telehealth appointments for psychiatric evaluations, medication management, and follow-up care. Some services including Deep TMS and SPRAVATO require in-person visits at our Newport Beach or San Juan Capistrano locations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get started as a new patient at Resiliency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can schedule a consultation online or call us at (949) 996-5355. Complete our new patient forms ahead of your first visit. Our team will conduct a comprehensive psychiatric evaluation and design a personalized treatment plan."
+      }
+    }
+  ]
+}
+</script>
+SCHEMA;
+?>
 <?php include 'header.php'; ?>
     <main>
         
         <!-- 1. Hero Section -->
-        <section class="relative min-h-[600px] md:h-[85vh] flex items-center justify-center overflow-hidden pt-28 pb-16 md:pt-24 md:pb-12">
+        <section class="relative min-h-[600px] md:h-[85vh] flex items-center justify-center overflow-hidden pt-52 pb-16 md:pt-48 md:pb-12">
             <!-- Background Video -->
             <div class="absolute inset-0 z-0">
                 <video autoplay loop muted playsinline class="w-full h-full object-cover">
@@ -32,28 +106,34 @@
                         </a>
                     </div>
 
-                    <!-- Trust Badges -->
-                    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 pt-6 border-t border-white/20">
-                        <div class="flex items-center gap-2 text-white/90">
-                            <i data-lucide="shield-check" class="w-5 h-5 text-secondary"></i>
-                            <span class="text-sm font-medium">FDA Approved</span>
-                        </div>
-                        <div class="flex items-center gap-2 text-white/90">
-                            <i data-lucide="file-check-2" class="w-5 h-5 text-secondary"></i>
-                            <span class="text-sm font-medium">Insurance Accepted</span>
-                        </div>
-                        <div class="flex items-center gap-2 text-white/90">
-                            <i data-lucide="award" class="w-5 h-5 text-secondary"></i>
-                            <span class="text-sm font-medium">Board-Certified</span>
-                        </div>
-                        <div class="flex items-center gap-2 text-white/90">
-                            <i data-lucide="zap" class="w-5 h-5 text-secondary"></i>
-                            <span class="text-sm font-medium">Advanced Tech</span>
-                        </div>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- Trust Badges Strip -->
+        <div class="bg-[#0B2035] border-b border-white/10">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
+                <div class="flex flex-wrap justify-center md:justify-start gap-6 md:gap-10">
+                    <div class="flex items-center gap-2 text-white/90">
+                        <i data-lucide="shield-check" class="w-5 h-5 text-secondary"></i>
+                        <span class="text-sm font-medium">FDA Approved</span>
+                    </div>
+                    <div class="flex items-center gap-2 text-white/90">
+                        <i data-lucide="file-check-2" class="w-5 h-5 text-secondary"></i>
+                        <span class="text-sm font-medium">Insurance Accepted</span>
+                    </div>
+                    <div class="flex items-center gap-2 text-white/90">
+                        <i data-lucide="award" class="w-5 h-5 text-secondary"></i>
+                        <span class="text-sm font-medium">Board-Certified</span>
+                    </div>
+                    <div class="flex items-center gap-2 text-white/90">
+                        <i data-lucide="zap" class="w-5 h-5 text-secondary"></i>
+                        <span class="text-sm font-medium">Advanced Tech</span>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
 
         <!-- 2. Treatment Response Rates (Stats Section) -->
         <section class="py-12 relative z-20 -mt-8">
@@ -987,16 +1067,109 @@
 
         <!-- Sections 10, 11, 12 removed as requested -->
 
+    <!-- FAQ Section -->
+    <section class="py-16 bg-[#0B2035] text-white relative border-t-[8px] border-[#23bfe2]">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16 reveal">
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Common Questions</h2>
+                <h3 class="text-4xl md:text-5xl font-bold">Frequently Asked Questions</h3>
+            </div>
+            <div class="space-y-4">
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>What makes Resiliency Mind + Body Medicine different from a standard psychiatrist?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            At Resiliency, we go far beyond a 15-minute medication check. Our board-certified psychiatrist Dr. LaFrenierre combines <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">SPRAVATO® treatment</a>, <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">conservative medication management</a>, and <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> into a truly personalized care plan. We treat the whole person — not just symptoms.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>What conditions do you treat at your Newport Beach and San Juan Capistrano clinics?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            We specialize in a wide range of mental health conditions including <a href="depression.php" class="text-[#23bfe2] underline hover:text-white">depression</a>, <a href="anxiety.php" class="text-[#23bfe2] underline hover:text-white">anxiety</a>, <a href="ocd.php" class="text-[#23bfe2] underline hover:text-white">OCD</a>, <a href="ptsd.php" class="text-[#23bfe2] underline hover:text-white">PTSD</a>, <a href="adhd.php" class="text-[#23bfe2] underline hover:text-white">adult ADHD</a>, <a href="bipolar.php" class="text-[#23bfe2] underline hover:text-white">bipolar disorder</a>, <a href="substance-abuse.php" class="text-[#23bfe2] underline hover:text-white">substance use disorders</a>, and more. View our full <a href="conditions.php" class="text-[#23bfe2] underline hover:text-white">conditions we treat</a> page for details.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>What is Deep TMS Therapy and is it right for me?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS (Transcranial Magnetic Stimulation)</a> is an FDA-cleared, non-invasive brain stimulation treatment that uses magnetic fields to target mood-regulating brain circuits. It requires no anesthesia, has no systemic side effects, and patients can drive themselves to and from appointments. It is particularly effective for treatment-resistant depression, OCD, and anxious depression. Our team will assess your candidacy during an initial consultation.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Do you accept insurance at your Orange County clinics?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes. We accept most major commercial insurance carriers and Medicare for services like <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and psychiatric evaluations. <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">SPRAVATO®</a> is also covered by many insurance plans when medical necessity criteria are met. Visit our <a href="insurance.php" class="text-[#23bfe2] underline hover:text-white">insurance & fees page</a> or call us at (949) 996-5355 for a benefits check.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Do you offer telehealth appointments?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes. We offer secure, HIPAA-compliant <a href="telehealth.php" class="text-[#23bfe2] underline hover:text-white">telehealth appointments</a> for psychiatric evaluations, medication management, and follow-up care. Some services — including Deep TMS, SPRAVATO®, IV therapy, and in-office procedures — require an in-person visit at our Newport Beach or San Juan Capistrano locations.
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>How do I get started as a new patient at Resiliency?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Getting started is simple. You can <a href="contact.php" class="text-[#23bfe2] underline hover:text-white">schedule a consultation online</a> or call us at (949) 996-5355. You can also complete our <a href="new-patient-form.php" class="text-[#23bfe2] underline hover:text-white">new patient forms</a> ahead of your first visit. Our team will conduct a comprehensive psychiatric evaluation and work with you to design a personalized treatment plan.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center mt-12">
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+            </div>
+        </div>
+    </section>
+
         <!-- 13. Final CTA -->
         <section class="py-20 relative overflow-hidden">
             <!-- Background Image -->
             <div class="absolute inset-0 z-0">
                 <img src="assets/images/home/cta-bg.png" alt="Serene Clinical Environment" class="w-full h-full object-cover object-center">
             </div>
-            
+
             <!-- Simple Dark Overlay for Text Readability -->
             <div class="absolute inset-0 z-0 bg-[#0B2035]/70"></div>
-            
+
             <!-- Subtle Gradient for Depth -->
             <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035] via-transparent to-transparent opacity-80"></div>
 
@@ -1005,15 +1178,15 @@
                 <span class="inline-block py-1 px-4 rounded-full bg-white/10 text-lightblue text-sm font-semibold tracking-wider uppercase mb-8 border border-lightblue/30 backdrop-blur-sm">
                     Begin Your Healing Journey
                 </span>
-                
+
                 <h2 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-8 leading-tight">
                     Take the First Step Toward <br class="hidden md:block"/> <span class="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">Better Mental Health</span>
                 </h2>
-                
+
                 <p class="text-xl md:text-2xl text-gray-300 mb-12 font-light max-w-3xl mx-auto leading-relaxed">
                     Join the thousands of patients who have found relief through our advanced, integrative approach to psychiatry and neuromodulation.
                 </p>
-                
+
                 <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                     <a href="contact.php" class="group relative inline-flex items-center justify-center bg-lightblue hover:bg-[#1aadd0] text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl overflow-hidden text-lg w-full sm:w-auto">
                         <span class="relative z-10 flex items-center gap-2">
@@ -1027,6 +1200,31 @@
                 </div>
             </div>
         </section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const triggers = document.querySelectorAll('.bg-white\\/5 button');
+        triggers.forEach(trigger => {
+            trigger.addEventListener('click', () => {
+                const icon = trigger.querySelector('[data-lucide="plus"]');
+                const content = trigger.nextElementSibling;
+                if (content.classList.contains('hidden')) {
+                    triggers.forEach(other => {
+                        if (other !== trigger) {
+                            other.nextElementSibling.classList.add('hidden');
+                            other.querySelector('[data-lucide="plus"]').style.transform = 'rotate(0deg)';
+                        }
+                    });
+                    content.classList.remove('hidden');
+                    if (icon) icon.style.transform = 'rotate(45deg)';
+                } else {
+                    content.classList.add('hidden');
+                    if (icon) icon.style.transform = 'rotate(0deg)';
+                }
+            });
+        });
+    });
+</script>
 
     </main>
 

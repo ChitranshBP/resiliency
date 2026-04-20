@@ -1,3 +1,17 @@
+<?php
+$page_title       = 'Psychiatric &amp; Wellness Supplements Newport Beach | Nutraceuticals | Resiliency Mind + Body Medicine';
+$page_description = 'Physician-curated nutraceuticals &amp; supplements for brain health, mood, focus &amp; sleep from Resiliency Mind + Body Medicine in Newport Beach, CA. Shop evidence-based wellness supplements. Call (949) 996-5355.';
+$page_keywords    = 'psychiatric supplements Newport Beach, wellness supplements Orange County, brain health supplements Newport Beach CA, mood supplements Orange County, nutraceuticals Newport Beach, mental health supplements Orange County CA, sleep supplements Newport Beach';
+$page_canonical   = 'https://resiliencymbmedicine.com/supplements.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Product","name":"Psychiatric & Wellness Supplements","description":"Physician-curated nutraceuticals and supplements for brain health, mood, focus, and sleep from Resiliency Mind + Body Medicine in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/supplements.php","brand":{"@type":"Brand","name":"Resiliency Mind + Body Medicine"},"offers":{"@type":"Offer","seller":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine"},"availability":"https://schema.org/InStock"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need a prescription for supplements?","acceptedAnswer":{"@type":"Answer","text":"No. Supplements do not require a prescription, but our providers recommend specific protocols based on your clinical evaluation for best results."}},{"@type":"Question","name":"Are supplements covered by insurance?","acceptedAnswer":{"@type":"Answer","text":"Supplements are typically not covered by insurance. They are available for direct purchase at our clinic or through our online store."}},{"@type":"Question","name":"Can supplements replace psychiatric medication?","acceptedAnswer":{"@type":"Answer","text":"Supplements complement but do not replace psychiatric medication. They work best as part of an integrative treatment plan supervised by a physician."}},{"@type":"Question","name":"Can supplements be taken alongside psychiatric medications?","acceptedAnswer":{"@type":"Answer","text":"Many supplements are compatible with psychiatric medications, but some interactions exist. Our providers review your full medication list before recommending supplements to ensure safety."}},{"@type":"Question","name":"Which supplements do you recommend for depression?","acceptedAnswer":{"@type":"Answer","text":"Common evidence-based supplements for depression include omega-3 fatty acids, magnesium, vitamin D, methylfolate, and SAMe. Our providers tailor recommendations to your specific needs."}},{"@type":"Question","name":"Do you offer supplements for sleep and anxiety?","acceptedAnswer":{"@type":"Answer","text":"Yes. We carry supplements targeting sleep quality (magnesium glycinate, L-theanine, melatonin) and anxiety (ashwagandha, GABA, phosphatidylserine) as part of our curated wellness line."}}]}
+</script>
+SCHEMA;
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -705,6 +719,21 @@
                     <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-gray-200 mt-2">
                             Supplements complement but don't replace psychiatric medication. They work best as part of an integrative treatment plan.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 6 -->
+                <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden reveal">
+                    <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl text-[#0B2035] flex items-center justify-between focus:outline-none hover:bg-gray-50 transition-colors group">
+                        <span>Can supplements be taken alongside psychiatric medications?</span>
+                        <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-gray-200 mt-2">
+                            Many supplements are compatible with psychiatric medications, but some interactions exist — for example, high-dose omega-3s may enhance blood thinners, and St. John's Wort can reduce the effectiveness of certain antidepressants. Our providers always review your full medication list before recommending supplements as part of your <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-[#0B2035]">integrative psychiatry</a> or <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-[#0B2035]">medication management</a> plan to ensure safety and effectiveness.
                         </div>
                     </div>
                 </div>

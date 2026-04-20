@@ -3,6 +3,14 @@ $page_title       = 'Suicidal Ideation Treatment Newport Beach | SPRAVATO &amp; 
 $page_description = 'Compassionate, evidence-based treatment for suicidal ideation in Newport Beach &amp; Orange County, CA. SPRAVATO® &amp; Deep TMS provide rapid relief for severe depression &amp; suicidal thoughts. Call (949) 996-5355.';
 $page_keywords    = 'suicidal ideation treatment Newport Beach, SPRAVATO suicidal ideation Orange County, crisis psychiatric care Newport Beach CA, suicidal thoughts treatment Orange County, rapid depression treatment Newport Beach, TMS suicidal ideation Orange County CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/suicidal-ideation.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalCondition","name":"Suicidal Ideation","alternateName":["Suicidal Thoughts","SI","Major Depressive Disorder with Suicidal Ideation"],"description":"Evidence-based treatment for suicidal ideation using SPRAVATO and Deep TMS in Newport Beach and San Juan Capistrano, CA. Rapid relief for severe depression and suicidal thoughts.","url":"https://resiliencymbmedicine.com/suicidal-ideation.php","relevantSpecialty":"Psychiatry","possibleTreatment":[{"@type":"MedicalTherapy","name":"SPRAVATO Treatment","url":"https://resiliencymbmedicine.com/spravato-therapy.php"},{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is SPRAVATO for suicidal ideation?","acceptedAnswer":{"@type":"Answer","text":"SPRAVATO (esketamine) is FDA-approved for major depressive disorder with acute suicidal ideation or behavior. Clinical trials show rapid reduction in suicidal thoughts within 24 hours of the first dose."}},{"@type":"Question","name":"How quickly can I be seen for suicidal ideation?","acceptedAnswer":{"@type":"Answer","text":"We prioritize urgent appointments for patients experiencing suicidal ideation. Call (949) 996-5355 for same-day or next-day availability. If in immediate danger, call 988 (Suicide & Crisis Lifeline) or 911."}},{"@type":"Question","name":"Do you provide ongoing support after acute crisis treatment?","acceptedAnswer":{"@type":"Answer","text":"Yes. We provide comprehensive ongoing care including medication management, maintenance SPRAVATO or TMS sessions, and safety planning to support long-term wellbeing."}},{"@type":"Question","name":"Is SPRAVATO safe for patients with suicidal thoughts?","acceptedAnswer":{"@type":"Answer","text":"Yes. SPRAVATO is FDA-approved specifically for MDD with acute suicidal ideation. All sessions are administered under direct medical supervision with a 2-hour monitoring period after each dose."}},{"@type":"Question","name":"Can Deep TMS help with suicidal ideation?","acceptedAnswer":{"@type":"Answer","text":"Yes. Deep TMS addresses the underlying depression driving suicidal thoughts. For acute suicidal ideation, SPRAVATO typically provides faster relief while TMS builds longer-term mood stability."}},{"@type":"Question","name":"Do you work with my therapist or other providers?","acceptedAnswer":{"@type":"Answer","text":"Yes. We coordinate care with your existing therapist, primary care provider, and other specialists to ensure a comprehensive, integrated safety and treatment plan."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -351,6 +359,21 @@ $page_canonical   = 'https://resiliencymbmedicine.com/suicidal-ideation.php';
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             Yes. After initial stabilization, we develop comprehensive long-term treatment plans including medication, therapy referrals, Deep TMS, and regular monitoring.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Is SPRAVATO® safe for patients with suicidal thoughts?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes — <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">SPRAVATO® (esketamine)</a> is specifically FDA-approved for major depressive disorder with acute suicidal ideation or behavior. Clinical trials showed rapid reduction in suicidal thoughts within 24 hours of the first dose. All SPRAVATO® sessions are administered in our clinic under direct medical supervision, with a mandatory 2-hour monitoring period after each dose to ensure safety. Our team is also trained in crisis assessment and safety planning.
                         </div>
                     </div>
                 </div>

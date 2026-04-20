@@ -1,3 +1,50 @@
+<?php
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "name": "Resiliency Mind + Body Medicine – Newport Beach",
+  "url": "https://resiliencymbmedicine.com/newport-beach.php",
+  "image": "https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png",
+  "description": "Board-certified psychiatric clinic in Newport Beach, CA offering Deep TMS Therapy, SPRAVATO, medication management, IV therapy, and integrative psychiatry.",
+  "telephone": "(949) 996-5355",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1501 Superior Ave, Suite 210",
+    "addressLocality": "Newport Beach",
+    "addressRegion": "CA",
+    "postalCode": "92663",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.6189,
+    "longitude": -117.9289
+  },
+  "openingHoursSpecification": [
+    { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "17:00" }
+  ],
+  "medicalSpecialty": ["Psychiatry", "Addiction Medicine", "Neuromodulation"],
+  "hasMap": "https://maps.google.com/?q=1501+Superior+Ave+Suite+210+Newport+Beach+CA+92663",
+  "priceRange": "$$",
+  "parentOrganization": {
+    "@type": "MedicalBusiness",
+    "name": "Resiliency Mind + Body Medicine",
+    "url": "https://resiliencymbmedicine.com"
+  },
+  "availableService": [
+    {"@type": "MedicalTherapy", "name": "Deep TMS Therapy"},
+    {"@type": "MedicalTherapy", "name": "SPRAVATO Treatment"},
+    {"@type": "MedicalTherapy", "name": "Psychiatric Medication Management"},
+    {"@type": "MedicalTherapy", "name": "IV Vitamin Therapy"},
+    {"@type": "MedicalTherapy", "name": "Medical Weight Loss"},
+    {"@type": "MedicalTherapy", "name": "Hormone Therapy"}
+  ]
+}
+</script>
+SCHEMA;
+?>
 <?php include 'header.php'; ?>
 
 <main>

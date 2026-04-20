@@ -3,6 +3,14 @@ $page_title       = 'SPRAVATO® (Esketamine) Treatment Newport Beach | Treatment
 $page_description = 'SPRAVATO® (esketamine nasal spray) for treatment-resistant depression &amp; suicidal ideation in Newport Beach &amp; Orange County. FDA-approved, in-office ketamine treatment. Call (949) 996-5355.';
 $page_keywords    = 'SPRAVATO treatment Newport Beach, esketamine therapy Orange County, ketamine nasal spray Newport Beach, treatment-resistant depression Orange County, SPRAVATO Orange County CA, ketamine treatment Newport Beach, SPRAVATO San Juan Capistrano';
 $page_canonical   = 'https://resiliencymbmedicine.com/spravato-therapy.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"SPRAVATO® (Esketamine) Treatment","alternateName":"Ketamine Nasal Spray","description":"FDA-approved SPRAVATO (esketamine) nasal spray for treatment-resistant depression and major depressive disorder with acute suicidal ideation. Administered in-office under supervision.","url":"https://resiliencymbmedicine.com/spravato-therapy.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How is SPRAVATO different from ketamine infusion?","acceptedAnswer":{"@type":"Answer","text":"SPRAVATO is an FDA-approved nasal spray (esketamine) administered in-office with medical supervision. Unlike IV ketamine infusions, SPRAVATO is FDA-approved specifically for treatment-resistant depression and is covered by most insurance plans."}},{"@type":"Question","name":"Will my insurance cover SPRAVATO treatment?","acceptedAnswer":{"@type":"Answer","text":"SPRAVATO is covered by most major insurance plans including Medicare when criteria for treatment-resistant depression are met. Our team handles prior authorization and benefits verification."}},{"@type":"Question","name":"How often are SPRAVATO treatment sessions?","acceptedAnswer":{"@type":"Answer","text":"The induction phase involves twice-weekly sessions for 4 weeks, then once weekly for weeks 5-8. A maintenance phase of every 1-2 weeks follows based on clinical response."}},{"@type":"Question","name":"Do I need to try antidepressants before qualifying for SPRAVATO?","acceptedAnswer":{"@type":"Answer","text":"Yes. SPRAVATO is FDA-approved for treatment-resistant depression, meaning patients must have tried and failed at least two antidepressant medications. It is also approved for major depressive disorder with acute suicidal ideation."}},{"@type":"Question","name":"Can I drive after a SPRAVATO session?","acceptedAnswer":{"@type":"Answer","text":"No. You must remain at the clinic for at least 2 hours of monitoring after each SPRAVATO session and cannot drive that day. You must arrange transportation home."}},{"@type":"Question","name":"How quickly does SPRAVATO work?","acceptedAnswer":{"@type":"Answer","text":"Many patients report improvement within 24-48 hours of their first SPRAVATO session, making it one of the fastest-acting treatments for treatment-resistant depression available today."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -384,8 +392,23 @@ $page_canonical   = 'https://resiliencymbmedicine.com/spravato-therapy.php';
                         </div>
                     </div>
                 </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Do I need to try antidepressants before qualifying for SPRAVATO®?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Yes — SPRAVATO® is FDA-approved for <strong>treatment-resistant depression</strong>, which means patients must have tried and failed at least two different antidepressant medications at adequate doses and durations. It is also approved for <a href="suicidal-ideation.php" class="text-[#23bfe2] underline hover:text-white">major depressive disorder with acute suicidal ideation</a>. Our team will review your history to confirm eligibility during your initial consultation.
+                        </div>
+                    </div>
+                </div>
             </div>
-            
+
             <div class="text-center mt-12">
                 <p class="text-gray-400 font-light">Have more questions? <a href="#contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Talk to our Spravato specialists.</a></p>
             </div>

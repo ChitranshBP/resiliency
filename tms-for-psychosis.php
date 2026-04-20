@@ -1,3 +1,13 @@
+<?php
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"TMS for Psychosis","description":"Deep TMS therapy targeting auditory hallucinations and negative symptoms of schizophrenia and psychotic disorders at Resiliency Mind + Body Medicine in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/tms-for-psychosis.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Will TMS replace my antipsychotic medication?","acceptedAnswer":{"@type":"Answer","text":"No. TMS for psychosis is an adjunct therapy used alongside antipsychotic medications. It targets specific symptoms that medication alone may not fully address, such as persistent hallucinations."}},{"@type":"Question","name":"Is TMS safe for people with psychosis?","acceptedAnswer":{"@type":"Answer","text":"Yes, when administered by experienced psychiatrists. Careful screening for contraindications including seizure risk and metal implants is performed before treatment begins."}},{"@type":"Question","name":"What does a typical treatment course for psychosis look like?","acceptedAnswer":{"@type":"Answer","text":"Standard protocols involve daily sessions over 4-6 weeks. Protocol specifics are personalized based on primary symptoms, history, and treatment response."}},{"@type":"Question","name":"Is TMS safe to use alongside antipsychotic medications?","acceptedAnswer":{"@type":"Answer","text":"In most cases yes. Deep TMS can be safely administered alongside antipsychotic medications as an adjunct treatment. Our psychiatrist reviews all medications before starting."}},{"@type":"Question","name":"Which symptoms of psychosis does TMS target?","acceptedAnswer":{"@type":"Answer","text":"TMS primarily targets persistent auditory hallucinations and negative symptoms such as flat affect and social withdrawal that do not respond fully to antipsychotic medications."}},{"@type":"Question","name":"How many TMS sessions are needed for psychosis treatment?","acceptedAnswer":{"@type":"Answer","text":"Typically 20-30 sessions over 4-6 weeks. Maintenance sessions may be recommended to sustain symptom improvement."}}]}
+</script>
+SCHEMA;
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -203,6 +213,21 @@
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             Standard protocols involve daily sessions over 4–6 weeks. Your psychiatrist will design a plan based on your primary symptoms, history, and response to prior treatments.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 6 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Is TMS safe to use alongside antipsychotic medications?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            In most cases, yes. <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS</a> can be safely administered alongside antipsychotic medications and is used as an adjunct — not a replacement — for existing treatment. Our psychiatrist will carefully review your full medication list and medical history before proceeding. We also offer <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">conservative medication management</a> to optimize your regimen alongside TMS.
                         </div>
                     </div>
                 </div>

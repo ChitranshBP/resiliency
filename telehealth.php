@@ -3,6 +3,14 @@ $page_title       = 'Telehealth Psychiatry Orange County &amp; California | Secu
 $page_description = 'HIPAA-compliant telehealth psychiatric appointments for Orange County &amp; California patients. Access expert psychiatric care from home. Board-certified psychiatrist, same-day availability. Call (949) 996-5355.';
 $page_keywords    = 'telehealth psychiatry Orange County, online psychiatrist Newport Beach, virtual psychiatry California, telehealth mental health Orange County CA, remote psychiatrist Newport Beach, online psychiatric care California, telehealth ADHD treatment Orange County';
 $page_canonical   = 'https://resiliencymbmedicine.com/telehealth.php';
+$page_schema = <<<'SCHEMA'
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"Telehealth Psychiatric Appointments","description":"Secure, HIPAA-compliant telehealth psychiatry serving Orange County and all of California. Virtual psychiatric evaluations, medication management, and follow-up care.","url":"https://resiliencymbmedicine.com/telehealth.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","areaServed":["Orange County, CA","California"],"address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What do I need for a telehealth visit?","acceptedAnswer":{"@type":"Answer","text":"A smartphone, tablet, or computer with a camera and microphone, plus a stable internet connection. You will receive a secure link before your appointment."}},{"@type":"Question","name":"Can I get prescriptions via telehealth?","acceptedAnswer":{"@type":"Answer","text":"Yes. Our providers can prescribe most psychiatric medications via telehealth in accordance with California state laws and DEA telehealth prescribing rules."}},{"@type":"Question","name":"Is telehealth covered by insurance?","acceptedAnswer":{"@type":"Answer","text":"Yes. Most major insurance plans cover telehealth psychiatric visits. We verify your telehealth benefits before your appointment."}},{"@type":"Question","name":"Which services are available via telehealth vs. in-person only?","acceptedAnswer":{"@type":"Answer","text":"Telehealth: psychiatric evaluations, medication management, follow-up care. In-person required: Deep TMS, SPRAVATO, IV therapy, NAD+ infusions, and all procedural treatments."}},{"@type":"Question","name":"Is my telehealth session private and secure?","acceptedAnswer":{"@type":"Answer","text":"Yes. All telehealth sessions use HIPAA-compliant, encrypted video platforms. No sessions are recorded without explicit consent."}},{"@type":"Question","name":"Can I get a new patient evaluation via telehealth?","acceptedAnswer":{"@type":"Answer","text":"Yes. New patient psychiatric evaluations are available via telehealth. Depending on your treatment needs, some follow-up services may require an in-person visit at our Newport Beach or San Juan Capistrano clinic."}}]}
+</script>
+SCHEMA;
 ?>
 <?php include 'header.php'; ?>
 
@@ -330,6 +338,21 @@ $page_canonical   = 'https://resiliencymbmedicine.com/telehealth.php';
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
                             Yes. Most insurance plans cover telehealth psychiatric visits at the same rate as in-person visits. Our team verifies your benefits before your appointment.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
+                    <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
+                        <span>Which services are available via telehealth and which require in-person visits?</span>
+                        <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                            <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
+                        </div>
+                    </button>
+                    <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
+                        <div class="pt-2 border-t border-white/10 mt-2">
+                            Telehealth is available for psychiatric evaluations, <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">medication management</a>, follow-up appointments, and care coordination. Services that require an in-person visit at our Newport Beach or San Juan Capistrano clinics include <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">SPRAVATO® treatment</a>, <a href="iv-vitamin-therapy.php" class="text-[#23bfe2] underline hover:text-white">IV vitamin therapy</a>, and <a href="nad-therapy.php" class="text-[#23bfe2] underline hover:text-white">NAD+ infusions</a>.
                         </div>
                     </div>
                 </div>
