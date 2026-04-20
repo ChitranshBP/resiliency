@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'SPRAVATO® (Esketamine) Treatment Newport Beach | Treatment-Resistant Depression | Resiliency Mind + Body Medicine';
+$page_description = 'SPRAVATO® (esketamine nasal spray) for treatment-resistant depression &amp; suicidal ideation in Newport Beach &amp; Orange County. FDA-approved, in-office ketamine treatment. Call (949) 996-5355.';
+$page_keywords    = 'SPRAVATO treatment Newport Beach, esketamine therapy Orange County, ketamine nasal spray Newport Beach, treatment-resistant depression Orange County, SPRAVATO Orange County CA, ketamine treatment Newport Beach, SPRAVATO San Juan Capistrano';
+$page_canonical   = 'https://resiliencymbmedicine.com/spravato-therapy.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -17,6 +23,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     SPRAVATO&reg; <span class="text-[#23bfe2] font-light">Treatment</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     A breakthrough FDA-approved treatment for adults with treatment-resistant depression and suicidal ideation, offering rapid relief where traditional antidepressants have failed.
@@ -501,5 +508,19 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="accelerated-tms.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Accelerated TMS</a>
+                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="suicidal-ideation.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Suicidal Ideation Support</a>
+                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

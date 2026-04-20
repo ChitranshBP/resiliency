@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Cognitive Enhancement Newport Beach &amp; Orange County | Brain Optimization | Resiliency Mind + Body Medicine';
+$page_description = 'Physician-supervised cognitive enhancement in Newport Beach &amp; Orange County, CA. NAD+ therapy, targeted supplements, metabolic optimization &amp; neuromodulation for peak brain performance. Call (949) 996-5355.';
+$page_keywords    = 'cognitive enhancement Newport Beach, brain optimization Orange County, cognitive performance Newport Beach CA, brain enhancement Orange County, NAD therapy cognitive Newport Beach, neuromodulation brain boost Orange County CA, cognitive enhancement doctor Newport Beach';
+$page_canonical   = 'https://resiliencymbmedicine.com/cognitive-enhancement.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -16,6 +22,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Cognitive <span class="text-[#23bfe2] font-light">Enhancement</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Optimize your brain performance with physician-supervised cognitive enhancement protocols including NAD+ therapy, targeted supplements, metabolic optimization, and neuromodulation.
@@ -269,5 +276,19 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="nad-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">NAD+ Therapy</a>
+                <a href="mental-clarity.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Mental Clarity</a>
+                <a href="iv-vitamin-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">IV Vitamin Therapy</a>
+                <a href="tms-for-mental-boost.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">TMS for Mental Boost</a>
+                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

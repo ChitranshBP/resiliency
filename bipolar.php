@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Bipolar Disorder Treatment Newport Beach &amp; Orange County | Mood Stabilization | Resiliency Mind + Body Medicine';
+$page_description = 'Multi-modality bipolar disorder treatment in Newport Beach &amp; Orange County, CA. Deep TMS, SPRAVATO &amp; expert medication management for mood stabilization. Board-certified psychiatrist. Call (949) 996-5355.';
+$page_keywords    = 'bipolar disorder treatment Newport Beach, bipolar psychiatrist Orange County, mood disorder treatment Newport Beach CA, bipolar medication management Orange County, bipolar disorder doctor Newport Beach, mood stabilization psychiatry Orange County CA, TMS for bipolar Orange County';
+$page_canonical   = 'https://resiliencymbmedicine.com/bipolar.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -16,6 +22,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-6xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Bipolar<span class="text-[#23bfe2] font-light"> Disorder</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">Treatment in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Achieve mood stability with a multi-modality approach including FDA-approved Deep TMS therapy, medication management, and integrative care at Resiliency Mind+Body Medicine.
@@ -465,5 +472,19 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">SPRAVATO® Treatment</a>
+                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

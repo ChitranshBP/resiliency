@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Autism Spectrum Support Newport Beach &amp; Orange County | Psychiatric Care for ASD | Resiliency Mind + Body Medicine';
+$page_description = 'Specialized psychiatric support for autism spectrum disorder (ASD) in Newport Beach &amp; Orange County, CA. Compassionate, individualized care addressing co-occurring mental health conditions. Call (949) 996-5355.';
+$page_keywords    = 'autism spectrum support Newport Beach, ASD psychiatrist Orange County, autism psychiatric care Newport Beach CA, autism spectrum disorder treatment Orange County, autism doctor Newport Beach, ASD mental health Orange County CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/autism.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -16,6 +22,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Autism Spectrum <span class="text-[#23bfe2] font-light">Support</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Specialized psychiatric support for individuals on the autism spectrum—addressing co-occurring mental health conditions, sensory challenges, and quality of life with compassionate, individualized care.
@@ -326,5 +333,19 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="adhd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD Treatment</a>
+                <a href="anxiety.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety Treatment</a>
+                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

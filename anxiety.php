@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Anxiety Treatment Newport Beach &amp; Orange County | TMS &amp; Psychiatric Care | Resiliency Mind + Body Medicine';
+$page_description = 'Expert anxiety treatment in Newport Beach &amp; Orange County, CA. Deep TMS therapy, medication management &amp; integrative psychiatry for generalized anxiety, panic disorder &amp; social anxiety. Call (949) 996-5355.';
+$page_keywords    = 'anxiety treatment Newport Beach, anxiety psychiatrist Orange County, TMS for anxiety Newport Beach, generalized anxiety disorder treatment Orange County CA, panic disorder treatment Newport Beach, social anxiety psychiatrist Orange County, anxiety doctor Newport Beach CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/anxiety.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -16,6 +22,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Anxiety <span class="text-[#23bfe2] font-light">Treatment</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Expert treatment for generalized anxiety, social anxiety, panic disorder, and phobias using a combination of advanced neuromodulation, medication management, and evidence-based therapies.
@@ -441,5 +448,19 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="telehealth.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Telehealth Appointments</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

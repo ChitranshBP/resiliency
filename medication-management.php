@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Psychiatric Medication Management Newport Beach | Conservative &amp; Personalized Care | Resiliency Mind + Body Medicine';
+$page_description = 'Conservative, whole-person psychiatric medication management in Newport Beach &amp; San Juan Capistrano, CA. Board-certified psychiatrist Dr. LaFrenierre minimizes medications while maximizing results. Call (949) 996-5355.';
+$page_keywords    = 'psychiatric medication management Newport Beach, psychiatrist Orange County medication, medication management San Juan Capistrano, psychiatric prescriber Newport Beach CA, conservative medication psychiatry Orange County, board-certified psychiatrist Newport Beach';
+$page_canonical   = 'https://resiliencymbmedicine.com/medication-management.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -17,6 +23,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-5xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Conservative <span class="text-[#23bfe2] font-light">Medication Management</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     A thoughtful, whole-person approach to psychiatric medication—using the least amount necessary while integrating evidence-based non-pharmacologic therapies for lasting wellness.
@@ -757,5 +764,19 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">SPRAVATO® Treatment</a>
+                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="telehealth.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Telehealth Appointments</a>
+                <a href="pharmacogenetic-testing.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Pharmacogenetic Testing</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

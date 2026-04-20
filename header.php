@@ -1,11 +1,129 @@
+<?php
+$default_title       = 'Psychiatrist Newport Beach &amp; Orange County | Deep TMS, SPRAVATO | Resiliency Mind + Body Medicine';
+$default_description = 'Orange County\'s leading psychiatric clinic offering Deep TMS Therapy, SPRAVATO (ketamine nasal spray), and personalized treatment for depression, anxiety, OCD, PTSD &amp; ADHD. Two locations: Newport Beach &amp; San Juan Capistrano, CA. Call (949) 996-5355.';
+$default_keywords    = 'psychiatrist Newport Beach, psychiatrist Orange County, Deep TMS therapy Newport Beach, TMS therapy Orange County, SPRAVATO treatment Orange County, depression treatment Newport Beach, anxiety treatment Orange County, OCD treatment Newport Beach, PTSD psychiatrist Orange County, ADHD psychiatrist Newport Beach, mental health clinic Orange County, psychiatric care Newport Beach CA, ketamine treatment Orange County, TMS depression treatment, neuromodulation therapy Orange County, psychiatrist San Juan Capistrano, advanced psychiatric care Southern California, IV therapy Newport Beach, medical weight loss Newport Beach, Resiliency Mind Body Medicine';
+$default_canonical   = 'https://resiliencymbmedicine.com/';
+
+$page_title       = isset($page_title)       ? $page_title       : $default_title;
+$page_description = isset($page_description) ? $page_description : $default_description;
+$page_keywords    = isset($page_keywords)    ? $page_keywords    : $default_keywords;
+$page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_canonical;
+?>
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resiliency Mind + Body Medicine | Advanced Psychiatric Care</title>
-    <meta name="description" content="Personalized treatments for depression, anxiety, OCD, and PTSD using evidence-based therapies and advanced neuromodulation technology including Deep TMS Therapy and SPRAVATO.">
-    
+    <title><?php echo $page_title; ?></title>
+    <meta name="description" content="<?php echo $page_description; ?>">
+    <meta name="keywords" content="<?php echo $page_keywords; ?>">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Resiliency Mind + Body Medicine">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="<?php echo $page_canonical; ?>">
+
+    <!-- Geo / Location Meta -->
+    <meta name="geo.region" content="US-CA">
+    <meta name="geo.placename" content="Newport Beach, Orange County, California">
+    <meta name="geo.position" content="33.6189;-117.9289">
+    <meta name="ICBM" content="33.6189, -117.9289">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="<?php echo $page_canonical; ?>">
+    <meta property="og:title" content="<?php echo $page_title; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:image" content="https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png">
+    <meta property="og:site_name" content="Resiliency Mind + Body Medicine">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo $page_title; ?>">
+    <meta name="twitter:description" content="<?php echo $page_description; ?>">
+    <meta name="twitter:image" content="https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png">
+
+    <!-- Local Business Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalBusiness",
+      "name": "Resiliency Mind + Body Medicine",
+      "url": "https://resiliencymbmedicine.com",
+      "logo": "https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png",
+      "telephone": "(949) 996-5355",
+      "description": "Orange County's leading psychiatric clinic offering Deep TMS Therapy, SPRAVATO, and personalized treatment for depression, anxiety, OCD, PTSD, and ADHD.",
+      "medicalSpecialty": ["Psychiatry", "Addiction Medicine", "Neuromodulation"],
+      "priceRange": "$$",
+      "founder": {
+        "@type": "Person",
+        "name": "Dr. Stefani LaFrenierre, MD",
+        "jobTitle": "Board-Certified Psychiatrist"
+      },
+      "location": [
+        {
+          "@type": "MedicalClinic",
+          "name": "Resiliency Mind + Body Medicine – Newport Beach",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1501 Superior Ave, Suite 210",
+            "addressLocality": "Newport Beach",
+            "addressRegion": "CA",
+            "postalCode": "92663",
+            "addressCountry": "US"
+          },
+          "telephone": "(949) 996-5355",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 33.6189,
+            "longitude": -117.9289
+          }
+        },
+        {
+          "@type": "MedicalClinic",
+          "name": "Resiliency Mind + Body Medicine – San Juan Capistrano",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27184 Ortega Hwy, STE 103",
+            "addressLocality": "San Juan Capistrano",
+            "addressRegion": "CA",
+            "postalCode": "92675",
+            "addressCountry": "US"
+          },
+          "telephone": "(949) 996-5355"
+        }
+      ],
+      "sameAs": [
+        "https://resiliencymbmedicine.com"
+      ],
+      "areaServed": [
+        "Newport Beach, CA",
+        "San Juan Capistrano, CA",
+        "Orange County, CA",
+        "Irvine, CA",
+        "Laguna Beach, CA",
+        "Costa Mesa, CA",
+        "Huntington Beach, CA",
+        "Dana Point, CA",
+        "Mission Viejo, CA",
+        "Southern California"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Psychiatric & Wellness Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "Deep TMS Therapy"}},
+          {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "SPRAVATO (Esketamine) Treatment"}},
+          {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "Psychiatric Evaluation & Medication Management"}},
+          {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "IV Drip Therapy"}},
+          {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "Medical Weight Loss"}},
+          {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "Accelerated TMS (SAINT Protocol)"}}
+        ]
+      }
+    }
+    </script>
+
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

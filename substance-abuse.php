@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Substance Use &amp; Smoking Cessation Newport Beach | Deep TMS Addiction Treatment | Resiliency Mind + Body Medicine';
+$page_description = 'FDA-cleared Deep TMS for substance use disorders &amp; smoking cessation in Newport Beach &amp; Orange County, CA. BrainsWay® Deep TMS plus physician-led medication management for addiction recovery. Call (949) 996-5355.';
+$page_keywords    = 'substance use treatment Newport Beach, addiction treatment Orange County, smoking cessation Newport Beach CA, TMS for addiction Orange County, substance use disorder Newport Beach, nicotine addiction treatment Orange County CA, addiction psychiatrist Newport Beach';
+$page_canonical   = 'https://resiliencymbmedicine.com/substance-abuse.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -16,6 +22,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-5xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Deep TMS for Substance Use <span class="text-[#23bfe2] font-light">& Smoking Cessation</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Comprehensive care for nicotine and other substance use disorders with BrainsWay® Deep TMS, medication management, and integrative physician-led treatment.
@@ -452,5 +459,18 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

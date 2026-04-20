@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Accelerated Deep TMS SWIFT Protocol Newport Beach | 6-Day Depression Treatment | Resiliency Mind + Body Medicine';
+$page_description = 'Accelerated Deep TMS using BrainsWay SWIFT Protocol — intensive 6-day depression treatment in Newport Beach &amp; San Juan Capistrano, CA. Faster remission for treatment-resistant depression. Call (949) 996-5355.';
+$page_keywords    = 'accelerated TMS Newport Beach, SWIFT protocol TMS Orange County, intensive TMS therapy Newport Beach, accelerated TMS San Juan Capistrano, SAINT protocol TMS Orange County, rapid TMS depression treatment Newport Beach, BrainsWay SWIFT TMS California';
+$page_canonical   = 'https://resiliencymbmedicine.com/accelerated-tms.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -17,6 +23,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-5xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Accelerated Deep TMS <span class="text-[#23bfe2] font-light">SWIFT Protocol</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Achieve remission with BrainsWay's revolutionary SWIFT Protocol—a 6-day protocol over 2 weeks delivering concentrated Deep TMS sessions for faster, more efficient results.
@@ -474,5 +481,18 @@
 <script>
     lucide.createIcons();
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Standard Deep TMS Therapy</a>
+                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">SPRAVATO® Treatment</a>
+                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

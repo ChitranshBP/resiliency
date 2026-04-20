@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Medical Weight Loss Newport Beach | Semaglutide &amp; Tirzepatide Programs | Resiliency Mind + Body Medicine';
+$page_description = 'Physician-supervised medical weight loss in Newport Beach &amp; Orange County using FDA-approved GLP-1 medications (semaglutide, tirzepatide). Personalized programs with nutritional coaching. Call (949) 996-5355.';
+$page_keywords    = 'medical weight loss Newport Beach, semaglutide Newport Beach, tirzepatide Orange County, GLP-1 weight loss Orange County CA, weight loss doctor Newport Beach, medical weight loss San Juan Capistrano, Wegovy Newport Beach, Ozempic weight loss Orange County';
+$page_canonical   = 'https://resiliencymbmedicine.com/weight-loss.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -17,6 +23,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Medical <span class="text-[#23bfe2] font-light">Weight Loss</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Physician-supervised weight loss programs featuring FDA-approved GLP-1 medications like semaglutide and tirzepatide, combined with nutritional coaching and lifestyle support for sustainable results.
@@ -511,5 +518,18 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="iv-vitamin-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">IV Vitamin Therapy</a>
+                <a href="hormone-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Hormone Therapy</a>
+                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="nad-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">NAD+ Therapy</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

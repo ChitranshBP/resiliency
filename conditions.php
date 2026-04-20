@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Conditions We Treat | Mental Health Psychiatry Newport Beach &amp; Orange County | Resiliency Mind + Body Medicine';
+$page_description = 'Expert psychiatric care for depression, anxiety, OCD, PTSD, ADHD, bipolar disorder &amp; more in Newport Beach &amp; Orange County, CA. Two clinic locations in Southern California. Call (949) 996-5355.';
+$page_keywords    = 'mental health conditions Newport Beach, psychiatric care Orange County, depression anxiety OCD treatment Newport Beach, mental health doctor Orange County CA, psychiatry Orange County California, psychiatrist Newport Beach conditions treated';
+$page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -16,6 +22,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Conditions <span class="text-[#23bfe2] font-light">We Treat</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Expert psychiatric care for a wide range of mental health and neurological conditions, with personalized treatment plans tailored to each patient.
@@ -186,5 +193,23 @@
         </div>
     </section>
 </main>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression</a>
+                <a href="anxiety.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety</a>
+                <a href="ocd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">OCD</a>
+                <a href="ptsd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">PTSD</a>
+                <a href="adhd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD</a>
+                <a href="bipolar.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Bipolar Disorder</a>
+                <a href="substance-abuse.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Substance Use</a>
+                <a href="suicidal-ideation.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Suicidal Ideation</a>
+                <a href="autism.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Autism Spectrum</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Telehealth Psychiatry Orange County &amp; California | Secure Video Appointments | Resiliency Mind + Body Medicine';
+$page_description = 'HIPAA-compliant telehealth psychiatric appointments for Orange County &amp; California patients. Access expert psychiatric care from home. Board-certified psychiatrist, same-day availability. Call (949) 996-5355.';
+$page_keywords    = 'telehealth psychiatry Orange County, online psychiatrist Newport Beach, virtual psychiatry California, telehealth mental health Orange County CA, remote psychiatrist Newport Beach, online psychiatric care California, telehealth ADHD treatment Orange County';
+$page_canonical   = 'https://resiliencymbmedicine.com/telehealth.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -17,6 +23,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Telehealth <span class="text-[#23bfe2] font-light">Appointments</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">Serving Newport Beach, San Juan Capistrano &amp; All of California</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Access high-quality psychiatric care from the comfort of your home, office, or anywhere with an internet connection—secure, HIPAA-compliant video visits with our providers.
@@ -387,5 +394,19 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">SPRAVATO® Treatment</a>
+                <a href="adhd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD Treatment</a>
+                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="contact.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Book an Appointment</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

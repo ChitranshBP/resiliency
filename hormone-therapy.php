@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Hormone Therapy Newport Beach | HRT &amp; Metabolic Optimization | Resiliency Mind + Body Medicine';
+$page_description = 'Comprehensive hormone assessment &amp; replacement therapy in Newport Beach &amp; Orange County, CA. Address mood, energy, cognition &amp; vitality with evidence-based HRT. Call (949) 996-5355.';
+$page_keywords    = 'hormone therapy Newport Beach, HRT Orange County CA, hormone replacement therapy Newport Beach, testosterone therapy Orange County, menopause treatment Newport Beach, bioidentical hormones Orange County, hormone optimization San Juan Capistrano';
+$page_canonical   = 'https://resiliencymbmedicine.com/hormone-therapy.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -17,6 +23,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Hormone <span class="text-[#23bfe2] font-light">Therapy</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Comprehensive hormone and metabolic assessment with evidence-based hormone replacement therapy to address mood, energy, cognition, and overall vitality.
@@ -310,5 +317,18 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="weight-loss.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medical Weight Loss</a>
+                <a href="iv-vitamin-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">IV Vitamin Therapy</a>
+                <a href="nad-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">NAD+ Therapy</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

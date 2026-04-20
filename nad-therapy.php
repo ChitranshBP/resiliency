@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'NAD+ IV Therapy Newport Beach | Cellular Energy &amp; Brain Health | Resiliency Mind + Body Medicine';
+$page_description = 'NAD+ IV infusion therapy in Newport Beach &amp; Orange County, CA. Replenish cellular energy, support DNA repair &amp; enhance cognitive performance. Physician-supervised. Call (949) 996-5355.';
+$page_keywords    = 'NAD+ therapy Newport Beach, NAD IV infusion Orange County, NAD therapy San Juan Capistrano, cellular energy therapy Newport Beach CA, anti-aging NAD therapy Orange County, brain health NAD Newport Beach, NAD+ IV drip Orange County CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/nad-therapy.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -17,6 +23,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     NAD+ <span class="text-[#23bfe2] font-light">Therapy</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Replenish your body's essential coenzyme for cellular energy, DNA repair, and cognitive enhancement—delivered intravenously for maximum absorption and immediate results.
@@ -500,5 +507,18 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="iv-vitamin-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">IV Vitamin Therapy</a>
+                <a href="cognitive-enhancement.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Cognitive Enhancement</a>
+                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="hormone-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Hormone Therapy</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>

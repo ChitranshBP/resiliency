@@ -18,10 +18,10 @@
                         <span class="text-secondary text-xs sm:text-sm font-bold tracking-widest uppercase">Start Now, Feel Better By Summer</span>
                     </div>
                     <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
-                        Transforming Mental Health with Advanced <span class="text-secondary font-light">Psychiatry & Deep TMS Therapy</span>
+                        Orange County's Advanced <span class="text-secondary font-light">Psychiatry & Deep TMS Therapy</span>
                     </h1>
                     <p class="text-base sm:text-lg md:text-xl text-gray-100 mb-6 sm:mb-8 leading-relaxed font-light">
-                        Personalized treatments for depression, anxiety, OCD, and PTSD using evidence-based therapies and advanced neuromodulation technology.
+                        Personalized treatments for depression, anxiety, OCD, and PTSD at our Newport Beach & San Juan Capistrano clinics — using evidence-based therapies and advanced neuromodulation technology.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-3 sm:gap-4 mb-8 sm:mb-10">
                         <a href="contact.php" class="bg-lightblue text-primary font-bold px-6 sm:px-8 py-3.5 rounded-full text-center text-sm sm:text-base transition-all hover:bg-[#1aadd0] hover:shadow-lg shadow-md hover:-translate-y-1 transform">
@@ -163,11 +163,11 @@
                             <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
                             <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Specialized Care</h2>
                         </div>
-                        <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] leading-tight">Conditions We Treat</h3>
+                        <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] leading-tight">Conditions We Treat in Orange County</h3>
                     </div>
                     <div class="max-w-md">
                         <p class="text-gray-500 text-lg leading-relaxed font-light">
-                            Compassionate, evidence-based care tailored to your unique psychological biology. We specialize in providing relief when standard treatments have failed.
+                            Compassionate, evidence-based psychiatric care in Newport Beach & San Juan Capistrano, CA — tailored to your unique needs. We specialize in providing relief when standard treatments have failed.
                         </p>
                     </div>
                 </div>
@@ -515,8 +515,8 @@
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="text-center max-w-3xl mx-auto mb-16 reveal">
                     <h2 class="text-sm font-bold tracking-wider text-accent uppercase mb-2">Comprehensive Services</h2>
-                    <h3 class="text-3xl md:text-4xl font-bold text-primary">Advanced Psychiatric Treatments</h3>
-                    <p class="mt-4 text-gray-600 text-lg">Bringing to you the latest innovations in mental health care.</p>
+                    <h3 class="text-3xl md:text-4xl font-bold text-primary">Advanced Psychiatric Treatments in Orange County</h3>
+                    <p class="mt-4 text-gray-600 text-lg">Bringing to you the latest innovations in mental health care at our Newport Beach & San Juan Capistrano clinics.</p>
                 </div>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

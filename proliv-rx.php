@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Proliv™Rx At-Home TMS Newport Beach | FDA-Approved Home Neuromodulation | Resiliency Mind + Body Medicine';
+$page_description = 'Proliv™Rx — the first FDA-approved at-home brain neuromodulation device for treatment-resistant depression. Prescribed &amp; supervised by our Newport Beach &amp; Orange County psychiatrists. Call (949) 996-5355.';
+$page_keywords    = 'Proliv Rx Newport Beach, at-home TMS Orange County, home neuromodulation Newport Beach CA, FDA approved home TMS Orange County, treatment-resistant depression device Newport Beach, at-home brain stimulation Orange County CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/proliv-rx.php';
+?>
 <?php include 'header.php'; ?>
 
 <main>
@@ -16,6 +22,7 @@
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
                     Proliv™<span class="text-[#23bfe2] font-light">Rx</span>
+                    <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     The first FDA-approved, prescription, at-home brain neuromodulation therapy for adults with major depressive disorder who haven't adequately responded to antidepressants.
@@ -526,5 +533,18 @@
         });
     });
 </script>
+
+    <!-- Also Explore -->
+    <section class="py-12 bg-gray-50 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
+            <div class="flex flex-wrap gap-3">
+                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="accelerated-tms.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Accelerated TMS</a>
+                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+            </div>
+        </div>
+    </section>
 
 <?php include 'footer.php'; ?>
