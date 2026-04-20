@@ -95,13 +95,15 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Mobile Accordion Logic ---
     const accordions = document.querySelectorAll('.mobile-accordion-toggle');
     accordions.forEach(acc => {
-        acc.addEventListener('click', function() {
+        acc.addEventListener('click', function(e) {
+            e.stopPropagation();
             const content = this.nextElementSibling;
             const icon = this.querySelector('[data-lucide="chevron-down"], i');
 
-            // Close all other accordions
+            // Close only sibling accordions at the same nesting level
+            const parent = this.parentElement.parentElement;
             accordions.forEach(otherAcc => {
-                if (otherAcc !== this) {
+                if (otherAcc !== this && otherAcc.parentElement.parentElement === parent) {
                     const otherContent = otherAcc.nextElementSibling;
                     const otherIcon = otherAcc.querySelector('[data-lucide="chevron-down"], i');
                     if (otherContent && !otherContent.classList.contains('hidden')) {

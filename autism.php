@@ -5,7 +5,7 @@
     <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
             <img src="assets/images/autism_hero.png" alt="Autism Spectrum Support" class="w-full h-full object-cover object-[50%_30%]">
-            <div class="absolute inset-0 bg-[#0B2035]/85 md:bg-gradient-to-r md:from-[#0B2035]/95 md:via-[#0B2035]/80 md:to-[#0B2035]/50"></div>
+            <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
@@ -54,7 +54,7 @@
 
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/autism_support.png" alt="Autism Spectrum Support at Resiliency" class="w-full h-[450px] object-cover">
+                        <img src="assets/images/autism_support.png" alt="Autism Spectrum Support at Resiliency" class="w-full h-[450px] object-cover ">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
                 </div>
@@ -150,6 +150,64 @@
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Insurance Accepted</h4>
                     <p class="text-gray-500 font-light leading-relaxed">In-network with most major insurances including Aetna, Anthem, Cigna, United, Medicare, TriCare.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- TMS for Autism Section -->
+    <section class="py-16 bg-white relative overflow-hidden">
+        <div class="absolute -top-32 -left-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="flex flex-col lg:flex-row items-center gap-16 lg:gap-20">
+                <div class="w-full lg:w-1/2 reveal">
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
+                        <img src="assets/images/mental-Health/TMS/Dr.-L-tms.webp" alt="Deep TMS Therapy for Autism" class="w-full h-[450px] object-cover object-[50%_20%] ">
+                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/30 via-transparent to-transparent"></div>
+                    </div>
+                </div>
+
+                <div class="w-full lg:w-1/2 text-[#0B2035] reveal reveal-delay-1">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
+                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Neuromodulation Support</h2>
+                    </div>
+                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">The Role of TMS Therapy in Autism</h3>
+                    <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
+                        Transcranial Magnetic Stimulation (TMS) is a non-invasive, drug-free therapy that uses targeted magnetic pulses to modulate specific regions of the brain. For individuals on the autism spectrum, emerging research suggests TMS may help improve cognitive flexibility, reduce co-occurring anxiety and depression, and support emotional regulation.
+                    </p>
+
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] flex-shrink-0">
+                                <i data-lucide="check" class="w-5 h-5"></i>
+                            </div>
+                            <span class="text-[#0B2035] font-medium">Drug-free, non-invasive brain stimulation</span>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] flex-shrink-0">
+                                <i data-lucide="check" class="w-5 h-5"></i>
+                            </div>
+                            <span class="text-[#0B2035] font-medium">May ease co-occurring anxiety and depression</span>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] flex-shrink-0">
+                                <i data-lucide="check" class="w-5 h-5"></i>
+                            </div>
+                            <span class="text-[#0B2035] font-medium">Supports cognitive flexibility and emotional regulation</span>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] flex-shrink-0">
+                                <i data-lucide="check" class="w-5 h-5"></i>
+                            </div>
+                            <span class="text-[#0B2035] font-medium">Sensory-aware protocols tailored to neurodivergent patients</span>
+                        </li>
+                    </ul>
+
+                    <a href="tms-therapy.php" class="inline-flex items-center gap-2 bg-[#0B2035] text-white font-bold px-8 py-3.5 rounded-full transition-all hover:bg-[#23bfe2] hover:text-[#0B2035] hover:-translate-y-1 shadow-md">
+                        Learn About TMS Therapy <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                    </a>
                 </div>
             </div>
         </div>

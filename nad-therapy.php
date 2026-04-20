@@ -6,7 +6,7 @@
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
             <img src="assets/images/service_wellness.png" alt="NAD+ IV Therapy" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-[#0B2035]/85 md:bg-gradient-to-r md:from-[#0B2035]/95 md:via-[#0B2035]/80 md:to-[#0B2035]/50"></div>
+            <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
@@ -144,6 +144,95 @@
                     </div>
                     <h4 class="text-lg font-bold text-white mb-2">Energy & Anti-Aging</h4>
                     <p class="text-gray-400 font-light text-sm leading-relaxed">Support mitochondrial health—the energy engines of your cells. NAD+ promotes DNA repair mechanisms that may slow biological aging processes, increase energy and endurance, and accelerate post-exercise recovery.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- NAD+ Protocols & Options -->
+    <section class="py-16 bg-neutral relative overflow-hidden">
+        <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Protocols & Dosages</h2>
+                <h3 class="text-4xl md:text-5xl font-bold text-primary mb-6">Our NAD+ Options</h3>
+                <p class="text-gray-500 font-light text-lg leading-relaxed">From foundational infusions to our flagship combination protocol, every NAD+ treatment is physician-guided and tailored to your goals.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+                <!-- NAD+ 250mg -->
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="activity" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">NAD+ Infusion — 250mg</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">Entry Protocol</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Ideal introduction to NAD+ therapy—supports cellular energy and gentle cognitive optimization.</p>
+                </div>
+
+                <!-- NAD+ 500mg -->
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="zap" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">NAD+ Infusion — 500mg</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">Standard Protocol</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Our most-requested dose for cellular energy, mental clarity, and long-term wellness support.</p>
+                </div>
+
+                <!-- NAD+ 750mg -->
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="flame" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">NAD+ Infusion — 750mg</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">Advanced Protocol</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Higher-dose infusion for accelerated recovery, anti-aging, and deep cellular restoration.</p>
+                </div>
+
+                <!-- NAD+ Injection (50mg) -->
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="syringe" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">NAD+ Booster Injection</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">50mg · Quick Dose</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Fast intramuscular option to maintain momentum between infusions. Single or package of 4.</p>
+                </div>
+
+                <!-- Package Protocols -->
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="layers" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">Series Packages</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">Package of 4</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Multi-session protocols available at every dosage for sustained therapeutic benefit.</p>
+                </div>
+
+                <!-- Flagship: Brain + Body Reset -->
+                <div class="bg-gradient-to-br from-[#0B2035] to-[#0B2035]/90 rounded-[2rem] p-8 border border-[#0B2035] hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center relative">
+                    <span class="absolute top-4 right-4 bg-[#23bfe2] text-[#0B2035] text-[10px] font-bold uppercase tracking-wider px-2 py-1 rounded-full">Signature</span>
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="brain" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-white mb-2">Brain + Body Reset</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">NAD+ + Glutathione</p>
+                    <p class="text-gray-300 font-light text-sm leading-relaxed">Our flagship combination for mental clarity, energy, and cellular recovery.</p>
+                </div>
+            </div>
+
+            <!-- Enhance Panel -->
+            <div class="bg-white rounded-[2rem] p-8 md:p-10 border border-gray-100 shadow-soft reveal">
+                <div class="flex flex-col md:flex-row items-start md:items-center gap-6">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] flex-shrink-0">
+                        <i data-lucide="plus-circle" class="w-7 h-7"></i>
+                    </div>
+                    <div class="flex-1">
+                        <h4 class="text-xl font-bold text-primary mb-2">Enhance Your NAD+ Treatment</h4>
+                        <p class="text-gray-500 font-light leading-relaxed">Customize any NAD+ session with complementary add-ons: <span class="font-semibold text-primary">Glutathione, Vitamin C, NAC, GAC Boost, or Vitamin B12</span>—all designed to amplify results.</p>
+                    </div>
                 </div>
             </div>
         </div>

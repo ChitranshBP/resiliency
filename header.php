@@ -68,10 +68,30 @@
                             Mental Health <i data-lucide="chevron-down" class="w-4 h-4 transition-transform group-hover/mh:rotate-180"></i>
                         </button>
                         <!-- Dropdown Content -->
-                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-72 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100 overflow-hidden max-h-[70vh] overflow-y-auto">
+                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-72 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100">
                             <div class="p-2 space-y-1">
                                 <a href="tms-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Deep TMS Therapy</a>
                                 <a href="accelerated-tms.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated Deep TMS (SWIFT)</a>
+
+                                <!-- TMS Applications Submenu (separate popover) -->
+                                <div class="relative group/tms-sub">
+                                    <button class="w-full flex items-center justify-between px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">
+                                        <span>TMS Applications</span>
+                                        <i data-lucide="chevron-right" class="w-4 h-4"></i>
+                                    </button>
+                                    <!-- Separate Flyout Popover -->
+                                    <div class="absolute top-0 left-full ml-4 w-72 bg-white rounded-2xl shadow-[0_25px_50px_-10px_rgba(11,32,53,0.25)] opacity-0 invisible group-hover/tms-sub:opacity-100 group-hover/tms-sub:visible transition-all duration-300 transform -translate-x-2 group-hover/tms-sub:translate-x-0 border border-gray-100 z-[60]">
+                                        <div class="p-2 space-y-1">
+                                            <div class="px-4 pt-2 pb-1">
+                                                <p class="text-[10px] font-bold tracking-widest text-[#23bfe2] uppercase">TMS Applications</p>
+                                            </div>
+                                            <a href="tms-for-mental-boost.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS for Mental Boost</a>
+                                            <a href="tms-for-psychosis.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS for Psychosis</a>
+                                            <a href="tms-for-cannabis-induced-psychosis.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS for Cannabis-Induced Psychosis</a>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <a href="spravato-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
                                 <a href="medication-management.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
                                 <a href="pharmacogenetic-testing.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Pharmacogenetic Testing</a>
@@ -208,13 +228,26 @@
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="tms-therapy.php" class="text-white/80 hover:text-white transition-colors">Deep TMS Therapy</a>
                         <a href="accelerated-tms.php" class="text-white/80 hover:text-white transition-colors">Accelerated Deep TMS (SWIFT)</a>
+
+                        <!-- Nested TMS Applications -->
+                        <div>
+                            <button class="mobile-accordion-toggle flex items-center justify-between w-full text-white/80 hover:text-white transition-colors">
+                                TMS Applications <i data-lucide="chevron-down" class="w-4 h-4 transition-transform duration-300"></i>
+                            </button>
+                            <div class="mobile-accordion-content hidden flex-col pl-4 pt-3 space-y-3">
+                                <a href="tms-for-mental-boost.php" class="text-white/70 hover:text-white transition-colors text-sm">TMS for Mental Boost</a>
+                                <a href="tms-for-psychosis.php" class="text-white/70 hover:text-white transition-colors text-sm">TMS for Psychosis</a>
+                                <a href="tms-for-cannabis-induced-psychosis.php" class="text-white/70 hover:text-white transition-colors text-sm">TMS for Cannabis-Induced Psychosis</a>
+                            </div>
+                        </div>
+
                         <a href="spravato-therapy.php" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
                         <a href="medication-management.php" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
                         <a href="pharmacogenetic-testing.php" class="text-white/80 hover:text-white transition-colors">Pharmacogenetic Testing</a>
                         <a href="integrative-psychiatry.php" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>
                         <a href="proliv-rx.php" class="text-white/80 hover:text-white transition-colors">Proliv™ Rx</a>
                         <a href="telehealth.php" class="text-white/80 hover:text-white transition-colors">Telehealth Visits</a>
-                      <a href="vns-therapy.php" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
+                        <a href="vns-therapy.php" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
 
                     </div>
                 </div>

@@ -68,10 +68,30 @@
                             Mental Health <i data-lucide="chevron-down" class="w-4 h-4 transition-transform group-hover/mh:rotate-180"></i>
                         </button>
                         <!-- Dropdown Content -->
-                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-72 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100 overflow-hidden max-h-[70vh] overflow-y-auto">
+                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-72 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100">
                             <div class="p-2 space-y-1">
                                 <a href="tms-therapy.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Deep TMS Therapy</a>
                                 <a href="accelerated-tms.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated Deep TMS (SWIFT)</a>
+
+                                <!-- TMS Applications Submenu (separate popover) -->
+                                <div class="relative group/tms-sub">
+                                    <button class="w-full flex items-center justify-between px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">
+                                        <span>TMS Applications</span>
+                                        <i data-lucide="chevron-right" class="w-4 h-4"></i>
+                                    </button>
+                                    <!-- Separate Flyout Popover -->
+                                    <div class="absolute top-0 left-full ml-4 w-72 bg-white rounded-2xl shadow-[0_25px_50px_-10px_rgba(11,32,53,0.25)] opacity-0 invisible group-hover/tms-sub:opacity-100 group-hover/tms-sub:visible transition-all duration-300 transform -translate-x-2 group-hover/tms-sub:translate-x-0 border border-gray-100 z-[60]">
+                                        <div class="p-2 space-y-1">
+                                            <div class="px-4 pt-2 pb-1">
+                                                <p class="text-[10px] font-bold tracking-widest text-[#23bfe2] uppercase">TMS Applications</p>
+                                            </div>
+                                            <a href="tms-for-mental-boost.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS for Mental Boost</a>
+                                            <a href="tms-for-psychosis.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS for Psychosis</a>
+                                            <a href="tms-for-cannabis-induced-psychosis.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS for Cannabis-Induced Psychosis</a>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <a href="spravato-therapy.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
                                 <a href="medication-management.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
                                 <a href="pharmacogenetic-testing.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Pharmacogenetic Testing</a>
@@ -208,13 +228,26 @@
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="tms-therapy.html" class="text-white/80 hover:text-white transition-colors">Deep TMS Therapy</a>
                         <a href="accelerated-tms.html" class="text-white/80 hover:text-white transition-colors">Accelerated Deep TMS (SWIFT)</a>
+
+                        <!-- Nested TMS Applications -->
+                        <div>
+                            <button class="mobile-accordion-toggle flex items-center justify-between w-full text-white/80 hover:text-white transition-colors">
+                                TMS Applications <i data-lucide="chevron-down" class="w-4 h-4 transition-transform duration-300"></i>
+                            </button>
+                            <div class="mobile-accordion-content hidden flex-col pl-4 pt-3 space-y-3">
+                                <a href="tms-for-mental-boost.html" class="text-white/70 hover:text-white transition-colors text-sm">TMS for Mental Boost</a>
+                                <a href="tms-for-psychosis.html" class="text-white/70 hover:text-white transition-colors text-sm">TMS for Psychosis</a>
+                                <a href="tms-for-cannabis-induced-psychosis.html" class="text-white/70 hover:text-white transition-colors text-sm">TMS for Cannabis-Induced Psychosis</a>
+                            </div>
+                        </div>
+
                         <a href="spravato-therapy.html" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
                         <a href="medication-management.html" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
                         <a href="pharmacogenetic-testing.html" class="text-white/80 hover:text-white transition-colors">Pharmacogenetic Testing</a>
                         <a href="integrative-psychiatry.html" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>
                         <a href="proliv-rx.html" class="text-white/80 hover:text-white transition-colors">Proliv™ Rx</a>
                         <a href="telehealth.html" class="text-white/80 hover:text-white transition-colors">Telehealth Visits</a>
-                      <a href="vns-therapy.html" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
+                        <a href="vns-therapy.html" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
 
                     </div>
                 </div>
@@ -307,7 +340,7 @@
     <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
             <img src="assets/images/adhd_hero.png" alt="ADHD Treatment Focus" class="w-full h-full object-cover object-[50%_30%]">
-            <div class="absolute inset-0 bg-[#0B2035]/85 md:bg-gradient-to-r md:from-[#0B2035]/95 md:via-[#0B2035]/80 md:to-[#0B2035]/50"></div>
+            <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
@@ -452,6 +485,64 @@
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Insurance Accepted</h4>
                     <p class="text-gray-500 font-light leading-relaxed">In-network with most major insurances including Aetna, Anthem, Cigna, United, Medicare, TriCare.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- TMS for ADHD Section -->
+    <section class="py-16 bg-white relative overflow-hidden">
+        <div class="absolute -top-32 -left-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="flex flex-col lg:flex-row items-center gap-16 lg:gap-20">
+                <div class="w-full lg:w-1/2 reveal">
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
+                        <img src="assets/images/home/TMS-Therapy-Orange-County-homepage.webp" alt="Deep TMS Therapy for ADHD" class="w-full h-[450px] object-cover">
+                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/30 via-transparent to-transparent"></div>
+                    </div>
+                </div>
+
+                <div class="w-full lg:w-1/2 text-[#0B2035] reveal reveal-delay-1">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
+                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Beyond Stimulants</h2>
+                    </div>
+                    <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">The Role of TMS Therapy in ADHD</h3>
+                    <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
+                        Transcranial Magnetic Stimulation (TMS) is a non-invasive, medication-free option that uses targeted magnetic pulses to strengthen activity in prefrontal brain regions responsible for focus, executive function, and impulse control. For patients who experience side effects from stimulants or prefer a non-pharmacological path, TMS can be a valuable addition to the care plan.
+                    </p>
+
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] flex-shrink-0">
+                                <i data-lucide="check" class="w-5 h-5"></i>
+                            </div>
+                            <span class="text-[#0B2035] font-medium">Targets attention and executive function networks</span>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] flex-shrink-0">
+                                <i data-lucide="check" class="w-5 h-5"></i>
+                            </div>
+                            <span class="text-[#0B2035] font-medium">Non-medication alternative or complement</span>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] flex-shrink-0">
+                                <i data-lucide="check" class="w-5 h-5"></i>
+                            </div>
+                            <span class="text-[#0B2035] font-medium">Helpful for patients with stimulant sensitivities</span>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="bg-[#23bfe2]/20 p-2 rounded-lg text-[#23bfe2] flex-shrink-0">
+                                <i data-lucide="check" class="w-5 h-5"></i>
+                            </div>
+                            <span class="text-[#0B2035] font-medium">May also lift co-occurring depression and anxiety</span>
+                        </li>
+                    </ul>
+
+                    <a href="tms-therapy.html" class="inline-flex items-center gap-2 bg-[#0B2035] text-white font-bold px-8 py-3.5 rounded-full transition-all hover:bg-[#23bfe2] hover:text-[#0B2035] hover:-translate-y-1 shadow-md">
+                        Learn About TMS Therapy <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                    </a>
                 </div>
             </div>
         </div>

@@ -8,7 +8,7 @@
             <!-- <img src="assets/images/home/TMS-Therapy-Orange-County-homepage.webp" alt="Deep TMS Therapy" class="w-full h-full object-cover opacity-30 mix-blend-overlay border-none"> -->
             <!-- Placeholder for now if image isn't right, or we can use the same image with dark overlay -->
             <img src="assets/images/anxiety_consultation.png" alt="Deep TMS Therapy Consultation" class="w-full h-full object-cover object-[50%_30%]">
-            <div class="absolute inset-0 bg-[#0B2035]/85 md:bg-gradient-to-r md:from-[#0B2035]/95 md:via-[#0B2035]/80 md:to-[#0B2035]/50"></div>
+            <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">

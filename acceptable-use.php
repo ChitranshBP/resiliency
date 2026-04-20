@@ -6,7 +6,7 @@
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
             <img src="assets/images/hero_bg.png" alt="Acceptable Use Policy" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-[#0B2035]/85 md:bg-gradient-to-r md:from-[#0B2035]/95 md:via-[#0B2035]/80 md:to-[#0B2035]/50"></div>
+            <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">

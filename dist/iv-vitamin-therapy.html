@@ -68,10 +68,30 @@
                             Mental Health <i data-lucide="chevron-down" class="w-4 h-4 transition-transform group-hover/mh:rotate-180"></i>
                         </button>
                         <!-- Dropdown Content -->
-                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-72 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100 overflow-hidden max-h-[70vh] overflow-y-auto">
+                        <div class="absolute top-[80px] left-1/2 -translate-x-1/2 w-72 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/mh:opacity-100 group-hover/mh:visible transition-all duration-300 transform translate-y-4 group-hover/mh:translate-y-0 border border-gray-100">
                             <div class="p-2 space-y-1">
                                 <a href="tms-therapy.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Deep TMS Therapy</a>
                                 <a href="accelerated-tms.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Accelerated Deep TMS (SWIFT)</a>
+
+                                <!-- TMS Applications Submenu (separate popover) -->
+                                <div class="relative group/tms-sub">
+                                    <button class="w-full flex items-center justify-between px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">
+                                        <span>TMS Applications</span>
+                                        <i data-lucide="chevron-right" class="w-4 h-4"></i>
+                                    </button>
+                                    <!-- Separate Flyout Popover -->
+                                    <div class="absolute top-0 left-full ml-4 w-72 bg-white rounded-2xl shadow-[0_25px_50px_-10px_rgba(11,32,53,0.25)] opacity-0 invisible group-hover/tms-sub:opacity-100 group-hover/tms-sub:visible transition-all duration-300 transform -translate-x-2 group-hover/tms-sub:translate-x-0 border border-gray-100 z-[60]">
+                                        <div class="p-2 space-y-1">
+                                            <div class="px-4 pt-2 pb-1">
+                                                <p class="text-[10px] font-bold tracking-widest text-[#23bfe2] uppercase">TMS Applications</p>
+                                            </div>
+                                            <a href="tms-for-mental-boost.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS for Mental Boost</a>
+                                            <a href="tms-for-psychosis.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS for Psychosis</a>
+                                            <a href="tms-for-cannabis-induced-psychosis.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">TMS for Cannabis-Induced Psychosis</a>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <a href="spravato-therapy.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
                                 <a href="medication-management.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
                                 <a href="pharmacogenetic-testing.html" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Pharmacogenetic Testing</a>
@@ -208,13 +228,26 @@
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="tms-therapy.html" class="text-white/80 hover:text-white transition-colors">Deep TMS Therapy</a>
                         <a href="accelerated-tms.html" class="text-white/80 hover:text-white transition-colors">Accelerated Deep TMS (SWIFT)</a>
+
+                        <!-- Nested TMS Applications -->
+                        <div>
+                            <button class="mobile-accordion-toggle flex items-center justify-between w-full text-white/80 hover:text-white transition-colors">
+                                TMS Applications <i data-lucide="chevron-down" class="w-4 h-4 transition-transform duration-300"></i>
+                            </button>
+                            <div class="mobile-accordion-content hidden flex-col pl-4 pt-3 space-y-3">
+                                <a href="tms-for-mental-boost.html" class="text-white/70 hover:text-white transition-colors text-sm">TMS for Mental Boost</a>
+                                <a href="tms-for-psychosis.html" class="text-white/70 hover:text-white transition-colors text-sm">TMS for Psychosis</a>
+                                <a href="tms-for-cannabis-induced-psychosis.html" class="text-white/70 hover:text-white transition-colors text-sm">TMS for Cannabis-Induced Psychosis</a>
+                            </div>
+                        </div>
+
                         <a href="spravato-therapy.html" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
                         <a href="medication-management.html" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
                         <a href="pharmacogenetic-testing.html" class="text-white/80 hover:text-white transition-colors">Pharmacogenetic Testing</a>
                         <a href="integrative-psychiatry.html" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>
                         <a href="proliv-rx.html" class="text-white/80 hover:text-white transition-colors">Proliv™ Rx</a>
                         <a href="telehealth.html" class="text-white/80 hover:text-white transition-colors">Telehealth Visits</a>
-                      <a href="vns-therapy.html" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
+                        <a href="vns-therapy.html" class="text-white/80 hover:text-white transition-colors">VNS Therapy</a>
 
                     </div>
                 </div>
@@ -308,7 +341,7 @@
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
             <img src="assets/images/service_iv.png" alt="IV Vitamin Therapy" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-[#0B2035]/85 md:bg-gradient-to-r md:from-[#0B2035]/95 md:via-[#0B2035]/80 md:to-[#0B2035]/50"></div>
+            <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
@@ -413,93 +446,263 @@
         </div>
     </section>
 
-    <!-- IV Menu Section -->
+    <!-- Signature Experiences (Premium IV Blends) -->
     <section id="iv-menu" class="py-16 bg-[#0B2035] relative overflow-hidden text-white border-t border-white/10">
         <div class="absolute inset-0 z-0 bg-gradient-to-b from-[#0B2035] via-[#0B2035]/95 to-[#0B2035]"></div>
         <div class="absolute -top-40 -left-40 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <div class="text-center max-w-3xl mx-auto mb-20 reveal">
-                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Our IV Menu</h2>
-                <h3 class="text-4xl md:text-5xl font-bold text-white mb-6">Restorative IV Drip Formulas</h3>
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Signature Experiences</h2>
+                <h3 class="text-4xl md:text-5xl font-bold text-white mb-6">Resiliency Premium IV Blends</h3>
+                <p class="text-gray-300 font-light text-lg leading-relaxed">Advanced IV therapy designed to optimize brain function, metabolic performance, and recovery.</p>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <!-- Card 1 - Myers' Cocktail -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Brain + Body Reset -->
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="sparkles" class="w-8 h-8"></i>
+                        <i data-lucide="brain" class="w-8 h-8"></i>
                     </div>
-                    <h4 class="text-2xl font-bold text-white mb-4">Myers' Cocktail</h4>
-                    <p class="text-gray-400 font-light leading-relaxed">Our signature blend of calcium, magnesium, vitamin C, and B-complex vitamins. The gold standard for overall wellness, energy, and immune support.</p>
+                    <h4 class="text-2xl font-bold text-white mb-2">The Brain + Body Reset</h4>
+                    <p class="text-[#23bfe2] text-sm font-semibold uppercase tracking-widest mb-4">NAD+ + Glutathione</p>
+                    <p class="text-gray-400 font-light leading-relaxed">For mental clarity, energy, and cellular recovery—our flagship infusion for total mind-body renewal.</p>
                 </div>
 
-                <!-- Card 2 - Immune Boost IV -->
+                <!-- Immunity Boost -->
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="shield" class="w-8 h-8"></i>
                     </div>
-                    <h4 class="text-2xl font-bold text-white mb-4">Immune Boost IV</h4>
-                    <p class="text-gray-400 font-light leading-relaxed">High-dose vitamin C, zinc, and immune-supporting nutrients to strengthen your body's natural defenses—especially during cold and flu season.</p>
+                    <h4 class="text-2xl font-bold text-white mb-2">The Immunity Boost</h4>
+                    <p class="text-[#23bfe2] text-sm font-semibold uppercase tracking-widest mb-4">Vitamin C + Glutathione</p>
+                    <p class="text-gray-400 font-light leading-relaxed">For immune and antioxidant support—strengthen your body's natural defenses at the cellular level.</p>
                 </div>
 
-                <!-- Card 3 - Radiance IV -->
+                <!-- Performance Recovery -->
+                <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
+                    <div class="w-16 h-16 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="dumbbell" class="w-8 h-8"></i>
+                    </div>
+                    <h4 class="text-2xl font-bold text-white mb-2">The Performance Recovery</h4>
+                    <p class="text-[#23bfe2] text-sm font-semibold uppercase tracking-widest mb-4">GAC + NAC</p>
+                    <p class="text-gray-400 font-light leading-relaxed">For energy, metabolism, and recovery—designed to restore stamina and support athletic performance.</p>
+                </div>
+
+                <!-- Resiliency Recovery Drip -->
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="sun" class="w-8 h-8"></i>
+                        <i data-lucide="droplets" class="w-8 h-8"></i>
                     </div>
-                    <h4 class="text-2xl font-bold text-white mb-4">Radiance IV</h4>
-                    <p class="text-gray-400 font-light leading-relaxed">A beauty-focused formula with glutathione, biotin, and antioxidants to promote glowing skin, healthy hair, and a youthful complexion.</p>
+                    <h4 class="text-2xl font-bold text-white mb-2">The Resiliency Recovery Drip</h4>
+                    <p class="text-[#23bfe2] text-sm font-semibold uppercase tracking-widest mb-4">NAC + Vitamin C + Glutathione</p>
+                    <p class="text-gray-400 font-light leading-relaxed">A powerhouse antioxidant blend for deep cellular recovery, detoxification, and immune resilience.</p>
                 </div>
 
-                <!-- Card 4 - NAD+ IV -->
+                <!-- Metabolic Accelerator -->
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-16 h-16 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="brain" class="w-8 h-8"></i>
+                        <i data-lucide="flame" class="w-8 h-8"></i>
                     </div>
-                    <h4 class="text-2xl font-bold text-white mb-4">NAD+ IV</h4>
-                    <p class="text-gray-400 font-light leading-relaxed">Nicotinamide adenine dinucleotide for cellular repair, anti-aging, cognitive enhancement, and mental resilience. Sessions last 1 hour.</p>
+                    <h4 class="text-2xl font-bold text-white mb-2">The Metabolic Accelerator</h4>
+                    <p class="text-[#23bfe2] text-sm font-semibold uppercase tracking-widest mb-4">MIC-B Complex</p>
+                    <p class="text-gray-400 font-light leading-relaxed">Fat metabolism and energy support—targeted lipotropic blend to help your body burn efficiently.</p>
+                </div>
+
+                <!-- Enhance Your Treatment Card -->
+                <div class="bg-gradient-to-br from-[#23bfe2]/20 to-[#23bfe2]/5 border border-[#23bfe2]/30 rounded-[2rem] p-10 hover:bg-[#23bfe2]/15 transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
+                    <div class="w-16 h-16 bg-[#23bfe2]/30 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="plus-circle" class="w-8 h-8"></i>
+                    </div>
+                    <h4 class="text-2xl font-bold text-white mb-4">Enhance Your Treatment</h4>
+                    <p class="text-gray-300 font-light leading-relaxed mb-4">Customize any infusion with add-ons tailored to your goals:</p>
+                    <ul class="text-gray-400 font-light text-sm space-y-1">
+                        <li>Add Glutathione</li>
+                        <li>Add GAC Boost</li>
+                        <li>Add Vitamin C</li>
+                        <li>Add NAC</li>
+                        <li>Add Vitamin B12</li>
+                        <li>Add NAD+</li>
+                    </ul>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Vitamin Booster Shots Section -->
+    <!-- Core IV Therapies -->
     <section class="py-16 bg-white relative overflow-hidden">
         <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-3xl mx-auto mb-20 reveal">
-                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Quick Boosters</h2>
-                <h3 class="text-4xl md:text-5xl font-bold text-primary mb-6">Vitamin Booster Shots</h3>
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Core IV Therapies</h2>
+                <h3 class="text-4xl md:text-5xl font-bold text-primary mb-6">Physician-Guided Traditional Infusions</h3>
+                <p class="text-gray-500 font-light text-lg leading-relaxed">Physician-guided IV therapy designed to support energy, mental clarity, and long-term wellness.</p>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-                <!-- Booster 1 - Vitamin B12 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- NAD+ Infusion -->
                 <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="zap" class="w-7 h-7"></i>
-                    </div>
-                    <h4 class="text-lg font-bold text-primary mb-2">Vitamin B12</h4>
-                    <p class="text-gray-500 font-light text-sm leading-relaxed">Essential for metabolism and nerve function. A quick injection to boost sustained energy, improve mood, and enhance mental focus.</p>
-                </div>
-
-                <!-- Booster 2 - NAD+ -->
-                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="activity" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-lg font-bold text-primary mb-2">NAD+ Booster</h4>
-                    <p class="text-gray-500 font-light text-sm leading-relaxed">A concentrated dose of Nicotinamide Adenine Dinucleotide to support cellular energy, improve mental clarity, and promote healthy aging.</p>
+                    <h4 class="text-lg font-bold text-primary mb-2">NAD+ Infusion</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">250mg · 500mg · 750mg</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Cellular energy and cognitive optimization. Available in multiple dosages and package protocols.</p>
                 </div>
 
-                <!-- Booster 3 - Glutathione -->
+                <!-- Vitamin C Infusion -->
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="shield-check" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">Vitamin C Infusion</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">High-dose Vitamin C delivered intravenously for immune and wellness support.</p>
+                </div>
+
+                <!-- Glutathione IV Push -->
                 <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="droplets" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-lg font-bold text-primary mb-2">Glutathione</h4>
-                    <p class="text-gray-500 font-light text-sm leading-relaxed">A powerful antioxidant peptide that helps slow aging and boost immune system function.</p>
+                    <h4 class="text-lg font-bold text-primary mb-2">Glutathione IV Push</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Powerful antioxidant support to combat oxidative stress and enhance detoxification.</p>
+                </div>
+
+                <!-- NAC Infusion -->
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="refresh-cw" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">NAC Infusion</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">N-Acetylcysteine</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Cellular recovery and antioxidant support, helping rebuild glutathione reserves.</p>
+                </div>
+
+                <!-- GAC Performance Infusion -->
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center relative">
+                    <span class="absolute top-4 right-4 bg-[#23bfe2] text-[#0B2035] text-[10px] font-bold uppercase tracking-wider px-2 py-1 rounded-full">New</span>
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="zap" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">GAC Performance Infusion</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">Glutamine · Arginine · Carnitine</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Energy, circulation, and metabolic support for enhanced physical performance.</p>
+                </div>
+
+                <!-- Memberships Card -->
+                <div class="bg-gradient-to-br from-[#0B2035] to-[#0B2035]/90 rounded-[2rem] p-8 border border-[#0B2035] hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="star" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-white mb-2">Monthly Wellness Memberships</h4>
+                    <p class="text-gray-300 font-light text-sm leading-relaxed">Ask your provider or care team for recommendations tailored to your health goals.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Performance Injections Section -->
+    <section class="py-16 bg-neutral relative overflow-hidden">
+        <div class="absolute -top-32 -right-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Quick Injections</h2>
+                <h3 class="text-4xl md:text-5xl font-bold text-primary mb-6">Performance Injections</h3>
+                <p class="text-gray-500 font-light text-lg leading-relaxed">Fast, targeted lipotropic and amino acid injections to support metabolism, energy, and recovery.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- MIC Injection -->
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="syringe" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">MIC Injection</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">Methionine · Inositol · Choline</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Classic lipotropic blend supporting fat metabolism and liver health.</p>
+                </div>
+
+                <!-- MIC-B Injection -->
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="syringe" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">MIC-B Injection</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">MIC + Methylcobalamin</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Enhanced MIC formula with active B12 for added energy and metabolic support.</p>
+                </div>
+
+                <!-- MIC-B Complex Injection -->
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="syringe" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">MIC-B Complex</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">MIC · B12 · B6 · B1 · Dexpanthenol</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Full-spectrum blend with methylcobalamin, pyridoxine, thiamine, and dexpanthenol.</p>
+                </div>
+
+                <!-- GAC Injection -->
+                <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="syringe" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">GAC Injection</h4>
+                    <p class="text-[#23bfe2] text-xs font-semibold uppercase tracking-widest mb-3">Glutamine · Arginine · Carnitine</p>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Amino acid blend for energy, circulation, and athletic performance. Single or package options.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Peptide Injections Section -->
+    <section class="py-16 bg-white relative overflow-hidden">
+        <div class="absolute -top-32 -left-32 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">Advanced Therapies</h2>
+                <h3 class="text-4xl md:text-5xl font-bold text-primary mb-6">Peptide Injections</h3>
+                <p class="text-gray-500 font-light text-lg leading-relaxed">Precision peptide protocols for hormonal balance, metabolic health, and overall vitality.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Sermorelin -->
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="moon" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">Sermorelin</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Growth hormone-releasing peptide to support sleep, recovery, and healthy aging. Available as single dose or monthly package.</p>
+                </div>
+
+                <!-- Oxytocin -->
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="heart" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">Oxytocin</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Supports mood, connection, and emotional well-being. Available as single dose or monthly package.</p>
+                </div>
+
+                <!-- Tirzepatide -->
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="trending-down" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">Tirzepatide</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Dual-action GIP/GLP-1 receptor agonist for medical weight management and metabolic health. Monthly protocol.</p>
+                </div>
+
+                <!-- Semaglutide -->
+                <div class="bg-neutral rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
+                        <i data-lucide="leaf" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-lg font-bold text-primary mb-2">Semaglutide</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">GLP-1 receptor agonist for medical weight management, appetite regulation, and glucose control. Monthly protocol.</p>
                 </div>
             </div>
         </div>
