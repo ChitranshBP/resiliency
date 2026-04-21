@@ -89,15 +89,15 @@ SCHEMA;
                 <!-- Image with decorative elements -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100">
-                        <img src="assets\images\dr-L-with-p.jpg" alt="Spravato Treatment relief" class="w-full h-[500px] object-cover object-top ">
+                        <img src="assets\images\spravato-home.jpg" alt="Spravato Treatment relief" class="w-full h-[500px] object-cover object-top ">
                         <div class="absolute inset-0 bg-gradient-to-t from-[#0B2035]/40 to-transparent"></div>
                     </div>
                     
-                    <div class="absolute -bottom-6 -right-6 bg-white p-8 rounded-3xl shadow-xl border border-gray-50 max-w-[280px]">
+                    <!-- <div class="absolute -bottom-6 -right-6 bg-white p-8 rounded-3xl shadow-xl border border-gray-50 max-w-[280px]">
                         <p class="text-[#0B2035] font-light italic leading-relaxed text-sm">
                             "A revolutionary approach for those who haven't found relief with standard treatments."
                         </p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

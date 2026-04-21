@@ -19,7 +19,7 @@ SCHEMA;
     <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/service_med_management.png" alt="Conservative Medication Management" class="w-full h-full object-cover object-[50%_30%]">
+            <img src="assets\images\anxiety_consultation.png" alt="Conservative Medication Management" class="w-full h-full object-cover object-[50%_30%]">
             <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 
@@ -96,7 +96,7 @@ SCHEMA;
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/doctor_consult.png" alt="Doctor consultation for medication management" class="w-full h-[550px] object-cover">
+                        <img src="assets\images\dr-L-with-p.jpg" alt="Doctor consultation for medication management" class="w-full h-[550px] object-cover object-[50%_20%]">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 
@@ -411,13 +411,13 @@ SCHEMA;
 
                         <div class="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white ring-1 ring-gray-100">
                             <img
-                                src="assets/images/philosophy_bg.png"
+                                src="assets\images\supplement-dr-L.webp"
                                 alt="Holistic treatment approach at Resiliency"
                                 class="w-full h-[500px] object-cover object-top grayscale-[0.2] transition-all duration-700 group-hover:grayscale-0 group-hover:scale-105"
                             >
 
                             <!-- Floating Credential -->
-                            <div class="absolute bottom-10 -left-6 bg-[#0B2035] text-white p-6 rounded-3xl shadow-2xl border border-white/10 group-hover:-translate-y-2 transition-transform duration-500">
+                            <!-- <div class="absolute bottom-10 -left-6 bg-[#0B2035] text-white p-6 rounded-3xl shadow-2xl border border-white/10 group-hover:-translate-y-2 transition-transform duration-500">
                                 <div class="flex items-center gap-4">
                                     <div class="w-12 h-12 bg-[#23bfe2] rounded-2xl flex items-center justify-center text-[#0B2035]">
                                         <i data-lucide="award" class="w-6 h-6"></i>
@@ -427,7 +427,7 @@ SCHEMA;
                                         <p class="text-[#23bfe2] text-xs font-bold uppercase tracking-widest mt-1">Integrative Psychiatry</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -574,7 +574,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes! We are in-network with most major commercial insurance providers. Our clinic team will verify your benefits before your first appointment so there are no surprises. We also offer flexible payment options for patients with out-of-network or self-pay needs, including Cherry payment plans.
+                            Yes! We are in-network with most major commercial insurance providers. Our clinic team will verify your benefits before your first appointment so there are no surprises. We also offer flexible payment options for patients with out-of-network or self-pay needs.
                         </div>
                     </div>
                 </div>

@@ -105,39 +105,8 @@
                 </div>
             </div>
 
-            <!-- Second row: 2 centered cards -->
-            <div class="flex flex-col md:flex-row justify-center flex-wrap gap-6 mt-6 mb-20">
-                <!-- Brian Tran -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer w-full md:w-[calc(50%-0.75rem)] lg:w-[calc(33.333%-1rem)] xl:w-[calc(25%-1.125rem)]" onclick="openBioModal('brian')">
-                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/brian.png" alt="Brian Tran, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
-                    </div>
-                    <div class="p-6">
-                        <h4 class="text-lg font-bold text-primary">Brian Tran, PMHNP-BC</h4>
-                        <p class="text-[#23bfe2] text-sm font-semibold mt-1">Psychiatric NP</p>
-                        <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
-                            <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Lina Kurdi -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer w-full md:w-[calc(50%-0.75rem)] lg:w-[calc(33.333%-1rem)] xl:w-[calc(25%-1.125rem)]" onclick="openBioModal('lina')">
-                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/lina.png" alt="Lina Kurdi, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
-                    </div>
-                    <div class="p-6">
-                        <h4 class="text-lg font-bold text-primary">Lina Kurdi, PMHNP-BC</h4>
-                        <p class="text-[#23bfe2] text-sm font-semibold mt-1">Psychiatric NP</p>
-                        <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
-                            <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
-                        </p>
-                    </div>
-                </div>
-            </div>
-
             <!-- Clinical & Operations Staff -->
-            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+            <div class="text-center max-w-3xl mx-auto mt-10  mb-16 reveal">
                 <div class="flex items-center justify-center gap-3 mb-4">
                     <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
                     <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Clinical & Operations Staff</h2>
@@ -149,8 +118,22 @@
 
             <!-- First row: 4 cards -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                <!-- Rylee Kaczynski -->
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer" onclick="openBioModal('rylee_k')">
+                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
+                        <img src="https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2026/04/Rylee-Kaczynski-00235-2-scaled.jpg" alt="Rylee Kaczynski, Director of Operations" class="w-full h-full object-cover object-top transition-transform duration-500">
+                    </div>
+                    <div class="p-6">
+                        <h4 class="text-lg font-bold text-primary">Rylee Kaczynski</h4>
+                        <p class="text-[#23bfe2] text-sm font-semibold mt-1">Director of Operations</p>
+                        <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
+                            <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
+                        </p>
+                    </div>
+                </div>
+
                 <!-- Lauren Kim -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/lauren.png" alt="Lauren Kim" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -161,7 +144,7 @@
                 </div>
 
                 <!-- Jeffrey Phan -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/jeffrey.png" alt="Jeffrey Phan" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -172,7 +155,7 @@
                 </div>
 
                 <!-- Dana Yan -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/dana.png" alt="Dana Yan" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -181,23 +164,23 @@
                         <p class="text-gray-500 text-sm font-medium mt-1">Interventional Psychiatry Tech</p>
                     </div>
                 </div>
+            </div>
 
+            <!-- Second row: 4 cards -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mt-6">
                 <!-- Cyrus Jimenez -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/cyrus.png" alt="Cyrus Jimenez" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Cyrus Jimenez</h4>
-                        <p class="text-gray-500 text-sm font-medium mt-1">Deep TMS Technician</p>
+                        <p class="text-gray-500 text-sm font-medium mt-1">Interventional Psychiatry Tech</p>
                     </div>
                 </div>
-            </div>
 
-            <!-- Second row: 3 centered cards -->
-            <div class="flex flex-col md:flex-row justify-center gap-6 mt-6">
                 <!-- Loren Mendez -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden w-full md:w-[calc(25%-1.125rem)]">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/loren.png" alt="Loren Mendez" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -208,7 +191,7 @@
                 </div>
 
                 <!-- Rylee Hickman -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden w-full md:w-[calc(25%-1.125rem)]">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/rylee.png" alt="Rylee Hickman" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -219,7 +202,7 @@
                 </div>
 
                 <!-- Cathleen Sliney -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden w-full md:w-[calc(25%-1.125rem)]">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/cathleen.png" alt="Cathleen Sliney" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -325,23 +308,13 @@ const teamBios = {
               <p>Her background also includes roles as an emergency medical technician, medical assistant, and nursing assistant, giving her a broad foundation and a personal touch in caring for patients.</p>
               <p>She integrates both holistic, nonpharmacological strategies and evidence-based pharmacological treatments to support overall mental wellness. Regina is committed to providing comprehensive, compassionate care that addresses the whole person.</p>`
     },
-    brian: {
-        name: 'Brian Tran, PMHNP-BC',
-        title: 'Psychiatric Nurse Practitioner',
-        img: 'assets/images/team/brian.png',
-        bookUrl: 'https://resiliencymbmedicine.com/our-team/brian-tran-pmhnp-bc/',
-        bio: `<p>Brian Tran is a board-certified Psychiatric Mental Health Nurse Practitioner. He earned his Master of Science in Nursing from Azusa Pacific University.</p>
-              <p>Brian brings experience in diagnosing and treating mental health conditions across the lifespan, with a strong background in medication management, psychotherapy, and evidence-based care, having worked in both outpatient and multidisciplinary team settings.</p>
-              <p>He is committed to reducing stigma and empowering patients to take an active role in their mental health journey.</p>`
-    },
-    lina: {
-        name: 'Lina Kurdi, PMHNP-BC',
-        title: 'Psychiatric Nurse Practitioner',
-        img: 'assets/images/team/lina.png',
-        bookUrl: 'https://resiliencymbmedicine.com/our-team/lina-kurdi-pmhnp-bc/',
-        bio: `<p>Lina Kurdi is a board-certified Psychiatric Mental Health Nurse Practitioner from Irvine, California. She brings a diverse clinical background to her work, practicing both as a PMHNP and as an ER/Trauma Registered Nurse at UCI Medical Center.</p>
-              <p>Lina earned her Bachelor of Arts in Psychology from the University of California, Santa Barbara, and her Master of Science in Nursing from the University of San Diego. She later completed her post-master's Psychiatric Mental Health Nurse Practitioner certification through Western University of Health Sciences.</p>
-              <p>Her unique combination of emergency medicine and psychiatric expertise allows her to bring a well-rounded, compassionate approach to patient care at Resiliency Mind+Body Medicine.</p>`
+    rylee_k: {
+        name: 'Rylee Kaczynski',
+        title: 'Director of Operations',
+        img: 'https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2026/04/Rylee-Kaczynski-00235-2-scaled.jpg',
+        bio: `<p>Rylee serves as the Director of Operations at Resiliency, bringing over nine years of experience in the mental health field across clinical operations, program leadership, and direct service settings. She holds a degree in Social Work and is passionate about building systems that support high-quality, patient-centered behavioral health care.</p>
+              <p>Her background includes experience in crisis stabilization, residential treatment, and acute behavioral health hospital environments. Throughout her career, she has held leadership roles supporting adolescent residential programs and administrative operations within acute care settings, focusing on strengthening workflows, supporting interdisciplinary teams, and improving continuity of care across levels of service.</p>
+              <p>As Director of Operations, Rylee builds and leads systems that keep the practice running smoothly while fostering a culture of collaboration, accountability, and support across the team. She is committed to creating an environment where staff feel empowered and aligned, allowing clinicians to focus on delivering compassionate, consistent, and high-quality care that drives meaningful, lasting outcomes for patients and families.</p>`
     }
 };
 
@@ -354,7 +327,13 @@ function openBioModal(key) {
     document.getElementById('bioModalName').textContent = data.name;
     document.getElementById('bioModalTitle').textContent = data.title;
     document.getElementById('bioModalText').innerHTML = data.bio;
-    document.getElementById('bioModalBookLink').href = data.bookUrl;
+    const bookLink = document.getElementById('bioModalBookLink');
+    if (data.bookUrl) {
+        bookLink.href = data.bookUrl;
+        bookLink.style.display = '';
+    } else {
+        bookLink.style.display = 'none';
+    }
 
     const modal = document.getElementById('bioModal');
     const content = document.getElementById('bioModalContent');

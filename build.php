@@ -44,7 +44,6 @@ $pages = [
     'press-media.php' => 'press-media.html',
     'blog.php' => 'blog.html',
     'new-patient-form.php' => 'new-patient-form.html',
-    'cherry-payment.php' => 'cherry-payment.html',
     'terms-of-service.php' => 'terms-of-service.html',
     'privacy-policy.php' => 'privacy-policy.html',
     'compliance.php' => 'compliance.html',

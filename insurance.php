@@ -187,7 +187,7 @@
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Self-Pay & Payment Plans</h3>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
-                        For services not covered by insurance&mdash;including IV therapy, aesthetics, supplements, and weight loss medications&mdash;we offer competitive self-pay rates. Cherry payment plans are available for flexible financing. Contact our team for current pricing.
+                        For services not covered by insurance&mdash;including IV therapy, aesthetics, supplements, and weight loss medications&mdash;we offer competitive self-pay rates. Contact our team for current pricing.
                     </p>
 
                     <div class="space-y-4">
@@ -198,15 +198,6 @@
                             <div>
                                 <h4 class="text-[#0B2035] font-bold">Competitive Self-Pay Rates</h4>
                                 <p class="text-gray-500 text-sm font-light">Transparent pricing for cash-pay patients</p>
-                            </div>
-                        </div>
-                        <div class="flex items-center gap-4 bg-white rounded-xl p-5 border border-gray-100 shadow-soft">
-                            <div class="bg-[#23bfe2]/10 p-3 rounded-lg text-[#23bfe2]">
-                                <i data-lucide="credit-card" class="w-6 h-6"></i>
-                            </div>
-                            <div>
-                                <h4 class="text-[#0B2035] font-bold">Cherry Payment Plans</h4>
-                                <p class="text-gray-500 text-sm font-light">Split your costs into manageable monthly payments</p>
                             </div>
                         </div>
                         <div class="flex items-center gap-4 bg-white rounded-xl p-5 border border-gray-100 shadow-soft">

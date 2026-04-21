@@ -290,7 +290,6 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                                 <a href="tms-resources.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Deep TMS Resources</a>
                                 <a href="insurance.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Insurance</a>
                                 <a href="caloptima.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">CalOptima Coverage</a>
-                                <a href="cherry-payment.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Payment Plans</a>
                                 <a href="blog.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Blog</a>
                                 <a href="press-media.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Press / Media</a>
                                 <a href="new-patient-form.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Patient Forms</a>
@@ -433,7 +432,6 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                         <a href="tms-resources.php" class="text-white/80 hover:text-white transition-colors">Deep TMS Resources</a>
                         <a href="insurance.php" class="text-white/80 hover:text-white transition-colors">Insurance</a>
                         <a href="caloptima.php" class="text-white/80 hover:text-white transition-colors">CalOptima Coverage</a>
-                        <a href="cherry-payment.php" class="text-white/80 hover:text-white transition-colors">Payment Plans</a>
                         <a href="blog.php" class="text-white/80 hover:text-white transition-colors">Blog</a>
                         <a href="press-media.php" class="text-white/80 hover:text-white transition-colors">Press / Media</a>
                         <a href="new-patient-form.php" class="text-white/80 hover:text-white transition-colors">Patient Forms</a>

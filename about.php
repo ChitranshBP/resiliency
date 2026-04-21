@@ -351,35 +351,6 @@ SCHEMA;
                 </a>
             </div>
 
-            <!-- Second row: 2 centered cards -->
-            <div class="flex flex-col sm:flex-row justify-center flex-wrap gap-6 mb-12">
-                <!-- Brian Tran -->
-                <a href="team.php" class="group reveal w-full sm:w-[calc(50%-0.75rem)] md:w-[calc(33.333%-1rem)] lg:w-[calc(25%-1.125rem)]">
-                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                        <div class="h-56 overflow-hidden">
-                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/08/Brian-Tran-team-headshot-1024x862.png" alt="Brian Tran, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
-                        </div>
-                        <div class="p-5 text-center">
-                            <h4 class="text-sm font-bold text-primary leading-tight">Brian Tran, PMHNP-BC</h4>
-                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Psychiatric NP</p>
-                        </div>
-                    </div>
-                </a>
-
-                <!-- Lina Kurdi -->
-                <a href="team.php" class="group reveal reveal-delay-1 w-full sm:w-[calc(50%-0.75rem)] md:w-[calc(33.333%-1rem)] lg:w-[calc(25%-1.125rem)]">
-                    <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
-                        <div class="h-56 overflow-hidden">
-                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2026/01/Lina-Kurdi-PMHNP-BC-Resiliency-1024x862.png" alt="Lina Kurdi, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
-                        </div>
-                        <div class="p-5 text-center">
-                            <h4 class="text-sm font-bold text-primary leading-tight">Lina Kurdi, PMHNP-BC</h4>
-                            <p class="text-[#23bfe2] text-xs font-semibold mt-1">Psychiatric NP</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-
             <div class="text-center reveal">
                 <a href="team.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl">
                     <span class="flex items-center gap-2">

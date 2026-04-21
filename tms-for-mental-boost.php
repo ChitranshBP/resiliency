@@ -14,7 +14,7 @@ SCHEMA;
     <!-- Hero Section -->
     <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/mental-Health/TMS/how-tms-works-2048x1152.webp" alt="TMS for Mental Boost" class="w-full h-full object-cover object-[50%_60%]">
+            <img src="assets/images/anxiety_consultation.png" alt="TMS for Mental Boost" class="w-full h-full object-cover object-[50%_30%]">
             <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 

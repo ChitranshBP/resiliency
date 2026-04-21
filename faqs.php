@@ -227,20 +227,6 @@
 
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">Do you offer payment plans?</span>
-                            <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
-                                <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
-                            </div>
-                        </button>
-                        <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
-                            <div class="pt-2 border-t border-gray-200 mt-2">
-                                Yes. We offer Cherry payment plans for patients who need flexible financing options.
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
-                        <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
                             <span class="text-[#0B2035]">What if I have out-of-network insurance?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>

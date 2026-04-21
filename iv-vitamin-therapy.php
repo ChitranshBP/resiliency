@@ -101,13 +101,13 @@ SCHEMA;
 
                         <div class="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white ring-1 ring-gray-100">
                             <img
-                                src="assets/images/service_wellness.png"
+                                src="assets\images\iv-vitamin-dr-L.webp"
                                 alt="IV Vitamin Therapy at Resiliency"
-                                class="w-full h-[500px] object-cover object-top grayscale-[0.2] transition-all duration-700 group-hover:grayscale-0 group-hover:scale-105"
+                                class="w-full h-[500px] object-cover object-[50%_30%]  transition-all duration-700 "
                             >
 
                             <!-- Floating Badge -->
-                            <div class="absolute bottom-10 -left-6 bg-[#0B2035] text-white p-6 rounded-3xl shadow-2xl border border-white/10 group-hover:-translate-y-2 transition-transform duration-500">
+                            <!-- <div class="absolute bottom-10 -left-6 bg-[#0B2035] text-white p-6 rounded-3xl shadow-2xl border border-white/10 group-hover:-translate-y-2 transition-transform duration-500">
                                 <div class="flex items-center gap-4">
                                     <div class="w-12 h-12 bg-[#23bfe2] rounded-2xl flex items-center justify-center text-[#0B2035]">
                                         <i data-lucide="percent" class="w-6 h-6"></i>
@@ -117,7 +117,7 @@ SCHEMA;
                                         <p class="text-[#23bfe2] text-xs font-bold uppercase tracking-widest mt-1">Bioavailability</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
