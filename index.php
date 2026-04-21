@@ -76,7 +76,7 @@ SCHEMA;
     <main>
         
         <!-- 1. Hero Section -->
-        <section class="relative min-h-[600px] md:h-[85vh] flex items-center justify-center overflow-hidden pt-52 pb-16 md:pt-48 md:pb-12">
+        <section class="relative min-h-[520px] sm:min-h-[580px] md:min-h-[640px] md:h-[78vh] flex items-center justify-center overflow-hidden pt-28 pb-32 sm:pt-32 sm:pb-32 md:pt-32 md:pb-32">
             <!-- Background Video -->
             <div class="absolute inset-0 z-0">
                 <video autoplay loop muted playsinline class="w-full h-full object-cover">
@@ -111,23 +111,23 @@ SCHEMA;
 
             <!-- Trust Badges Strip (overlay at bottom of hero) -->
             <div class="absolute bottom-0 left-0 right-0 z-10 bg-transparent border-t border-white/10">
-                <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
-                    <div class="flex flex-wrap justify-center md:justify-start gap-6 md:gap-10">
-                        <div class="flex items-center gap-2 text-white/90">
-                            <i data-lucide="shield-check" class="w-5 h-5 text-secondary"></i>
-                            <span class="text-sm font-medium">FDA Approved</span>
+                <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 sm:py-4 md:py-5">
+                    <div class="grid grid-cols-2 md:flex md:flex-wrap md:justify-start gap-x-4 gap-y-2 sm:gap-x-6 md:gap-10">
+                        <div class="flex items-center gap-2 text-white/90 justify-center md:justify-start">
+                            <i data-lucide="shield-check" class="w-4 h-4 sm:w-5 sm:h-5 text-secondary flex-shrink-0"></i>
+                            <span class="text-xs sm:text-sm font-medium whitespace-nowrap">FDA Approved</span>
                         </div>
-                        <div class="flex items-center gap-2 text-white/90">
-                            <i data-lucide="file-check-2" class="w-5 h-5 text-secondary"></i>
-                            <span class="text-sm font-medium">Insurance Accepted</span>
+                        <div class="flex items-center gap-2 text-white/90 justify-center md:justify-start">
+                            <i data-lucide="file-check-2" class="w-4 h-4 sm:w-5 sm:h-5 text-secondary flex-shrink-0"></i>
+                            <span class="text-xs sm:text-sm font-medium whitespace-nowrap">Insurance Accepted</span>
                         </div>
-                        <div class="flex items-center gap-2 text-white/90">
-                            <i data-lucide="award" class="w-5 h-5 text-secondary"></i>
-                            <span class="text-sm font-medium">Board-Certified</span>
+                        <div class="flex items-center gap-2 text-white/90 justify-center md:justify-start">
+                            <i data-lucide="award" class="w-4 h-4 sm:w-5 sm:h-5 text-secondary flex-shrink-0"></i>
+                            <span class="text-xs sm:text-sm font-medium whitespace-nowrap">Board-Certified</span>
                         </div>
-                        <div class="flex items-center gap-2 text-white/90">
-                            <i data-lucide="zap" class="w-5 h-5 text-secondary"></i>
-                            <span class="text-sm font-medium">Advanced Tech</span>
+                        <div class="flex items-center gap-2 text-white/90 justify-center md:justify-start">
+                            <i data-lucide="zap" class="w-4 h-4 sm:w-5 sm:h-5 text-secondary flex-shrink-0"></i>
+                            <span class="text-xs sm:text-sm font-medium whitespace-nowrap">Advanced Tech</span>
                         </div>
                     </div>
                 </div>
