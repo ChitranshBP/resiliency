@@ -259,7 +259,7 @@ SCHEMA;
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_spravato.png" alt="Depression Treatment" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets\images\ambience\resiliency-amb-5.webp" alt="Depression Treatment" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient (ensures readability) -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -349,7 +349,7 @@ SCHEMA;
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_wellness.png" alt="PTSD Wellness" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets\images\ambience\resiliency-amb-4.webp" alt="PTSD Wellness" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -650,7 +650,7 @@ SCHEMA;
 
                     <!-- Service 5 -->
                     <div class="bg-white rounded-2xl flex flex-col h-full border-[2px] border-primary p-6 shadow-sm hover:shadow-md transition-all duration-300 reveal reveal-delay-1">
-                        <h4 class="text-xl font-bold text-primary mb-3">Medical Management</h4>
+                        <h4 class="text-xl font-bold text-primary mb-3">Medication Management</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Expert psychiatric prescribing carefully tailored to your unique biology and needs.</p>
                         <div class="mb-6">
                             <a href="medication-management.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
@@ -669,7 +669,7 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/service_wellness.png" alt="Wellness Services" class="w-full h-48 object-cover rounded-xl mt-auto">
+                        <img src="assets\images\ambience\resiliency-amb-1.webp" alt="Wellness Services" class="w-full h-48 object-cover object-[50%_60%] rounded-xl mt-auto">
                     </div>
                 </div>
 

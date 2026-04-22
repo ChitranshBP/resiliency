@@ -42,7 +42,19 @@
       "Bash(curl -L -o hoag.jpeg \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Hoag-Medical-Group.jpeg\")",
       "Bash(curl -L -o health-net.png \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/Health-Net.png\")",
       "Bash(curl -L -o mhn.jpeg \"https://cdn-ildmphd.nitrocdn.com/tzzcgexpyBvSGkQdyIokdkbspoHSRNJM/assets/images/optimized/rev-580c2f1/resiliencymbmedicine.com/wp-content/uploads/2024/07/MHN.jpeg\")",
-      "WebFetch(domain:doctorsonsocialmedia.com)"
+      "WebFetch(domain:doctorsonsocialmedia.com)",
+      "Bash(php build.php)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" status)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" log --oneline -5)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" remote -v)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" diff --stat HEAD)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" ls-files tms-for-mental-boost.php tms-for-psychosis.php tms-for-cannabis-induced-psychosis.php)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" status --ignored --short)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" log origin/main..HEAD --oneline)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" log --oneline -15)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" check-ignore -v dist/index.html)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" ls-files dist/index.html)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" status --short dist/)"
     ]
   }
 }

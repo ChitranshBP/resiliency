@@ -44,7 +44,7 @@ SCHEMA;
     <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/hero_bg.png" alt="San Juan Capistrano Location - Resiliency Mind Body Medicine" class="w-full h-full object-cover">
+            <img src="assets\images\ambience\resiliency-amb-2.webp" alt="San Juan Capistrano Location - Resiliency Mind Body Medicine" class="w-full h-full object-cover object-[50%_60%] opacity-80">
             <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 
