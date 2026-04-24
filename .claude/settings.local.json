@@ -55,8 +55,7 @@
       "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" check-ignore -v dist/index.html)",
       "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" ls-files dist/index.html)",
       "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" status --short dist/)",
-      "Bash(find /a/Work/resiliency -type f -name *.html -o -name *.css -o -name *.js -o -name *.php)",
-      "Bash(ls /a/Work/resiliency/resiliency-theme/page-*.php)"
+      "WebFetch(domain:www.karmatms.com)"
     ]
   }
 }
