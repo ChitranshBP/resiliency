@@ -135,6 +135,73 @@ SCHEMA;
 
         </section>
 
+        <!-- TMS Quiz Strip (concise, animated shimmer) -->
+        <section class="relative max-w-7xl mx-auto mt-4 rounded-3xl overflow-hidden bg-gradient-to-r from-[#0B2035] via-[#0e2841] to-[#0B2035]">
+            <!-- Shimmer sweep -->
+            <div class="absolute inset-0 pointer-events-none overflow-hidden">
+                <div class="quiz-shimmer absolute top-0 -left-1/3 h-full w-1/3"></div>
+            </div>
+            <!-- Soft glow -->
+            <div class="absolute -top-12 -right-12 w-56 h-56 bg-[#23bfe2]/15 rounded-full blur-[90px] pointer-events-none"></div>
+            <div class="absolute -bottom-12 -left-12 w-56 h-56 bg-[#23bfe2]/10 rounded-full blur-[90px] pointer-events-none"></div>
+            <!-- Dot grid -->
+            <div class="absolute inset-0 opacity-[0.04] pointer-events-none" style="background-image: radial-gradient(#23bfe2 1px, transparent 1px); background-size: 24px 24px;"></div>
+
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 md:py-6 relative z-10">
+                <div class="flex flex-col md:flex-row items-center justify-between gap-4 md:gap-8">
+                    <!-- Left: icon + headline -->
+                    <div class="flex items-center gap-3 md:gap-4 text-center md:text-left">
+                        <div class="hidden sm:flex w-11 h-11 md:w-12 md:h-12 bg-[#23bfe2]/15 rounded-xl items-center justify-center text-[#23bfe2] flex-shrink-0 ring-1 ring-[#23bfe2]/20">
+                            <i data-lucide="clipboard-check" class="w-5 h-5 md:w-6 md:h-6"></i>
+                        </div>
+                        <div>
+                            <p class="text-[#23bfe2] text-[10px] md:text-[11px] font-bold tracking-widest uppercase leading-none mb-1">Free Candidacy Quiz</p>
+                            <h3 class="text-base md:text-xl font-bold text-white leading-tight">Is Deep TMS right for <span class="text-[#23bfe2] font-light">you?</span></h3>
+                        </div>
+                    </div>
+
+                    <!-- Middle: feature pills (lg+ only) -->
+                    <div class="hidden lg:flex items-center gap-4 text-white/80 text-xs">
+                        <span class="flex items-center gap-1.5"><i data-lucide="clock" class="w-3.5 h-3.5 text-[#23bfe2]"></i> 3&ndash;5 min</span>
+                        <span class="w-px h-4 bg-white/20"></span>
+                        <span class="flex items-center gap-1.5"><i data-lucide="lock" class="w-3.5 h-3.5 text-[#23bfe2]"></i> Confidential</span>
+                        <span class="w-px h-4 bg-white/20"></span>
+                        <span class="flex items-center gap-1.5"><i data-lucide="user-check" class="w-3.5 h-3.5 text-[#23bfe2]"></i> Physician-reviewed</span>
+                    </div>
+
+                    <!-- CTA -->
+                    <a href="tms-quiz.php" class="group inline-flex items-center justify-center gap-2 bg-[#23bfe2] hover:bg-white text-[#0B2035] font-bold px-6 md:px-7 py-2.5 md:py-3 rounded-full transition-all hover:-translate-y-0.5 shadow-lg whitespace-nowrap flex-shrink-0 text-sm md:text-base">
+                        Take the Quiz
+                        <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
+                    </a>
+                </div>
+            </div>
+
+            <style>
+                @keyframes quizShimmer {
+                    0%   { transform: translateX(0) skewX(-18deg); opacity: 0; }
+                    15%  { opacity: 1; }
+                    85%  { opacity: 1; }
+                    100% { transform: translateX(500%) skewX(-18deg); opacity: 0; }
+                }
+                .quiz-shimmer {
+                    background: linear-gradient(
+                        90deg,
+                        transparent 0%,
+                        rgba(35,191,226,0.12) 40%,
+                        rgba(255,255,255,0.18) 50%,
+                        rgba(35,191,226,0.12) 60%,
+                        transparent 100%
+                    );
+                    animation: quizShimmer 6s ease-in-out infinite;
+                    filter: blur(2px);
+                }
+                @media (prefers-reduced-motion: reduce) {
+                    .quiz-shimmer { animation: none; opacity: 0.4; transform: translateX(200%) skewX(-18deg); }
+                }
+            </style>
+        </section>
+
         <!-- 2. Treatment Response Rates (Stats Section) -->
         <section class="py-12 relative z-20 -mt-8">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

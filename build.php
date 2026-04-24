@@ -40,6 +40,7 @@ $pages = [
     'contact.php' => 'contact.html',
     'tms-resources.php' => 'tms-resources.html',
     'tms-faq.php' => 'tms-faq.html',
+    'tms-quiz.php' => 'tms-quiz.html',
     'reviews.php' => 'reviews.html',
     'press-media.php' => 'press-media.html',
     'blog.php' => 'blog.html',
