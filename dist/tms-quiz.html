@@ -551,8 +551,11 @@
                     </div>
                 </div>
 
+                <!-- Hidden iframe target so the form posts without navigating away -->
+                <iframe id="formester-target" name="formester-target" style="display:none;width:0;height:0;border:0;" aria-hidden="true" tabindex="-1"></iframe>
+
                 <!-- Quiz Form -->
-                <form id="tms-quiz-form" accept-charset="UTF-8" action="https://app.formester.com/forms/ZyOFGCPD2/submissions" method="POST" class="p-6 sm:p-10">
+                <form id="tms-quiz-form" accept-charset="UTF-8" action="https://app.formester.com/forms/ZyOFGCPD2/submissions" method="POST" target="formester-target" class="p-6 sm:p-10">
 
                     <!-- Step 1: Medication History -->
                     <div class="quiz-step" data-step="1">
@@ -781,7 +784,7 @@
                 </form>
 
                 <!-- Success Screen (hidden by default) -->
-                <div id="quiz-success" class="hidden p-6 sm:p-10 text-center">
+                <div id="quiz-success" class="hidden p-6 sm:p-10 text-center scroll-mt-32">
                     <div class="w-20 h-20 bg-[#23bfe2]/10 rounded-full flex items-center justify-center text-[#23bfe2] mx-auto mb-6">
                         <i data-lucide="check" class="w-10 h-10"></i>
                     </div>
@@ -894,8 +897,11 @@
             nextBtn.classList.remove('hidden');
             submitBtn.classList.add('hidden');
         }
-        // Scroll the quiz card into view on step change
-        form.closest('.bg-white').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        // Scroll the quiz card into view on step change (offset to clear fixed navbar)
+        const card = form.closest('.bg-white');
+        const navOffset = 120;
+        const targetY = card.getBoundingClientRect().top + window.pageYOffset - navOffset;
+        window.scrollTo({ top: targetY, behavior: 'smooth' });
     }
 
     function validateCurrentStep() {
@@ -939,33 +945,42 @@
         }
     });
 
+    const iframe = document.getElementById('formester-target');
+
     form.addEventListener('submit', (e) => {
-        e.preventDefault();
-        if (!validateCurrentStep()) return;
+        if (!validateCurrentStep()) {
+            e.preventDefault();
+            return;
+        }
 
         submitBtn.disabled = true;
         submitBtn.innerHTML = 'Submitting&hellip;';
 
-        // Submit to Formester (no-cors so browser fires the request without CORS preflight)
-        fetch(form.action, {
-            method: 'POST',
-            mode: 'no-cors',
-            body: new FormData(form)
-        }).then(() => {
+        // Form submits natively to the hidden iframe (target="formester-target").
+        // When the iframe finishes loading the Formester response, show success.
+        iframe.addEventListener('load', () => {
             showSuccess();
-        }).catch(() => {
-            alert('There was a problem submitting your answers. Please try again or call (949) 996-5355.');
+        }, { once: true });
+
+        // Safety net: if the iframe never loads (network error), restore the button after 15s.
+        setTimeout(() => {
+            if (!successScreen.classList.contains('hidden')) return;
+            if (form.classList.contains('hidden')) return;
             submitBtn.disabled = false;
             submitBtn.innerHTML = 'Get My Results <i data-lucide="send" class="w-4 h-4"></i>';
             if (typeof lucide !== 'undefined') lucide.createIcons();
-        });
+            alert('Submission is taking longer than expected. Please try again or call (949) 996-5355.');
+        }, 15000);
     });
 
     function showSuccess() {
         form.classList.add('hidden');
         successScreen.classList.remove('hidden');
         if (typeof lucide !== 'undefined') lucide.createIcons();
-        successScreen.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        // Scroll with offset so success header sits below the fixed navbar
+        const navOffset = 120;
+        const targetY = successScreen.getBoundingClientRect().top + window.pageYOffset - navOffset;
+        window.scrollTo({ top: targetY, behavior: 'smooth' });
     }
 })();
 </script>
