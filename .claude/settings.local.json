@@ -55,7 +55,13 @@
       "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" check-ignore -v dist/index.html)",
       "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" ls-files dist/index.html)",
       "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" status --short dist/)",
-      "WebFetch(domain:www.karmatms.com)"
+      "WebFetch(domain:www.karmatms.com)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" diff --check)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" ls-files -u)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" log --oneline HEAD..MERGE_HEAD)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" log --oneline MERGE_HEAD..HEAD)",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" commit -m \"Merge remote main \\(WP theme files\\) into local quiz fixes\")",
+      "Bash(git -C \"c:/Users/GCV/Desktop/resiliency\" push origin main)"
     ]
   }
 }
