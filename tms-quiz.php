@@ -10,7 +10,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/tms-quiz.php';
     <!-- Hero Section -->
     <section class="relative min-h-[420px] md:h-[55vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/anxiety_consultation.png" alt="TMS Therapy Candidacy Quiz" class="w-full h-full object-cover object-[50%_40%]">
+            <img src="assets/images/anxiety_consultation.png" alt="TMS Therapy Candidacy Quiz" class="w-full h-full object-cover object-right md:object-[50%_40%]">
             <div class="absolute inset-0 bg-[#0B2035]/70 md:bg-gradient-to-r md:from-[#0B2035]/85 md:via-[#0B2035]/65 md:to-[#0B2035]/35"></div>
         </div>
 
