@@ -1,7 +1,7 @@
 <?php
-$default_title       = 'Psychiatrist Newport Beach &amp; Orange County | Deep TMS, SPRAVATO | Resiliency Mind + Body Medicine';
-$default_description = 'Orange County\'s leading psychiatric clinic offering Deep TMS Therapy, SPRAVATO (ketamine nasal spray), and personalized treatment for depression, anxiety, OCD, PTSD &amp; ADHD. Two locations: Newport Beach &amp; San Juan Capistrano, CA. Call (949) 996-5355.';
-$default_keywords    = 'psychiatrist Newport Beach, psychiatrist Orange County, Deep TMS therapy Newport Beach, TMS therapy Orange County, SPRAVATO treatment Orange County, depression treatment Newport Beach, anxiety treatment Orange County, OCD treatment Newport Beach, PTSD psychiatrist Orange County, ADHD psychiatrist Newport Beach, mental health clinic Orange County, psychiatric care Newport Beach CA, ketamine treatment Orange County, TMS depression treatment, neuromodulation therapy Orange County, psychiatrist San Juan Capistrano, advanced psychiatric care Southern California, IV therapy Newport Beach, medical weight loss Newport Beach, Resiliency Mind Body Medicine';
+$default_title       = 'Psychiatrist Newport Beach &amp; Orange County | Deep TMS, Spravato | Resiliency Mind + Body Medicine';
+$default_description = 'Orange County\'s leading psychiatric clinic offering Deep TMS Therapy, Spravato (ketamine nasal spray), and personalized treatment for depression, anxiety, OCD, PTSD &amp; ADHD. Two locations: Newport Beach &amp; San Juan Capistrano, CA. Call (949) 996-5355.';
+$default_keywords    = 'psychiatrist Newport Beach, psychiatrist Orange County, Deep TMS therapy Newport Beach, TMS therapy Orange County, Spravato treatment Orange County, depression treatment Newport Beach, anxiety treatment Orange County, OCD treatment Newport Beach, PTSD psychiatrist Orange County, ADHD psychiatrist Newport Beach, mental health clinic Orange County, psychiatric care Newport Beach CA, ketamine treatment Orange County, TMS depression treatment, neuromodulation therapy Orange County, psychiatrist San Juan Capistrano, advanced psychiatric care Southern California, IV therapy Newport Beach, medical weight loss Newport Beach, Resiliency Mind Body Medicine';
 $default_canonical   = 'https://resiliencymbmedicine.com/';
 
 $page_title       = isset($page_title)       ? $page_title       : $default_title;
@@ -61,7 +61,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
       "url": "https://resiliencymbmedicine.com",
       "logo": "https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png",
       "telephone": "(949) 996-5355",
-      "description": "Orange County's leading psychiatric clinic offering Deep TMS Therapy, SPRAVATO, and personalized treatment for depression, anxiety, OCD, PTSD, and ADHD.",
+      "description": "Orange County's leading psychiatric clinic offering Deep TMS Therapy, Spravato, and personalized treatment for depression, anxiety, OCD, PTSD, and ADHD.",
       "medicalSpecialty": ["Psychiatry", "Addiction Medicine", "Neuromodulation"],
       "priceRange": "$$",
       "founder": {
@@ -122,7 +122,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
         "name": "Psychiatric & Wellness Services",
         "itemListElement": [
           {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "Deep TMS Therapy"}},
-          {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "SPRAVATO (Esketamine) Treatment"}},
+          {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "Spravato (Esketamine) Treatment"}},
           {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "Psychiatric Evaluation & Medication Management"}},
           {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "IV Drip Therapy"}},
           {"@type": "Offer", "itemOffered": {"@type": "MedicalTherapy", "name": "Medical Weight Loss"}},
@@ -222,7 +222,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                                     </div>
                                 </div>
 
-                                <a href="spravato-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
+                                <a href="spravato-therapy.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Spravato® Treatment</a>
                                 <a href="medication-management.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
                                 <a href="pharmacogenetic-testing.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Pharmacogenetic Testing</a>
                                 <a href="integrative-psychiatry.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Integrative Psychiatry</a>
@@ -370,7 +370,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                             </div>
                         </div>
 
-                        <a href="spravato-therapy.php" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
+                        <a href="spravato-therapy.php" class="text-white/80 hover:text-white transition-colors">Spravato® Treatment</a>
                         <a href="medication-management.php" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
                         <a href="pharmacogenetic-testing.php" class="text-white/80 hover:text-white transition-colors">Pharmacogenetic Testing</a>
                         <a href="integrative-psychiatry.php" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>

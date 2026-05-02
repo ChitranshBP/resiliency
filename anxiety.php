@@ -293,7 +293,7 @@ SCHEMA;
                         <i data-lucide="layers" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Integrated Treatment</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Medication, Deep TMS, SPRAVATO, IV therapy, and lifestyle medicine all under one roof.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Medication, Deep TMS, Spravato, IV therapy, and lifestyle medicine all under one roof.</p>
                 </div>
 
                 <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">

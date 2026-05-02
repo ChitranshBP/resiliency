@@ -1,12 +1,12 @@
 <?php /* Template Name: Condition - Depression */ ?>
 <?php
-$page_title       = 'Depression Treatment Newport Beach &amp; Orange County | TMS, SPRAVATO &amp; Psychiatry | Resiliency Mind + Body Medicine';
-$page_description = 'Comprehensive depression treatment in Newport Beach &amp; Orange County, CA. Deep TMS, SPRAVATO, &amp; medication management for major depression &amp; treatment-resistant depression. Call (949) 996-5355.';
-$page_keywords    = 'depression treatment Newport Beach, depression psychiatrist Orange County, TMS for depression Newport Beach, SPRAVATO depression Orange County, major depressive disorder treatment Newport Beach CA, treatment-resistant depression Orange County, depression doctor Newport Beach, psychiatrist for depression Orange County CA';
+$page_title       = 'Depression Treatment Newport Beach &amp; Orange County | TMS, Spravato &amp; Psychiatry | Resiliency Mind + Body Medicine';
+$page_description = 'Comprehensive depression treatment in Newport Beach &amp; Orange County, CA. Deep TMS, Spravato, &amp; medication management for major depression &amp; treatment-resistant depression. Call (949) 996-5355.';
+$page_keywords    = 'depression treatment Newport Beach, depression psychiatrist Orange County, TMS for depression Newport Beach, Spravato depression Orange County, major depressive disorder treatment Newport Beach CA, treatment-resistant depression Orange County, depression doctor Newport Beach, psychiatrist for depression Orange County CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/depression.php';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MedicalCondition","name":"Major Depressive Disorder","alternateName":["Depression","Treatment-Resistant Depression","MDD"],"description":"Major depressive disorder affecting mood, energy, sleep, and daily functioning. Treated with Deep TMS, SPRAVATO, and personalized psychiatric care in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/depression.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Persistent sadness"},{"@type":"MedicalSymptom","name":"Loss of interest"},{"@type":"MedicalSymptom","name":"Fatigue"},{"@type":"MedicalSymptom","name":"Sleep disturbances"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"SPRAVATO Treatment","url":"https://resiliencymbmedicine.com/spravato-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"}]}
+{"@context":"https://schema.org","@type":"MedicalCondition","name":"Major Depressive Disorder","alternateName":["Depression","Treatment-Resistant Depression","MDD"],"description":"Major depressive disorder affecting mood, energy, sleep, and daily functioning. Treated with Deep TMS, Spravato, and personalized psychiatric care in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/depression.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Persistent sadness"},{"@type":"MedicalSymptom","name":"Loss of interest"},{"@type":"MedicalSymptom","name":"Fatigue"},{"@type":"MedicalSymptom","name":"Sleep disturbances"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Spravato Treatment","url":"https://resiliencymbmedicine.com/spravato-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"}]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Deep TMS for depression and who is it for?","acceptedAnswer":{"@type":"Answer","text":"Deep TMS is an FDA-cleared, non-invasive brain stimulation therapy for major depressive disorder. It is especially indicated for patients who have not responded to 2 or more antidepressants."}},{"@type":"Question","name":"How many Deep TMS sessions are needed for depression?","acceptedAnswer":{"@type":"Answer","text":"A standard course involves 20-36 sessions over 4-6 weeks, with each session lasting about 20 minutes, typically Monday through Friday."}},{"@type":"Question","name":"What are the side effects of Deep TMS for depression?","acceptedAnswer":{"@type":"Answer","text":"Most common side effects are mild scalp discomfort or headache during early sessions, which typically resolve after the first week. Serious side effects are rare."}},{"@type":"Question","name":"How will I know if Deep TMS is working?","acceptedAnswer":{"@type":"Answer","text":"Patients typically begin noticing mood improvement around sessions 10-15. We monitor your response with validated depression scales throughout treatment."}},{"@type":"Question","name":"What does Deep TMS for depression cost in Newport Beach?","acceptedAnswer":{"@type":"Answer","text":"Most commercial insurance and Medicare cover Deep TMS for depression. Our team performs full benefits verification before starting treatment to confirm your coverage."}},{"@type":"Question","name":"Can Deep TMS be combined with antidepressants for depression?","acceptedAnswer":{"@type":"Answer","text":"Yes. Deep TMS can be safely combined with antidepressant medications and often produces better outcomes when used together, especially for treatment-resistant depression."}}]}
@@ -34,7 +34,7 @@ SCHEMA;
                     <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Comprehensive, evidence-based treatment for major depressive disorder, persistent depression, and treatment-resistant depression using advanced therapies including Deep TMS and SPRAVATO.
+                    Comprehensive, evidence-based treatment for major depressive disorder, persistent depression, and treatment-resistant depression using advanced therapies including Deep TMS and Spravato.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                     <a href="/contact/" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -138,7 +138,7 @@ SCHEMA;
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="droplets" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-xl font-bold mb-3">SPRAVATO</h4>
+                    <h4 class="text-xl font-bold mb-3">Spravato</h4>
                     <p class="text-gray-300 font-light leading-relaxed">FDA-approved esketamine nasal spray for treatment-resistant depression.</p>
                 </div>
 
@@ -278,7 +278,7 @@ SCHEMA;
                         <i data-lucide="layers" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Integrated Treatment</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Medication, Deep TMS, SPRAVATO, IV therapy, and lifestyle medicine all under one roof.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Medication, Deep TMS, Spravato, IV therapy, and lifestyle medicine all under one roof.</p>
                 </div>
 
                 <div class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group flex flex-col items-center text-center">
@@ -448,7 +448,7 @@ SCHEMA;
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
                 <a href="/tms-therapy/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
-                <a href="/spravato-therapy/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">SPRAVATO® Treatment</a>
+                <a href="/spravato-therapy/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
                 <a href="/accelerated-tms/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Accelerated TMS (SWIFT)</a>
                 <a href="/medication-management/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
                 <a href="/contact/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Schedule a Consultation</a>

@@ -6,7 +6,7 @@ $page_schema = <<<'SCHEMA'
   "@type": "WebSite",
   "name": "Resiliency Mind + Body Medicine",
   "url": "https://resiliencymbmedicine.com",
-  "description": "Orange County's leading psychiatric clinic offering Deep TMS Therapy, SPRAVATO, and personalized mental health care in Newport Beach & San Juan Capistrano, CA.",
+  "description": "Orange County's leading psychiatric clinic offering Deep TMS Therapy, Spravato, and personalized mental health care in Newport Beach & San Juan Capistrano, CA.",
   "potentialAction": {
     "@type": "SearchAction",
     "target": "https://resiliencymbmedicine.com/?s={search_term_string}",
@@ -24,7 +24,7 @@ $page_schema = <<<'SCHEMA'
       "name": "What makes Resiliency Mind + Body Medicine different from a standard psychiatrist?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At Resiliency, we go far beyond a 15-minute medication check. Our board-certified psychiatrist Dr. LaFrenierre combines Deep TMS Therapy, SPRAVATO® treatment, conservative medication management, and integrative psychiatry into a truly personalized care plan. We treat the whole person — not just symptoms."
+        "text": "At Resiliency, we go far beyond a 15-minute medication check. Our board-certified psychiatrist Dr. LaFrenierre combines Deep TMS Therapy, Spravato® treatment, conservative medication management, and integrative psychiatry into a truly personalized care plan. We treat the whole person — not just symptoms."
       }
     },
     {
@@ -48,7 +48,7 @@ $page_schema = <<<'SCHEMA'
       "name": "Do you accept insurance at your Orange County clinics?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We accept most major commercial insurance carriers and Medicare for services like Deep TMS Therapy and psychiatric evaluations. SPRAVATO® is also covered by many insurance plans when medical necessity criteria are met. Call us at (949) 996-5355 for a benefits check."
+        "text": "Yes. We accept most major commercial insurance carriers and Medicare for services like Deep TMS Therapy and psychiatric evaluations. Spravato® is also covered by many insurance plans when medical necessity criteria are met. Call us at (949) 996-5355 for a benefits check."
       }
     },
     {
@@ -56,7 +56,7 @@ $page_schema = <<<'SCHEMA'
       "name": "Do you offer telehealth appointments?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We offer secure, HIPAA-compliant telehealth appointments for psychiatric evaluations, medication management, and follow-up care. Some services including Deep TMS and SPRAVATO require in-person visits at our Newport Beach or San Juan Capistrano locations."
+        "text": "Yes. We offer secure, HIPAA-compliant telehealth appointments for psychiatric evaluations, medication management, and follow-up care. Some services including Deep TMS and Spravato require in-person visits at our Newport Beach or San Juan Capistrano locations."
       }
     },
     {
@@ -275,7 +275,7 @@ SCHEMA;
                             <div class="grid grid-rows-[0fr] opacity-0 group-hover:grid-rows-[1fr] group-hover:opacity-100 group-hover:mt-4 transition-all duration-500 ease-in-out">
                                 <div class="overflow-hidden flex flex-col">
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
-                                        Advanced therapies including Deep TMS, SPRAVATO, and tailored medication management for persistent, treatment-resistant depression scenarios.
+                                        Advanced therapies including Deep TMS, Spravato, and tailored medication management for persistent, treatment-resistant depression scenarios.
                                     </p>
                                     <a href="<?php echo esc_url(home_url("/tms-for-depression-orange-county/")); ?>" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
@@ -614,14 +614,14 @@ SCHEMA;
 
                     <!-- Service 2 -->
                     <div class="bg-white rounded-2xl flex flex-col h-full border-[2px] border-primary p-6 shadow-sm hover:shadow-md transition-all duration-300 reveal reveal-delay-1">
-                        <h4 class="text-xl font-bold text-primary mb-3">SPRAVATO® (Esketamine)</h4>
+                        <h4 class="text-xl font-bold text-primary mb-3">Spravato® (Esketamine)</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">First-of-its-kind FDA-approved nasal spray for treatment-resistant depression.</p>
                         <div class="mb-6">
                             <a href="<?php echo esc_url(home_url("/spravato-treatment-in-orange-county/")); ?>" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/spravato-home.jpg" alt="SPRAVATO" class="w-full h-48 object-cover rounded-xl object-[50%_30%]">
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/spravato-home.jpg" alt="Spravato" class="w-full h-48 object-cover rounded-xl object-[50%_30%]">
                     </div>
 
                     <!-- Service 3 -->
@@ -1084,7 +1084,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            At Resiliency, we go far beyond a 15-minute medication check. Our board-certified psychiatrist Dr. LaFrenierre combines <a href="<?php echo esc_url(home_url("/tms-newportbeach/")); ?>" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="<?php echo esc_url(home_url("/spravato-treatment-in-orange-county/")); ?>" class="text-[#23bfe2] underline hover:text-white">SPRAVATO® treatment</a>, <a href="<?php echo esc_url(home_url("/conservative-medication-management/")); ?>" class="text-[#23bfe2] underline hover:text-white">conservative medication management</a>, and <a href="<?php echo esc_url(home_url("/integrative-psychiatry-orange-county/")); ?>" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> into a truly personalized care plan. We treat the whole person — not just symptoms.
+                            At Resiliency, we go far beyond a 15-minute medication check. Our board-certified psychiatrist Dr. LaFrenierre combines <a href="<?php echo esc_url(home_url("/tms-newportbeach/")); ?>" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="<?php echo esc_url(home_url("/spravato-treatment-in-orange-county/")); ?>" class="text-[#23bfe2] underline hover:text-white">Spravato® treatment</a>, <a href="<?php echo esc_url(home_url("/conservative-medication-management/")); ?>" class="text-[#23bfe2] underline hover:text-white">conservative medication management</a>, and <a href="<?php echo esc_url(home_url("/integrative-psychiatry-orange-county/")); ?>" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> into a truly personalized care plan. We treat the whole person — not just symptoms.
                         </div>
                     </div>
                 </div>
@@ -1123,7 +1123,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. We accept most major commercial insurance carriers and Medicare for services like <a href="<?php echo esc_url(home_url("/tms-newportbeach/")); ?>" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and psychiatric evaluations. <a href="<?php echo esc_url(home_url("/spravato-treatment-in-orange-county/")); ?>" class="text-[#23bfe2] underline hover:text-white">SPRAVATO®</a> is also covered by many insurance plans when medical necessity criteria are met. Visit our <a href="<?php echo esc_url(home_url("/insurance/")); ?>" class="text-[#23bfe2] underline hover:text-white">insurance & fees page</a> or call us at (949) 996-5355 for a benefits check.
+                            Yes. We accept most major commercial insurance carriers and Medicare for services like <a href="<?php echo esc_url(home_url("/tms-newportbeach/")); ?>" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and psychiatric evaluations. <a href="<?php echo esc_url(home_url("/spravato-treatment-in-orange-county/")); ?>" class="text-[#23bfe2] underline hover:text-white">Spravato®</a> is also covered by many insurance plans when medical necessity criteria are met. Visit our <a href="<?php echo esc_url(home_url("/insurance/")); ?>" class="text-[#23bfe2] underline hover:text-white">insurance & fees page</a> or call us at (949) 996-5355 for a benefits check.
                         </div>
                     </div>
                 </div>
@@ -1136,7 +1136,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. We offer secure, HIPAA-compliant <a href="<?php echo esc_url(home_url("/telehealth/")); ?>" class="text-[#23bfe2] underline hover:text-white">telehealth appointments</a> for psychiatric evaluations, medication management, and follow-up care. Some services — including Deep TMS, SPRAVATO®, IV therapy, and in-office procedures — require an in-person visit at our Newport Beach or San Juan Capistrano locations.
+                            Yes. We offer secure, HIPAA-compliant <a href="<?php echo esc_url(home_url("/telehealth/")); ?>" class="text-[#23bfe2] underline hover:text-white">telehealth appointments</a> for psychiatric evaluations, medication management, and follow-up care. Some services — including Deep TMS, Spravato®, IV therapy, and in-office procedures — require an in-person visit at our Newport Beach or San Juan Capistrano locations.
                         </div>
                     </div>
                 </div>

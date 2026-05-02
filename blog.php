@@ -60,7 +60,7 @@
                         </div>
                         <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Understanding Treatment-Resistant Depression</h3>
                         <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
-                            When traditional antidepressants aren't enough, advanced therapies like Deep TMS and SPRAVATO offer new hope.
+                            When traditional antidepressants aren't enough, advanced therapies like Deep TMS and Spravato offer new hope.
                         </p>
                         <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
                             Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
@@ -115,7 +115,7 @@
                     </div>
                     <div class="p-8">
                         <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-purple-500/10 text-purple-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">SPRAVATO</span>
+                            <span class="bg-purple-500/10 text-purple-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Spravato</span>
                             <span class="text-gray-400 text-sm font-light">Coming Soon</span>
                         </div>
                         <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Spravato: A New Era in Depression Treatment</h3>

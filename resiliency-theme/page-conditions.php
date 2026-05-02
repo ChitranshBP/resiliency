@@ -250,7 +250,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            During your initial psychiatric evaluation, Dr. LaFrenierre will conduct a comprehensive assessment of your symptoms, history, and biology to recommend the most appropriate treatment approach. This may include <a href="/tms-therapy/" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="/spravato-therapy/" class="text-[#23bfe2] underline hover:text-white">SPRAVATO®</a>, <a href="/medication-management/" class="text-[#23bfe2] underline hover:text-white">medication management</a>, or a combination of therapies.
+                            During your initial psychiatric evaluation, Dr. LaFrenierre will conduct a comprehensive assessment of your symptoms, history, and biology to recommend the most appropriate treatment approach. This may include <a href="/tms-therapy/" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="/spravato-therapy/" class="text-[#23bfe2] underline hover:text-white">Spravato®</a>, <a href="/medication-management/" class="text-[#23bfe2] underline hover:text-white">medication management</a>, or a combination of therapies.
                         </div>
                     </div>
                 </div>
@@ -263,7 +263,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Absolutely. We specialize in treatment-resistant cases. Both <a href="/tms-therapy/" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and <a href="/spravato-therapy/" class="text-[#23bfe2] underline hover:text-white">SPRAVATO® (esketamine)</a> are FDA-approved specifically for patients who have not found relief with standard antidepressant medications. Our <a href="/accelerated-tms/" class="text-[#23bfe2] underline hover:text-white">Accelerated TMS SWIFT Protocol</a> is also available for faster results.
+                            Absolutely. We specialize in treatment-resistant cases. Both <a href="/tms-therapy/" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and <a href="/spravato-therapy/" class="text-[#23bfe2] underline hover:text-white">Spravato® (esketamine)</a> are FDA-approved specifically for patients who have not found relief with standard antidepressant medications. Our <a href="/accelerated-tms/" class="text-[#23bfe2] underline hover:text-white">Accelerated TMS SWIFT Protocol</a> is also available for faster results.
                         </div>
                     </div>
                 </div>

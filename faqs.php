@@ -58,7 +58,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                We offer Deep TMS therapy, Accelerated Deep TMS (SWIFT protocol), SPRAVATO (esketamine), conservative medication management, integrative psychiatry, IV vitamin therapy, NAD+ therapy, medical weight loss and more.
+                                We offer Deep TMS therapy, Accelerated Deep TMS (SWIFT protocol), Spravato (esketamine), conservative medication management, integrative psychiatry, IV vitamin therapy, NAD+ therapy, medical weight loss and more.
                             </div>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                Yes! We offer secure telehealth appointments for psychiatric evaluations, medication management, and treatment planning. Some services like Deep TMS, SPRAVATO, and IV therapy require in-person visits.
+                                Yes! We offer secure telehealth appointments for psychiatric evaluations, medication management, and treatment planning. Some services like Deep TMS, Spravato, and IV therapy require in-person visits.
                             </div>
                         </div>
                     </div>
@@ -161,40 +161,40 @@
                 </div>
             </div>
 
-            <!-- Category 3: SPRAVATO -->
+            <!-- Category 3: Spravato -->
             <div class="mb-16 reveal">
                 <div class="flex items-center gap-3 mb-8">
                     <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2]">
                         <i data-lucide="droplets" class="w-5 h-5"></i>
                     </div>
-                    <h2 class="text-2xl md:text-3xl font-bold text-[#0B2035]">SPRAVATO</h2>
+                    <h2 class="text-2xl md:text-3xl font-bold text-[#0B2035]">Spravato</h2>
                 </div>
 
                 <div class="space-y-4">
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">What is SPRAVATO?</span>
+                            <span class="text-[#0B2035]">What is Spravato?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                SPRAVATO (esketamine) is an FDA-approved nasal spray for treatment-resistant depression. It works through different brain pathways than traditional antidepressants.
+                                Spravato (esketamine) is an FDA-approved nasal spray for treatment-resistant depression. It works through different brain pathways than traditional antidepressants.
                             </div>
                         </div>
                     </div>
 
                     <div class="bg-neutral border border-gray-100 rounded-2xl overflow-hidden">
                         <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-lg flex items-center justify-between focus:outline-none hover:bg-gray-100 transition-colors group">
-                            <span class="text-[#0B2035]">How is SPRAVATO administered?</span>
+                            <span class="text-[#0B2035]">How is Spravato administered?</span>
                             <div class="w-10 h-10 rounded-full bg-[#23bfe2]/10 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors flex-shrink-0 ml-4">
                                 <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                             </div>
                         </button>
                         <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-base hidden faq-content">
                             <div class="pt-2 border-t border-gray-200 mt-2">
-                                SPRAVATO is self-administered as a nasal spray under medical supervision in our certified clinic. You'll be monitored for 2 hours after each session.
+                                Spravato is self-administered as a nasal spray under medical supervision in our certified clinic. You'll be monitored for 2 hours after each session.
                             </div>
                         </div>
                     </div>

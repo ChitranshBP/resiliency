@@ -306,8 +306,8 @@ SCHEMA;
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-lg font-bold text-primary mb-2">Beyond Deep TMS & SPRAVATO</h4>
-                    <p class="text-gray-500 font-light text-sm leading-relaxed">Those who have tried Deep TMS and/or SPRAVATO without adequate response.</p>
+                    <h4 class="text-lg font-bold text-primary mb-2">Beyond Deep TMS & Spravato</h4>
+                    <p class="text-gray-500 font-light text-sm leading-relaxed">Those who have tried Deep TMS and/or Spravato without adequate response.</p>
                 </div>
 
                 <!-- Candidate 3 -->
@@ -485,7 +485,7 @@ SCHEMA;
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
                 <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
-                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">SPRAVATO® Treatment</a>
+                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
                 <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
                 <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
             </div>

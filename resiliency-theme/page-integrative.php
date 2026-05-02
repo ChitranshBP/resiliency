@@ -9,7 +9,7 @@ $page_schema = <<<'SCHEMA'
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Integrative Psychiatry","description":"Physician-led integrative psychiatry combining advanced psychiatric treatment with functional medicine and lifestyle interventions in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/integrative-psychiatry.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What makes integrative psychiatry different from traditional psychiatry?","acceptedAnswer":{"@type":"Answer","text":"Integrative psychiatry addresses biological, psychological, social, and lifestyle factors — not just prescribing medication. It incorporates nutritional optimization, hormone balance, neuromodulation, and lifestyle medicine."}},{"@type":"Question","name":"Do I need to stop my current medications for integrative psychiatry?","acceptedAnswer":{"@type":"Answer","text":"No. We work with your existing medications and optimize your regimen over time. We never abruptly stop medications without careful planning."}},{"@type":"Question","name":"Is integrative psychiatry covered by insurance?","acceptedAnswer":{"@type":"Answer","text":"The psychiatric evaluation and medication management components are covered by most insurance. Some integrative services like IV therapy and supplements may be out-of-pocket."}},{"@type":"Question","name":"Can I do virtual visits for integrative psychiatry?","acceptedAnswer":{"@type":"Answer","text":"Yes. Evaluations, medication management, and care coordination are available via telehealth. In-person visits are required for Deep TMS, SPRAVATO, and IV therapies."}},{"@type":"Question","name":"What conditions benefit most from integrative psychiatry?","acceptedAnswer":{"@type":"Answer","text":"Depression, anxiety, ADHD, bipolar disorder, PTSD, burnout, brain fog, and hormonal mood disorders all respond well to an integrative approach."}},{"@type":"Question","name":"Do you use pharmacogenetic testing in integrative psychiatry?","acceptedAnswer":{"@type":"Answer","text":"Yes. Pharmacogenetic testing helps us identify the most effective and well-tolerated medications for each patient's unique genetic profile, making medication selection more precise."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What makes integrative psychiatry different from traditional psychiatry?","acceptedAnswer":{"@type":"Answer","text":"Integrative psychiatry addresses biological, psychological, social, and lifestyle factors — not just prescribing medication. It incorporates nutritional optimization, hormone balance, neuromodulation, and lifestyle medicine."}},{"@type":"Question","name":"Do I need to stop my current medications for integrative psychiatry?","acceptedAnswer":{"@type":"Answer","text":"No. We work with your existing medications and optimize your regimen over time. We never abruptly stop medications without careful planning."}},{"@type":"Question","name":"Is integrative psychiatry covered by insurance?","acceptedAnswer":{"@type":"Answer","text":"The psychiatric evaluation and medication management components are covered by most insurance. Some integrative services like IV therapy and supplements may be out-of-pocket."}},{"@type":"Question","name":"Can I do virtual visits for integrative psychiatry?","acceptedAnswer":{"@type":"Answer","text":"Yes. Evaluations, medication management, and care coordination are available via telehealth. In-person visits are required for Deep TMS, Spravato, and IV therapies."}},{"@type":"Question","name":"What conditions benefit most from integrative psychiatry?","acceptedAnswer":{"@type":"Answer","text":"Depression, anxiety, ADHD, bipolar disorder, PTSD, burnout, brain fog, and hormonal mood disorders all respond well to an integrative approach."}},{"@type":"Question","name":"Do you use pharmacogenetic testing in integrative psychiatry?","acceptedAnswer":{"@type":"Answer","text":"Yes. Pharmacogenetic testing helps us identify the most effective and well-tolerated medications for each patient's unique genetic profile, making medication selection more precise."}}]}
 </script>
 SCHEMA;
 ?>
@@ -273,7 +273,7 @@ SCHEMA;
                             <i data-lucide="droplets" class="w-6 h-6"></i>
                         </div>
                         <div>
-                            <h4 class="text-white font-bold text-lg mb-2">SPRAVATO&reg; Treatment</h4>
+                            <h4 class="text-white font-bold text-lg mb-2">Spravato&reg; Treatment</h4>
                             <p class="text-gray-400 font-light">FDA-approved esketamine nasal spray for treatment-resistant depression, administered in our certified clinic.</p>
                         </div>
                     </div>
@@ -484,7 +484,7 @@ SCHEMA;
                         <i data-lucide="layers" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-2xl font-bold text-primary mb-4">All-In-One Practice</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Psychiatry, Deep TMS, SPRAVATO, IV therapy, supplements, and lifestyle medicine under one roof.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Psychiatry, Deep TMS, Spravato, IV therapy, supplements, and lifestyle medicine under one roof.</p>
                 </div>
 
                 <!-- Benefit 3 -->
@@ -520,7 +520,7 @@ SCHEMA;
                         <i data-lucide="trending-up" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Proven Results</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">7,000+ treatments completed with 80% clinic response rates for Deep TMS and SPRAVATO.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">7,000+ treatments completed with 80% clinic response rates for Deep TMS and Spravato.</p>
                 </div>
             </div>
         </div>
@@ -590,7 +590,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Absolutely. We offer secure telehealth appointments for psychiatric evaluations, medication management, and treatment planning. Some services like Deep TMS, SPRAVATO, and IV therapy require in-person visits at our Newport Beach or San Juan Capistrano offices.
+                            Absolutely. We offer secure telehealth appointments for psychiatric evaluations, medication management, and treatment planning. Some services like Deep TMS, Spravato, and IV therapy require in-person visits at our Newport Beach or San Juan Capistrano offices.
                         </div>
                     </div>
                 </div>

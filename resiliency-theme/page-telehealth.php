@@ -143,7 +143,7 @@
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-white font-bold text-lg mb-3">Treatment Planning</h4>
-                    <p class="text-gray-400 font-light leading-relaxed">Collaborative treatment planning for integrative psychiatry, including discussion of Deep TMS, SPRAVATO, and other in-person therapies.</p>
+                    <p class="text-gray-400 font-light leading-relaxed">Collaborative treatment planning for integrative psychiatry, including discussion of Deep TMS, Spravato, and other in-person therapies.</p>
                 </div>
 
                 <!-- Service 4 -->
@@ -193,7 +193,7 @@
                                     <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2]">
                                         <i data-lucide="check" class="w-4 h-4"></i>
                                     </div>
-                                    <span class="text-[#0B2035] font-medium text-sm">SPRAVATO Administration</span>
+                                    <span class="text-[#0B2035] font-medium text-sm">Spravato Administration</span>
                                 </div>
                                 <div class="flex items-center gap-3">
                                     <div class="bg-[#23bfe2]/20 p-1.5 rounded-lg text-[#23bfe2]">
@@ -333,7 +333,7 @@
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Telehealth is available for psychiatric evaluations, <a href="/medication-management/" class="text-[#23bfe2] underline hover:text-white">medication management</a>, follow-up appointments, and care coordination. Services that require an in-person visit at our Newport Beach or San Juan Capistrano clinics include <a href="/tms-therapy/" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="/spravato-therapy/" class="text-[#23bfe2] underline hover:text-white">SPRAVATO treatment</a>, <a href="/iv-vitamin-therapy/" class="text-[#23bfe2] underline hover:text-white">IV vitamin therapy</a>, and <a href="/nad-therapy/" class="text-[#23bfe2] underline hover:text-white">NAD+ infusions</a>.
+                            Telehealth is available for psychiatric evaluations, <a href="/medication-management/" class="text-[#23bfe2] underline hover:text-white">medication management</a>, follow-up appointments, and care coordination. Services that require an in-person visit at our Newport Beach or San Juan Capistrano clinics include <a href="/tms-therapy/" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="/spravato-therapy/" class="text-[#23bfe2] underline hover:text-white">Spravato treatment</a>, <a href="/iv-vitamin-therapy/" class="text-[#23bfe2] underline hover:text-white">IV vitamin therapy</a>, and <a href="/nad-therapy/" class="text-[#23bfe2] underline hover:text-white">NAD+ infusions</a>.
                         </div>
                     </div>
                 </div>
@@ -405,7 +405,7 @@
         <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
         <div class="flex flex-wrap gap-3">
             <a href="/medication-management/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
-            <a href="/spravato-therapy/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">SPRAVATO Treatment</a>
+            <a href="/spravato-therapy/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato Treatment</a>
             <a href="/adhd/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD Treatment</a>
             <a href="/depression/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
             <a href="/contact/" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Book an Appointment</a>

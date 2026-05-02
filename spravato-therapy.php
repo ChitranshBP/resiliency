@@ -1,14 +1,14 @@
 <?php
-$page_title       = 'SPRAVATO® (Esketamine) Treatment Newport Beach | Treatment-Resistant Depression | Resiliency Mind + Body Medicine';
-$page_description = 'SPRAVATO® (esketamine nasal spray) for treatment-resistant depression &amp; suicidal ideation in Newport Beach &amp; Orange County. FDA-approved, in-office ketamine treatment. Call (949) 996-5355.';
-$page_keywords    = 'SPRAVATO treatment Newport Beach, esketamine therapy Orange County, ketamine nasal spray Newport Beach, treatment-resistant depression Orange County, SPRAVATO Orange County CA, ketamine treatment Newport Beach, SPRAVATO San Juan Capistrano';
+$page_title       = 'Spravato® (Esketamine) Treatment Newport Beach | Treatment-Resistant Depression | Resiliency Mind + Body Medicine';
+$page_description = 'Spravato® (esketamine nasal spray) for treatment-resistant depression &amp; suicidal ideation in Newport Beach &amp; Orange County. FDA-approved, in-office ketamine treatment. Call (949) 996-5355.';
+$page_keywords    = 'Spravato treatment Newport Beach, esketamine therapy Orange County, ketamine nasal spray Newport Beach, treatment-resistant depression Orange County, Spravato Orange County CA, ketamine treatment Newport Beach, Spravato San Juan Capistrano';
 $page_canonical   = 'https://resiliencymbmedicine.com/spravato-therapy.php';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MedicalTherapy","name":"SPRAVATO® (Esketamine) Treatment","alternateName":"Ketamine Nasal Spray","description":"FDA-approved SPRAVATO (esketamine) nasal spray for treatment-resistant depression and major depressive disorder with acute suicidal ideation. Administered in-office under supervision.","url":"https://resiliencymbmedicine.com/spravato-therapy.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"Spravato® (Esketamine) Treatment","alternateName":"Ketamine Nasal Spray","description":"FDA-approved Spravato (esketamine) nasal spray for treatment-resistant depression and major depressive disorder with acute suicidal ideation. Administered in-office under supervision.","url":"https://resiliencymbmedicine.com/spravato-therapy.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How is SPRAVATO different from ketamine infusion?","acceptedAnswer":{"@type":"Answer","text":"SPRAVATO is an FDA-approved nasal spray (esketamine) administered in-office with medical supervision. Unlike IV ketamine infusions, SPRAVATO is FDA-approved specifically for treatment-resistant depression and is covered by most insurance plans."}},{"@type":"Question","name":"Will my insurance cover SPRAVATO treatment?","acceptedAnswer":{"@type":"Answer","text":"SPRAVATO is covered by most major insurance plans including Medicare when criteria for treatment-resistant depression are met. Our team handles prior authorization and benefits verification."}},{"@type":"Question","name":"How often are SPRAVATO treatment sessions?","acceptedAnswer":{"@type":"Answer","text":"The induction phase involves twice-weekly sessions for 4 weeks, then once weekly for weeks 5-8. A maintenance phase of every 1-2 weeks follows based on clinical response."}},{"@type":"Question","name":"Do I need to try antidepressants before qualifying for SPRAVATO?","acceptedAnswer":{"@type":"Answer","text":"Yes. SPRAVATO is FDA-approved for treatment-resistant depression, meaning patients must have tried and failed at least two antidepressant medications. It is also approved for major depressive disorder with acute suicidal ideation."}},{"@type":"Question","name":"Can I drive after a SPRAVATO session?","acceptedAnswer":{"@type":"Answer","text":"No. You must remain at the clinic for at least 2 hours of monitoring after each SPRAVATO session and cannot drive that day. You must arrange transportation home."}},{"@type":"Question","name":"How quickly does SPRAVATO work?","acceptedAnswer":{"@type":"Answer","text":"Many patients report improvement within 24-48 hours of their first SPRAVATO session, making it one of the fastest-acting treatments for treatment-resistant depression available today."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How is Spravato different from ketamine infusion?","acceptedAnswer":{"@type":"Answer","text":"Spravato is an FDA-approved nasal spray (esketamine) administered in-office with medical supervision. Unlike IV ketamine infusions, Spravato is FDA-approved specifically for treatment-resistant depression and is covered by most insurance plans."}},{"@type":"Question","name":"Will my insurance cover Spravato treatment?","acceptedAnswer":{"@type":"Answer","text":"Spravato is covered by most major insurance plans including Medicare when criteria for treatment-resistant depression are met. Our team handles prior authorization and benefits verification."}},{"@type":"Question","name":"How often are Spravato treatment sessions?","acceptedAnswer":{"@type":"Answer","text":"The induction phase involves twice-weekly sessions for 4 weeks, then once weekly for weeks 5-8. A maintenance phase of every 1-2 weeks follows based on clinical response."}},{"@type":"Question","name":"Do I need to try antidepressants before qualifying for Spravato?","acceptedAnswer":{"@type":"Answer","text":"Yes. Spravato is FDA-approved for treatment-resistant depression, meaning patients must have tried and failed at least two antidepressant medications. It is also approved for major depressive disorder with acute suicidal ideation."}},{"@type":"Question","name":"Can I drive after a Spravato session?","acceptedAnswer":{"@type":"Answer","text":"No. You must remain at the clinic for at least 2 hours of monitoring after each Spravato session and cannot drive that day. You must arrange transportation home."}},{"@type":"Question","name":"How quickly does Spravato work?","acceptedAnswer":{"@type":"Answer","text":"Many patients report improvement within 24-48 hours of their first Spravato session, making it one of the fastest-acting treatments for treatment-resistant depression available today."}}]}
 </script>
 SCHEMA;
 ?>
@@ -30,7 +30,7 @@ SCHEMA;
                     <span class="text-[#23bfe2] text-xs sm:text-sm font-bold tracking-widest uppercase">Esketamine Nasal Spray</span>
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
-                    SPRAVATO&reg; <span class="text-[#23bfe2] font-light">Treatment</span>
+                    Spravato&reg; <span class="text-[#23bfe2] font-light">Treatment</span>
                     <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
@@ -60,7 +60,7 @@ SCHEMA;
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Redefining Depression Treatment</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        SPRAVATO&reg; (esketamine) is the first FDA-approved nasal spray medication, taken with an oral antidepressant, for adults with treatment-resistant depression (TRD) and depressive symptoms in adults with major depressive disorder (MDD) with suicidal thoughts or actions.
+                        Spravato&reg; (esketamine) is the first FDA-approved nasal spray medication, taken with an oral antidepressant, for adults with treatment-resistant depression (TRD) and depressive symptoms in adults with major depressive disorder (MDD) with suicidal thoughts or actions.
                     </p>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
                         Unlike traditional antidepressants that can take weeks to show results, Spravato works differently by targeting the N-methyl-D-aspartate (NMDA) receptor, helping to restore neural connections in the brain faster and more effectively for many patients.
@@ -103,7 +103,7 @@ SCHEMA;
         </div>
     </section>
 
-    <!-- Featured Video: SPRAVATO with Resiliency -->
+    <!-- Featured Video: Spravato with Resiliency -->
     <section class="py-12 bg-white relative overflow-hidden">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <div class="flex flex-col lg:flex-row items-center gap-12">
@@ -114,7 +114,7 @@ SCHEMA;
                         <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Visual Insight</h2>
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold text-[#0B2035] mb-8 leading-tight">
-                        Experience SPRAVATO <br><span class="text-[#23bfe2]">at Resiliency</span>
+                        Experience Spravato <br><span class="text-[#23bfe2]">at Resiliency</span>
                     </h3>
                     <p class="text-gray-600 text-lg font-light leading-relaxed mb-8">
                         Get a glimpse into the healing journey with Spravato at our Newport Beach clinic. We prioritize your comfort and safety every step of the way, providing a serene environment where you can focus on your recovery.
@@ -147,7 +147,7 @@ SCHEMA;
                         <iframe 
                             class="absolute inset-0 w-full h-full"
                             src="https://www.youtube.com/embed/HPLexvo4ht0?autoplay=0&controls=1&rel=0" 
-                            title="SPRAVATO with Resiliency" 
+                            title="Spravato with Resiliency" 
                             frameborder="0" 
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                             allowfullscreen>
@@ -331,7 +331,7 @@ SCHEMA;
                         </ul>
                         <div class="mt-8 pt-8 border-t border-gray-200">
                             <p class="text-xs text-gray-400 leading-relaxed uppercase tracking-widest font-bold">REMS Certified Clinic</p>
-                            <p class="text-sm text-gray-500 mt-2 font-light italic">Resiliency is a fully certified SPRAVATO&reg; REMS site, ensuring the highest standards of safety and care.</p>
+                            <p class="text-sm text-gray-500 mt-2 font-light italic">Resiliency is a fully certified Spravato&reg; REMS site, ensuring the highest standards of safety and care.</p>
                         </div>
                     </div>
                 </div>
@@ -358,7 +358,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            SPRAVATO&reg; is esketamine, an intranasal spray, while ketamine is typically administered through an IV (intravenous) infusion. Spravato is the only esketamine nasal spray that is FDA-approved and often covered by insurance for treatment-resistant depression.
+                            Spravato&reg; is esketamine, an intranasal spray, while ketamine is typically administered through an IV (intravenous) infusion. Spravato is the only esketamine nasal spray that is FDA-approved and often covered by insurance for treatment-resistant depression.
                         </div>
                     </div>
                 </div>
@@ -396,14 +396,14 @@ SCHEMA;
                 <!-- FAQ Item 4 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>Do I need to try antidepressants before qualifying for SPRAVATO®?</span>
+                        <span>Do I need to try antidepressants before qualifying for Spravato®?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes — SPRAVATO® is FDA-approved for <strong>treatment-resistant depression</strong>, which means patients must have tried and failed at least two different antidepressant medications at adequate doses and durations. It is also approved for <a href="suicidal-ideation.php" class="text-[#23bfe2] underline hover:text-white">major depressive disorder with acute suicidal ideation</a>. Our team will review your history to confirm eligibility during your initial consultation.
+                            Yes — Spravato® is FDA-approved for <strong>treatment-resistant depression</strong>, which means patients must have tried and failed at least two different antidepressant medications at adequate doses and durations. It is also approved for <a href="suicidal-ideation.php" class="text-[#23bfe2] underline hover:text-white">major depressive disorder with acute suicidal ideation</a>. Our team will review your history to confirm eligibility during your initial consultation.
                         </div>
                     </div>
                 </div>

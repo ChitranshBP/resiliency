@@ -158,7 +158,7 @@
                     <div class="w-16 h-16 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="droplets" class="w-8 h-8"></i>
                     </div>
-                    <h4 class="text-2xl font-bold text-white mb-4">SPRAVATO</h4>
+                    <h4 class="text-2xl font-bold text-white mb-4">Spravato</h4>
                     <p class="text-gray-400 font-light leading-relaxed">Covered by many plans for treatment-resistant depression. Requires prior authorization, which our team manages.</p>
                 </div>
 
@@ -240,7 +240,7 @@
                             </div>
                             <div>
                                 <h4 class="text-xl font-bold text-[#0B2035] mb-2">Prior Authorization</h4>
-                                <p class="text-gray-500 font-light leading-relaxed">For Deep TMS, SPRAVATO, and other procedures, we handle the entire prior authorization process with your insurer.</p>
+                                <p class="text-gray-500 font-light leading-relaxed">For Deep TMS, Spravato, and other procedures, we handle the entire prior authorization process with your insurer.</p>
                             </div>
                         </div>
 

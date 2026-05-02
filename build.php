@@ -58,6 +58,7 @@ $pages = [
     'newport-beach.php' => 'newport-beach.html',
     'san-juan-capistrano.php' => 'san-juan-capistrano.html',
     'proliv-rx.php' => 'proliv-rx.html',
+    'thank-you.php' => 'thank-you.html',
 ];
 $assets_dirs = ['assets', 'css', 'js'];
 

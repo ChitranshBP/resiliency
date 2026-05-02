@@ -69,14 +69,14 @@
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal group text-center">
                     <p class="text-5xl md:text-6xl font-bold text-[#23bfe2] mb-3">7,000+</p>
                     <h4 class="text-xl font-bold text-white mb-2">Treatments Completed</h4>
-                    <p class="text-gray-300 font-light text-sm leading-relaxed">Deep TMS, SPRAVATO, and interventional psychiatry treatments delivered.</p>
+                    <p class="text-gray-300 font-light text-sm leading-relaxed">Deep TMS, Spravato, and interventional psychiatry treatments delivered.</p>
                 </div>
 
                 <!-- Stat 2 -->
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:bg-white/10 transition-all duration-300 reveal reveal-delay-1 group text-center">
                     <p class="text-5xl md:text-6xl font-bold text-[#23bfe2] mb-3">80%</p>
                     <h4 class="text-xl font-bold text-white mb-2">Clinic Response Rate</h4>
-                    <p class="text-gray-300 font-light text-sm leading-relaxed">Patient response rate for Deep TMS and SPRAVATO combined.</p>
+                    <p class="text-gray-300 font-light text-sm leading-relaxed">Patient response rate for Deep TMS and Spravato combined.</p>
                 </div>
 
                 <!-- Stat 3 -->

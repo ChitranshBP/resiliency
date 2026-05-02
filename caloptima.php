@@ -117,7 +117,7 @@
                     <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-5 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="droplets" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-lg font-bold text-white mb-2">SPRAVATO</h4>
+                    <h4 class="text-lg font-bold text-white mb-2">Spravato</h4>
                     <p class="text-gray-400 font-light text-sm leading-relaxed">Esketamine treatment with prior authorization for treatment-resistant depression.</p>
                 </div>
             </div>
@@ -146,7 +146,7 @@
                 <div class="bg-white rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4">02</div>
                     <h4 class="text-2xl font-bold text-primary mb-4">Prior Authorization</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">For Deep TMS and SPRAVATO, we handle the entire prior authorization process with CalOptima on your behalf.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">For Deep TMS and Spravato, we handle the entire prior authorization process with CalOptima on your behalf.</p>
                 </div>
 
                 <!-- Step 3 -->

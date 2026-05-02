@@ -91,7 +91,7 @@ if (!defined('ABSPATH')) {
                                 </div>
                             </div>
 
-                            <a href="<?php echo esc_url(home_url('/spravato-treatment-in-orange-county/')); ?>" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">SPRAVATO® Treatment</a>
+                            <a href="<?php echo esc_url(home_url('/spravato-treatment-in-orange-county/')); ?>" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Spravato® Treatment</a>
                             <a href="<?php echo esc_url(home_url('/conservative-medication-management/')); ?>" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medication Management</a>
                             <a href="<?php echo esc_url(home_url('/pharmacogenetic-testing/')); ?>" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Pharmacogenetic Testing</a>
                             <a href="<?php echo esc_url(home_url('/integrative-psychiatry-orange-county/')); ?>" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Integrative Psychiatry</a>
@@ -238,7 +238,7 @@ if (!defined('ABSPATH')) {
                         </div>
                     </div>
 
-                    <a href="<?php echo esc_url(home_url('/spravato-treatment-in-orange-county/')); ?>" class="text-white/80 hover:text-white transition-colors">SPRAVATO® Treatment</a>
+                    <a href="<?php echo esc_url(home_url('/spravato-treatment-in-orange-county/')); ?>" class="text-white/80 hover:text-white transition-colors">Spravato® Treatment</a>
                     <a href="<?php echo esc_url(home_url('/conservative-medication-management/')); ?>" class="text-white/80 hover:text-white transition-colors">Medication Management</a>
                     <a href="<?php echo esc_url(home_url('/pharmacogenetic-testing/')); ?>" class="text-white/80 hover:text-white transition-colors">Pharmacogenetic Testing</a>
                     <a href="<?php echo esc_url(home_url('/integrative-psychiatry-orange-county/')); ?>" class="text-white/80 hover:text-white transition-colors">Integrative Psychiatry</a>

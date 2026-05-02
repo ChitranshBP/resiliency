@@ -51,7 +51,7 @@
                         Resiliency Mind + Body Medicine is a boutique clinical practice specializing in advanced neuro-psychiatric treatments and integrative wellness. Founded by Dr. Stefani LaFrenierre, MD, our practice was built on the belief that mental health care should be comprehensive, compassionate, and personalized.
                     </p>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
-                        We combine cutting-edge interventional psychiatry&mdash;including Deep TMS, SPRAVATO, and conservative medication management&mdash;with functional medicine, nutritional optimization, and lifestyle interventions.
+                        We combine cutting-edge interventional psychiatry&mdash;including Deep TMS, Spravato, and conservative medication management&mdash;with functional medicine, nutritional optimization, and lifestyle interventions.
                     </p>
 
                     <div class="bg-neutral p-6 rounded-2xl mb-8 border border-gray-100">

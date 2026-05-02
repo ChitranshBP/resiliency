@@ -1,14 +1,14 @@
 <?php
-$page_title       = 'Suicidal Ideation Treatment Newport Beach | SPRAVATO &amp; TMS Crisis Care | Resiliency Mind + Body Medicine';
-$page_description = 'Compassionate, evidence-based treatment for suicidal ideation in Newport Beach &amp; Orange County, CA. SPRAVATO® &amp; Deep TMS provide rapid relief for severe depression &amp; suicidal thoughts. Call (949) 996-5355.';
-$page_keywords    = 'suicidal ideation treatment Newport Beach, SPRAVATO suicidal ideation Orange County, crisis psychiatric care Newport Beach CA, suicidal thoughts treatment Orange County, rapid depression treatment Newport Beach, TMS suicidal ideation Orange County CA';
+$page_title       = 'Suicidal Ideation Treatment Newport Beach | Spravato &amp; TMS Crisis Care | Resiliency Mind + Body Medicine';
+$page_description = 'Compassionate, evidence-based treatment for suicidal ideation in Newport Beach &amp; Orange County, CA. Spravato® &amp; Deep TMS provide rapid relief for severe depression &amp; suicidal thoughts. Call (949) 996-5355.';
+$page_keywords    = 'suicidal ideation treatment Newport Beach, Spravato suicidal ideation Orange County, crisis psychiatric care Newport Beach CA, suicidal thoughts treatment Orange County, rapid depression treatment Newport Beach, TMS suicidal ideation Orange County CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/suicidal-ideation.php';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MedicalCondition","name":"Suicidal Ideation","alternateName":["Suicidal Thoughts","SI","Major Depressive Disorder with Suicidal Ideation"],"description":"Evidence-based treatment for suicidal ideation using SPRAVATO and Deep TMS in Newport Beach and San Juan Capistrano, CA. Rapid relief for severe depression and suicidal thoughts.","url":"https://resiliencymbmedicine.com/suicidal-ideation.php","relevantSpecialty":"Psychiatry","possibleTreatment":[{"@type":"MedicalTherapy","name":"SPRAVATO Treatment","url":"https://resiliencymbmedicine.com/spravato-therapy.php"},{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"}]}
+{"@context":"https://schema.org","@type":"MedicalCondition","name":"Suicidal Ideation","alternateName":["Suicidal Thoughts","SI","Major Depressive Disorder with Suicidal Ideation"],"description":"Evidence-based treatment for suicidal ideation using Spravato and Deep TMS in Newport Beach and San Juan Capistrano, CA. Rapid relief for severe depression and suicidal thoughts.","url":"https://resiliencymbmedicine.com/suicidal-ideation.php","relevantSpecialty":"Psychiatry","possibleTreatment":[{"@type":"MedicalTherapy","name":"Spravato Treatment","url":"https://resiliencymbmedicine.com/spravato-therapy.php"},{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is SPRAVATO for suicidal ideation?","acceptedAnswer":{"@type":"Answer","text":"SPRAVATO (esketamine) is FDA-approved for major depressive disorder with acute suicidal ideation or behavior. Clinical trials show rapid reduction in suicidal thoughts within 24 hours of the first dose."}},{"@type":"Question","name":"How quickly can I be seen for suicidal ideation?","acceptedAnswer":{"@type":"Answer","text":"We prioritize urgent appointments for patients experiencing suicidal ideation. Call (949) 996-5355 for same-day or next-day availability. If in immediate danger, call 988 (Suicide & Crisis Lifeline) or 911."}},{"@type":"Question","name":"Do you provide ongoing support after acute crisis treatment?","acceptedAnswer":{"@type":"Answer","text":"Yes. We provide comprehensive ongoing care including medication management, maintenance SPRAVATO or TMS sessions, and safety planning to support long-term wellbeing."}},{"@type":"Question","name":"Is SPRAVATO safe for patients with suicidal thoughts?","acceptedAnswer":{"@type":"Answer","text":"Yes. SPRAVATO is FDA-approved specifically for MDD with acute suicidal ideation. All sessions are administered under direct medical supervision with a 2-hour monitoring period after each dose."}},{"@type":"Question","name":"Can Deep TMS help with suicidal ideation?","acceptedAnswer":{"@type":"Answer","text":"Yes. Deep TMS addresses the underlying depression driving suicidal thoughts. For acute suicidal ideation, SPRAVATO typically provides faster relief while TMS builds longer-term mood stability."}},{"@type":"Question","name":"Do you work with my therapist or other providers?","acceptedAnswer":{"@type":"Answer","text":"Yes. We coordinate care with your existing therapist, primary care provider, and other specialists to ensure a comprehensive, integrated safety and treatment plan."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Spravato for suicidal ideation?","acceptedAnswer":{"@type":"Answer","text":"Spravato (esketamine) is FDA-approved for major depressive disorder with acute suicidal ideation or behavior. Clinical trials show rapid reduction in suicidal thoughts within 24 hours of the first dose."}},{"@type":"Question","name":"How quickly can I be seen for suicidal ideation?","acceptedAnswer":{"@type":"Answer","text":"We prioritize urgent appointments for patients experiencing suicidal ideation. Call (949) 996-5355 for same-day or next-day availability. If in immediate danger, call 988 (Suicide & Crisis Lifeline) or 911."}},{"@type":"Question","name":"Do you provide ongoing support after acute crisis treatment?","acceptedAnswer":{"@type":"Answer","text":"Yes. We provide comprehensive ongoing care including medication management, maintenance Spravato or TMS sessions, and safety planning to support long-term wellbeing."}},{"@type":"Question","name":"Is Spravato safe for patients with suicidal thoughts?","acceptedAnswer":{"@type":"Answer","text":"Yes. Spravato is FDA-approved specifically for MDD with acute suicidal ideation. All sessions are administered under direct medical supervision with a 2-hour monitoring period after each dose."}},{"@type":"Question","name":"Can Deep TMS help with suicidal ideation?","acceptedAnswer":{"@type":"Answer","text":"Yes. Deep TMS addresses the underlying depression driving suicidal thoughts. For acute suicidal ideation, Spravato typically provides faster relief while TMS builds longer-term mood stability."}},{"@type":"Question","name":"Do you work with my therapist or other providers?","acceptedAnswer":{"@type":"Answer","text":"Yes. We coordinate care with your existing therapist, primary care provider, and other specialists to ensure a comprehensive, integrated safety and treatment plan."}}]}
 </script>
 SCHEMA;
 ?>
@@ -33,7 +33,7 @@ SCHEMA;
                     <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Find hope and healing with Deep TMS and SPRAVATO® — advanced, evidence-based treatments for severe depression and suicidal ideation at Resiliency Mind+Body Medicine.
+                    Find hope and healing with Deep TMS and Spravato® — advanced, evidence-based treatments for severe depression and suicidal ideation at Resiliency Mind+Body Medicine.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -107,7 +107,7 @@ SCHEMA;
                     <div class="rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 w-[320px] h-[568px]">
                         <iframe
                             src="https://www.youtube.com/embed/-LYaC5mNnDo"
-                            title="Deep TMS and SPRAVATO for Suicidal Ideation at Resiliency"
+                            title="Deep TMS and Spravato for Suicidal Ideation at Resiliency"
                             frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen
@@ -120,7 +120,7 @@ SCHEMA;
         </div>
     </section>
 
-    <!-- How Deep TMS & SPRAVATO Work -->
+    <!-- How Deep TMS & Spravato Work -->
     <section class="py-16 bg-[#0B2035] relative overflow-hidden text-white border-t border-white/10">
         <div class="absolute inset-0 z-0 bg-gradient-to-b from-[#0B2035] via-[#0B2035]/95 to-[#0B2035]"></div>
         <div class="absolute -top-40 -left-40 w-96 h-96 bg-[#23bfe2]/10 rounded-full blur-[100px] pointer-events-none"></div>
@@ -148,14 +148,14 @@ SCHEMA;
                     </p>
                 </div>
 
-                <!-- SPRAVATO -->
+                <!-- Spravato -->
                 <div class="bg-white/5 border border-white/10 rounded-[2rem] p-10 hover:-translate-y-2 transition-all duration-300 reveal reveal-delay-1 group flex flex-col items-center text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/20 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="droplets" class="w-7 h-7"></i>
                     </div>
-                    <h4 class="text-2xl font-bold mb-4">How SPRAVATO® Works for Suicidal Ideation</h4>
+                    <h4 class="text-2xl font-bold mb-4">How Spravato® Works for Suicidal Ideation</h4>
                     <p class="text-gray-300 font-light leading-relaxed">
-                        SPRAVATO® (esketamine) works by rapidly modulating glutamate pathways in the brain, helping restore neural connections involved in mood regulation and stress response. When used alongside comprehensive psychiatric care, it can quickly reduce the intensity of depressive symptoms and suicidal thoughts for many patients.
+                        Spravato® (esketamine) works by rapidly modulating glutamate pathways in the brain, helping restore neural connections involved in mood regulation and stress response. When used alongside comprehensive psychiatric care, it can quickly reduce the intensity of depressive symptoms and suicidal thoughts for many patients.
                     </p>
                 </div>
             </div>
@@ -173,7 +173,7 @@ SCHEMA;
                     <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Benefits</h2>
                     <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
                 </div>
-                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Benefits of Deep TMS and SPRAVATO®</h3>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Benefits of Deep TMS and Spravato®</h3>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -198,7 +198,7 @@ SCHEMA;
                         <i data-lucide="heart" class="w-8 h-8"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">Emotional Stability</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS and SPRAVATO® can help enhance mood stability and emotional well-being by improving brain function.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS and Spravato® can help enhance mood stability and emotional well-being by improving brain function.</p>
                 </div>
             </div>
 
@@ -206,7 +206,7 @@ SCHEMA;
             <div class="mt-12 bg-[#23bfe2]/10 border border-[#23bfe2]/20 rounded-2xl p-6 text-center reveal">
                 <p class="text-[#0B2035] font-semibold leading-relaxed">
                     <i data-lucide="file-check-2" class="w-5 h-5 inline text-[#23bfe2] mr-1"></i>
-                    Both SPRAVATO® and Deep TMS are covered by many insurance plans when medical criteria are met. Our team provides dedicated support with benefits verification and prior authorization to help reduce barriers to care.
+                    Both Spravato® and Deep TMS are covered by many insurance plans when medical criteria are met. Our team provides dedicated support with benefits verification and prior authorization to help reduce barriers to care.
                 </p>
             </div>
         </div>
@@ -232,7 +232,7 @@ SCHEMA;
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">01</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-4">Comprehensive Evaluation</h4>
                         <p class="text-gray-500 font-light leading-relaxed">
-                            Our team assesses your medical history, current symptoms, and treatment goals to determine if Deep TMS or SPRAVATO® is the right choice for you.
+                            Our team assesses your medical history, current symptoms, and treatment goals to determine if Deep TMS or Spravato® is the right choice for you.
                         </p>
                     </div>
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
@@ -245,7 +245,7 @@ SCHEMA;
                         <div class="text-6xl font-bold text-[#23bfe2]/20 mb-4 group-hover:text-[#23bfe2]/40 transition-colors">02</div>
                         <h4 class="text-xl font-bold text-[#0B2035] mb-4">Personalized Treatment</h4>
                         <p class="text-gray-500 font-light leading-relaxed">
-                            Deep TMS sessions last about 10 minutes, five days a week for several weeks. SPRAVATO® sessions last 2 hours and occur twice weekly for the first month for suicidal ideations. No anesthesia needed for either.
+                            Deep TMS sessions last about 10 minutes, five days a week for several weeks. Spravato® sessions last 2 hours and occur twice weekly for the first month for suicidal ideations. No anesthesia needed for either.
                         </p>
                     </div>
                     <div class="hidden lg:block absolute top-1/2 -right-4 text-[#23bfe2]/30">
@@ -323,14 +323,14 @@ SCHEMA;
             <div class="space-y-4">
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="faq-toggle w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>What is SPRAVATO for suicidal ideation?</span>
+                        <span>What is Spravato for suicidal ideation?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            SPRAVATO is the only FDA-approved treatment specifically for MDD with acute suicidal ideation. It works through different brain pathways than traditional antidepressants and can provide relief within hours.
+                            Spravato is the only FDA-approved treatment specifically for MDD with acute suicidal ideation. It works through different brain pathways than traditional antidepressants and can provide relief within hours.
                         </div>
                     </div>
                 </div>
@@ -366,14 +366,14 @@ SCHEMA;
                 <!-- FAQ Item 4 -->
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>Is SPRAVATO® safe for patients with suicidal thoughts?</span>
+                        <span>Is Spravato® safe for patients with suicidal thoughts?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes — <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">SPRAVATO® (esketamine)</a> is specifically FDA-approved for major depressive disorder with acute suicidal ideation or behavior. Clinical trials showed rapid reduction in suicidal thoughts within 24 hours of the first dose. All SPRAVATO® sessions are administered in our clinic under direct medical supervision, with a mandatory 2-hour monitoring period after each dose to ensure safety. Our team is also trained in crisis assessment and safety planning.
+                            Yes — <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">Spravato® (esketamine)</a> is specifically FDA-approved for major depressive disorder with acute suicidal ideation or behavior. Clinical trials showed rapid reduction in suicidal thoughts within 24 hours of the first dose. All Spravato® sessions are administered in our clinic under direct medical supervision, with a mandatory 2-hour monitoring period after each dose to ensure safety. Our team is also trained in crisis assessment and safety planning.
                         </div>
                     </div>
                 </div>
@@ -447,7 +447,7 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">SPRAVATO® Treatment</a>
+                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
                 <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
                 <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
                 <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
