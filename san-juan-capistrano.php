@@ -165,36 +165,54 @@ SCHEMA;
                 <h3 class="text-4xl md:text-5xl font-bold text-white mb-6">What We Offer in San Juan Capistrano</h3>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                <!-- Psychiatric Evaluations -->
-                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
-                        <i data-lucide="pill" class="w-7 h-7"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-white mb-3">Psychiatric Evaluations</h4>
-                    <p class="text-gray-300 font-light leading-relaxed">Comprehensive initial evaluations and diagnostic assessments.</p>
-                </div>
-
-                <!-- Medication Management -->
-                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
-                        <i data-lucide="file-check-2" class="w-7 h-7"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-white mb-3">Medication Management</h4>
-                    <p class="text-gray-300 font-light leading-relaxed">Ongoing medication management with our conservative, integrative approach.</p>
-                </div>
-
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Deep TMS Therapy -->
                 <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Deep TMS Therapy</h4>
-                    <p class="text-gray-300 font-light leading-relaxed">Deep TMS sessions for depression, OCD, anxiety, and PTSD.</p>
+                    <p class="text-gray-300 font-light leading-relaxed">BrainsWay Deep TMS for depression, OCD, anxiety, and PTSD. FDA-cleared with 80% response rates.</p>
+                </div>
+
+                <!-- Accelerated Deep TMS (SWIFT) -->
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
+                        <i data-lucide="zap" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-3">Accelerated Deep TMS (SWIFT)</h4>
+                    <p class="text-gray-300 font-light leading-relaxed">Remission in 5 days with our accelerated protocol. BrainsWay Ultra Provider.</p>
+                </div>
+
+                <!-- Spravato Treatment -->
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
+                        <i data-lucide="droplets" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-3">Spravato&reg; Treatment</h4>
+                    <p class="text-gray-300 font-light leading-relaxed">FDA-approved esketamine nasal spray for treatment-resistant depression, administered in our certified clinic.</p>
+                </div>
+
+                <!-- Medication Management -->
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
+                        <i data-lucide="pill" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-3">Medication Management</h4>
+                    <p class="text-gray-300 font-light leading-relaxed">Conservative, personalized psychiatric medication with integrative approach.</p>
+                </div>
+
+                <!-- IV & NAD+ Therapy -->
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
+                        <i data-lucide="flask-conical" class="w-7 h-7"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-3">IV &amp; NAD+ Therapy</h4>
+                    <p class="text-gray-300 font-light leading-relaxed">Vitamin IV drips, NAD+ infusions, and methylene blue for wellness and cognitive enhancement.</p>
                 </div>
 
                 <!-- Telehealth Options -->
-                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-1 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
+                <div class="bg-white/5 backdrop-blur-sm rounded-[2rem] p-8 border border-white/10 reveal reveal-delay-2 hover:-translate-y-2 hover:bg-white/10 transition-all duration-300 text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto">
                         <i data-lucide="laptop" class="w-7 h-7"></i>
                     </div>
