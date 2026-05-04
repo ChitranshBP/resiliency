@@ -28,6 +28,9 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <meta name="robots" content="index, follow">
     <meta name="author" content="Resiliency Mind + Body Medicine">
 
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/images/logo/Resiliency-FAVICON.png">
+
     <!-- Canonical URL -->
     <link rel="canonical" href="<?php echo $page_canonical; ?>">
 
