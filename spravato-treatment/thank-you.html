@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You | Resiliency Mind + Body Medicine</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:ital,wght@0,600;0,700;0,800;1,400;1,700&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            cyan: { DEFAULT:'#23bfe2', light:'rgba(35,191,226,0.12)', hover:'#1da8c8' },
+            navy: { DEFAULT:'#0B2035', light:'#132d4a', card:'#0f2740' },
+          },
+          fontFamily: { heading:['Montserrat','sans-serif'], body:['Inter','sans-serif'] },
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .fade-in { animation: fadeIn 0.6s ease-out forwards; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+    .pulse-check { animation: pulse 0.5s ease-out; }
+    @keyframes pulse { 0% { transform: scale(0); } 50% { transform: scale(1.2); } 100% { transform: scale(1); } }
+  </style>
+</head>
+<body class="font-body text-slate-600 bg-white antialiased overflow-x-hidden">
+
+  <!-- HEADER -->
+  <header class="bg-navy py-4">
+    <div class="max-w-7xl mx-auto px-6 flex items-center justify-center">
+      <a href="index.html" class="flex items-center">
+        <img src="images/logo.png" alt="Resiliency Mind + Body Medicine" class="h-16">
+      </a>
+    </div>
+  </header>
+
+  <!-- THANK YOU CONTENT -->
+  <section class="min-h-[80vh] flex items-center justify-center py-20 bg-gradient-to-b from-slate-50 to-white">
+    <div class="max-w-2xl mx-auto px-6 text-center fade-in">
+      <!-- Check Icon -->
+      <div class="w-24 h-24 mx-auto mb-8 rounded-full bg-cyan-light flex items-center justify-center">
+        <svg class="w-12 h-12 text-cyan pulse-check" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+          <polyline points="20 6 9 17 4 12"/>
+        </svg>
+      </div>
+
+      <!-- Heading -->
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-navy mb-4">You're All Set!</h1>
+      <div class="w-16 h-0.5 bg-cyan mx-auto mb-6"></div>
+
+      <!-- Message -->
+      <p class="text-lg text-slate-600 leading-relaxed mb-8">
+        Your consultation request has been received. Our team will review your information and reach out within <strong class="text-navy">1–2 business days</strong> to confirm your appointment.
+      </p>
+
+      <!-- What to Expect -->
+      <div class="bg-navy rounded-3xl p-8 mb-8 text-left">
+        <h3 class="font-heading text-xl font-bold text-white mb-6 text-center">What Happens Next</h3>
+        <div class="space-y-5">
+          <div class="flex items-start gap-4">
+            <div class="w-10 h-10 min-w-10 rounded-full bg-cyan flex items-center justify-center text-navy font-heading font-bold">1</div>
+            <div>
+              <h4 class="text-white font-semibold mb-1">Confirmation Email</h4>
+              <p class="text-white/70 text-sm">Check your inbox for a confirmation with your consultation details.</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4">
+            <div class="w-10 h-10 min-w-10 rounded-full bg-cyan flex items-center justify-center text-navy font-heading font-bold">2</div>
+            <div>
+              <h4 class="text-white font-semibold mb-1">Insurance Verification</h4>
+              <p class="text-white/70 text-sm">Our team will verify your coverage and explain any out-of-pocket costs upfront.</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4">
+            <div class="w-10 h-10 min-w-10 rounded-full bg-cyan flex items-center justify-center text-navy font-heading font-bold">3</div>
+            <div>
+              <h4 class="text-white font-semibold mb-1">Your Appointment</h4>
+              <p class="text-white/70 text-sm">We'll call to schedule your first Spravato consultation at your preferred location.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Key Points -->
+      <div class="grid sm:grid-cols-2 gap-4 mb-10">
+        <div class="bg-white border border-slate-200 rounded-2xl p-5 text-left">
+          <div class="w-10 h-10 rounded-full bg-cyan-light flex items-center justify-center text-cyan mb-3">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6A19.79 19.79 0 012.12 4.11 2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+          </div>
+          <h4 class="font-heading font-bold text-navy mb-1">Questions?</h4>
+          <p class="text-slate-500 text-sm">Call us anytime at <a href="tel:+19499965355" class="text-cyan font-semibold">(949) 996-5355</a></p>
+        </div>
+        <div class="bg-white border border-slate-200 rounded-2xl p-5 text-left">
+          <div class="w-10 h-10 rounded-full bg-cyan-light flex items-center justify-center text-cyan mb-3">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+          </div>
+          <h4 class="font-heading font-bold text-navy mb-1">Available Locations</h4>
+          <p class="text-slate-500 text-sm">Newport Beach &amp; San Juan Capistrano</p>
+        </div>
+      </div>
+
+      <!-- Back to Home -->
+      <a href="index.html" class="inline-flex items-center gap-2 px-8 py-3.5 bg-navy text-white font-heading font-bold rounded-2xl hover:bg-navy-light hover:shadow-xl transition-all">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M15 19l-7-7 7-7"/></svg>
+        Back to Home
+      </a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-navy pt-10 pb-6">
+    <div class="max-w-7xl mx-auto px-6 text-center">
+      <p class="text-white/40 text-xs mb-4">&copy; 2026 Resiliency Mind + Body Medicine. All rights reserved.</p>
+      <div class="flex justify-center gap-6">
+        <a href="#" class="text-white/30 text-xs hover:text-cyan">Privacy Policy</a>
+        <a href="#" class="text-white/30 text-xs hover:text-cyan">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

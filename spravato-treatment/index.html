@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resiliency Mind + Body Medicine | SPRAVATO® Treatment</title>
+  <meta name="description" content="FDA-approved SPRAVATO® treatment for treatment-resistant depression. Rapid relief at our Newport Beach clinic.">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:ital,wght@0,600;0,700;0,800;1,400;1,700&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            cyan: { DEFAULT:'#23bfe2', light:'rgba(35,191,226,0.12)', hover:'#1da8c8' },
+            navy: { DEFAULT:'#0B2035', light:'#132d4a', card:'#0f2740' },
+          },
+          fontFamily: { heading:['Montserrat','sans-serif'], body:['Inter','sans-serif'] },
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="font-body text-slate-600 bg-white antialiased overflow-x-hidden">
+
+  <!-- HEADER -->
+  <header id="header" class="header fixed top-0 left-0 right-0 z-50 transition-all duration-300 py-4">
+    <div class="max-w-7xl mx-auto px-6 flex items-center justify-between">
+      <a href="#" class="flex items-center">
+        <img src="images/logo.png" alt="Resiliency Mind + Body Medicine" class="header-logo h-16 transition-all duration-300">
+      </a>
+      <nav class="hidden lg:flex items-center gap-8">
+        <a href="#about" class="text-white text-sm font-medium hover:text-cyan transition-colors">Mental Health</a>
+        <a href="#services" class="text-white text-sm font-medium hover:text-cyan transition-colors">Wellness</a>
+        <a href="#conditions" class="text-white text-sm font-medium hover:text-cyan transition-colors">Conditions</a>
+        <a href="#team" class="text-white text-sm font-medium hover:text-cyan transition-colors">Meet The Team</a>
+        <a href="#resources" class="text-white text-sm font-medium hover:text-cyan transition-colors">Resources</a>
+        <a href="#contact" class="text-white text-sm font-medium hover:text-cyan transition-colors">Contact</a>
+      </nav>
+      <div class="hidden lg:flex items-center gap-5">
+        <a href="tel:+19499965355" class="flex items-center gap-2 text-white text-sm font-medium"><svg class="w-4 h-4 text-cyan" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6A19.79 19.79 0 012.12 4.11 2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>(949) 996-5355</a>
+        <a href="#contact" class="px-5 py-2.5 border-2 border-white text-white rounded-full text-sm font-semibold hover:bg-cyan hover:border-cyan hover:text-navy transition-all">Book an Appointment</a>
+      </div>
+      <button id="mobileToggle" class="lg:hidden flex flex-col gap-1.5 p-1" onclick="document.getElementById('mobileNav').classList.toggle('hidden')">
+        <span class="block w-6 h-0.5 bg-white rounded"></span><span class="block w-6 h-0.5 bg-white rounded"></span><span class="block w-6 h-0.5 bg-white rounded"></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- MOBILE NAV -->
+  <div id="mobileNav" class="hidden fixed inset-0 bg-navy/95 backdrop-blur-xl z-[999] flex flex-col items-center justify-center gap-6">
+    <button class="absolute top-6 right-6 text-white text-3xl" onclick="this.parentElement.classList.add('hidden')">&times;</button>
+    <a href="#about" class="text-white text-xl font-heading font-semibold hover:text-cyan" onclick="this.parentElement.classList.add('hidden')">Mental Health</a>
+    <a href="#services" class="text-white text-xl font-heading font-semibold hover:text-cyan" onclick="this.parentElement.classList.add('hidden')">Wellness</a>
+    <a href="#team" class="text-white text-xl font-heading font-semibold hover:text-cyan" onclick="this.parentElement.classList.add('hidden')">Meet The Team</a>
+    <a href="#contact" class="px-8 py-3 bg-cyan text-navy rounded-full font-bold" onclick="this.parentElement.classList.add('hidden')">Book Appointment</a>
+  </div>
+
+  <!-- HERO WITH FORM -->
+  <section class="relative min-h-screen flex items-center overflow-hidden" id="hero">
+    <div class="absolute inset-0">
+      <img src="images/lp-bg-hero-mirror.webp" alt="Treatment room" class="w-full h-full object-[50%_20%] object-cover">
+      <div class="absolute inset-0 bg-gradient-to-r from-navy/85 via-navy/60 to-navy/30"></div>
+    </div>
+    <div class="relative z-10 max-w-7xl mx-auto px-6 pt-32 pb-20 w-full">
+      <div class="grid lg:grid-cols-5 gap-10 items-center">
+        <!-- Left: Text content (3 cols) -->
+        <div class="lg:col-span-3">
+          <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-cyan"></div><span class="text-cyan text-xs font-semibold tracking-[0.2em] uppercase">Esketamine Nasal Spray</span></div>
+          <h1 class="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">SPRAVATO<sup>®</sup> <span class="text-cyan italic font-normal">Treatment</span></h1>
+          <p class="text-white/80 text-lg leading-relaxed mb-6 max-w-xl">A breakthrough FDA-approved treatment for adults with treatment-resistant depression and suicidal ideation, offering rapid relief where traditional antidepressants have failed.</p>
+          <div class="inline-flex items-start gap-3 bg-cyan/15 border border-cyan/40 rounded-2xl px-5 py-4 mb-8 max-w-xl backdrop-blur-sm">
+            <div class="w-10 h-10 min-w-10 rounded-full bg-cyan flex items-center justify-center text-navy">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M20 7h-7L9 3H4a2 2 0 00-2 2v14a2 2 0 002 2h16a2 2 0 002-2V9a2 2 0 00-2-2z"/><path d="M12 11v6"/><path d="M9 14h6"/></svg>
+            </div>
+            <div>
+              <p class="text-white font-heading font-bold text-sm leading-tight mb-1">Covered by Insurance — As Low as <span class="text-cyan">$10 a Session</span></p>
+              <p class="text-white/75 text-xs leading-relaxed">Medicare, CalOptima &amp; most commercial plans accepted. With the manufacturer reimbursement program, treatment can cost as little as $10 per session.</p>
+            </div>
+          </div>
+          <div class="flex flex-wrap gap-4">
+            <a href="#how-it-works" class="px-8 py-3.5 bg-transparent border-2 border-white/30 text-white rounded-2xl font-heading font-semibold hover:border-cyan hover:text-cyan transition-all">The Process →</a>
+          </div>
+        </div>
+        <!-- Right: Compact Form (2 cols) -->
+        <div class="lg:col-span-2">
+          <iframe
+              src="https://api.leadconnectorhq.com/widget/form/AJMRlGE3YOUFZkMB6keO"
+              style="width:100%;height:100%;border:none;border-radius:8px"
+              id="inline-AJMRlGE3YOUFZkMB6keO"
+              data-layout="{'id':'INLINE'}"
+              data-trigger-type="alwaysShow"
+              data-trigger-value=""
+              data-activation-type="alwaysActivated"
+              data-activation-value=""
+              data-deactivation-type="neverDeactivate"
+              data-deactivation-value=""
+              data-form-name="Spravato LP Form"
+              data-height="498"
+              data-layout-iframe-id="inline-AJMRlGE3YOUFZkMB6keO"
+              data-form-id="AJMRlGE3YOUFZkMB6keO"
+              title="Spravato LP Form">
+          </iframe>
+          <script src="https://link.msgsndr.com/js/form_embed.js"></script>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BREAKTHROUGH -->
+  <section class="py-20 bg-white reveal" id="about">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center mb-12">
+        <div>
+          <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-cyan"></div><span class="text-cyan text-xs font-semibold tracking-[0.2em] uppercase">Breakthrough Therapy</span></div>
+          <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-6">Redefining Depression <span class="text-cyan">Treatment</span></h2>
+          <p class="text-lg leading-relaxed mb-4">SPRAVATO® (esketamine) is the first FDA-approved nasal spray medication, taken with an oral antidepressant, for adults with treatment-resistant depression (TRD) and depressive symptoms in adults with major depressive disorder (MDD) with suicidal thoughts or actions.</p>
+          <p class="text-lg leading-relaxed mb-6">Unlike traditional antidepressants that can take weeks to show results, Spravato works differently by targeting the NMDA receptor, helping to restore neural connections in the brain faster and more effectively.</p>
+          <a href="#hero" class="inline-flex items-center gap-2 px-8 py-3.5 bg-cyan text-navy font-heading font-bold rounded-2xl hover:bg-cyan-hover hover:shadow-xl transition-all">Book a Consultation <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg></a>
+        </div>
+        <div class="relative">
+          <img src="images/spravato-home.jpg" alt="SPRAVATO® treatment" class="rounded-3xl w-full aspect-[4/3] object-cover  object-[50%_30%] shadow-xl">
+        </div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="flex items-center gap-4 bg-slate-50 rounded-xl p-5 hover:-translate-y-1 hover:shadow-lg transition-all reveal">
+          <div class="w-12 h-12 min-w-12 rounded-full bg-cyan-light flex items-center justify-center text-cyan"><svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></div>
+          <h4 class="font-heading font-semibold text-navy text-sm">Fast-Acting Relief</h4>
+        </div>
+        <div class="flex items-center gap-4 bg-slate-50 rounded-xl p-5 hover:-translate-y-1 hover:shadow-lg transition-all reveal">
+          <div class="w-12 h-12 min-w-12 rounded-full bg-cyan-light flex items-center justify-center text-cyan"><svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></div>
+          <h4 class="font-heading font-semibold text-navy text-sm">FDA Approved</h4>
+        </div>
+        <div class="flex items-center gap-4 bg-slate-50 rounded-xl p-5 hover:-translate-y-1 hover:shadow-lg transition-all reveal">
+          <div class="w-12 h-12 min-w-12 rounded-full bg-cyan-light flex items-center justify-center text-cyan"><svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 015.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></div>
+          <h4 class="font-heading font-semibold text-navy text-sm">Targets TRD</h4>
+        </div>
+        <div class="flex items-center gap-4 bg-slate-50 rounded-xl p-5 hover:-translate-y-1 hover:shadow-lg transition-all reveal">
+          <div class="w-12 h-12 min-w-12 rounded-full bg-cyan-light flex items-center justify-center text-cyan"><svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg></div>
+          <h4 class="font-heading font-semibold text-navy text-sm">Long-term Wellness</h4>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- VISUAL INSIGHT -->
+  <section class="py-20 bg-slate-50 reveal" id="services">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="relative flex justify-center">
+          <div class="relative w-full max-w-sm aspect-[9/16] rounded-3xl overflow-hidden shadow-2xl bg-navy">
+            <iframe
+              src="https://www.youtube.com/embed/HPLexvo4ht0?rel=0&modestbranding=1"
+              title="SPRAVATO at Resiliency"
+              class="absolute inset-0 w-full h-full"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen></iframe>
+          </div>
+          <div class="absolute -bottom-6 -right-4 lg:-right-8 bg-white p-6 rounded-2xl shadow-2xl max-w-xs">
+            <p class="italic text-slate-600 leading-relaxed">"A revolutionary approach for those who haven't found relief with standard treatments."</p>
+          </div>
+        </div>
+        <div class="pt-6">
+          <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-cyan"></div><span class="text-cyan text-xs font-semibold tracking-[0.2em] uppercase">Visual Insight</span></div>
+          <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-6">Experience SPRAVATO <span class="text-cyan">at Resiliency</span></h2>
+          <p class="text-lg leading-relaxed mb-8">Get a glimpse into the healing journey with Spravato at our Newport Beach clinic. We prioritize your comfort and safety every step of the way.</p>
+          <div class="space-y-4">
+            <div class="flex items-center gap-3"><div class="w-10 h-10 rounded-full bg-cyan-light flex items-center justify-center text-cyan"><svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></div><span class="font-semibold text-navy">Private Treatment Suites</span></div>
+            <div class="flex items-center gap-3"><div class="w-10 h-10 rounded-full bg-cyan-light flex items-center justify-center text-cyan"><svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></div><span class="font-semibold text-navy">2-Hour Monitored Sessions</span></div>
+            <div class="flex items-center gap-3"><div class="w-10 h-10 rounded-full bg-cyan-light flex items-center justify-center text-cyan"><svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></div><span class="font-semibold text-navy">Board-Certified Specialists</span></div>
+          </div>
+          <a href="#hero" class="inline-flex items-center gap-2 mt-8 px-8 py-3.5 bg-navy text-white font-heading font-bold rounded-2xl hover:bg-navy-light hover:shadow-xl transition-all">Book a Consultation <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROVIDER -->
+  <section class="py-20 bg-white reveal" id="team">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-cyan"></div><span class="text-cyan text-xs font-semibold tracking-[0.2em] uppercase">Your Specialist</span></div>
+          <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-6">A Program Led by <span class="text-cyan">Dr. LaFrenierre</span></h2>
+          <div class="border-l-4 border-cyan bg-cyan/5 rounded-r-xl p-6 mb-6"><p class="text-slate-600 leading-relaxed">Led by REMS-certified physician Dr. LaFrenierre, our Spravato program is built on proven clinical protocols, individualized treatment planning, and a boutique patient experience designed for safety, comfort, and outcomes.</p></div>
+          <p class="leading-relaxed mb-6">Every patient is supported by a trained clinical team following the same rigorous standards Dr. LaFrenierre established from thorough intake evaluations to ongoing monitoring - so care is consistent, evidence-based, and tailored to the individual.</p>
+          <div class="flex items-center gap-3 mb-8"><div class="w-12 h-0.5 bg-cyan"></div><h3 class="font-heading text-xl font-bold italic text-cyan">Dr. LaFrenierre, MD</h3></div>
+          <a href="#hero" class="inline-flex items-center gap-2 px-8 py-3.5 bg-cyan text-navy font-heading font-bold rounded-2xl hover:bg-cyan-hover hover:shadow-xl transition-all">Book a Consultation <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg></a>
+        </div>
+        <div>
+          <img src="images/DrL-SPRAVATO.webp" alt="Dr. LaFrenierre at Resiliency clinic" class="rounded-3xl w-full h-[500px] object-cover object-[50%_20%] shadow-xl">
+          <div class="flex gap-3 mt-4"><span class="bg-slate-50 px-4 py-2 rounded-full text-sm font-semibold text-navy shadow-sm">REMS Certified</span><span class="bg-slate-50 px-4 py-2 rounded-full text-sm font-semibold text-navy shadow-sm">Spravato Specialist</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE CARDS -->
+  <section class="py-20 bg-navy relative reveal">
+    <div class="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-cyan to-transparent"></div>
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-8 items-start mb-10">
+        <div>
+          <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-cyan"></div><span class="text-cyan text-xs font-semibold tracking-[0.2em] uppercase">The Experience</span></div>
+          <h2 class="font-heading text-3xl md:text-4xl font-bold text-white">Your Comfort Is Our <span class="text-cyan">Priority</span></h2>
+        </div>
+        <p class="text-white text-lg lg:pt-10">Spravato treatment requires a 2-hour observation period. At Resiliency, we've designed this time to be as comfortable and therapeutic as possible.</p>
+      </div>
+      <div class="grid md:grid-cols-3 gap-6">
+        <div class="bg-navy-card border border-cyan/10 rounded-3xl p-8 hover:-translate-y-2 hover:border-cyan/30 transition-all reveal">
+          <div class="w-14 h-14 rounded-xl bg-cyan-light flex items-center justify-center text-cyan mb-5"><svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></div>
+          <h4 class="text-white font-heading font-bold text-lg mb-3">Luxury Lounges</h4>
+          <p class="text-white leading-relaxed text-sm">Relax in private treatment suites with reclining chairs, calming aesthetics, and premium Bose noise-cancelling headphones designed to enhance comfort throughout your therapeutic journey.</p>
+        </div>
+        <div class="bg-navy-card border border-cyan/10 rounded-3xl p-8 hover:-translate-y-2 hover:border-cyan/30 transition-all reveal">
+          <div class="w-14 h-14 rounded-xl bg-cyan-light flex items-center justify-center text-cyan mb-5"><svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></div>
+          <h4 class="text-white font-heading font-bold text-lg mb-3">Expert Monitoring</h4>
+          <p class="text-white leading-relaxed text-sm">Our clinical team provides continuous, non-intrusive monitoring throughout your session to ensure safety and support.</p>
+        </div>
+        <div class="bg-navy-card border border-cyan/10 rounded-3xl p-8 hover:-translate-y-2 hover:border-cyan/30 transition-all reveal">
+          <div class="w-14 h-14 rounded-xl bg-cyan-light flex items-center justify-center text-cyan mb-5"><svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 8h1a4 4 0 010 8h-1M2 8h16v9a4 4 0 01-4 4H6a4 4 0 01-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg></div>
+          <h4 class="text-white font-heading font-bold text-lg mb-3">Holistic Support</h4>
+          <p class="text-white leading-relaxed text-sm">We integrate your Spravato therapy with other wellness modalities like integrative psychiatry for a comprehensive approach.</p>
+        </div>
+      </div>
+      <div class="text-center mt-12">
+        <a href="#hero" class="inline-flex items-center gap-2 px-10 py-4 bg-cyan text-navy font-heading font-bold rounded-2xl hover:bg-cyan-hover hover:shadow-xl transition-all">Book a Consultation <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- JOURNEY STEPS -->
+  <section class="py-20 bg-slate-50 reveal" id="how-it-works">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-cyan"></div><span class="text-cyan text-xs font-semibold tracking-[0.2em] uppercase">The Journey</span></div>
+      <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-10">What to Expect During Your <span class="text-cyan">Treatment</span></h2>
+      <div class="grid lg:grid-cols-2 gap-12">
+        <div class="space-y-8">
+          <div class="flex gap-4 reveal"><div class="w-12 h-12 min-w-12 rounded-full bg-navy flex items-center justify-center text-cyan font-heading font-bold">1</div><div><h4 class="font-heading font-bold text-navy text-lg mb-1">Clinical Consultation</h4><p class="text-sm leading-relaxed">We perform a thorough evaluation to ensure Spravato is the right choice for your specific needs and medical history.</p></div></div>
+          <div class="flex gap-4 reveal"><div class="w-12 h-12 min-w-12 rounded-full bg-navy flex items-center justify-center text-cyan font-heading font-bold">2</div><div><h4 class="font-heading font-bold text-navy text-lg mb-1">Treatment Session</h4><p class="text-sm leading-relaxed">You'll self-administer the nasal spray under the supervision of our medical staff in a private, comfortable suite.</p></div></div>
+          <div class="flex gap-4 reveal"><div class="w-12 h-12 min-w-12 rounded-full bg-navy flex items-center justify-center text-cyan font-heading font-bold">3</div><div><h4 class="font-heading font-bold text-navy text-lg mb-1">Relaxation & Monitoring</h4><p class="text-sm leading-relaxed">You'll remain in our clinic for 2 hours to rest as the treatment takes effect, while we monitor your vital signs.</p></div></div>
+          <div class="flex gap-4 reveal"><div class="w-12 h-12 min-w-12 rounded-full bg-navy flex items-center justify-center text-cyan font-heading font-bold">4</div><div><h4 class="font-heading font-bold text-navy text-lg mb-1">Same-Day Recovery</h4><p class="text-sm leading-relaxed">After the observation period, you'll need a pre-arranged ride home. Most patients return to normal activities the following day.</p></div></div>
+        </div>
+        <div class="bg-white rounded-3xl p-8 shadow-lg lg:sticky lg:top-28">
+          <div class="flex items-center gap-3 mb-6"><svg class="w-6 h-6 text-cyan" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg><h3 class="font-heading font-bold text-navy text-xl">Important Safety Info</h3></div>
+          <div class="space-y-4">
+            <div class="flex gap-3"><svg class="w-5 h-5 min-w-5 text-cyan mt-0.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg><p class="text-sm">Spravato can cause temporary dissociation (feeling detached from yourself or surroundings).</p></div>
+            <div class="flex gap-3"><svg class="w-5 h-5 min-w-5 text-cyan mt-0.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg><p class="text-sm">A temporary increase in blood pressure may occur shortly after administration.</p></div>
+            <div class="flex gap-3"><svg class="w-5 h-5 min-w-5 text-cyan mt-0.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg><p class="text-sm">Common side effects include dizziness, nausea, lethargy, and a metallic taste.</p></div>
+            <div class="flex gap-3"><svg class="w-5 h-5 min-w-5 text-cyan mt-0.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg><p class="text-sm">A designated driver is required for transportation post-treatment.</p></div>
+          </div>
+          <div class="mt-6 pt-6 border-t border-slate-200"><h4 class="text-xs uppercase tracking-widest text-slate-400 font-semibold mb-1">REMS Certified Clinic</h4><p class="text-sm italic text-slate-500 mb-5">Resiliency is a fully certified SPRAVATO® REMS site, ensuring the highest standards of safety and care.</p>
+          <a href="#hero" class="inline-flex items-center gap-2 w-full justify-center px-6 py-3 bg-navy text-white font-heading font-bold rounded-2xl hover:bg-navy-light hover:shadow-xl transition-all">Book a Consultation <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="py-20 bg-navy relative reveal" id="resources">
+    <div class="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-cyan to-transparent"></div>
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="text-center mb-12"><span class="text-cyan text-xs font-semibold tracking-[0.2em] uppercase">Common Questions</span><h2 class="font-heading text-3xl md:text-4xl font-bold text-white mt-3">Spravato Therapy <span class="text-cyan">FAQs</span></h2></div>
+      <div class="max-w-3xl mx-auto space-y-4">
+        <div class="faq-item bg-navy-card border border-cyan/10 rounded-2xl overflow-hidden"><button class="w-full flex items-center justify-between px-6 py-5 text-left" onclick="toggleFAQ(this)"><h4 class="text-white font-semibold pr-4">How is Spravato different from Ketamine infusion?</h4><span class="faq-icon w-8 h-8 min-w-8 rounded-full border-2 border-cyan/30 flex items-center justify-center text-cyan text-xl transition-all">+</span></button><div class="faq-answer hidden"><div class="px-6 pb-5 text-white text-sm leading-relaxed">Spravato (esketamine) is an FDA-approved nasal spray, unlike IV ketamine which is used off-label. Spravato has undergone rigorous clinical trials and is administered with a standardized dosing protocol. It is also covered by insurance.</div></div></div>
+        <div class="faq-item bg-navy-card border border-cyan/10 rounded-2xl overflow-hidden"><button class="w-full flex items-center justify-between px-6 py-5 text-left" onclick="toggleFAQ(this)"><h4 class="text-white font-semibold pr-4">Will my insurance cover Spravato Treatment?</h4><span class="faq-icon w-8 h-8 min-w-8 rounded-full border-2 border-cyan/30 flex items-center justify-center text-cyan text-xl transition-all">+</span></button><div class="faq-answer hidden"><div class="px-6 pb-5 text-white text-sm leading-relaxed">We accept Medicare, CalOptima, and most major commercial insurance plans. Coverage is verified before treatment begins.</div></div></div>
+        <div class="faq-item bg-navy-card border border-cyan/10 rounded-2xl overflow-hidden"><button class="w-full flex items-center justify-between px-6 py-5 text-left" onclick="toggleFAQ(this)"><h4 class="text-white font-semibold pr-4">How long does each treatment session last?</h4><span class="faq-icon w-8 h-8 min-w-8 rounded-full border-2 border-cyan/30 flex items-center justify-center text-cyan text-xl transition-all">+</span></button><div class="faq-answer hidden"><div class="px-6 pb-5 text-white text-sm leading-relaxed">Each session requires at least 2 hours. The nasal spray administration takes 5-10 minutes, followed by a 2-hour observation period in a comfortable, private suite.</div></div></div>
+        <div class="faq-item bg-navy-card border border-cyan/10 rounded-2xl overflow-hidden"><button class="w-full flex items-center justify-between px-6 py-5 text-left" onclick="toggleFAQ(this)"><h4 class="text-white font-semibold pr-4">What results can I expect from Spravato therapy?</h4><span class="faq-icon w-8 h-8 min-w-8 rounded-full border-2 border-cyan/30 flex items-center justify-center text-cyan text-xl transition-all">+</span></button><div class="faq-answer hidden"><div class="px-6 pb-5 text-white text-sm leading-relaxed">Many patients report improvement within hours to days. Treatment is typically twice weekly for the first month, then weekly or bi-weekly. Clinical studies showed significant improvement in depression scores.</div></div></div>
+        <div class="faq-item bg-navy-card border border-cyan/10 rounded-2xl overflow-hidden"><button class="w-full flex items-center justify-between px-6 py-5 text-left" onclick="toggleFAQ(this)"><h4 class="text-white font-semibold pr-4">How much does Spravato cost?</h4><span class="faq-icon w-8 h-8 min-w-8 rounded-full border-2 border-cyan/30 flex items-center justify-center text-cyan text-xl transition-all">+</span></button><div class="faq-answer hidden"><div class="px-6 pb-5 text-white text-sm leading-relaxed">Most insurance plans cover treatment, and the manufacturer savings program can lower out-of-pocket costs to as little as $10 per treatment for patients with commercial insurance. CalOptima members who meet medical criteria have no out-of-pocket cost for Spravato treatment. Our team verifies benefits, explains costs upfront, and handles the authorization process before treatment begins.</div></div></div>
+      </div>
+      <p class="text-center mt-8 text-white text-sm">Have more questions? <a href="#contact" class="text-cyan font-semibold underline underline-offset-4 hover:text-white transition-colors">Talk to our Spravato specialists.</a></p>
+    </div>
+  </section>
+
+  <!-- TESTIMONIALS -->
+  <section class="py-20 bg-white reveal">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="text-center mb-12"><span class="text-cyan text-xs font-semibold tracking-[0.2em] uppercase">Patient Stories</span><h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mt-3">What Our Patients <span class="text-cyan">Say</span></h2></div>
+      <div class="grid md:grid-cols-3 gap-6">
+        <div class="bg-slate-50 rounded-3xl p-8 hover:-translate-y-2 hover:shadow-lg transition-all reveal flex flex-col">
+          <div class="flex gap-1 mb-4"><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
+          <blockquote class="italic text-sm leading-relaxed flex-grow mb-4">"I have never before found a psychiatric group that is so clearly dedicated to making people better. I thought there was no hope left, and now I legitimately feel excited to be alive!"</blockquote>
+          <div class="flex items-center gap-3 pt-4 border-t border-slate-200"><div class="w-10 h-10 rounded-full bg-cyan-light flex items-center justify-center text-cyan font-heading font-bold text-xs">PM</div><span class="font-semibold text-navy text-sm">Pagu Ma</span></div>
+        </div>
+        <div class="bg-slate-50 rounded-3xl p-8 hover:-translate-y-2 hover:shadow-lg transition-all reveal flex flex-col">
+          <div class="flex gap-1 mb-4"><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
+          <blockquote class="italic text-sm leading-relaxed flex-grow mb-4">"Resiliency has changed my life. I've been treatment resistant and suffered debilitating depression since childhood. Since coming here I've been able to get up, get a job and even start going out with friends again."</blockquote>
+          <div class="flex items-center gap-3 pt-4 border-t border-slate-200"><div class="w-10 h-10 rounded-full bg-cyan-light flex items-center justify-center text-cyan font-heading font-bold text-xs">JM</div><span class="font-semibold text-navy text-sm">Jesse M</span></div>
+        </div>
+        <div class="bg-slate-50 rounded-3xl p-8 hover:-translate-y-2 hover:shadow-lg transition-all reveal flex flex-col">
+          <div class="flex gap-1 mb-4"><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
+          <blockquote class="italic text-sm leading-relaxed flex-grow mb-4">"Brian Tran is very pleasant and easy to work with. Rylee in the front office is a dream! She really makes things easy as well as being a cheerful and friendly presence. I can highly recommend this facility."</blockquote>
+          <div class="flex items-center gap-3 pt-4 border-t border-slate-200"><div class="w-10 h-10 rounded-full bg-cyan-light flex items-center justify-center text-cyan font-heading font-bold text-xs">LM</div><span class="font-semibold text-navy text-sm">Lory Moger</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section class="py-20 bg-slate-50 text-center reveal" id="contact">
+    <div class="max-w-7xl mx-auto px-6">
+      <h2 class="font-heading text-4xl md:text-5xl font-bold text-navy mb-5">Reclaim Your <span class="text-cyan italic">Life Today</span></h2>
+      <p class="text-lg max-w-xl mx-auto mb-8">Treatment-resistant depression doesn't have to be your final destination. Discover if Spravato is the right choice for your recovery.</p>
+      <a href="#hero" class="inline-flex items-center gap-2 px-10 py-4 bg-navy text-white font-heading font-bold rounded-2xl hover:bg-navy-light hover:shadow-xl transition-all">Schedule Your Consultation <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg></a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-navy pt-16 pb-8 relative">
+    <div class="absolute inset-0 opacity-30" style="background-image:radial-gradient(rgba(35,191,226,0.1) 1px,transparent 1px);background-size:30px 30px"></div>
+    <div class="max-w-7xl mx-auto px-6 relative z-10">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
+        <div>
+          <div class="flex items-center gap-3 mb-4">
+            <img src="images/logo.png" alt="Resiliency Mind + Body Medicine" class="h-12">
+          </div>
+          <p class="text-white text-sm leading-relaxed mb-4">A boutique clinical practice specializing in advanced neuro-psychiatric treatments and integrative wellness.</p>
+          <div class="space-y-2"><div><h5 class="text-white text-xs font-semibold">Call Us</h5><a href="tel:+19499965355" class="text-white/50 text-sm hover:text-cyan">(949) 996-5355</a></div><div><h5 class="text-white text-xs font-semibold">Newport Beach</h5><p class="text-white text-xs">1501 Superior Ave STE 210, Newport Beach, CA 92663</p></div><div><h5 class="text-white text-xs font-semibold">San Juan Capistrano</h5><p class="text-white text-xs">27184 Ortega Hwy, STE 103, San Juan Capistrano, CA 92675</p></div></div>
+        </div>
+        <div><h4 class="text-white text-xs uppercase tracking-widest font-semibold mb-5">Clinic</h4><ul class="space-y-3"><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">About Our Clinic</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Meet Our Providers</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Deep TMS Therapy</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Spravato Treatment</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Clinic Blog</a></li></ul></div>
+        <div><h4 class="text-white text-xs uppercase tracking-widest font-semibold mb-5">Resources</h4><ul class="space-y-3"><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Patient Portal</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">New Patient Forms</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Insurance & Fees</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Contact Us</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">FAQs</a></li></ul></div>
+        <div id="conditions"><h4 class="text-white text-xs uppercase tracking-widest font-semibold mb-5">Conditions We Treat</h4><ul class="space-y-3"><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Depression</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Anxiety</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">OCD</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">PTSD</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">ADHD</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Bipolar Disorder</a></li><li><a href="#" class="text-white/50 text-sm hover:text-cyan hover:pl-1 transition-all">Suicidal Ideation</a></li></ul></div>
+      </div>
+      <div class="border-t border-white/10 pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
+        <p class="text-white text-xs">&copy; 2026 Resiliency Mind + Body Medicine. All rights reserved.</p>
+        <div class="flex gap-6"><a href="#" class="text-white/30 text-xs hover:text-cyan">Privacy Policy</a><a href="#" class="text-white/30 text-xs hover:text-cyan">Terms of Service</a><a href="#" class="text-white/30 text-xs hover:text-cyan">Accessibility</a></div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- FLOATING BTN -->
+  <a href="#hero" class="fixed bottom-6 right-6 w-14 h-14 rounded-full bg-navy border-2 border-cyan/30 flex items-center justify-center z-50 shadow-xl hover:scale-110 hover:border-cyan transition-all">
+    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+  </a>
+
+  <script>
+    const header=document.getElementById('header');
+    window.addEventListener('scroll',()=>{header.classList.toggle('scrolled',window.scrollY>60)});
+    function toggleFAQ(btn){const item=btn.closest('.faq-item'),ans=item.querySelector('.faq-answer'),icon=item.querySelector('.faq-icon'),wasHidden=ans.classList.contains('hidden');document.querySelectorAll('.faq-answer').forEach(a=>a.classList.add('hidden'));document.querySelectorAll('.faq-icon').forEach(i=>{i.textContent='+';i.classList.remove('bg-cyan','text-navy','rotate-45')});if(wasHidden){ans.classList.remove('hidden');icon.textContent='×';icon.classList.add('bg-cyan','text-navy')}}
+    const obs=new IntersectionObserver(e=>e.forEach(el=>{if(el.isIntersecting)el.target.classList.add('visible')}),{threshold:0.1});document.querySelectorAll('.reveal').forEach(el=>obs.observe(el));
+    document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',function(e){const t=document.querySelector(this.getAttribute('href'));if(t){e.preventDefault();t.scrollIntoView({behavior:'smooth'})}}));
+    // Redirect to thank you page after form submission
+    window.addEventListener('message',function(e){if(e.data&&e.data.type==='form-submission'&&e.data.formId==='AJMRlGE3YOUFZkMB6keO'){window.location.href='thank-you.html'}});
+  </script>
+</body>
+</html>

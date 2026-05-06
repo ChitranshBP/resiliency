@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thank You | Resiliency Mind + Body Medicine</title>
+  <meta name="description" content="Thank you for scheduling your consultation with Resiliency Mind + Body Medicine." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=DM+Serif+Display:ital@0;1&display=swap"
+    rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="style.css" rel="stylesheet" />
+  <link rel="icon" href="assets/images/Resiliency_Favicon.png">
+  <style>
+    .ty-page {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(165deg, #0B2035 0%, #122d4a 40%, #0f2640 100%);
+      position: relative;
+      overflow: hidden;
+      padding: 40px 20px;
+    }
+
+    .ty-page::before {
+      content: '';
+      position: absolute;
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(35, 191, 226, .12) 0%, transparent 70%);
+      top: -200px;
+      right: -100px;
+      pointer-events: none;
+    }
+
+    .ty-page::after {
+      content: '';
+      position: absolute;
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(35, 191, 226, .08) 0%, transparent 70%);
+      bottom: -100px;
+      left: -100px;
+      pointer-events: none;
+    }
+
+    .ty-card {
+      background: rgba(255, 255, 255, .04);
+      border: 1px solid rgba(255, 255, 255, .08);
+      backdrop-filter: blur(20px);
+      border-radius: var(--r-xl);
+      padding: 60px 48px;
+      max-width: 580px;
+      width: 100%;
+      text-align: center;
+      position: relative;
+      z-index: 2;
+      animation: fadeUp .7s var(--ease) both;
+    }
+
+    .ty-check {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--teal), #1ca8c8);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 28px;
+      animation: scaleIn .5s .2s var(--ease) both;
+      box-shadow: 0 8px 32px rgba(35, 191, 226, .3);
+    }
+
+    .ty-check svg {
+      width: 38px;
+      height: 38px;
+      fill: #fff;
+    }
+
+    @keyframes scaleIn {
+      from { transform: scale(0); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+
+    .ty-card h1 {
+      font: 700 2rem/1.2 var(--serif);
+      color: #fff;
+      margin-bottom: 12px;
+    }
+
+    .ty-card h1 em {
+      color: var(--teal);
+      font-style: italic;
+    }
+
+    .ty-subtitle {
+      color: rgba(255, 255, 255, .5);
+      font: 400 1.05rem/1.7 var(--sans);
+      margin-bottom: 36px;
+      max-width: 440px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .ty-steps {
+      text-align: left;
+      margin-bottom: 36px;
+    }
+
+    .ty-step {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      padding: 14px 0;
+      border-bottom: 1px solid rgba(255, 255, 255, .06);
+    }
+
+    .ty-step:last-child {
+      border-bottom: none;
+    }
+
+    .ty-step-num {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: var(--teal-10);
+      border: 1px solid rgba(35, 191, 226, .2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font: 600 .8rem/1 var(--sans);
+      color: var(--teal);
+      flex-shrink: 0;
+    }
+
+    .ty-step-text {
+      flex: 1;
+    }
+
+    .ty-step-text strong {
+      display: block;
+      color: #fff;
+      font: 600 .9rem/1.3 var(--sans);
+      margin-bottom: 2px;
+    }
+
+    .ty-step-text span {
+      color: rgba(255, 255, 255, .4);
+      font: 400 .82rem/1.5 var(--sans);
+    }
+
+    .ty-actions {
+      display: flex;
+      gap: 14px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .ty-contact {
+      margin-top: 32px;
+      padding-top: 24px;
+      border-top: 1px solid rgba(255, 255, 255, .06);
+    }
+
+    .ty-contact p {
+      color: rgba(255, 255, 255, .3);
+      font-size: .82rem;
+      margin-bottom: 8px;
+    }
+
+    .ty-contact a {
+      color: var(--teal);
+      text-decoration: none;
+      font: 600 .9rem/1 var(--sans);
+      transition: color .3s;
+    }
+
+    .ty-contact a:hover {
+      color: #fff;
+    }
+
+    @media(max-width:575.98px) {
+      .ty-card {
+        padding: 40px 24px;
+      }
+      .ty-card h1 {
+        font-size: 1.6rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="ty-page">
+    <div class="ty-card">
+      <!-- Check icon -->
+      <div class="ty-check">
+        <svg viewBox="0 0 24 24">
+          <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" />
+        </svg>
+      </div>
+
+      <h1>Thank You for <em>Reaching Out</em></h1>
+      <p class="ty-subtitle">Your consultation request has been received. Our care team will review your information and
+        get back to you shortly.</p>
+
+      <!-- What happens next -->
+      <div class="ty-steps">
+        <div class="ty-step">
+          <div class="ty-step-num">1</div>
+          <div class="ty-step-text">
+            <strong>We review your request</strong>
+            <span>Our team will go over your information within 24 hours.</span>
+          </div>
+        </div>
+        <div class="ty-step">
+          <div class="ty-step-num">2</div>
+          <div class="ty-step-text">
+            <strong>A care coordinator calls you</strong>
+            <span>We'll reach out to discuss your needs and answer any questions.</span>
+          </div>
+        </div>
+        <div class="ty-step">
+          <div class="ty-step-num">3</div>
+          <div class="ty-step-text">
+            <strong>Schedule your first visit</strong>
+            <span>We'll find a convenient time at our Newport Beach or San Juan Capistrano location.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Actions -->
+      <div class="ty-actions">
+        <a href="index.html" class="btn-custom btn-teal">Back to Homepage <svg class="arr" viewBox="0 0 24 24">
+            <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z" />
+          </svg></a>
+        <a href="tel:9499965355" class="btn-custom btn-wh"><svg viewBox="0 0 24 24" style="width:16px;height:16px;fill:currentColor;margin-right:6px">
+            <path
+              d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" />
+          </svg>Call (949) 996-5355</a>
+      </div>
+
+      <!-- Contact note -->
+      <div class="ty-contact">
+        <p>Need immediate assistance?</p>
+        <a href="tel:9499965355">(949) 996-5355</a>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>

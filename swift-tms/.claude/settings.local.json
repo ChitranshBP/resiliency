@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(git branch *)",
+      "Bash(git remote *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "WebFetch(domain:resiliency-new.netlify.app)",
+      "Bash(python -m http.server 8080 --bind 127.0.0.1)"
+    ]
+  }
+}
