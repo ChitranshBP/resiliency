@@ -1,11 +1,23 @@
 import sys
-with open('../index.php', 'r', encoding='utf-8') as f:
+import os
+
+# --- CONVERT depression.php to page-depression.php ---
+with open('../depression.php', 'r', encoding='utf-8') as f:
     content = f.read()
+
+# Add Template Name header right after the opening <?php tag
+# The file starts with <?php followed by $page_schema...
+# We insert the template header after the first <?php
+content = content.replace(
+    "<?php\n",
+    "<?php /* Template Name: Condition - Depression */ ?>\n",
+    1  # Only replace the first occurrence
+)
 
 content = content.replace("<?php include 'header.php'; ?>", "<?php get_header(); ?>")
 content = content.replace("<?php include 'footer.php'; ?>", "<?php get_footer(); ?>")
 
-# Fix backslash asset paths (Windows-style paths from source)
+# Fix backslash asset paths
 content = content.replace('src="assets\\', 'src="<?php echo get_template_directory_uri(); ?>/assets/')
 content = content.replace('src="assets/', 'src="<?php echo get_template_directory_uri(); ?>/assets/')
 
@@ -40,6 +52,7 @@ links = [
     ('suicidal-ideation.php', '/treatment-for-suicidal-ideation-oragne-county/'),
     ('proliv-rx.php', '/proliv-rx/'),
     ('vns-therapy.php', '/vns-therapy/'),
+    ('tms-quiz.php', '/contact/'),
 ]
 
 for php, slug in links:
@@ -47,17 +60,16 @@ for php, slug in links:
     new = 'href="<?php echo esc_url(home_url("' + slug + '")); ?>"'
     content = content.replace(old, new)
 
-with open('front-page.php', 'w', encoding='utf-8') as f:
+with open('page-depression.php', 'w', encoding='utf-8') as f:
     f.write(content)
 
-print('Done! Lines:', content.count('\n') + 1)
-# Verify key replacements
+print('page-depression.php written! Lines:', content.count('\n') + 1)
 checks = [
+    ("/* Template Name: Condition - Depression */", "Template header"),
     ("<?php get_header", "get_header present"),
     ("<?php get_footer", "get_footer present"),
     ("get_template_directory_uri", "template URI present"),
     ("home_url", "home_url present"),
-    ("assets/images", "asset paths present"),
 ]
 for pattern, label in checks:
     print(label + ':', pattern in content)
