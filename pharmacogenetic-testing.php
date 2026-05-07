@@ -19,8 +19,9 @@ SCHEMA;
     <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets\images\breadcrumbs\p-testing-bread.webp" alt="Pharmacogenetic Testing Consultation" class="w-full h-full object-cover object-right md:object-[50%_15%]">
-            <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
+            <img src="assets\images\breadcrumbs\pharmo-bread.webp" alt="Pharmacogenetic Testing Consultation" class="hidden lg:block w-full h-full object-cover object-[50%_10%]">
+            <img src="assets\images\breadcrumbs\p-testing-bread.webp" alt="Pharmacogenetic Testing Consultation" class="lg:hidden w-full h-full object-cover object-right md:object-[50%_15%]">
+            <div class="absolute inset-0 bg-[#0B2035]/60 lg:bg-gradient-to-r lg:from-[#0B2035]/75 lg:via-[#0B2035]/50 lg:to-[#0B2035]/20"></div>
         </div>
 
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
