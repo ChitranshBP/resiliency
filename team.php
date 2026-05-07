@@ -201,8 +201,24 @@
                     </div>
                 </div>
 
-                <!-- Cathleen Sliney -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
+                <!-- Maryam Nabihah -->
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('maryam')">
+                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
+                        <img src="assets/images/team/Maryam.png" alt="Maryam Nabihah" class="w-full h-full object-cover object-top transition-transform duration-500">
+                    </div>
+                    <div class="p-6">
+                        <h4 class="text-lg font-bold text-primary">Maryam Nabihah</h4>
+                        <p class="text-gray-500 text-sm font-medium mt-1">Interventional Psychiatry Technician</p>
+                        <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
+                            <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Cathleen Sliney - Centered -->
+            <div class="flex justify-center mt-6">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden max-w-[320px]">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/cathleen.png" alt="Cathleen Sliney" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -315,6 +331,14 @@ const teamBios = {
         bio: `<p>Rylee serves as the Director of Operations at Resiliency, bringing over nine years of experience in the mental health field across clinical operations, program leadership, and direct service settings. She holds a degree in Social Work and is passionate about building systems that support high-quality, patient-centered behavioral health care.</p>
               <p>Her background includes experience in crisis stabilization, residential treatment, and acute behavioral health hospital environments. Throughout her career, she has held leadership roles supporting adolescent residential programs and administrative operations within acute care settings, focusing on strengthening workflows, supporting interdisciplinary teams, and improving continuity of care across levels of service.</p>
               <p>As Director of Operations, Rylee builds and leads systems that keep the practice running smoothly while fostering a culture of collaboration, accountability, and support across the team. She is committed to creating an environment where staff feel empowered and aligned, allowing clinicians to focus on delivering compassionate, consistent, and high-quality care that drives meaningful, lasting outcomes for patients and families.</p>`
+    },
+    maryam: {
+        name: 'Maryam Nabihah',
+        title: 'Interventional Psychiatry Technician',
+        img: 'assets/images/team/Maryam.png',
+        bio: `<p>Maryam recently graduated from the University of California, Irvine with a degree in Biological Sciences. She spent two years in a psychiatric research lab working one-on-one with patients with autism spectrum disorder, where she built meaningful connections with individuals from diverse backgrounds. She also led her own research project exploring how sleep quality and exercise may help reduce ASD symptom severity.</p>
+              <p>At the UCI Medical Center, Maryam worked as a Patient Experience Intern on the oncology unit, spending time with patients and families during some of their most vulnerable moments. Listening, supporting, and simply being present gave her a deeper appreciation for empathy and the small ways care can make a difference.</p>
+              <p>She also volunteered with Crisis Text Line, providing real-time support to individuals in crisis. Maryam believes in a balanced, human-centered approach to mental health care and strives to ensure every patient feels heard, respected, and supported. Outside of work, she enjoys coffee, reading, and anything cat-related.</p>`
     }
 };
 

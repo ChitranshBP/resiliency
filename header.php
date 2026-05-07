@@ -177,6 +177,9 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/styles.css">
+
+    <!-- UserWay Accessibility Widget -->
+    <script src="https://cdn.userway.org/widget.js" data-account="4BeUTqjVL9"></script>
 </head>
 <body class="font-sans text-gray-800 bg-surface antialiased selection:bg-accent selection:text-white">
 
