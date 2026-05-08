@@ -19,8 +19,8 @@ SCHEMA;
     <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets\images\breadcrumbs\dr-L-tms-bread.webp" alt="Deep TMS Therapy Consultation" class="hidden lg:block w-full h-full object-cover object-[60%_20%]">
-            <img src="assets\images\breadcrumbs\dr-l-deep-tm-bread.webp" alt="Deep TMS Therapy Consultation" class="lg:hidden w-full h-full object-cover object-right">
+            <img src="assets\images\breadcrumbs\deep-tms-breadcrumbs.webp" alt="Deep TMS Therapy Consultation" class="hidden lg:block w-full h-full object-cover object-[60%_20%]">
+            <img src="assets\images\breadcrumbs\deep-tms-mobile.webp" alt="Deep TMS Therapy Consultation" class="lg:hidden w-full h-full object-cover object-right">
             <div class="absolute inset-0 bg-[#0B2035]/60 lg:bg-gradient-to-r lg:from-[#0B2035]/75 lg:via-[#0B2035]/50 lg:to-[#0B2035]/20"></div>
         </div>
 

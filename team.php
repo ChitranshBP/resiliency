@@ -168,8 +168,22 @@
 
             <!-- Second row: 4 cards -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mt-6">
+                <!-- Maryam Nabihah -->
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer" onclick="openBioModal('maryam')">
+                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
+                        <img src="assets/images/team/Maryam.png" alt="Maryam Nabihah" class="w-full h-full object-cover object-top transition-transform duration-500">
+                    </div>
+                    <div class="p-6">
+                        <h4 class="text-lg font-bold text-primary">Maryam Nabihah</h4>
+                        <p class="text-gray-500 text-sm font-medium mt-1">Interventional Psychiatry Tech</p>
+                        <!-- <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
+                            <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
+                        </p> -->
+                    </div>
+                </div>
+
                 <!-- Cyrus Jimenez -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/cyrus.png" alt="Cyrus Jimenez" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -180,7 +194,7 @@
                 </div>
 
                 <!-- Loren Mendez -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/loren.png" alt="Loren Mendez" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -191,27 +205,13 @@
                 </div>
 
                 <!-- Rylee Hickman -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/rylee.png" alt="Rylee Hickman" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Rylee Hickman</h4>
                         <p class="text-gray-500 text-sm font-medium mt-1">Front Office Coordinator</p>
-                    </div>
-                </div>
-
-                <!-- Maryam Nabihah -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('maryam')">
-                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/Maryam.png" alt="Maryam Nabihah" class="w-full h-full object-cover object-top transition-transform duration-500">
-                    </div>
-                    <div class="p-6">
-                        <h4 class="text-lg font-bold text-primary">Maryam Nabihah</h4>
-                        <p class="text-gray-500 text-sm font-medium mt-1">Interventional Psychiatry Technician</p>
-                        <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
-                            <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
-                        </p>
                     </div>
                 </div>
             </div>
