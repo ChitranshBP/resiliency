@@ -47,7 +47,7 @@
                 <div>
                     <h4 class="text-white font-bold mb-8 tracking-wider uppercase text-xs">Resources</h4>
                     <ul class="space-y-4 text-sm">
-                        <li><a href="https://www.therapyportal.com/p/resiliencymb/" target="_blank" rel="noopener" class="hover:text-lightblue transition-colors">Patient Portal</a></li>
+                        <li><a href="https://resiliencymbm.intakeq.com/portal" target="_blank" rel="noopener" class="hover:text-lightblue transition-colors">Patient Portal</a></li>
                         <li><a href="new-patient-form.php" class="hover:text-lightblue transition-colors">New Patient Forms</a></li>
                         <li><a href="insurance.php" class="hover:text-lightblue transition-colors">Insurance & Fees</a></li>
                         <li><a href="contact.php" class="hover:text-lightblue transition-colors">Contact Us</a></li>

@@ -86,8 +86,8 @@
                 </div>
                 <!-- Magellan Health -->
                 <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
-                    <img src="assets/images/insurance/magellan.webp" alt="Magellan Health" class="max-h-16 w-auto object-contain mb-3">
-                    <p class="text-[#0B2035] font-semibold text-xs">Magellan Health</p>
+                    <img src="assets/images/insurance/carelon-logo.png" alt="Magellan Health" class="max-h-16 w-auto object-contain mb-3">
+                    <p class="text-[#0B2035] font-semibold text-xs">Carelon</p>
                 </div>
                 <!-- Medicare -->
                 <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
@@ -95,10 +95,10 @@
                     <p class="text-[#0B2035] font-semibold text-xs">Medicare</p>
                 </div>
                 <!-- MHN -->
-                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                <!-- <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
                     <img src="assets/images/insurance/mhn.jpeg" alt="MHN - Managed Health Network" class="max-h-16 w-auto object-contain mb-3">
                     <p class="text-[#0B2035] font-semibold text-xs">MHN</p>
-                </div>
+                </div> -->
                 <!-- Optum -->
                 <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
                     <img src="assets/images/insurance/optum.webp" alt="Optum" class="max-h-16 w-auto object-contain mb-3">
@@ -120,12 +120,12 @@
                     <p class="text-[#0B2035] font-semibold text-xs">TriWest</p>
                 </div>
                 <!-- United Healthcare -->
-                <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
+                <!-- <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
                     <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-3">
                         <i data-lucide="shield-check" class="w-8 h-8"></i>
                     </div>
                     <p class="text-[#0B2035] font-semibold text-xs">United Healthcare</p>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
