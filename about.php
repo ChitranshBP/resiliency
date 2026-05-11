@@ -302,7 +302,7 @@ SCHEMA;
                 <a href="team.php" class="group reveal">
                     <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                         <div class="h-56 overflow-hidden">
-                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Dr.-Stefani-LaFrenierre-MD-1024x862.png" alt="Dr. Stefani LaFrenierre, MD" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                            <img src="assets/images/team/stefani.png" alt="Dr. Stefani LaFrenierre, MD" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
                         </div>
                         <div class="p-5 text-center">
                             <h4 class="text-sm font-bold text-primary leading-tight">Dr. Stefani LaFrenierre, MD</h4>
@@ -315,7 +315,7 @@ SCHEMA;
                 <a href="team.php" class="group reveal reveal-delay-1">
                     <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                         <div class="h-56 overflow-hidden">
-                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Dr.-Heather-Wong-DMSc-MPAS-PA-C-CAQ-Psych-1024x862.png" alt="Dr. Heather Wong" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                            <img src="assets/images/team/heather.png" alt="Dr. Heather Wong" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
                         </div>
                         <div class="p-5 text-center">
                             <h4 class="text-sm font-bold text-primary leading-tight">Dr. Heather Wong, PA-C</h4>
@@ -328,7 +328,7 @@ SCHEMA;
                 <a href="team.php" class="group reveal reveal-delay-2">
                     <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                         <div class="h-56 overflow-hidden">
-                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/10/Milinda.png" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                            <img src="assets/images/team/milinda.png" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
                         </div>
                         <div class="p-5 text-center">
                             <h4 class="text-sm font-bold text-primary leading-tight">Milinda Estrada, PA-C</h4>
@@ -341,7 +341,7 @@ SCHEMA;
                 <a href="team.php" class="group reveal reveal-delay-3">
                     <div class="bg-neutral rounded-[2rem] overflow-hidden border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
                         <div class="h-56 overflow-hidden">
-                            <img src="https://resiliencymbmedicine.com/wp-content/uploads/2025/03/Regina-Dizon-PMHNP-BC-1024x862.png" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
+                            <img src="assets/images/team/regina.png" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
                         </div>
                         <div class="p-5 text-center">
                             <h4 class="text-sm font-bold text-primary leading-tight">Regina Dizon, PMHNP-BC</h4>
