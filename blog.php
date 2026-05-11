@@ -48,19 +48,20 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 reveal">
-                <!-- Article 1 -->
-                <a href="#" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
-                    <div class="h-48 bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <i data-lucide="brain" class="w-16 h-16 text-[#23bfe2]/30"></i>
+                <!-- Article 1 - April 26 (Newest) -->
+                <a href="blog-deep-tms-science.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/blog-tms-science-thumb.svg" alt="Deep TMS Science" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="brain" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
                         <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS Therapy</span>
-                            <span class="text-gray-400 text-sm font-light">Coming Soon</span>
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS</span>
+                            <span class="text-gray-400 text-sm font-light">Apr 26, 2026</span>
                         </div>
-                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Understanding Treatment-Resistant Depression</h3>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">How Does Deep TMS Therapy Work? A Complete Scientific and Clinical Guide</h3>
                         <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
-                            When traditional antidepressants aren't enough, advanced therapies like Deep TMS and Spravato offer new hope.
+                            Understanding the mechanism of Deep TMS, H-Coil technology, neuroplasticity, and how it differs from standard TMS.
                         </p>
                         <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
                             Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
@@ -68,19 +69,20 @@
                     </div>
                 </a>
 
-                <!-- Article 2 -->
-                <a href="#" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
-                    <div class="h-48 bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <i data-lucide="briefcase" class="w-16 h-16 text-[#23bfe2]/30"></i>
+                <!-- Article 2 - April 19 -->
+                <a href="blog-ocd-disability.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/blog-ocd-disability-thumb.svg" alt="OCD Disability" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="scale" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
                         <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS Therapy</span>
-                            <span class="text-gray-400 text-sm font-light">Coming Soon</span>
+                            <span class="bg-emerald-500/10 text-emerald-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">OCD</span>
+                            <span class="text-gray-400 text-sm font-light">Apr 19, 2026</span>
                         </div>
-                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Deep TMS Therapy for High Performers</h3>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Is OCD a Disability? Understanding Legal, Clinical, and Functional Impact</h3>
                         <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
-                            How busy professionals are using accelerated Deep TMS to address workplace stress and burnout.
+                            Comprehensive guide to when OCD qualifies as a disability, ADA protections, and treatment options.
                         </p>
                         <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
                             Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
@@ -88,19 +90,20 @@
                     </div>
                 </a>
 
-                <!-- Article 3 -->
-                <a href="#" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
-                    <div class="h-48 bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <i data-lucide="heart-pulse" class="w-16 h-16 text-[#23bfe2]/30"></i>
+                <!-- Article 3 - April 12 -->
+                <a href="blog-spravato-insurance.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/blog-spravato-insurance-thumb.svg" alt="Spravato Insurance" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="shield-check" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
                         <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-emerald-500/10 text-emerald-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Wellness</span>
-                            <span class="text-gray-400 text-sm font-light">Coming Soon</span>
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Spravato</span>
+                            <span class="text-gray-400 text-sm font-light">Apr 12, 2026</span>
                         </div>
-                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">The Power of NAD+ for Mental Resilience</h3>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Is Spravato Covered by Insurance? A Complete 2026 Guide</h3>
                         <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
-                            Exploring how NAD+ IV therapy supports cognitive health, mood regulation, and cellular longevity.
+                            Complete guide to Spravato insurance coverage, manufacturer savings programs, and actual patient costs.
                         </p>
                         <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
                             Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
@@ -108,19 +111,20 @@
                     </div>
                 </a>
 
-                <!-- Article 4 -->
-                <a href="#" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
-                    <div class="h-48 bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <i data-lucide="droplets" class="w-16 h-16 text-[#23bfe2]/30"></i>
+                <!-- Article 4 - April 7 (Oldest) -->
+                <a href="blog-deep-tms-cost.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/blog-tms-cost-thumb.svg" alt="Deep TMS Cost" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="dollar-sign" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
                         <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-purple-500/10 text-purple-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Spravato</span>
-                            <span class="text-gray-400 text-sm font-light">Coming Soon</span>
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS</span>
+                            <span class="text-gray-400 text-sm font-light">Apr 7, 2026</span>
                         </div>
-                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Spravato: A New Era in Depression Treatment</h3>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">How Much Does Deep TMS Cost? A Comprehensive 2026 Guide</h3>
                         <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
-                            What patients should know about esketamine nasal spray for treatment-resistant depression.
+                            Real patient pricing, insurance coverage, and out-of-pocket costs explained. Learn what most patients actually pay.
                         </p>
                         <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
                             Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
@@ -129,45 +133,6 @@
                 </a>
 
                 <!-- Article 5 -->
-                <a href="#" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
-                    <div class="h-48 bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <i data-lucide="shield" class="w-16 h-16 text-[#23bfe2]/30"></i>
-                    </div>
-                    <div class="p-8">
-                        <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-emerald-500/10 text-emerald-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Wellness</span>
-                            <span class="text-gray-400 text-sm font-light">Coming Soon</span>
-                        </div>
-                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Building Mental Resilience in Orange County</h3>
-                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
-                            Practical strategies for strengthening your mindset and emotional well-being.
-                        </p>
-                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
-                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
-                        </div>
-                    </div>
-                </a>
-
-                <!-- Article 6 -->
-                <a href="#" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
-                    <div class="h-48 bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <i data-lucide="flask-conical" class="w-16 h-16 text-[#23bfe2]/30"></i>
-                    </div>
-                    <div class="p-8">
-                        <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS Therapy</span>
-                            <span class="text-gray-400 text-sm font-light">Coming Soon</span>
-                        </div>
-                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">The Science Behind Integrative Psychiatry</h3>
-                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
-                            How combining traditional psychiatry with functional medicine produces better outcomes.
-                        </p>
-                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
-                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
-                        </div>
-                    </div>
-                </a>
-            </div>
         </div>
     </section>
 
