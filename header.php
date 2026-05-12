@@ -20,6 +20,12 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
       gtag('js', new Date());
       gtag('config', 'AW-11289954101');
     </script>
+    <?php if (isset($page_conversion)): ?>
+    <!-- Event snippet for Submit lead form quiz conversion page -->
+    <script>
+      gtag('event', 'conversion', {'send_to': '<?php echo $page_conversion; ?>'});
+    </script>
+    <?php endif; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?></title>
