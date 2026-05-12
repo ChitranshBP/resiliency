@@ -1,5 +1,10 @@
 <?php include 'header.php'; ?>
 
+<!-- Event snippet for Submit lead form quiz conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-11289954101/bL8vCLDO06scELWOvIcq'});
+</script>
+
 <main>
     <!-- Hero Section -->
     <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
