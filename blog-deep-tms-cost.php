@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How Much Does Deep TMS Cost? A Comprehensive 2026 Guide | Resiliency Mind+Body Medicine</title>
+    <title>How Much Does Deep TMS Cost? A Comprehensive 2026 Guide | Resiliency Mind+Body Medicine®</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -62,7 +62,7 @@
                     </h1>
                     <div class="flex items-center gap-4 text-gray-300 text-sm font-light">
                         <span><i data-lucide="calendar" class="w-4 h-4 inline-block mr-1"></i>April 7, 2026</span>
-                        <span><i data-lucide="user" class="w-4 h-4 inline-block mr-1"></i>Resiliency Mind+Body Medicine</span>
+                        <span><i data-lucide="user" class="w-4 h-4 inline-block mr-1"></i>Resiliency Mind+Body Medicine®</span>
                     </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                         <div class="blog-content">
 
                             <p>Deep Transcranial Magnetic Stimulation (Deep TMS) is one of the most advanced, FDA-cleared treatments for <a href="blog-ocd-disability.php" class="content-link">depression, OCD</a>, and other mental health conditions, especially for patients who haven't found relief with medications. To understand how Deep TMS works, read our <a href="blog-deep-tms-science.php" class="content-link">comprehensive guide on Deep TMS therapy mechanisms</a>.</p>
-                            <p>If you're considering treatment, cost is naturally one of the first questions. This guide focuses on the real patient experience at Resiliency Mind+Body Medicine, including actual pricing, insurance coverage, and what most patients truly pay out-of-pocket.</p>
+                            <p>If you're considering treatment, cost is naturally one of the first questions. This guide focuses on the real patient experience at Resiliency Mind+Body Medicine®, including actual pricing, insurance coverage, and what most patients truly pay out-of-pocket.</p>
 
                             <h2>What Is Deep TMS and Why Is It Different?</h2>
                             <p>Deep TMS uses specialized <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" target="_blank" rel="nofollow noindex">H-Coil technology</a> to stimulate deeper and broader brain regions than standard TMS. For comparison, learn how <a href="blog-spravato-insurance.php" class="content-link">Spravato coverage compares</a> to other treatment options.</p>
@@ -100,7 +100,7 @@
 
                             <p>For many patients, this becomes the next step after trying multiple medications without success.</p>
 
-                            <h2>Deep TMS Cost at Resiliency Mind+Body Medicine</h2>
+                            <h2>Deep TMS Cost at Resiliency Mind+Body Medicine®</h2>
                             <p>Let's focus on what patients actually experience at our clinic.</p>
 
                             <h3>1. Total Cost of a Full Treatment Course</h3>
@@ -129,7 +129,7 @@
 
                             <h2>Insurance Coverage: The Most Important Factor</h2>
                             <p>For most patients, insurance, not sticker price, determines cost. If you're comparing treatment options, see our <a href="blog-spravato-insurance.php" class="content-link">guide to Spravato insurance coverage</a> as an alternative treatment.</p>
-                            <p>At Resiliency Mind+Body Medicine, we are in-network with:</p>
+                            <p>At Resiliency Mind+Body Medicine®, we are in-network with:</p>
                             <ul>
                                 <li>Commercial insurance plans</li>
                                 <li>Medicare</li>
@@ -247,7 +247,7 @@
                             </ul>
                             <p>And importantly, when covered by insurance, cost is often far lower than expected.</p>
 
-                            <h2>Cost Transparency at Resiliency Mind+Body Medicine</h2>
+                            <h2>Cost Transparency at Resiliency Mind+Body Medicine®</h2>
                             <p>We prioritize clarity and access. Every patient receives:</p>
                             <ul>
                                 <li>Full insurance verification</li>
@@ -314,7 +314,7 @@
                             </div>
 
                             <h2>Ready to Understand Your Exact Cost?</h2>
-                            <p>The best way to know your real cost is through a personalized consultation. At Resiliency Mind+Body Medicine, we'll help you understand:</p>
+                            <p>The best way to know your real cost is through a personalized consultation. At Resiliency Mind+Body Medicine®, we'll help you understand:</p>
                             <ul>
                                 <li>If you're a candidate for Deep TMS</li>
                                 <li>Your insurance coverage</li>

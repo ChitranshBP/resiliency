@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Is Spravato Covered by Insurance? A Complete 2026 Guide | Resiliency Mind+Body Medicine</title>
+    <title>Is Spravato Covered by Insurance? A Complete 2026 Guide | Resiliency Mind+Body Medicine®</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -62,7 +62,7 @@
                     </h1>
                     <div class="flex items-center gap-4 text-gray-300 text-sm font-light">
                         <span><i data-lucide="calendar" class="w-4 h-4 inline-block mr-1"></i>April 12, 2026</span>
-                        <span><i data-lucide="user" class="w-4 h-4 inline-block mr-1"></i>Resiliency Mind+Body Medicine</span>
+                        <span><i data-lucide="user" class="w-4 h-4 inline-block mr-1"></i>Resiliency Mind+Body Medicine®</span>
                     </div>
                 </div>
             </div>
@@ -79,10 +79,10 @@
 
                             <p>For individuals struggling with treatment-resistant depression, Spravato has emerged as a breakthrough option. Unlike traditional antidepressants, it works rapidly and targets different pathways in the brain—often helping when other treatments have failed. To understand the science behind how it works, read our <a href="blog-deep-tms-science.php" class="content-link">Deep TMS science guide</a> for comparison.</p>
                             <p>A key question patients ask is: Is Spravato covered by insurance, and what will I actually pay?</p>
-                            <p>At Resiliency Mind+Body Medicine, serving San Juan Capistrano and Newport Beach, CA, the answer for most patients is encouraging: Many patients are able to receive Spravato through insurance, often with low or even $0 out-of-pocket cost.</p>
+                            <p>At Resiliency Mind+Body Medicine®, serving San Juan Capistrano and Newport Beach, CA, the answer for most patients is encouraging: Many patients are able to receive Spravato through insurance, often with low or even $0 out-of-pocket cost.</p>
 
                             <h2>Insurance Coverage: What Most Patients Experience</h2>
-                            <p>At Resiliency Mind+Body Medicine, we are in-network with:</p>
+                            <p>At Resiliency Mind+Body Medicine®, we are in-network with:</p>
                             <ul>
                                 <li>Commercial insurance plans</li>
                                 <li>Medicare</li>
@@ -195,7 +195,7 @@
                             <p>Insurance providers may reassess periodically.</p>
 
                             <h2>How We Help You Navigate Coverage</h2>
-                            <p>At Resiliency Mind+Body Medicine, the process is fully guided. If you're comparing treatment options, learn about our <a href="blog-ocd-disability.php" class="content-link">OCD treatment options</a> including TMS as an alternative.</p>
+                            <p>At Resiliency Mind+Body Medicine®, the process is fully guided. If you're comparing treatment options, learn about our <a href="blog-ocd-disability.php" class="content-link">OCD treatment options</a> including TMS as an alternative.</p>
 
                             <h3>Step 1: Consultation</h3>
                             <ul>
@@ -317,7 +317,7 @@
                                 </ul>
                             </div>
 
-                            <h2>Why Choose Resiliency Mind+Body Medicine?</h2>
+                            <h2>Why Choose Resiliency Mind+Body Medicine®?</h2>
                             <p>Patients choose our clinic because of:</p>
                             <ul>
                                 <li>Strong insurance accessibility (often low or no cost)</li>
@@ -330,7 +330,7 @@
 
                             <h2>Start With a Personalized Consultation</h2>
                             <p>If you're considering Spravato, the most important step is understanding your eligibility and actual cost.</p>
-                            <p>At Resiliency Mind+Body Medicine, you'll receive:</p>
+                            <p>At Resiliency Mind+Body Medicine®, you'll receive:</p>
                             <ul>
                                 <li>A detailed clinical evaluation</li>
                                 <li>Insurance verification</li>

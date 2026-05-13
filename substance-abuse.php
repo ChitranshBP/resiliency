@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'Substance Use &amp; Smoking Cessation Newport Beach | Deep TMS Addiction Treatment | Resiliency Mind + Body Medicine';
+$page_title       = 'Substance Use &amp; Smoking Cessation Newport Beach | Deep TMS Addiction Treatment | Resiliency Mind + Body Medicine®';
 $page_description = 'FDA-cleared Deep TMS for substance use disorders &amp; smoking cessation in Newport Beach &amp; Orange County, CA. BrainsWay® Deep TMS plus physician-led medication management for addiction recovery. Call (949) 996-5355.';
 $page_keywords    = 'substance use treatment Newport Beach, addiction treatment Orange County, smoking cessation Newport Beach CA, TMS for addiction Orange County, substance use disorder Newport Beach, nicotine addiction treatment Orange County CA, addiction psychiatrist Newport Beach';
 $page_canonical   = 'https://resiliencymbmedicine.com/substance-abuse.php';

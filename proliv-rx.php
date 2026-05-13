@@ -1,11 +1,11 @@
 <?php
-$page_title       = 'Proliv™Rx At-Home TMS Newport Beach | FDA-Approved Home Neuromodulation | Resiliency Mind + Body Medicine';
+$page_title       = 'Proliv™Rx At-Home TMS Newport Beach | FDA-Approved Home Neuromodulation | Resiliency Mind + Body Medicine®';
 $page_description = 'Proliv™Rx — the first FDA-approved at-home brain neuromodulation device for treatment-resistant depression. Prescribed &amp; supervised by our Newport Beach &amp; Orange County psychiatrists. Call (949) 996-5355.';
 $page_keywords    = 'Proliv Rx Newport Beach, at-home TMS Orange County, home neuromodulation Newport Beach CA, FDA approved home TMS Orange County, treatment-resistant depression device Newport Beach, at-home brain stimulation Orange County CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/proliv-rx.php';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MedicalTherapy","name":"Proliv™Rx At-Home TMS","description":"First FDA-approved prescription at-home brain neuromodulation therapy for treatment-resistant depression. Prescribed and supervised by Resiliency Mind + Body Medicine in Orange County, CA.","url":"https://resiliencymbmedicine.com/proliv-rx.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"Proliv™Rx At-Home TMS","description":"First FDA-approved prescription at-home brain neuromodulation therapy for treatment-resistant depression. Prescribed and supervised by Resiliency Mind + Body Medicine® in Orange County, CA.","url":"https://resiliencymbmedicine.com/proliv-rx.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How is Proliv Rx different from Deep TMS in the clinic?","acceptedAnswer":{"@type":"Answer","text":"Proliv Rx is designed for home use, offering convenience for patients who cannot attend daily clinic sessions. In-clinic Deep TMS delivers more powerful stimulation and is proven over decades. Proliv Rx is ideal as a supplement or for maintenance."}},{"@type":"Question","name":"Do I still take my antidepressant medication with Proliv Rx?","acceptedAnswer":{"@type":"Answer","text":"Yes. Proliv Rx is designed to be used alongside antidepressant medications. It is not a replacement for medication but an augmentation for patients who have had inadequate responses."}},{"@type":"Question","name":"What are the side effects of Proliv Rx?","acceptedAnswer":{"@type":"Answer","text":"Side effects are generally mild and may include scalp tingling or discomfort at the treatment site. Serious side effects are rare. Our providers supervise all Proliv Rx prescriptions."}},{"@type":"Question","name":"When will Proliv Rx be available at your clinic?","acceptedAnswer":{"@type":"Answer","text":"Proliv Rx availability is being rolled out progressively. Contact our Newport Beach or San Juan Capistrano clinic for current availability and to discuss whether you are a candidate."}},{"@type":"Question","name":"Is Proliv Rx covered by insurance?","acceptedAnswer":{"@type":"Answer","text":"Insurance coverage for Proliv Rx is evolving as it is a newer therapy. Our team will check your benefits and help explore all coverage options."}},{"@type":"Question","name":"Who qualifies for Proliv Rx?","acceptedAnswer":{"@type":"Answer","text":"Adults with major depressive disorder who have not responded adequately to antidepressant medication and are looking for a convenient at-home neuromodulation option under physician supervision."}}]}
@@ -64,7 +64,7 @@ SCHEMA;
                         Proliv™Rx is the first FDA-approved (Class II PMA), prescription, clinician-directed neuromodulation therapy that can be administered at home. It delivers focal, multi-channel, external Combined Occipital and Trigeminal Afferent Stimulation (eCOT-AS) through a non-invasive wearable headset.
                     </p>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
-                        The device applies gentle electrical pulses to targeted neural pathways associated with depression—without invasive procedures and with low risk of systemic side effects. At Resiliency Mind+Body Medicine, we are proud to be part of the initial rollout of this groundbreaking therapy.
+                        The device applies gentle electrical pulses to targeted neural pathways associated with depression—without invasive procedures and with low risk of systemic side effects. At Resiliency Mind+Body Medicine®, we are proud to be part of the initial rollout of this groundbreaking therapy.
                     </p>
 
                     <div class="bg-neutral p-6 rounded-2xl mb-8 border border-gray-100">
@@ -463,7 +463,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Proliv™Rx received FDA approval on January 12, 2026 and is being rolled out through authorized prescribers in early 2026. Resiliency Mind+Body Medicine is part of the initial deployment. Contact us to learn about availability and get on our interest list.
+                            Proliv™Rx received FDA approval on January 12, 2026 and is being rolled out through authorized prescribers in early 2026. Resiliency Mind+Body Medicine® is part of the initial deployment. Contact us to learn about availability and get on our interest list.
                         </div>
                     </div>
                 </div>
@@ -498,7 +498,7 @@ SCHEMA;
                 Depression Treatment <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#23bfe2] to-[#1da1bf]">From Home</span>
             </h2>
             <p class="text-xl text-gray-600 mb-12 font-light max-w-2xl mx-auto leading-relaxed">
-                Be among the first to access Proliv™Rx at Resiliency Mind+Body Medicine. Schedule a consultation to learn if this groundbreaking at-home therapy is right for you.
+                Be among the first to access Proliv™Rx at Resiliency Mind+Body Medicine®. Schedule a consultation to learn if this groundbreaking at-home therapy is right for you.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">

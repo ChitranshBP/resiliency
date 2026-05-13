@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'Conditions We Treat | Mental Health Psychiatry Newport Beach &amp; Orange County | Resiliency Mind + Body Medicine';
+$page_title       = 'Conditions We Treat | Mental Health Psychiatry Newport Beach &amp; Orange County | Resiliency Mind + Body Medicine®';
 $page_description = 'Expert psychiatric care for depression, anxiety, OCD, PTSD, ADHD, bipolar disorder &amp; more in Newport Beach &amp; Orange County, CA. Two clinic locations in Southern California. Call (949) 996-5355.';
 $page_keywords    = 'mental health conditions Newport Beach, psychiatric care Orange County, depression anxiety OCD treatment Newport Beach, mental health doctor Orange County CA, psychiatry Orange County California, psychiatrist Newport Beach conditions treated';
 $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';

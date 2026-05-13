@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'TMS Therapy Candidacy Quiz | Free Self-Assessment | Resiliency Mind + Body Medicine';
+$page_title       = 'TMS Therapy Candidacy Quiz | Free Self-Assessment | Resiliency Mind + Body Medicine®';
 $page_description = 'Take our free, confidential TMS therapy candidacy assessment. Answer 6 short questions to see if Deep TMS may be right for your depression, anxiety, or OCD. Takes 3–5 minutes.';
 $page_keywords    = 'TMS quiz, TMS candidacy assessment, Deep TMS self-assessment, TMS therapy eligibility, depression treatment quiz Newport Beach, TMS screening Orange County';
 $page_canonical   = 'https://resiliencymbmedicine.com/tms-quiz.php';

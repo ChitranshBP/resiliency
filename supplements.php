@@ -1,11 +1,11 @@
 <?php
-$page_title       = 'Psychiatric &amp; Wellness Supplements Newport Beach | Nutraceuticals | Resiliency Mind + Body Medicine';
-$page_description = 'Physician-curated nutraceuticals &amp; supplements for brain health, mood, focus &amp; sleep from Resiliency Mind + Body Medicine in Newport Beach, CA. Shop evidence-based wellness supplements. Call (949) 996-5355.';
+$page_title       = 'Psychiatric &amp; Wellness Supplements Newport Beach | Nutraceuticals | Resiliency Mind + Body Medicine®';
+$page_description = 'Physician-curated nutraceuticals &amp; supplements for brain health, mood, focus &amp; sleep from Resiliency Mind + Body Medicine® in Newport Beach, CA. Shop evidence-based wellness supplements. Call (949) 996-5355.';
 $page_keywords    = 'psychiatric supplements Newport Beach, wellness supplements Orange County, brain health supplements Newport Beach CA, mood supplements Orange County, nutraceuticals Newport Beach, mental health supplements Orange County CA, sleep supplements Newport Beach';
 $page_canonical   = 'https://resiliencymbmedicine.com/supplements.php';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Product","name":"Psychiatric & Wellness Supplements","description":"Physician-curated nutraceuticals and supplements for brain health, mood, focus, and sleep from Resiliency Mind + Body Medicine in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/supplements.php","brand":{"@type":"Brand","name":"Resiliency Mind + Body Medicine"},"offers":{"@type":"Offer","seller":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine"},"availability":"https://schema.org/InStock"}}
+{"@context":"https://schema.org","@type":"Product","name":"Psychiatric & Wellness Supplements","description":"Physician-curated nutraceuticals and supplements for brain health, mood, focus, and sleep from Resiliency Mind + Body Medicine® in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/supplements.php","brand":{"@type":"Brand","name":"Resiliency Mind + Body Medicine®"},"offers":{"@type":"Offer","seller":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®"},"availability":"https://schema.org/InStock"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need a prescription for supplements?","acceptedAnswer":{"@type":"Answer","text":"No. Supplements do not require a prescription, but our providers recommend specific protocols based on your clinical evaluation for best results."}},{"@type":"Question","name":"Are supplements covered by insurance?","acceptedAnswer":{"@type":"Answer","text":"Supplements are typically not covered by insurance. They are available for direct purchase at our clinic or through our online store."}},{"@type":"Question","name":"Can supplements replace psychiatric medication?","acceptedAnswer":{"@type":"Answer","text":"Supplements complement but do not replace psychiatric medication. They work best as part of an integrative treatment plan supervised by a physician."}},{"@type":"Question","name":"Can supplements be taken alongside psychiatric medications?","acceptedAnswer":{"@type":"Answer","text":"Many supplements are compatible with psychiatric medications, but some interactions exist. Our providers review your full medication list before recommending supplements to ensure safety."}},{"@type":"Question","name":"Which supplements do you recommend for depression?","acceptedAnswer":{"@type":"Answer","text":"Common evidence-based supplements for depression include omega-3 fatty acids, magnesium, vitamin D, methylfolate, and SAMe. Our providers tailor recommendations to your specific needs."}},{"@type":"Question","name":"Do you offer supplements for sleep and anxiety?","acceptedAnswer":{"@type":"Answer","text":"Yes. We carry supplements targeting sleep quality (magnesium glycinate, L-theanine, melatonin) and anxiety (ashwagandha, GABA, phosphatidylserine) as part of our curated wellness line."}}]}
@@ -30,7 +30,7 @@ SCHEMA;
                     <span class="text-[#23bfe2] text-xs sm:text-sm font-bold tracking-widest uppercase">Supplements Service in Newport Beach, CA</span>
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-5xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
-                    Resiliency Mind+Body Medicine <span class="text-[#23bfe2] font-light">MD</span>
+                    Resiliency Mind+Body Medicine® <span class="text-[#23bfe2] font-light">MD</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
                     Your premier destination for cutting-edge supplements meticulously crafted to optimize mental health and neuron vitality. Founded by Dr. Stefani LaFrenierre, a double board-certified physician.
@@ -58,11 +58,11 @@ SCHEMA;
                 <div class="w-full lg:w-1/2 text-[#0B2035] reveal">
                     <div class="flex items-center gap-3 mb-4">
                         <span class="h-[2px] w-12 bg-[#23bfe2]"></span>
-                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Welcome to Resiliency Mind+Body Medicine</h2>
+                        <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Welcome to Resiliency Mind+Body Medicine®</h2>
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Physician-Developed Supplements</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        At Resiliency Mind+Body Medicine , we understand the intricate interplay between nutrition and neurological health. That's why each of our supplements is backed by scientific research and formulated with the highest quality ingredients to ensure maximum effectiveness.
+                        At Resiliency Mind+Body Medicine® , we understand the intricate interplay between nutrition and neurological health. That's why each of our supplements is backed by scientific research and formulated with the highest quality ingredients to ensure maximum effectiveness.
                     </p>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
                         Whether you're looking to sharpen your focus, boost your mood, or safeguard your brain against age-related decline, we have a solution for you. Our range of products caters to various aspects of mental health and neuron health, including memory enhancement, stress reduction, and mood stabilization.
@@ -416,10 +416,10 @@ SCHEMA;
                 </div>
                 <h3 class="text-4xl md:text-5xl font-bold mb-6">Vitamins and Supplements</h3>
                 <p class="text-gray-300 text-lg leading-relaxed font-light">
-                    Below are a list of vitamins and supplements that we at Resiliency Mind+Body Medicine recommend to enhance overall health and well-being. These are available as single supplements or in combination with our unique physician-developed supplements available in office or online.
+                    Below are a list of vitamins and supplements that we at Resiliency Mind+Body Medicine® recommend to enhance overall health and well-being. These are available as single supplements or in combination with our unique physician-developed supplements available in office or online.
                 </p>
                 <p class="text-gray-300 text-lg leading-relaxed font-light mt-4">
-                    We also have included recommended IV Nutrition bags that we offer at Resiliency Mind+Body Medicine to boost vitamin levels and enhance overall health.
+                    We also have included recommended IV Nutrition bags that we offer at Resiliency Mind+Body Medicine® to boost vitamin levels and enhance overall health.
                 </p>
             </div>
 
@@ -629,7 +629,7 @@ SCHEMA;
 
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <div class="text-center max-w-3xl mx-auto mb-20 reveal">
-                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">The Resiliency Mind+Body Medicine Difference</h2>
+                <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">The Resiliency Mind+Body Medicine® Difference</h2>
                 <h3 class="text-4xl md:text-5xl font-bold mb-6">Why Choose Our Supplements?</h3>
             </div>
 

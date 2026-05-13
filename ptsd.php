@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'PTSD Treatment Newport Beach &amp; Orange County | Deep TMS &amp; Psychiatric Care | Resiliency Mind + Body Medicine';
+$page_title       = 'PTSD Treatment Newport Beach &amp; Orange County | Deep TMS &amp; Psychiatric Care | Resiliency Mind + Body Medicine®';
 $page_description = 'Compassionate PTSD treatment in Newport Beach &amp; Orange County, CA. FDA-approved Deep TMS, Spravato &amp; medication management to help you find peace and healing. Call (949) 996-5355.';
 $page_keywords    = 'PTSD treatment Newport Beach, PTSD psychiatrist Orange County, TMS for PTSD Newport Beach CA, trauma treatment Orange County, PTSD therapy Newport Beach, post-traumatic stress disorder treatment Orange County CA, PTSD doctor Newport Beach';
 $page_canonical   = 'https://resiliencymbmedicine.com/ptsd.php';
@@ -33,7 +33,7 @@ SCHEMA;
                     <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Find peace and healing with FDA-approved Deep TMS therapy, medication management, and integrative care at Resiliency Mind+Body Medicine.
+                    Find peace and healing with FDA-approved Deep TMS therapy, medication management, and integrative care at Resiliency Mind+Body Medicine®.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -95,7 +95,7 @@ SCHEMA;
                     <div class="rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 w-[320px] h-[568px]">
                         <iframe
                             src="https://www.youtube.com/embed/I70XPpkKwJA"
-                            title="Deep TMS for PTSD Treatment at Resiliency Mind+Body Medicine"
+                            title="Deep TMS for PTSD Treatment at Resiliency Mind+Body Medicine®"
                             frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen
@@ -119,7 +119,7 @@ SCHEMA;
                     <div class="rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 w-[320px] h-[568px]">
                         <iframe
                             src="https://www.youtube.com/embed/ryMOtYt7SAw"
-                            title="Deep TMS for PTSD at Resiliency Mind+Body Medicine"
+                            title="Deep TMS for PTSD at Resiliency Mind+Body Medicine®"
                             frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen

@@ -19,7 +19,7 @@
                     Terms of <span class="text-[#23bfe2] font-light">Service</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Terms and conditions governing your use of the Resiliency Mind + Body Medicine website.
+                    Terms and conditions governing your use of the Resiliency Mind + Body Medicine® website.
                 </p>
             </div>
         </div>
@@ -33,7 +33,7 @@
                 <div class="mb-10">
                     <h3 class="text-2xl font-bold text-[#0B2035] mb-4">1. Acceptance of Terms</h3>
                     <p class="text-gray-600 leading-relaxed">
-                        By accessing and using the Resiliency Mind + Body Medicine website, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must discontinue use of this website immediately.
+                        By accessing and using the Resiliency Mind + Body Medicine® website, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must discontinue use of this website immediately.
                     </p>
                 </div>
 
@@ -65,7 +65,7 @@
                 <div class="mb-10">
                     <h3 class="text-2xl font-bold text-[#0B2035] mb-4">5. Intellectual Property</h3>
                     <p class="text-gray-600 leading-relaxed">
-                        All content, logos, graphics, images, and materials on this website are the intellectual property of Resiliency Mind + Body Medicine and are protected by applicable copyright and trademark laws. You may not reproduce, distribute, modify, or create derivative works from any content on this site without our express written permission.
+                        All content, logos, graphics, images, and materials on this website are the intellectual property of Resiliency Mind + Body Medicine® and are protected by applicable copyright and trademark laws. You may not reproduce, distribute, modify, or create derivative works from any content on this site without our express written permission.
                     </p>
                 </div>
 
@@ -73,7 +73,7 @@
                 <div class="mb-10">
                     <h3 class="text-2xl font-bold text-[#0B2035] mb-4">6. Limitation of Liability</h3>
                     <p class="text-gray-600 leading-relaxed">
-                        Resiliency Mind + Body Medicine shall not be held liable for any decisions made or actions taken based on the content provided on this website. We make no guarantees regarding the accuracy, completeness, or timeliness of information presented. Use of this website is at your own risk.
+                        Resiliency Mind + Body Medicine® shall not be held liable for any decisions made or actions taken based on the content provided on this website. We make no guarantees regarding the accuracy, completeness, or timeliness of information presented. Use of this website is at your own risk.
                     </p>
                 </div>
 

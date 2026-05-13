@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'Depression Treatment Newport Beach &amp; Orange County | TMS, Spravato &amp; Psychiatry | Resiliency Mind + Body Medicine';
+$page_title       = 'Depression Treatment Newport Beach &amp; Orange County | TMS, Spravato &amp; Psychiatry | Resiliency Mind + Body Medicine®';
 $page_description = 'Comprehensive depression treatment in Newport Beach &amp; Orange County, CA. Deep TMS, Spravato, &amp; medication management for major depression &amp; treatment-resistant depression. Call (949) 996-5355.';
 $page_keywords    = 'depression treatment Newport Beach, depression psychiatrist Orange County, TMS for depression Newport Beach, Spravato depression Orange County, major depressive disorder treatment Newport Beach CA, treatment-resistant depression Orange County, depression doctor Newport Beach, psychiatrist for depression Orange County CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/depression.php';
@@ -100,7 +100,7 @@ SCHEMA;
                     <div class="rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 w-[320px] h-[568px]">
                         <iframe
                             src="https://www.youtube.com/embed/Vg1x9wiPxrU"
-                            title="Deep TMS for Depression Treatment at Resiliency Mind+Body Medicine"
+                            title="Deep TMS for Depression Treatment at Resiliency Mind+Body Medicine®"
                             frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen

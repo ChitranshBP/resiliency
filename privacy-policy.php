@@ -19,7 +19,7 @@
                     Privacy <span class="text-[#23bfe2] font-light">Policy</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    How Resiliency Mind + Body Medicine collects, uses, and protects your personal information.
+                    How Resiliency Mind + Body Medicine® collects, uses, and protects your personal information.
                 </p>
             </div>
         </div>
@@ -49,7 +49,7 @@
                 <div class="mb-10">
                     <h3 class="text-2xl font-bold text-[#0B2035] mb-4">3. HIPAA Compliance</h3>
                     <p class="text-gray-600 leading-relaxed">
-                        Resiliency Mind + Body Medicine complies with the Health Insurance Portability and Accountability Act (HIPAA) for all protected health information (PHI). We maintain strict administrative, physical, and technical safeguards to protect the confidentiality, integrity, and availability of your health information in accordance with federal regulations.
+                        Resiliency Mind + Body Medicine® complies with the Health Insurance Portability and Accountability Act (HIPAA) for all protected health information (PHI). We maintain strict administrative, physical, and technical safeguards to protect the confidentiality, integrity, and availability of your health information in accordance with federal regulations.
                     </p>
                 </div>
 

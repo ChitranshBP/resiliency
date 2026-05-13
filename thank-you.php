@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Thank You | Resiliency Mind + Body Medicine';
-$page_description = 'Thank you for contacting Resiliency Mind + Body Medicine. Your message has been received and a team member will be in touch shortly.';
+$page_title = 'Thank You | Resiliency Mind + Body Medicine®';
+$page_description = 'Thank you for contacting Resiliency Mind + Body Medicine®. Your message has been received and a team member will be in touch shortly.';
 $page_canonical = 'https://resiliencymbmedicine.com/thank-you.php';
 $page_conversion = 'AW-11289954101/bL8vCLDO06scELWOvIcq';
 ?>

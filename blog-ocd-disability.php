@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Is OCD a Disability? Understanding Legal, Clinical, and Functional Impact | Resiliency Mind+Body Medicine</title>
+    <title>Is OCD a Disability? Understanding Legal, Clinical, and Functional Impact | Resiliency Mind+Body Medicine®</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -62,7 +62,7 @@
                     </h1>
                     <div class="flex items-center gap-4 text-gray-300 text-sm font-light">
                         <span><i data-lucide="calendar" class="w-4 h-4 inline-block mr-1"></i>April 19, 2026</span>
-                        <span><i data-lucide="user" class="w-4 h-4 inline-block mr-1"></i>Resiliency Mind+Body Medicine</span>
+                        <span><i data-lucide="user" class="w-4 h-4 inline-block mr-1"></i>Resiliency Mind+Body Medicine®</span>
                     </div>
                 </div>
             </div>
@@ -80,7 +80,7 @@
                             <p><a href="https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder" target="_blank" rel="nofollow noindex">Obsessive-Compulsive Disorder (OCD)</a> is often misunderstood as a personality quirk or mild behavioral issue. In reality, it is a serious mental health condition that can significantly impair daily functioning, relationships, and quality of life. For understanding treatment options, see our <a href="blog-deep-tms-science.php" class="content-link">Deep TMS science guide</a>.</p>
                             <p>A common and important question patients and families ask is: "Is OCD considered a disability?"</p>
                             <p>The answer depends on clinical severity, functional impairment, and legal definitions. This comprehensive guide explains when OCD qualifies as a disability, how it is evaluated, and what treatment options are available. For cost-related information, see our <a href="blog-deep-tms-cost.php" class="content-link">Deep TMS cost guide</a>.</p>
-                            <p>At Resiliency Mind+Body Medicine, serving San Juan Capistrano and Newport Beach, CA, patients receive expert diagnosis and evidence-based treatment for OCD and related disorders.</p>
+                            <p>At Resiliency Mind+Body Medicine®, serving San Juan Capistrano and Newport Beach, CA, patients receive expert diagnosis and evidence-based treatment for OCD and related disorders.</p>
 
                             <h2>What Is OCD?</h2>
                             <p>OCD is a chronic psychiatric condition characterized by:</p>
@@ -224,7 +224,7 @@
                                 <li>Transcranial Magnetic Stimulation (TMS)</li>
                                 <li>Ketamine-based therapies (in select cases)</li>
                             </ul>
-                            <p>These options are available at specialized centers like Resiliency Mind+Body Medicine. For understanding costs, see our <a href="blog-deep-tms-cost.php" class="content-link">comprehensive cost guide</a>.</p>
+                            <p>These options are available at specialized centers like Resiliency Mind+Body Medicine®. For understanding costs, see our <a href="blog-deep-tms-cost.php" class="content-link">comprehensive cost guide</a>.</p>
 
                             <h2>Can OCD Improve Enough to No Longer Be Disabling?</h2>
                             <p>Yes. With appropriate treatment:</p>
@@ -276,7 +276,7 @@
                                 <li>Ongoing support and progress monitoring</li>
                             </ul>
                             <p>If OCD symptoms are interfering with your daily life, work, or relationships, seeking professional help is critical. For insurance coverage details, see our <a href="blog-spravato-insurance.php" class="content-link">insurance guide</a>.</p>
-                            <p>At Resiliency Mind+Body Medicine, expert clinicians provide individualized care to help you:</p>
+                            <p>At Resiliency Mind+Body Medicine®, expert clinicians provide individualized care to help you:</p>
                             <ul>
                                 <li>Accurately diagnose OCD</li>
                                 <li>Determine the severity and functional impact</li>

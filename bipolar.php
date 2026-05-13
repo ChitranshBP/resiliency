@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'Bipolar Disorder Treatment Newport Beach &amp; Orange County | Mood Stabilization | Resiliency Mind + Body Medicine';
+$page_title       = 'Bipolar Disorder Treatment Newport Beach &amp; Orange County | Mood Stabilization | Resiliency Mind + Body Medicine®';
 $page_description = 'Multi-modality bipolar disorder treatment in Newport Beach &amp; Orange County, CA. Deep TMS, Spravato &amp; expert medication management for mood stabilization. Board-certified psychiatrist. Call (949) 996-5355.';
 $page_keywords    = 'bipolar disorder treatment Newport Beach, bipolar psychiatrist Orange County, mood disorder treatment Newport Beach CA, bipolar medication management Orange County, bipolar disorder doctor Newport Beach, mood stabilization psychiatry Orange County CA, TMS for bipolar Orange County';
 $page_canonical   = 'https://resiliencymbmedicine.com/bipolar.php';
@@ -33,7 +33,7 @@ SCHEMA;
                     <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">Treatment in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Achieve mood stability with a multi-modality approach including FDA-approved Deep TMS therapy, medication management, and integrative care at Resiliency Mind+Body Medicine.
+                    Achieve mood stability with a multi-modality approach including FDA-approved Deep TMS therapy, medication management, and integrative care at Resiliency Mind+Body Medicine®.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">

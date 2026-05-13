@@ -9,11 +9,11 @@
                 
                 <!-- Brand Column -->
                 <div class="lg:col-span-2">
-                    <a href="index.php" class="block mb-8">
-                        <img src="assets/images/logo/Resiliency-MindBody-Medicine-Logo.png" alt="Resiliency Mind+Body Medicine" class="h-12 w-auto object-contain brightness-0 invert">
+                    <a href="index.php" class="block mb-2">
+                        <img src="assets/images/logo/resiliency-new-logo.png" alt="Resiliency Mind+Body Medicine®" class="h-24 w-auto object-contain brightness-0 invert">
                     </a>
                     <p class="font-light leading-relaxed mb-8 max-w-sm text-gray-400 text-sm">
-                        Resiliency Mind + Body Medicine is a boutique clinical practice specializing in advanced neuro-psychiatric treatments and integrative wellness.
+                        Resiliency Mind + Body Medicine® is a boutique clinical practice specializing in advanced neuro-psychiatric treatments and integrative wellness.
                     </p>
                     <div class="flex gap-4">
                         <a href="https://www.facebook.com/resiliencymbmedicine" target="_blank" rel="noopener" class="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center hover:bg-secondary hover:text-white transition-all duration-300 border border-white/10" aria-label="Facebook">
@@ -119,7 +119,7 @@
             </div>
 
             <div class="flex flex-col md:flex-row justify-between items-center text-xs font-light text-gray-500">
-                <p>&copy; 2026 Resiliency Mind + Body Medicine. All rights reserved.</p>
+                <p>&copy; 2026 Resiliency Mind + Body Medicine®. All rights reserved.</p>
                 <div class="flex gap-8 mt-4 md:mt-0 uppercase tracking-widest">
                     <a href="privacy-policy.php" class="hover:text-white transition-colors">Privacy Policy</a>
                     <a href="terms-of-service.php" class="hover:text-white transition-colors">Terms of Service</a>

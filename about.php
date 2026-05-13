@@ -4,7 +4,7 @@ $page_schema = <<<'SCHEMA'
 {
   "@context": "https://schema.org",
   "@type": "MedicalOrganization",
-  "name": "Resiliency Mind + Body Medicine",
+  "name": "Resiliency Mind + Body Medicine®",
   "url": "https://resiliencymbmedicine.com",
   "logo": "https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png",
   "description": "Boutique clinical practice specializing in advanced neuro-psychiatric treatments and integrative wellness in Orange County, CA.",
@@ -24,7 +24,7 @@ $page_schema = <<<'SCHEMA'
       ],
       "worksFor": {
         "@type": "MedicalOrganization",
-        "name": "Resiliency Mind + Body Medicine"
+        "name": "Resiliency Mind + Body Medicine®"
       }
     }
   ],
@@ -105,7 +105,7 @@ SCHEMA;
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Healing the Mind and Body Together</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        Resiliency Mind + Body Medicine is a boutique clinical practice specializing in advanced neuro-psychiatric treatments and integrative wellness. Founded by Dr. Stefani LaFrenierre, MD, our practice was built on the belief that mental health care should be comprehensive, compassionate, and personalized.
+                        Resiliency Mind + Body Medicine® is a boutique clinical practice specializing in advanced neuro-psychiatric treatments and integrative wellness. Founded by Dr. Stefani LaFrenierre, MD, our practice was built on the belief that mental health care should be comprehensive, compassionate, and personalized.
                     </p>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
                         We combine cutting-edge interventional psychiatry&mdash;including Deep TMS, Spravato, and conservative medication management&mdash;with functional medicine, nutritional optimization, and lifestyle interventions.

@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'Autism Spectrum Support Newport Beach &amp; Orange County | Psychiatric Care for ASD | Resiliency Mind + Body Medicine';
+$page_title       = 'Autism Spectrum Support Newport Beach &amp; Orange County | Psychiatric Care for ASD | Resiliency Mind + Body Medicine®';
 $page_description = 'Specialized psychiatric support for autism spectrum disorder (ASD) in Newport Beach &amp; Orange County, CA. Compassionate, individualized care addressing co-occurring mental health conditions. Call (949) 996-5355.';
 $page_keywords    = 'autism spectrum support Newport Beach, ASD psychiatrist Orange County, autism psychiatric care Newport Beach CA, autism spectrum disorder treatment Orange County, autism doctor Newport Beach, ASD mental health Orange County CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/autism.php';

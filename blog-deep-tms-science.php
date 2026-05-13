@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How Does Deep TMS Therapy Work? A Complete Scientific and Clinical Guide | Resiliency Mind+Body Medicine</title>
+    <title>How Does Deep TMS Therapy Work? A Complete Scientific and Clinical Guide | Resiliency Mind+Body Medicine®</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -62,7 +62,7 @@
                     </h1>
                     <div class="flex items-center gap-4 text-gray-300 text-sm font-light">
                         <span><i data-lucide="calendar" class="w-4 h-4 inline-block mr-1"></i>April 26, 2026</span>
-                        <span><i data-lucide="user" class="w-4 h-4 inline-block mr-1"></i>Resiliency Mind+Body Medicine</span>
+                        <span><i data-lucide="user" class="w-4 h-4 inline-block mr-1"></i>Resiliency Mind+Body Medicine®</span>
                     </div>
                 </div>
             </div>
@@ -80,7 +80,7 @@
                             <p>For individuals exploring advanced, non-medication treatments for depression, OCD, or anxiety, <a href="blog-deep-tms-cost.php" class="content-link">Deep Transcranial Magnetic Stimulation (Deep TMS)</a> is often recommended. To understand the costs involved, see our <a href="blog-deep-tms-cost.php" class="content-link">comprehensive cost guide</a>.</p>
                             <p>But a key question remains: How does Deep TMS actually work, and what makes it different from standard TMS?</p>
                             <p>Understanding the mechanism builds confidence and helps patients make informed treatment decisions.</p>
-                            <p>At Resiliency Mind+Body Medicine, serving San Juan Capistrano and Newport Beach, CA, Deep TMS is delivered using <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" target="_blank" rel="nofollow noindex">FDA-cleared H-Coil technology</a> and evidence-based protocols tailored to each patient's brain and clinical profile.</p>
+                            <p>At Resiliency Mind+Body Medicine®, serving San Juan Capistrano and Newport Beach, CA, Deep TMS is delivered using <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" target="_blank" rel="nofollow noindex">FDA-cleared H-Coil technology</a> and evidence-based protocols tailored to each patient's brain and clinical profile.</p>
 
                             <h2>What Is Deep TMS Therapy?</h2>
                             <p>Deep TMS is an advanced, FDA-cleared, non-invasive brain stimulation treatment that uses specialized magnetic coils (H-Coils) to reach deeper and broader brain regions than standard TMS.</p>
@@ -310,7 +310,7 @@
 
                             <h2>Start Your Personalized Deep TMS Journey</h2>
                             <p>If you are trying to understand whether Deep TMS is the right treatment for you, the most effective next step is a professional evaluation.</p>
-                            <p>At Resiliency Mind+Body Medicine, you can receive:</p>
+                            <p>At Resiliency Mind+Body Medicine®, you can receive:</p>
                             <ul>
                                 <li>A detailed clinical assessment</li>
                                 <li>Clear guidance on whether Deep TMS fits your condition</li>

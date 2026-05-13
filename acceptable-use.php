@@ -19,7 +19,7 @@
                     Acceptable <span class="text-[#23bfe2] font-light">Use Policy</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Guidelines for acceptable use of the Resiliency Mind + Body Medicine website and digital services.
+                    Guidelines for acceptable use of the Resiliency Mind + Body Medicine® website and digital services.
                 </p>
             </div>
         </div>
@@ -33,7 +33,7 @@
                 <div class="mb-10">
                     <h3 class="text-2xl font-bold text-[#0B2035] mb-4">1. Purpose</h3>
                     <p class="text-gray-600 leading-relaxed">
-                        This Acceptable Use Policy outlines the guidelines and expectations for using the Resiliency Mind + Body Medicine website, patient portal, and telehealth services. By accessing or using any of our digital services, you agree to comply with this policy.
+                        This Acceptable Use Policy outlines the guidelines and expectations for using the Resiliency Mind + Body Medicine® website, patient portal, and telehealth services. By accessing or using any of our digital services, you agree to comply with this policy.
                     </p>
                 </div>
 

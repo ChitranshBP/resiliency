@@ -19,7 +19,7 @@
                     Our <span class="text-[#23bfe2] font-light">Reviews</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Read what our patients say about their experience at Resiliency Mind + Body Medicine.
+                    Read what our patients say about their experience at Resiliency Mind + Body Medicine®.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                     <a href="#reviews" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -64,7 +64,7 @@
                         <i data-lucide="star" class="w-5 h-5 text-[#23bfe2] fill-[#23bfe2]"></i>
                     </div>
                     <p class="text-gray-600 font-light leading-relaxed italic mb-6">
-                        "I can't say enough good things about my experience at Resiliency Mind + Body Medicine, especially because of Cyrus, my TMS technician. He is skilled, knowledgeable, and genuinely invested in his patients' well-being. Cyrus is present and attentive at every session, checking in on how I'm doing and my comfort level during treatment."
+                        "I can't say enough good things about my experience at Resiliency Mind + Body Medicine®, especially because of Cyrus, my TMS technician. He is skilled, knowledgeable, and genuinely invested in his patients' well-being. Cyrus is present and attentive at every session, checking in on how I'm doing and my comfort level during treatment."
                     </p>
                     <div class="flex items-center gap-4">
                         <div class="w-12 h-12 bg-[#0B2035] rounded-full flex items-center justify-center text-white font-bold text-sm">RC</div>
@@ -328,7 +328,7 @@
                         <i data-lucide="star" class="w-5 h-5 text-[#23bfe2] fill-[#23bfe2]"></i>
                     </div>
                     <p class="text-gray-600 font-light leading-relaxed italic mb-6">
-                        "Resiliency Mind + Body Medicine is truly special. I came here for TMS treatment, and from the very beginning, I was met with warmth and care. Dr. Stefani LaFrenierre is not only incredibly knowledgeable but also so compassionate. They made what could have been a difficult process feel seamless and supportive. Their kindness and professionalism were such a huge part of my healing journey."
+                        "Resiliency Mind + Body Medicine® is truly special. I came here for TMS treatment, and from the very beginning, I was met with warmth and care. Dr. Stefani LaFrenierre is not only incredibly knowledgeable but also so compassionate. They made what could have been a difficult process feel seamless and supportive. Their kindness and professionalism were such a huge part of my healing journey."
                     </p>
                     <div class="flex items-center gap-4">
                         <div class="w-12 h-12 bg-[#0B2035] rounded-full flex items-center justify-center text-white font-bold text-sm">CB</div>

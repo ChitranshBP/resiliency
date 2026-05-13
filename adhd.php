@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'ADHD Treatment Newport Beach &amp; Orange County | Adult ADHD Psychiatrist | Resiliency Mind + Body Medicine';
+$page_title       = 'ADHD Treatment Newport Beach &amp; Orange County | Adult ADHD Psychiatrist | Resiliency Mind + Body Medicine®';
 $page_description = 'Comprehensive adult ADHD treatment in Newport Beach &amp; Orange County, CA. Diagnostic evaluation, conservative medication management &amp; integrative strategies from a board-certified psychiatrist. Call (949) 996-5355.';
 $page_keywords    = 'ADHD treatment Newport Beach, adult ADHD psychiatrist Orange County, ADHD doctor Newport Beach CA, adult ADHD medication management Orange County, ADHD diagnosis Newport Beach, ADHD psychiatrist San Juan Capistrano, adult attention deficit disorder treatment Orange County';
 $page_canonical   = 'https://resiliencymbmedicine.com/adhd.php';

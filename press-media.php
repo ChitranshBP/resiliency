@@ -19,7 +19,7 @@
                     Press & <span class="text-[#23bfe2] font-light">Media</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Resiliency Mind + Body Medicine in the news&mdash;media coverage, press mentions, and Dr. LaFrenierre's expert commentary on mental health topics.
+                    Resiliency Mind + Body Medicine® in the news&mdash;media coverage, press mentions, and Dr. LaFrenierre's expert commentary on mental health topics.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                     <a href="#press" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -51,17 +51,35 @@
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-16 reveal">
                 <div class="bg-[#0B2035] rounded-[2rem] overflow-hidden shadow-2xl">
                     <div class="relative w-full" style="padding-bottom:56.25%">
-                        <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/V-DMSVf6jGQ" title="Resiliency Mind+Body Medicine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/V-DMSVf6jGQ" title="Resiliency Mind+Body Medicine®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="bg-[#0B2035] rounded-[2rem] overflow-hidden shadow-2xl">
                     <div class="relative w-full" style="padding-bottom:56.25%">
-                        <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/qrHM1le9qr4" title="Resiliency Mind+Body Medicine - Media Feature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/qrHM1le9qr4" title="Resiliency Mind+Body Medicine® - Media Feature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 reveal">
+                <!-- Press Card - PR Newswire / Neurolief ProlivRx -->
+                <a href="https://www.prnewswire.com/news-releases/neurolief-to-showcase-prolivrx-at-apa-2026-highlighting-fda-approved-physician-directed-at-home-brain-stimulation-for-major-depressive-disorder-302769004.html" target="_blank" rel="noopener" class="bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-xl transition-all duration-300 hover:-translate-y-2 block group">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2]">
+                            <i data-lucide="newspaper" class="w-5 h-5"></i>
+                        </div>
+                        <span class="text-sm text-gray-400 font-light">Press Release</span>
+                    </div>
+                    <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">PR Newswire: Neurolief at APA 2026</h3>
+                    <p class="text-gray-600 font-light leading-relaxed mb-6">
+                        Resiliency Mind+Body Medicine® highlighted as Neurolief showcases ProlivRx at APA 2026&mdash;FDA-approved, physician-directed at-home brain stimulation for Major Depressive Disorder.
+                    </p>
+                    <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm">
+                        <i data-lucide="external-link" class="w-4 h-4"></i>
+                        <span>Read Press Release</span>
+                    </div>
+                </a>
+
                 <!-- Press Card - SDVoyager -->
                 <a href="https://sdvoyager.com/interview/meet-dr-stefani-lafrenierre-of-resiliency-mindbody-medicine/" target="_blank" rel="noopener" class="bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-xl transition-all duration-300 hover:-translate-y-2 block group">
                     <div class="flex items-center gap-3 mb-4">
@@ -72,7 +90,7 @@
                     </div>
                     <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">SDVoyager: Meet Dr. Stefani LaFrenierre</h3>
                     <p class="text-gray-600 font-light leading-relaxed mb-6">
-                        Dr. LaFrenierre featured in SDVoyager's interview series, sharing her inspiring journey of building Resiliency Mind+Body Medicine and her vision for integrative, physician-led mental health care.
+                        Dr. LaFrenierre featured in SDVoyager's interview series, sharing her inspiring journey of building Resiliency Mind+Body Medicine® and her vision for integrative, physician-led mental health care.
                     </p>
                     <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm">
                         <i data-lucide="external-link" class="w-4 h-4"></i>
@@ -108,7 +126,7 @@
                     </div>
                     <h3 class="text-xl font-bold text-[#0B2035] mb-3">BrainsWay Ultra Provider</h3>
                     <p class="text-gray-600 font-light leading-relaxed mb-6">
-                        Resiliency Mind + Body Medicine recognized as a BrainsWay Ultra Provider&mdash;the highest tier designation for Deep TMS treatment volume, clinical excellence, and 85% depression remission rates.
+                        Resiliency Mind + Body Medicine® recognized as a BrainsWay Ultra Provider&mdash;the highest tier designation for Deep TMS treatment volume, clinical excellence, and 85% depression remission rates.
                     </p>
                     <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm">
                         <i data-lucide="trophy" class="w-4 h-4"></i>
@@ -126,7 +144,7 @@
                     </div>
                     <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Reel Medicine Media Feature</h3>
                     <p class="text-gray-600 font-light leading-relaxed mb-6">
-                        Dr. LaFrenierre welcomed Reel Medicine Media to Resiliency Mind+Body Medicine, sharing insights on Deep TMS therapy and integrative psychiatric care in Orange County.
+                        Dr. LaFrenierre welcomed Reel Medicine Media to Resiliency Mind+Body Medicine®, sharing insights on Deep TMS therapy and integrative psychiatric care in Orange County.
                     </p>
                     <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm">
                         <i data-lucide="external-link" class="w-4 h-4"></i>

@@ -292,7 +292,7 @@ const teamBios = {
         title: 'Psychiatrist & Addiction Medicine | Founder',
         img: 'assets/images/team/stefani.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/stefani-lafrenierre-md/',
-        bio: `<p>Dr. Stefani LaFrenierre is the founder of Resiliency Mind+Body Medicine and a licensed Medical Doctor who is double board-certified in Adult Psychiatry and Addiction Medicine.</p>
+        bio: `<p>Dr. Stefani LaFrenierre is the founder of Resiliency Mind+Body Medicine® and a licensed Medical Doctor who is double board-certified in Adult Psychiatry and Addiction Medicine.</p>
               <p>She received her Medical Degree from the David Geffen School of Medicine at UCLA and completed her Adult Psychiatry residency training at San Mateo Behavioral Health and Recovery Services. She also completed a fellowship through the Harvard Program in Refugee Trauma with a certification in Global Mental Health, Trauma and Recovery.</p>
               <p>Dr. LaFrenierre has expertise in the treatment of depression, anxiety, ADHD, PTSD, bipolar disorders, psychotic disorders, autism spectrum, neuro-divergent spectrum, substance use and dual diagnosis disorders. She has performed in several leadership positions, including Medical Director of an addiction treatment group practice and as Chief Resident during her training.</p>
               <p>Her treatment philosophy focuses on building resiliency through holistic, long-lasting changes to help her patients achieve a balanced and fulfilling life. She provides a warm, empathic, and active therapy style, and brings a conservative approach to medication while considering all aspects of health in treatment planning.</p>`
@@ -313,14 +313,14 @@ const teamBios = {
         img: 'assets/images/team/milinda.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/milinda-estrada-pa-c/',
         bio: `<p>Milinda Estrada earned her Master of Medical Science in Physician Assistant Studies from Chapman University and completed her undergraduate degree at Hamilton College in Clinton, New York, with a major in Biology and a minor in Women's and Gender Studies.</p>
-              <p>As a Physician Associate at Resiliency Mind+Body Medicine, Milinda brings a compassionate, patient-centered approach to psychiatric care. She is dedicated to working collaboratively with patients to develop individualized treatment plans that address the full spectrum of mental health needs.</p>`
+              <p>As a Physician Associate at Resiliency Mind+Body Medicine®, Milinda brings a compassionate, patient-centered approach to psychiatric care. She is dedicated to working collaboratively with patients to develop individualized treatment plans that address the full spectrum of mental health needs.</p>`
     },
     regina: {
         name: 'Regina Dizon, PMHNP-BC',
         title: 'Psychiatric Nurse Practitioner',
         img: 'assets/images/team/regina.png',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/regina-dizon-pmhnp-bc/',
-        bio: `<p>Regina Dizon is a passionate and highly experienced board-certified Psychiatric Mental Health Nurse Practitioner, proudly serving patients at Resiliency Mind+Body Medicine.</p>
+        bio: `<p>Regina Dizon is a passionate and highly experienced board-certified Psychiatric Mental Health Nurse Practitioner, proudly serving patients at Resiliency Mind+Body Medicine®.</p>
               <p>Her background also includes roles as an emergency medical technician, medical assistant, and nursing assistant, giving her a broad foundation and a personal touch in caring for patients.</p>
               <p>She integrates both holistic, nonpharmacological strategies and evidence-based pharmacological treatments to support overall mental wellness. Regina is committed to providing comprehensive, compassionate care that addresses the whole person.</p>`
     },

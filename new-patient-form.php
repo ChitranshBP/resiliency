@@ -42,9 +42,9 @@
                     <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase">Welcome</h2>
                     <span class="h-[2px] w-8 bg-[#23bfe2]"></span>
                 </div>
-                <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035] mb-6">Welcome to Resiliency Mind + Body Medicine</h3>
+                <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035] mb-6">Welcome to Resiliency Mind + Body Medicine®</h3>
                 <p class="text-gray-600 text-lg font-light leading-relaxed">
-                    Welcome to Resiliency Mind + Body Medicine! To ensure we make the most of your first appointment, please complete the following intake forms prior to your visit. If you have questions, contact us at <a href="tel:+19499965355" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors">(949) 996-5355</a>.
+                    Welcome to Resiliency Mind + Body Medicine®! To ensure we make the most of your first appointment, please complete the following intake forms prior to your visit. If you have questions, contact us at <a href="tel:+19499965355" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors">(949) 996-5355</a>.
                 </p>
             </div>
         </div>

@@ -4,7 +4,7 @@ $page_schema = <<<'SCHEMA'
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "Resiliency Mind + Body Medicine",
+  "name": "Resiliency Mind + Body Medicine®",
   "url": "https://resiliencymbmedicine.com",
   "description": "Orange County's leading psychiatric clinic offering Deep TMS Therapy, Spravato, and personalized mental health care in Newport Beach & San Juan Capistrano, CA.",
   "potentialAction": {
@@ -21,7 +21,7 @@ $page_schema = <<<'SCHEMA'
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What makes Resiliency Mind + Body Medicine different from a standard psychiatrist?",
+      "name": "What makes Resiliency Mind + Body Medicine® different from a standard psychiatrist?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "At Resiliency, we go far beyond a 15-minute medication check. Our board-certified psychiatrist Dr. LaFrenierre combines Deep TMS Therapy, Spravato® treatment, conservative medication management, and integrative psychiatry into a truly personalized care plan. We treat the whole person — not just symptoms."
@@ -1046,7 +1046,7 @@ SCHEMA;
                             <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                         </div>
                         <p class="text-gray-700 text-sm leading-relaxed mb-6">
-                            "I can't say enough good things about my experience at Resiliency Mind + Body Medicine, especially because of Cyrus, my TMS technician. He is skilled, knowledgeable, and genuinely invested in his patients' well-being."
+                            "I can't say enough good things about my experience at Resiliency Mind + Body Medicine®, especially because of Cyrus, my TMS technician. He is skilled, knowledgeable, and genuinely invested in his patients' well-being."
                         </p>
                         <div class="flex items-center justify-between">
                             <div class="flex items-center gap-3">
@@ -1144,7 +1144,7 @@ SCHEMA;
             <div class="space-y-4">
                 <div class="bg-white/5 border border-white/10 rounded-2xl overflow-hidden reveal">
                     <button class="w-full px-8 py-6 text-left font-bold text-xl flex items-center justify-between focus:outline-none hover:bg-white/5 transition-colors group">
-                        <span>What makes Resiliency Mind + Body Medicine different from a standard psychiatrist?</span>
+                        <span>What makes Resiliency Mind + Body Medicine® different from a standard psychiatrist?</span>
                         <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-[#23bfe2] group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                             <i data-lucide="plus" class="w-5 h-5 transition-transform duration-300"></i>
                         </div>

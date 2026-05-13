@@ -19,7 +19,7 @@
                     CalOptima <span class="text-[#23bfe2] font-light">Coverage</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Resiliency Mind + Body Medicine is proud to accept CalOptima Health insurance for mental health services in Orange County.
+                    Resiliency Mind + Body Medicine® is proud to accept CalOptima Health insurance for mental health services in Orange County.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -47,7 +47,7 @@
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">About CalOptima Coverage</h3>
                     <p class="text-gray-600 text-lg mb-8 leading-relaxed font-light">
-                        Resiliency Mind + Body Medicine is in-network with CalOptima Health, Orange County's public health insurance plan. CalOptima members can access our psychiatric services including comprehensive evaluations, medication management, and select advanced treatments. Our team handles all benefits verification and prior authorization to ensure a smooth experience.
+                        Resiliency Mind + Body Medicine® is in-network with CalOptima Health, Orange County's public health insurance plan. CalOptima members can access our psychiatric services including comprehensive evaluations, medication management, and select advanced treatments. Our team handles all benefits verification and prior authorization to ensure a smooth experience.
                     </p>
                 </div>
 

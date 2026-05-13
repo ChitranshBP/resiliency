@@ -1,5 +1,5 @@
 <?php
-$default_title       = 'Psychiatrist Newport Beach &amp; Orange County | Deep TMS, Spravato | Resiliency Mind + Body Medicine';
+$default_title       = 'Psychiatrist Newport Beach &amp; Orange County | Deep TMS, Spravato | Resiliency Mind + Body Medicine®';
 $default_description = 'Orange County\'s leading psychiatric clinic offering Deep TMS Therapy, Spravato (ketamine nasal spray), and personalized treatment for depression, anxiety, OCD, PTSD &amp; ADHD. Two locations: Newport Beach &amp; San Juan Capistrano, CA. Call (949) 996-5355.';
 $default_keywords    = 'psychiatrist Newport Beach, psychiatrist Orange County, Deep TMS therapy Newport Beach, TMS therapy Orange County, Spravato treatment Orange County, depression treatment Newport Beach, anxiety treatment Orange County, OCD treatment Newport Beach, PTSD psychiatrist Orange County, ADHD psychiatrist Newport Beach, mental health clinic Orange County, psychiatric care Newport Beach CA, ketamine treatment Orange County, TMS depression treatment, neuromodulation therapy Orange County, psychiatrist San Juan Capistrano, advanced psychiatric care Southern California, IV therapy Newport Beach, medical weight loss Newport Beach, Resiliency Mind Body Medicine';
 $default_canonical   = 'https://resiliencymbmedicine.com/';
@@ -32,7 +32,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Resiliency Mind + Body Medicine">
+    <meta name="author" content="Resiliency Mind + Body Medicine®">
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/assets/images/logo/Resiliency-FAVICON.png">
@@ -51,24 +51,24 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <meta property="og:url" content="<?php echo $page_canonical; ?>">
     <meta property="og:title" content="<?php echo $page_title; ?>">
     <meta property="og:description" content="<?php echo $page_description; ?>">
-    <meta property="og:image" content="https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png">
-    <meta property="og:site_name" content="Resiliency Mind + Body Medicine">
+    <meta property="og:image" content="https://resiliencymbmedicine.com/assets/images/logo/resiliency-new-logo.png">
+    <meta property="og:site_name" content="Resiliency Mind + Body Medicine®">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="<?php echo $page_title; ?>">
     <meta name="twitter:description" content="<?php echo $page_description; ?>">
-    <meta name="twitter:image" content="https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png">
+    <meta name="twitter:image" content="https://resiliencymbmedicine.com/assets/images/logo/resiliency-new-logo.png">
 
     <!-- Local Business Schema -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "MedicalBusiness",
-      "name": "Resiliency Mind + Body Medicine",
+      "name": "Resiliency Mind + Body Medicine®",
       "url": "https://resiliencymbmedicine.com",
-      "logo": "https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png",
+      "logo": "https://resiliencymbmedicine.com/assets/images/logo/resiliency-new-logo.png",
       "telephone": "(949) 996-5355",
       "description": "Orange County's leading psychiatric clinic offering Deep TMS Therapy, Spravato, and personalized treatment for depression, anxiety, OCD, PTSD, and ADHD.",
       "medicalSpecialty": ["Psychiatry", "Addiction Medicine", "Neuromodulation"],
@@ -81,7 +81,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
       "location": [
         {
           "@type": "MedicalClinic",
-          "name": "Resiliency Mind + Body Medicine – Newport Beach",
+          "name": "Resiliency Mind + Body Medicine® – Newport Beach",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "1501 Superior Ave, Suite 210",
@@ -99,7 +99,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
         },
         {
           "@type": "MedicalClinic",
-          "name": "Resiliency Mind + Body Medicine – San Juan Capistrano",
+          "name": "Resiliency Mind + Body Medicine® – San Juan Capistrano",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "27184 Ortega Hwy, STE 103",
@@ -197,7 +197,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                 <div class="flex-shrink-0 flex items-center">
                     <a href="index.php" class="block">
                         <!-- We use a brightness filter for the white variant before scrolling, and invert/original on scroll depending on the logo's original color -->
-                        <img src="assets/images/logo/Resiliency-MindBody-Medicine-Logo.png" alt="Resiliency Mind+Body Medicine" class="h-16 w-auto object-contain transition-all duration-300 brightness-0 invert group-[.scrolled]:filter-none">
+                        <img src="assets/images/logo/resiliency-new-logo.png" alt="Resiliency Mind+Body Medicine®" class="h-24 w-auto object-contain transition-all duration-300 brightness-0 invert group-[.scrolled]:filter-none">
                     </a>
                 </div>
                 
@@ -352,7 +352,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
         <div class="p-6">
             <!-- Header section of mobile menu -->
             <div class="flex items-center justify-between mb-8">
-                <img src="assets/images/logo/Resiliency-MindBody-Medicine-Logo.png" alt="Resiliency Mind+Body Medicine" class="h-10 w-auto brightness-0 invert">
+                <img src="assets/images/logo/resiliency-new-logo.png" alt="Resiliency Mind+Body Medicine®" class="h-14 w-auto brightness-0 invert">
                 <button id="close-mobile-menu" class="text-white p-2">
                     <i data-lucide="x" class="w-8 h-8"></i>
                 </button>

@@ -35,7 +35,7 @@
                 </div>
                 <h3 class="text-3xl md:text-4xl font-bold text-[#0B2035] mb-6">About the No Surprises Act</h3>
                 <p class="text-gray-600 text-lg font-light leading-relaxed">
-                    The No Surprises Act protects patients from unexpected out-of-network medical bills. At Resiliency Mind + Body Medicine, we are committed to transparent billing practices and compliance with all federal billing regulations.
+                    The No Surprises Act protects patients from unexpected out-of-network medical bills. At Resiliency Mind + Body Medicine®, we are committed to transparent billing practices and compliance with all federal billing regulations.
                 </p>
             </div>
         </div>

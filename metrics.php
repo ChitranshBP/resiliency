@@ -19,7 +19,7 @@
                     Our <span class="text-[#23bfe2] font-light">Outcomes</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Transparent, data-driven results—real clinical outcomes from thousands of treatments at Resiliency Mind + Body Medicine.
+                    Transparent, data-driven results—real clinical outcomes from thousands of treatments at Resiliency Mind + Body Medicine®.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">

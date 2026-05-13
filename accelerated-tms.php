@@ -1,11 +1,11 @@
 <?php
-$page_title       = 'Accelerated Deep TMS SWIFT Protocol Newport Beach | 6-Day Depression Treatment | Resiliency Mind + Body Medicine';
+$page_title       = 'Accelerated Deep TMS SWIFT Protocol Newport Beach | 6-Day Depression Treatment | Resiliency Mind + Body Medicine®';
 $page_description = 'Accelerated Deep TMS using BrainsWay SWIFT Protocol — intensive 6-day depression treatment in Newport Beach &amp; San Juan Capistrano, CA. Faster remission for treatment-resistant depression. Call (949) 996-5355.';
 $page_keywords    = 'accelerated TMS Newport Beach, SWIFT protocol TMS Orange County, intensive TMS therapy Newport Beach, accelerated TMS San Juan Capistrano, SAINT protocol TMS Orange County, rapid TMS depression treatment Newport Beach, BrainsWay SWIFT TMS California';
 $page_canonical   = 'https://resiliencymbmedicine.com/accelerated-tms.php';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MedicalTherapy","name":"Accelerated Deep TMS – SWIFT Protocol","alternateName":"SAINT TMS Protocol","description":"Intensive 6-day accelerated Deep TMS protocol using BrainsWay SWIFT for rapid treatment-resistant depression remission in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/accelerated-tms.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
+{"@context":"https://schema.org","@type":"MedicalTherapy","name":"Accelerated Deep TMS – SWIFT Protocol","alternateName":"SAINT TMS Protocol","description":"Intensive 6-day accelerated Deep TMS protocol using BrainsWay SWIFT for rapid treatment-resistant depression remission in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/accelerated-tms.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How long does each accelerated Deep TMS session take?","acceptedAnswer":{"@type":"Answer","text":"Each theta burst stimulation session lasts approximately 9 minutes. Multiple sessions are delivered throughout the day over 6 consecutive days, with rest periods between sessions."}},{"@type":"Question","name":"Is accelerated Deep TMS covered by insurance?","acceptedAnswer":{"@type":"Answer","text":"Insurance coverage for accelerated TMS varies. Our team will verify your benefits and discuss financial options before starting treatment."}},{"@type":"Question","name":"How does accelerated TMS compare to standard TMS?","acceptedAnswer":{"@type":"Answer","text":"Accelerated TMS delivers the full treatment course in 6 days rather than 4-6 weeks, using theta burst stimulation (TBS) which is faster per session. Results are comparable or superior for many patients."}},{"@type":"Question","name":"What side effects can I expect from accelerated TMS?","acceptedAnswer":{"@type":"Answer","text":"Side effects are similar to standard TMS: mild scalp discomfort or headache that typically resolves after the first few days. The concentrated schedule may cause slightly more fatigue."}},{"@type":"Question","name":"Who is a good candidate for the SWIFT Protocol?","acceptedAnswer":{"@type":"Answer","text":"Patients with treatment-resistant depression who need faster results, those with limited time for a 6-week standard protocol, or those who have relapsed after previous TMS and need rapid re-treatment."}},{"@type":"Question","name":"How soon will I notice results with the SWIFT Protocol?","acceptedAnswer":{"@type":"Answer","text":"Many patients begin experiencing improvement within the 6-day treatment window itself, with continued improvement in the weeks following. Response rates are high for treatment-resistant depression."}}]}
@@ -175,7 +175,7 @@ SCHEMA;
 
                     <div class="space-y-6 text-gray-600 text-lg font-light leading-relaxed">
                         <p class="relative pl-8 border-l-4 border-[#23bfe2]">
-                            Resiliency Mind + Body Medicine holds BrainsWay's Ultra Provider designation—the highest tier of treatment volume—reflecting our team's extensive experience and commitment to delivering exceptional Deep TMS outcomes.
+                            Resiliency Mind + Body Medicine® holds BrainsWay's Ultra Provider designation—the highest tier of treatment volume—reflecting our team's extensive experience and commitment to delivering exceptional Deep TMS outcomes.
                         </p>
                         <p>
                             With over 7,000 treatments completed, our clinical expertise ensures you receive the most effective care possible.
@@ -192,7 +192,7 @@ SCHEMA;
                         <div class="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white ring-1 ring-gray-100">
                             <img
                                 src="assets/images/mental-Health/TMS/Dr.-L-tms.webp"
-                                alt="BrainsWay Ultra Provider - Resiliency Mind + Body Medicine"
+                                alt="BrainsWay Ultra Provider - Resiliency Mind + Body Medicine®"
                                 class="w-full h-[500px] object-cover object-top grayscale-[0.2] transition-all duration-700 group-hover:grayscale-0 group-hover:scale-105"
                             >
 
@@ -244,7 +244,7 @@ SCHEMA;
                     </div>
                     <h3 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">What Is Accelerated Deep TMS?</h3>
                     <p class="text-gray-600 text-lg mb-6 leading-relaxed font-light">
-                        At Resiliency Mind + Body Medicine, your treatment journey is guided by board-certified psychiatrists and a highly experienced neuromodulation team dedicated to whole-person care.
+                        At Resiliency Mind + Body Medicine®, your treatment journey is guided by board-certified psychiatrists and a highly experienced neuromodulation team dedicated to whole-person care.
                     </p>
                     <p class="text-gray-600 text-lg leading-relaxed font-light">
                         With two convenient Orange County locations, in Newport Beach and San Juan Capistrano, CA, we help patients throughout Southern California achieve faster recovery from depression through science-driven, compassionate care.
@@ -362,7 +362,7 @@ SCHEMA;
                         <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                     </div>
                     <p class="text-gray-700 text-base leading-relaxed mb-8 font-light italic">
-                        "I can't say enough good things about my experience at Resiliency Mind + Body Medicine, especially because of Cyrus, my TMS technician. He is skilled, knowledgeable, and genuinely invested in his patients' well-being."
+                        "I can't say enough good things about my experience at Resiliency Mind + Body Medicine®, especially because of Cyrus, my TMS technician. He is skilled, knowledgeable, and genuinely invested in his patients' well-being."
                     </p>
                     <div class="flex items-center justify-between border-t border-gray-50 pt-6">
                         <div class="flex items-center gap-3">

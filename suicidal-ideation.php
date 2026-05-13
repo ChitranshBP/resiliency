@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'Suicidal Ideation Treatment Newport Beach | Spravato &amp; TMS Crisis Care | Resiliency Mind + Body Medicine';
+$page_title       = 'Suicidal Ideation Treatment Newport Beach | Spravato &amp; TMS Crisis Care | Resiliency Mind + Body Medicine®';
 $page_description = 'Compassionate, evidence-based treatment for suicidal ideation in Newport Beach &amp; Orange County, CA. Spravato® &amp; Deep TMS provide rapid relief for severe depression &amp; suicidal thoughts. Call (949) 996-5355.';
 $page_keywords    = 'suicidal ideation treatment Newport Beach, Spravato suicidal ideation Orange County, crisis psychiatric care Newport Beach CA, suicidal thoughts treatment Orange County, rapid depression treatment Newport Beach, TMS suicidal ideation Orange County CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/suicidal-ideation.php';
@@ -33,7 +33,7 @@ SCHEMA;
                     <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">in Newport Beach &amp; San Juan Capistrano, CA</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
-                    Find hope and healing with Deep TMS and Spravato® — advanced, evidence-based treatments for severe depression and suicidal ideation at Resiliency Mind+Body Medicine.
+                    Find hope and healing with Deep TMS and Spravato® — advanced, evidence-based treatments for severe depression and suicidal ideation at Resiliency Mind+Body Medicine®.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                     <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
@@ -273,7 +273,7 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-3xl mx-auto mb-16 reveal">
                 <h2 class="text-sm font-bold tracking-widest text-[#23bfe2] uppercase mb-4">The Resiliency Difference</h2>
-                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Why Choose Resiliency Mind+Body Medicine?</h3>
+                <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Why Choose Resiliency Mind+Body Medicine®?</h3>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

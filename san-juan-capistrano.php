@@ -4,7 +4,7 @@ $page_schema = <<<'SCHEMA'
 {
   "@context": "https://schema.org",
   "@type": "MedicalClinic",
-  "name": "Resiliency Mind + Body Medicine – San Juan Capistrano",
+  "name": "Resiliency Mind + Body Medicine® – San Juan Capistrano",
   "url": "https://resiliencymbmedicine.com/san-juan-capistrano.php",
   "image": "https://resiliencymbmedicine.com/assets/images/logo/Resiliency-MindBody-Medicine-Logo.png",
   "description": "Board-certified psychiatric clinic in San Juan Capistrano, CA offering Deep TMS Therapy, Spravato, medication management, IV therapy, and integrative psychiatry.",
@@ -22,7 +22,7 @@ $page_schema = <<<'SCHEMA'
   "priceRange": "$$",
   "parentOrganization": {
     "@type": "MedicalBusiness",
-    "name": "Resiliency Mind + Body Medicine",
+    "name": "Resiliency Mind + Body Medicine®",
     "url": "https://resiliencymbmedicine.com"
   },
   "availableService": [
