@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs>
+    <linearGradient id="bg6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0B2035"/>
+      <stop offset="50%" style="stop-color:#0f2d4a"/>
+      <stop offset="100%" style="stop-color:#1a365d"/>
+    </linearGradient>
+    <linearGradient id="accent6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#23bfe2"/>
+      <stop offset="100%" style="stop-color:#1da1bf"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ec4899"/>
+      <stop offset="100%" style="stop-color:#f472b6"/>
+    </linearGradient>
+    <filter id="glow6">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="400" height="280" fill="url(#bg6)"/>
+
+  <!-- Background elements -->
+  <circle cx="200" cy="140" r="120" fill="#ec4899" opacity="0.03"/>
+  <circle cx="50" cy="50" r="50" fill="#23bfe2" opacity="0.08"/>
+
+  <!-- Large awareness ribbon/bow -->
+  <g transform="translate(200, 110)" filter="url(#glow6)">
+    <!-- Outer glow ring -->
+    <circle cx="0" cy="0" r="80" fill="none" stroke="#23bfe2" stroke-width="1" opacity="0.2"/>
+
+    <!-- Ribbon left loop -->
+    <path d="M-20 20 Q-60 -40 -40 -60 Q-10 -70 20 -40 Q40 -20 20 20 Z" fill="url(#pink)" opacity="0.9"/>
+    <path d="M-20 20 Q-50 -10 -35 -40 Q-20 -55 0 -45" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+
+    <!-- Ribbon right loop -->
+    <path d="M20 20 Q60 -40 40 -60 Q10 -70 -20 -40 Q-40 -20 -20 20 Z" fill="url(#pink)" opacity="0.9"/>
+    <path d="M20 20 Q50 -10 35 -40 Q20 -55 0 -45" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+
+    <!-- Ribbon tails -->
+    <path d="M-25 30 Q-45 60 -70 80 L-55 85 Q-30 65 -15 35 Z" fill="url(#pink)" opacity="0.7"/>
+    <path d="M25 30 Q45 60 70 80 L55 85 Q30 65 15 35 Z" fill="url(#pink)" opacity="0.7"/>
+
+    <!-- Center knot -->
+    <circle cx="0" cy="25" r="15" fill="#0B2035" stroke="url(#accent6)" stroke-width="2"/>
+
+    <!-- Heart in center -->
+    <path d="M0 18 C-12 8 -20 15 -20 25 C-20 38 0 50 0 50 C0 50 20 38 20 25 C20 15 12 8 0 18" fill="url(#pink)" filter="url(#glow6)"/>
+
+    <!-- Small awareness ribbons -->
+    <path d="M-55 -55 Q-65 -65 -60 -70 L-50 -65 Q-55 -60 -45 -55 Z" fill="url(#pink)" opacity="0.6"/>
+    <path d="M55 -55 Q65 -65 60 -70 L50 -65 Q55 -60 45 -55 Z" fill="url(#pink)" opacity="0.6"/>
+  </g>
+
+  <!-- "MAY" text badge -->
+  <g transform="translate(310, 60)">
+    <rect x="-28" y="-16" width="56" height="32" rx="16" fill="url(#accent6)" opacity="0.9"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0B2035" text-anchor="middle">MAY</text>
+  </g>
+
+  <!-- Sparkle effects -->
+  <g opacity="0.5">
+    <polygon points="70,100 72,106 78,106 74,110 76,116 70,112 64,116 66,110 62,106 68,106" fill="#ec4899"/>
+    <polygon points="330,140 331,144 335,144 332,147 333,151 330,148 327,151 328,147 325,144 329,144" fill="#23bfe2"/>
+    <polygon points="100,180 101,184 105,184 102,187 103,191 100,188 97,191 98,187 95,184 99,184" fill="#f472b6" opacity="0.6"/>
+  </g>
+
+  <!-- Bottom label -->
+  <rect x="100" y="200" width="200" height="4" rx="2" fill="url(#accent6)" opacity="0.5"/>
+  <text x="200" y="235" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3">AWARENESS MONTH</text>
+
+  <!-- Corner accents -->
+  <line x1="20" y1="20" x2="60" y2="20" stroke="#23bfe2" stroke-width="2" opacity="0.6"/>
+  <line x1="20" y1="20" x2="20" y2="60" stroke="#23bfe2" stroke-width="2" opacity="0.6"/>
+  <line x1="380" y1="260" x2="340" y2="260" stroke="#23bfe2" stroke-width="2" opacity="0.6"/>
+  <line x1="380" y1="260" x2="380" y2="220" stroke="#23bfe2" stroke-width="2" opacity="0.6"/>
+
+  <!-- Circle of unity -->
+  <circle cx="200" cy="110" r="95" fill="none" stroke="#23bfe2" stroke-width="1" opacity="0.15" stroke-dasharray="5,5"/>
+</svg>

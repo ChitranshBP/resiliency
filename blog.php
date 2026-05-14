@@ -48,7 +48,49 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 reveal">
-                <!-- Article 1 - April 26 (Newest) -->
+                <!-- Article 0 - May 11 (Newest) -->
+                <a href="blog-mental-health-awareness.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/blog-mental-health-thumb.svg" alt="Mental Health Awareness" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="heart" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
+                    </div>
+                    <div class="p-8">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Mental Health</span>
+                            <span class="text-gray-400 text-sm font-light">May 11, 2026</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">What Is Mental Health Awareness Month and Why Does It Matter?</h3>
+                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
+                            Learn about Mental Health Awareness Month, reducing stigma, and modern treatment options like Deep TMS.
+                        </p>
+                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
+                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Article 1 - May 5 -->
+                <a href="blog-deep-tms-autism.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/blog-autism-thumb.svg" alt="Deep TMS Autism" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="users" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
+                    </div>
+                    <div class="p-8">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-purple-500/10 text-purple-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Autism</span>
+                            <span class="text-gray-400 text-sm font-light">May 5, 2026</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Can Deep TMS Help Autism? What Patients Should Know</h3>
+                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
+                            Exploring how Deep TMS may support attention, emotional regulation, and behavioral challenges in autism.
+                        </p>
+                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
+                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Article 2 - April 26 -->
                 <a href="blog-deep-tms-science.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
                         <img src="assets/images/blog-tms-science-thumb.svg" alt="Deep TMS Science" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
