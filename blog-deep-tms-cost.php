@@ -329,7 +329,8 @@
                                 <h3>Related Articles</h3>
                                 <a href="blog-deep-tms-science.php" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> How Does Deep TMS Work? (Science Guide)</a>
                                 <a href="blog-spravato-insurance.php" class="internal-link"><i data-lucide="shield-check" class="w-4 h-4 inline-block mr-1"></i> Spravato Insurance Coverage Guide</a>
-                                <a href="blog-ocd-disability.php" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> OCD as a Disability: Legal & Clinical Guide</a>
+                                <a href="blog-deep-tms-autism.php" class="internal-link"><i data-lucide="users" class="w-4 h-4 inline-block mr-1"></i> Deep TMS for Autism</a>
+                                <a href="blog-mental-health-awareness.php" class="internal-link"><i data-lucide="heart" class="w-4 h-4 inline-block mr-1"></i> Mental Health Awareness Month</a>
                             </div>
 
                         </div>

@@ -292,6 +292,7 @@
                                 <a href="blog-deep-tms-cost.php" class="internal-link"><i data-lucide="dollar-sign" class="w-4 h-4 inline-block mr-1"></i> Deep TMS Cost Guide</a>
                                 <a href="blog-spravato-insurance.php" class="internal-link"><i data-lucide="shield-check" class="w-4 h-4 inline-block mr-1"></i> Spravato Insurance Coverage</a>
                                 <a href="blog-deep-tms-science.php" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> How Does Deep TMS Work? (Science Guide)</a>
+                                <a href="blog-mental-health-awareness.php" class="internal-link"><i data-lucide="heart" class="w-4 h-4 inline-block mr-1"></i> Mental Health Awareness Month</a>
                             </div>
 
                         </div>
