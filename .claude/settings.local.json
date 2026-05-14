@@ -65,7 +65,8 @@
       "Bash(sed -i '349,504d' tms-quiz.php)",
       "Bash(sed -i '57,325d' tms-quiz.php)",
       "Bash(git add *)",
-      "Bash(php -r ' *)"
+      "Bash(php -r ' *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
