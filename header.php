@@ -293,10 +293,10 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                             Resources <i data-lucide="chevron-down" class="w-4 h-4 transition-transform group-hover/res:rotate-180"></i>
                         </button>
                         <div class="absolute top-[80px] right-0 w-64 bg-white rounded-2xl shadow-[0_20px_40px_-15px_rgba(11,32,53,0.15)] opacity-0 invisible group-hover/res:opacity-100 group-hover/res:visible transition-all duration-300 transform translate-y-4 group-hover/res:translate-y-0 border border-gray-100 overflow-hidden max-h-[70vh] overflow-y-auto">
-                            <div class="p-2 space-y-1">
-                                <a href="https://resiliencymbm.intakeq.com/portal" target="_blank" rel="noopener" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Patient Portal</a>
+                            <div class="p-2 space-y-1">                                
                                 <a href="about.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">About Us</a>
                                 <a href="reviews.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Patient Reviews</a>
+                                <a href="https://resiliencymbm.intakeq.com/portal" target="_blank" rel="noopener" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Patient Portal</a>
                                 <a href="metrics.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Our Outcomes</a>
                                 <a href="faqs.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">FAQs</a>
                                 <a href="tms-faq.php" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Deep TMS FAQ</a>
@@ -439,6 +439,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                     <div class="mobile-accordion-content hidden flex-col pl-4 pt-4 space-y-4">
                         <a href="about.php" class="text-white/80 hover:text-white transition-colors">About Us</a>
                         <a href="reviews.php" class="text-white/80 hover:text-white transition-colors">Patient Reviews</a>
+                        <a href="https://resiliencymbm.intakeq.com/portal" class="text-white/80 hover:text-white transition-colors">Patient Portal</a>
                         <a href="metrics.php" class="text-white/80 hover:text-white transition-colors">Our Outcomes</a>
                         <a href="faqs.php" class="text-white/80 hover:text-white transition-colors">FAQs</a>
                         <a href="tms-faq.php" class="text-white/80 hover:text-white transition-colors">Deep TMS FAQ</a>
