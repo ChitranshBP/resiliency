@@ -97,30 +97,30 @@ $page_schema = '';
     <?php include '../header.php'; ?>
 
     <!-- HERO -->
-    <section class="relative min-h-[600px] md:min-h-[70vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0" id="hero">
+    <section class="relative min-h-[550px] sm:min-h-[650px] lg:min-h-[75vh] flex items-center justify-center overflow-hidden pt-24 pb-8 sm:pt-28 sm:pb-12 lg:pt-24 lg:pb-0" id="hero">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-primary">
-            <img src="../assets/images/breadcrumbs/med-management-bread.webp" alt="Irvine psychiatric clinic" class="hidden lg:block w-full h-full object-cover object-[50%_20%]">
-            <img src="../assets/images/dr-L-patient-2.webp" alt="Irvine psychiatric clinic" class="lg:hidden w-full h-full object-cover object-right md:object-[50%_30%]">
-            <div class="absolute inset-0 bg-primary/60 lg:bg-gradient-to-r lg:from-primary/75 lg:via-primary/50 lg:to-primary/20"></div>
+            <img src="../assets/images/breadcrumbs/med-management-bread.webp" alt="Irvine psychiatric clinic" class="hidden lg:block w-full h-full object-cover object-center sm:object-[50%_20%]">
+            <img src="../assets/images/dr-L-patient-2.webp" alt="Irvine psychiatric clinic" class="lg:hidden w-full h-full object-cover object-right sm:object-[50%_30%]">
+            <div class="absolute inset-0 bg-primary/60 sm:bg-primary/50 lg:bg-gradient-to-r lg:from-primary/75 lg:via-primary/50 lg:to-primary/20"></div>
         </div>
-        <div class="relative z-10 max-w-7xl mx-auto px-6 w-full">
+        <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 w-full">
             <div class="max-w-3xl reveal text-left">
-                <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Irvine, California</span></div>
-                <h1 class="font-sans text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">Deep TMS, Spravato & <span class="text-secondary italic font-normal">ProLivRx™</span></h1>
-                <p class="text-white/80 text-lg leading-relaxed mb-6 max-w-xl">Advanced, FDA-approved treatments for depression in Irvine. Deep TMS, Spravato® (esketamine), and ProLivRx™—personalized care for lasting relief.</p>
-                <div class="inline-flex items-start gap-3 bg-secondary/15 border border-secondary/40 rounded-2xl px-5 py-4 mb-8 max-w-xl backdrop-blur-sm">
-                    <div class="w-10 h-10 min-w-10 rounded-full bg-secondary flex items-center justify-center text-primary">
-                        <i data-lucide="zap" class="w-5 h-5"></i>
+                <div class="flex items-center gap-2 sm:gap-3 mb-3 sm:mb-4"><div class="w-8 sm:w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-[10px] sm:text-xs font-semibold tracking-[0.15em] sm:tracking-[0.2em] uppercase">Irvine, California</span></div>
+                <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-white leading-tight mb-4 sm:mb-6">Deep TMS, Spravato® & ProLivRx™ <span class="block sm:inline text-secondary">Mental Health Treatment in Irvine, CA</span></h1>
+                <p class="text-white/80 text-sm sm:text-base lg:text-lg leading-relaxed mb-4 sm:mb-6 max-w-lg sm:max-w-xl">Advanced, FDA-approved treatments for depression in Irvine. Deep TMS, Spravato® (esketamine), and ProLivRx™—personalized care for lasting relief.</p>
+                <div class="inline-flex items-start gap-2 sm:gap-3 bg-secondary/15 border border-secondary/40 rounded-xl sm:rounded-2xl px-3 sm:px-5 py-3 sm:py-4 mb-6 sm:mb-8 max-w-full sm:max-w-xl backdrop-blur-sm">
+                    <div class="w-8 sm:w-10 h-8 sm:h-10 min-w-8 sm:min-w-10 rounded-full bg-secondary flex items-center justify-center text-primary flex-shrink-0">
+                        <i data-lucide="zap" class="w-4 sm:w-5 h-4 sm:h-5"></i>
                     </div>
                     <div>
-                        <p class="text-white font-semibold text-sm leading-tight mb-1">BrainsWay Ultra Provider with 78% Remission Rate</p>
-                        <p class="text-white/75 text-xs leading-relaxed">Same expert care as our Newport Beach location. Now serving Irvine, Costa Mesa, and Huntington Beach.</p>
+                        <p class="text-white font-semibold text-xs sm:text-sm leading-tight mb-0.5 sm:mb-1">BrainsWay Ultra Provider with 78% Remission Rate</p>
+                        <p class="text-white/75 text-[10px] sm:text-xs leading-relaxed">Same expert care as our Newport Beach location. Now serving Irvine, Costa Mesa, and Huntington Beach.</p>
                     </div>
                 </div>
-                <div class="flex flex-wrap gap-4">
-                    <a href="#treatments" class="px-8 py-3.5 bg-secondary text-primary rounded-full font-semibold hover:bg-white hover:shadow-xl transition-all whitespace-nowrap">Explore Treatments →</a>
-                    <a href="tel:+19499965355" class="px-8 py-3.5 bg-transparent border-2 border-white/30 text-white rounded-full font-semibold hover:border-secondary hover:text-secondary transition-all">Call (949) 996-5355</a>
+                <div class="flex flex-col sm:flex-row gap-3 sm:gap-4 mb-4 sm:mb-0">
+                    <a href="#treatments" class="px-6 sm:px-8 py-3 sm:py-3.5 bg-secondary text-primary rounded-full font-semibold text-sm sm:text-base hover:bg-white hover:shadow-xl transition-all whitespace-nowrap text-center">Explore Treatments →</a>
+                    <a href="tel:+19499965355" class="px-6 sm:px-8 py-3 sm:py-3.5 bg-transparent border-2 border-white/30 text-white rounded-full font-semibold text-sm sm:text-base hover:border-secondary hover:text-secondary transition-all text-center">Call (949) 996-5355</a>
                 </div>
             </div>
         </div>
@@ -162,81 +162,81 @@ $page_schema = '';
             </div>
 
             <!-- Tab Navigation -->
-            <div class="flex flex-wrap justify-center gap-4 mb-8">
-                <button onclick="switchTab('tms')" id="tab-tms" class="tab-btn px-8 py-4 rounded-2xl font-bold text-lg transition-all bg-primary text-white shadow-lg">
+            <div class="flex flex-wrap justify-center gap-2 sm:gap-4 mb-8">
+                <button onclick="switchTab('tms')" id="tab-tms" class="tab-btn px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-lg transition-all bg-primary text-white shadow-lg whitespace-nowrap">
                     Deep TMS
                 </button>
-                <button onclick="switchTab('spravato')" id="tab-spravato" class="tab-btn px-8 py-4 rounded-2xl font-bold text-lg transition-all bg-neutral text-primary hover:bg-gray-200">
+                <button onclick="switchTab('spravato')" id="tab-spravato" class="tab-btn px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-lg transition-all bg-neutral text-primary hover:bg-gray-200 whitespace-nowrap">
                     Spravato®
                 </button>
-                <button onclick="switchTab('prolivrx')" id="tab-prolivrx" class="tab-btn px-8 py-4 rounded-2xl font-bold text-lg transition-all bg-neutral text-primary hover:bg-gray-200">
+                <button onclick="switchTab('prolivrx')" id="tab-prolivrx" class="tab-btn px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-lg transition-all bg-neutral text-primary hover:bg-gray-200 whitespace-nowrap">
                     ProLivRx™
                 </button>
             </div>
 
             <!-- Tab Content -->
-            <div class="relative rounded-3xl overflow-hidden shadow-2xl min-h-[500px]">
+            <div class="relative rounded-2xl sm:rounded-3xl overflow-hidden shadow-2xl min-h-[400px] sm:min-h-[500px]">
 
                 <!-- Deep TMS Content -->
                 <div id="content-tms" class="tab-content absolute inset-0 transition-all duration-500">
-                    <div class="absolute inset-0 bg-cover object-[50%_20%]" style="background-image:url('../assets/images/breadcrumbs/deep-tms-breadcrumbs.webp');"></div>
-                    <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent"></div>
-                    <div class="relative z-10 flex flex-col lg:flex-row items-center gap-12 p-8 lg:p-16 h-full">
-                        <div class="flex-1">
-                            <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-4 py-2 rounded-full mb-6">FDA-Cleared</div>
-                            <h3 class="font-sans text-4xl md:text-5xl font-bold text-white mb-4">Deep TMS Therapy</h3>
-                            <p class="text-xl text-white/80 leading-relaxed mb-6">Transcranial magnetic stimulation using H-Coil technology. Non-invasive, no sedation, covered by insurance.</p>
-                            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">78%</div>
-                                    <p class="text-white/70 text-sm">Remission Rate</p>
+                    <div class="absolute inset-0 bg-cover bg-right sm:bg-center" style="background-image:url('../assets/images/breadcrumbs/deep-tms-breadcrumbs.webp'); background-position: center 20%;"></div>
+                    <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent lg:bg-gradient-to-r lg:from-primary lg:via-primary/80 lg:to-transparent"></div>
+                    <div class="relative z-10 p-4 sm:p-6 lg:p-12 xl:p-16 h-full flex items-center">
+                        <div class="w-full">
+                            <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Cleared</div>
+                            <h3 class="font-sans text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-2 sm:mb-4">Deep TMS Therapy</h3>
+                            <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Transcranial magnetic stimulation using H-Coil technology. Non-invasive, no sedation, covered by insurance.</p>
+                            <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">78%</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">Remission Rate</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">87.8%</div>
-                                    <p class="text-white/70 text-sm">Response Rate</p>
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">87.8%</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">Response Rate</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">20 min</div>
-                                    <p class="text-white/70 text-sm">Per Session</p>
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">20 min</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">Per Session</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">6 Days</div>
-                                    <p class="text-white/70 text-sm">SWIFT Protocol</p>
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">6 Days</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">SWIFT Protocol</p>
                                 </div>
                             </div>
-                            <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-8 py-4 bg-secondary text-primary font-bold rounded-2xl hover:bg-white hover:shadow-xl transition-all">Learn More <i data-lucide="arrow-right" class="w-5 h-5"></i></a>
+                            <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
                         </div>
                     </div>
                 </div>
 
                 <!-- Spravato Content -->
                 <div id="content-spravato" class="tab-content absolute inset-0 transition-all duration-500 opacity-0 pointer-events-none translate-x-8">
-                    <div class="absolute inset-0 bg-cover bg-center" style="background-image:url('../assets/images/spravato-banner.png');"></div>
-                    <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent"></div>
-                    <div class="relative z-10 flex flex-col lg:flex-row items-center gap-12 p-8 lg:p-16 h-full">
-                        <div class="flex-1">
-                            <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-4 py-2 rounded-full mb-6">FDA-Approved</div>
-                            <h3 class="font-sans text-4xl md:text-5xl font-bold text-white mb-4">Spravato®</h3>
-                            <p class="text-xl text-white/80 leading-relaxed mb-6">Esketamine nasal spray for treatment-resistant depression. Works within hours, not weeks.</p>
-                            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">24hrs</div>
-                                    <p class="text-white/70 text-sm">Fast Relief</p>
+                    <div class="absolute inset-0 bg-cover bg-right sm:bg-center" style="background-image:url('../assets/images/spravato-banner.png'); background-position: center 30%;"></div>
+                    <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent lg:bg-gradient-to-r lg:from-primary lg:via-primary/80 lg:to-transparent"></div>
+                    <div class="relative z-10 p-4 sm:p-6 lg:p-12 xl:p-16 h-full flex items-center">
+                        <div class="w-full">
+                            <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Approved</div>
+                            <h3 class="font-sans text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-2 sm:mb-4">Spravato®</h3>
+                            <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Esketamine nasal spray for treatment-resistant depression. Works within hours, not weeks.</p>
+                            <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">24hrs</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">Fast Relief</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">$10</div>
-                                    <p class="text-white/70 text-sm">Per Session</p>
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">$10</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">Per Session</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">100%</div>
-                                    <p class="text-white/70 text-sm">REMS Certified</p>
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">100%</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">REMS Certified</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">2hrs</div>
-                                    <p class="text-white/70 text-sm">Per Visit</p>
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">2hrs</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">Per Visit</p>
                                 </div>
                             </div>
-                            <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-8 py-4 bg-secondary text-primary font-bold rounded-2xl hover:bg-white hover:shadow-xl transition-all">Learn More <i data-lucide="arrow-right" class="w-5 h-5"></i></a>
+                            <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
                         </div>
                     </div>
                 </div>
@@ -244,31 +244,31 @@ $page_schema = '';
                 <!-- ProLivRx Content -->
                 <div id="content-prolivrx" class="tab-content absolute inset-0 transition-all duration-500 opacity-0 pointer-events-none translate-x-8">
                     <div class="absolute inset-0 bg-cover bg-center" style="background-image:url('../assets/images/Proliv™Rx-IMG-FINAL.png');"></div>
-                    <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent"></div>
-                    <div class="relative z-10 flex flex-col lg:flex-row items-center gap-12 p-8 lg:p-16 h-full">
-                        <div class="flex-1">
-                            <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-4 py-2 rounded-full mb-6">FDA-Approved</div>
-                            <h3 class="font-sans text-4xl md:text-5xl font-bold text-white mb-4">ProLivRx™</h3>
-                            <p class="text-xl text-white/80 leading-relaxed mb-6">Physician-directed at-home brain stimulation for Major Depressive Disorder.</p>
-                            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">Home</div>
-                                    <p class="text-white/70 text-sm">Use At Home</p>
+                    <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent lg:bg-gradient-to-r lg:from-primary lg:via-primary/80 lg:to-transparent"></div>
+                    <div class="relative z-10 p-4 sm:p-6 lg:p-12 xl:p-16 h-full flex items-center">
+                        <div class="w-full">
+                            <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Approved</div>
+                            <h3 class="font-sans text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-2 sm:mb-4">ProLivRx™</h3>
+                            <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Physician-directed at-home brain stimulation for Major Depressive Disorder.</p>
+                            <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">Home</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">Use At Home</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">VNS</div>
-                                    <p class="text-white/70 text-sm">Non-Invasive</p>
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">VNS</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">Non-Invasive</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">MDD</div>
-                                    <p class="text-white/70 text-sm">FDA Cleared</p>
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">MDD</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">FDA Cleared</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-4 text-center">
-                                    <div class="text-3xl font-bold text-secondary mb-1">Portable</div>
-                                    <p class="text-white/70 text-sm">Easy to Use</p>
+                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">Portable</div>
+                                    <p class="text-white/70 text-xs sm:text-sm">Easy to Use</p>
                                 </div>
                             </div>
-                            <a href="proliv-rx.php" class="inline-flex items-center gap-2 px-8 py-4 bg-secondary text-primary font-bold rounded-2xl hover:bg-white hover:shadow-xl transition-all">Learn More <i data-lucide="arrow-right" class="w-5 h-5"></i></a>
+                            <a href="proliv-rx.php" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
                         </div>
                     </div>
                 </div>
