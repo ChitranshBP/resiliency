@@ -41,7 +41,7 @@ $page_schema = '';
     <meta name="twitter:image" content="https://resiliencymbmedicine.com/assets/images/logo/resiliency-new-logo.png">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/images/logo/Resiliency-FAVICON.png">
+    <link rel="icon" type="image/png" href="../assets/images/logo/Resiliency-FAVICON.png">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11289954101"></script>
@@ -89,7 +89,7 @@ $page_schema = '';
     </script>
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body class="font-sans text-gray-800 bg-surface antialiased selection:bg-accent selection:text-white">
 
@@ -100,8 +100,8 @@ $page_schema = '';
     <section class="relative min-h-[600px] md:min-h-[70vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0" id="hero">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-primary">
-            <img src="assets/images/breadcrumbs/med-management-bread.webp" alt="Irvine psychiatric clinic" class="hidden lg:block w-full h-full object-cover object-[50%_20%]">
-            <img src="assets/images/dr-L-patient-2.webp" alt="Irvine psychiatric clinic" class="lg:hidden w-full h-full object-cover object-right md:object-[50%_30%]">
+            <img src="../assets/images/breadcrumbs/med-management-bread.webp" alt="Irvine psychiatric clinic" class="hidden lg:block w-full h-full object-cover object-[50%_20%]">
+            <img src="../assets/images/dr-L-patient-2.webp" alt="Irvine psychiatric clinic" class="lg:hidden w-full h-full object-cover object-right md:object-[50%_30%]">
             <div class="absolute inset-0 bg-primary/60 lg:bg-gradient-to-r lg:from-primary/75 lg:via-primary/50 lg:to-primary/20"></div>
         </div>
         <div class="relative z-10 max-w-7xl mx-auto px-6 w-full">
@@ -179,7 +179,7 @@ $page_schema = '';
 
                 <!-- Deep TMS Content -->
                 <div id="content-tms" class="tab-content absolute inset-0 transition-all duration-500">
-                    <div class="absolute inset-0 bg-cover object-[50%_20%]" style="background-image:url('assets/images/breadcrumbs/deep-tms-breadcrumbs.webp');"></div>
+                    <div class="absolute inset-0 bg-cover object-[50%_20%]" style="background-image:url('../assets/images/breadcrumbs/deep-tms-breadcrumbs.webp');"></div>
                     <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent"></div>
                     <div class="relative z-10 flex flex-col lg:flex-row items-center gap-12 p-8 lg:p-16 h-full">
                         <div class="flex-1">
@@ -211,7 +211,7 @@ $page_schema = '';
 
                 <!-- Spravato Content -->
                 <div id="content-spravato" class="tab-content absolute inset-0 transition-all duration-500 opacity-0 pointer-events-none translate-x-8">
-                    <div class="absolute inset-0 bg-cover bg-center" style="background-image:url('assets/images/spravato-banner.png');"></div>
+                    <div class="absolute inset-0 bg-cover bg-center" style="background-image:url('../assets/images/spravato-banner.png');"></div>
                     <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent"></div>
                     <div class="relative z-10 flex flex-col lg:flex-row items-center gap-12 p-8 lg:p-16 h-full">
                         <div class="flex-1">
@@ -243,7 +243,7 @@ $page_schema = '';
 
                 <!-- ProLivRx Content -->
                 <div id="content-prolivrx" class="tab-content absolute inset-0 transition-all duration-500 opacity-0 pointer-events-none translate-x-8">
-                    <div class="absolute inset-0 bg-cover bg-center" style="background-image:url('assets/images/Proliv™Rx-IMG-FINAL.png');"></div>
+                    <div class="absolute inset-0 bg-cover bg-center" style="background-image:url('../assets/images/Proliv™Rx-IMG-FINAL.png');"></div>
                     <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent"></div>
                     <div class="relative z-10 flex flex-col lg:flex-row items-center gap-12 p-8 lg:p-16 h-full">
                         <div class="flex-1">
@@ -351,7 +351,7 @@ $page_schema = '';
         <div class="max-w-7xl mx-auto px-6">
             <div class="grid lg:grid-cols-2 gap-12 items-center">
                 <div>
-                    <a href="team.php"><img src="assets/images/mental-Health/TMS/Dr.-L-tms.webp" alt="Dr. Stefani LaFrenierre" class="rounded-3xl w-full h-[450px] object-cover object-[50%_20%] shadow-soft hover:opacity-90 transition-opacity cursor-pointer"></a>
+                    <a href="team.php"><img src="../assets/images/mental-Health/TMS/Dr.-L-tms.webp" alt="Dr. Stefani LaFrenierre" class="rounded-3xl w-full h-[450px] object-cover object-[50%_20%] shadow-soft hover:opacity-90 transition-opacity cursor-pointer"></a>
                 </div>
                 <div>
                     <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Your Psychiatrist</span></div>
@@ -561,7 +561,7 @@ $page_schema = '';
     <section class="py-16 relative overflow-hidden reveal" id="contact">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0">
-            <img src="assets/images/home/cta-bg.png" alt="Clinical Environment" class="w-full h-full object-cover object-center">
+            <img src="../assets/images/home/cta-bg.png" alt="Clinical Environment" class="w-full h-full object-cover object-center">
         </div>
         <!-- Dark Overlay -->
         <div class="absolute inset-0 z-0 bg-primary/70"></div>
@@ -600,7 +600,7 @@ $page_schema = '';
     </div>
 
     <!-- Custom Scripts -->
-    <script src="js/main.js"></script>
+    <script src="../js/main.js"></script>
     <script>
         lucide.createIcons();
 
