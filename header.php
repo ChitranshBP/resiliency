@@ -197,7 +197,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                 <div class="flex-shrink-0 flex items-center">
                     <a href="index.php" class="block">
                         <!-- We use a brightness filter for the white variant before scrolling, and invert/original on scroll depending on the logo's original color -->
-                        <img src="assets/images/logo/resiliency-new-logo.png" alt="Resiliency Mind+Body Medicine®" class="h-24 w-auto object-contain transition-all duration-300 brightness-0 invert group-[.scrolled]:filter-none">
+                        <img src="/assets/images/logo/resiliency-new-logo.png" alt="Resiliency Mind+Body Medicine®" class="h-24 w-auto object-contain transition-all duration-300 brightness-0 invert group-[.scrolled]:filter-none">
                     </a>
                 </div>
                 
@@ -353,7 +353,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
         <div class="p-6">
             <!-- Header section of mobile menu -->
             <div class="flex items-center justify-between mb-8">
-                <img src="assets/images/logo/resiliency-new-logo.png" alt="Resiliency Mind+Body Medicine®" class="h-14 w-auto brightness-0 invert">
+                <img src="/assets/images/logo/resiliency-new-logo.png" alt="Resiliency Mind+Body Medicine®" class="h-14 w-auto brightness-0 invert">
                 <button id="close-mobile-menu" class="text-white p-2">
                     <i data-lucide="x" class="w-8 h-8"></i>
                 </button>
