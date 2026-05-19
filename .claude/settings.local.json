@@ -66,7 +66,11 @@
       "Bash(sed -i '57,325d' tms-quiz.php)",
       "Bash(git add *)",
       "Bash(php -r ' *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(mkdir -p \"c:\\\\Users\\\\GCV\\\\Desktop\\\\resiliency\\\\location\\\\images\" && mkdir -p \"c:\\\\Users\\\\GCV\\\\Desktop\\\\resiliency\\\\location\\\\.vscode\")"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\GCV\\Desktop\\resiliency\\location"
     ]
   }
 }
