@@ -97,30 +97,24 @@ $page_schema = '';
     <?php include '../header.php'; ?>
 
     <!-- HERO -->
-    <section class="relative min-h-[500px] sm:min-h-[550px] md:min-h-[600px] lg:min-h-[70vh] flex items-center justify-center overflow-hidden pt-20 sm:pt-24 md:pt-28 lg:pt-24 pb-12 sm:pb-16 md:pb-20 lg:pb-0" id="hero">
+    <section class="relative min-h-[450px] sm:min-h-[500px] md:min-h-[550px] lg:min-h-[65vh] flex items-center justify-center overflow-hidden pt-16 sm:pt-20 md:pt-24 lg:pt-20 pb-10 sm:pb-14 md:pb-16 lg:pb-0" id="hero">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-primary">
-            <img src="../assets/images/breadcrumbs/med-management-bread.webp" alt="Irvine psychiatric clinic" class="hidden lg:block w-full h-full object-cover object-center">
-            <img src="../assets/images/dr-L-patient-2.webp" alt="Irvine psychiatric clinic" class="lg:hidden w-full h-full object-cover object-right sm:object-center md:object-[50%_20%]">
-            <div class="absolute inset-0 bg-primary/70 sm:bg-primary/60 md:bg-primary/50 lg:bg-gradient-to-r lg:from-primary/75 lg:via-primary/50 lg:to-primary/20"></div>
+            <img src="../assets/images/breadcrumbs/med-management-bread.webp" alt="Irvine psychiatric clinic" class="hidden lg:block w-full h-full object-cover object-[50%_20%]">
+            <img src="../assets/images/dr-L-patient-2.webp" alt="Irvine psychiatric clinic" class="lg:hidden w-full h-full object-cover object-[80%_50%] md:object-[50%_30%]">
+            <div class="absolute inset-0 bg-primary/75 sm:bg-primary/70 md:bg-primary/60 lg:bg-gradient-to-r lg:from-primary/80 lg:via-primary/50 lg:to-primary/20"></div>
         </div>
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 md:px-8 w-full">
             <div class="max-w-3xl reveal text-left">
-                <div class="flex items-center gap-2 sm:gap-3 md:gap-4 mb-2 sm:mb-3 md:mb-4"><div class="w-6 sm:w-8 md:w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-[10px] sm:text-xs md:text-sm font-semibold tracking-[0.1em] sm:tracking-[0.15em] md:tracking-[0.2em] uppercase">Irvine, California</span></div>
-                <h1 class="font-sans text-lg sm:text-xl md:text-2xl lg:text-4xl xl:text-5xl font-bold text-white leading-tight mb-3 sm:mb-4 md:mb-6">Deep TMS, Spravato® & ProLivRx™ <span class="block sm:inline text-secondary">Mental Health Treatment in Irvine, CA</span></h1>
-                <p class="text-white/80 text-xs sm:text-sm md:text-base lg:text-lg leading-relaxed mb-3 sm:mb-4 md:mb-6 max-w-md sm:max-w-lg md:max-w-xl">Advanced, FDA-approved treatments for depression in Irvine. Deep TMS, Spravato® (esketamine), and ProLivRx™—personalized care for lasting relief.</p>
-                <div class="inline-flex items-start gap-2 sm:gap-3 md:gap-4 bg-secondary/15 border border-secondary/40 rounded-lg sm:rounded-xl md:rounded-2xl px-3 sm:px-4 md:px-5 py-2 sm:py-3 md:py-4 mb-4 sm:mb-6 md:mb-8 max-w-xs sm:max-w-sm md:max-w-xl backdrop-blur-sm">
-                    <div class="w-7 sm:w-8 md:w-10 h-7 sm:h-8 md:h-10 min-w-7 sm:min-w-8 md:min-w-10 rounded-full bg-secondary flex items-center justify-center text-primary flex-shrink-0">
-                        <i data-lucide="zap" class="w-3 sm:w-4 md:w-5 h-3 sm:h-4 md:h-5"></i>
-                    </div>
-                    <div>
-                        <p class="text-white font-semibold text-[10px] sm:text-xs md:text-sm leading-tight mb-0.5 sm:mb-1">BrainsWay Ultra Provider with 78% Remission Rate</p>
-                        <p class="text-white/75 text-[9px] sm:text-[10px] md:text-xs leading-relaxed">Same expert care as our Newport Beach location. Now serving Irvine, Costa Mesa, and Huntington Beach.</p>
-                    </div>
+                <div class="flex items-center gap-1.5 sm:gap-2 md:gap-3 mb-2 sm:mb-3 md:mb-4">
+                    <div class="w-5 sm:w-6 md:w-10 h-0.5 bg-secondary"></div>
+                    <span class="text-secondary text-xs sm:text-sm md:text-base font-semibold tracking-[0.1em] sm:tracking-[0.15em] md:tracking-[0.2em] uppercase">Irvine, California</span>
                 </div>
-                <div class="flex flex-col sm:flex-row gap-2 sm:gap-3 md:gap-4 mb-4 sm:mb-0">
-                    <a href="#treatments" class="px-4 sm:px-6 md:px-8 py-2 sm:py-3 md:py-3.5 bg-secondary text-primary rounded-full font-semibold text-xs sm:text-sm md:text-base hover:bg-white hover:shadow-xl transition-all whitespace-nowrap text-center">Explore Treatments →</a>
-                    <a href="tel:+19499965355" class="px-4 sm:px-6 md:px-8 py-2 sm:py-3 md:py-3.5 bg-transparent border-2 border-white/30 text-white rounded-full font-semibold text-xs sm:text-sm md:text-base hover:border-secondary hover:text-secondary transition-all text-center">Call (949) 996-5355</a>
+                <h1 class="font-sans text-xl sm:text-2xl md:text-2xl lg:text-4xl xl:text-5xl font-bold text-white leading-tight mb-2 sm:mb-3 md:mb-5">Deep TMS, Spravato® & ProLivRx™ <span class="block sm:inline text-secondary">Mental Health Treatment in Irvine, CA</span></h1>
+                <p class="text-white/80 text-sm sm:text-base md:text-base lg:text-lg leading-relaxed mb-4 sm:mb-5 md:mb-6 max-w-sm sm:max-w-md md:max-w-lg">Advanced, FDA-approved treatments for depression in Irvine. Deep TMS, Spravato® (esketamine), and ProLivRx™—personalized care for lasting relief.</p>
+                <div class="flex flex-col sm:flex-row gap-2 sm:gap-3 md:gap-4">
+                    <a href="#treatments" class="px-5 sm:px-5 md:px-8 py-2.5 sm:py-2.5 md:py-3.5 bg-secondary text-primary rounded-full font-semibold text-sm sm:text-sm md:text-base hover:bg-white hover:shadow-xl transition-all whitespace-nowrap text-center">Explore Treatments →</a>
+                    <a href="tel:+19499965355" class="px-5 sm:px-5 md:px-8 py-2.5 sm:py-2.5 md:py-3.5 bg-transparent border-2 border-white/30 text-white rounded-full font-semibold text-sm sm:text-sm md:text-base hover:border-secondary hover:text-secondary transition-all text-center">Call (949) 996-5355</a>
                 </div>
             </div>
         </div>
