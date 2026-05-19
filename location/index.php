@@ -97,7 +97,7 @@ $page_schema = '';
     <?php include '../header.php'; ?>
 
     <!-- HERO -->
-    <section class="relative min-h-[500px] sm:min-h-[550px] md:min-h-[600px] lg:min-h-[70vh] flex items-center justify-center overflow-hidden pt-20 sm:pt-24 md:pt-28 lg:pt-24 pb-6 sm:pb-8 md:pb-12 lg:pb-0" id="hero">
+    <section class="relative min-h-[500px] sm:min-h-[550px] md:min-h-[600px] lg:min-h-[70vh] flex items-center justify-center overflow-hidden pt-20 sm:pt-24 md:pt-28 lg:pt-24 pb-12 sm:pb-16 md:pb-20 lg:pb-0" id="hero">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-primary">
             <img src="../assets/images/breadcrumbs/med-management-bread.webp" alt="Irvine psychiatric clinic" class="hidden lg:block w-full h-full object-cover object-center">
