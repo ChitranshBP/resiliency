@@ -107,7 +107,7 @@ $page_schema = '';
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 w-full">
             <div class="max-w-3xl reveal text-left">
                 <div class="flex items-center gap-2 sm:gap-3 mb-3 sm:mb-4"><div class="w-8 sm:w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-[10px] sm:text-xs font-semibold tracking-[0.15em] sm:tracking-[0.2em] uppercase">Irvine, California</span></div>
-                <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-white leading-tight mb-4 sm:mb-6">Deep TMS, Spravato® & ProLivRx™ <span class="block sm:inline text-secondary">Mental Health Treatment in Irvine, CA</span></h1>
+                <h1 class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold text-white leading-tight mb-4 sm:mb-6">Deep TMS, Spravato® & ProLivRx™ <span class="block sm:inline text-secondary">Mental Health Treatment in Irvine, CA</span></h1>
                 <p class="text-white/80 text-sm sm:text-base lg:text-lg leading-relaxed mb-4 sm:mb-6 max-w-lg sm:max-w-xl">Advanced, FDA-approved treatments for depression in Irvine. Deep TMS, Spravato® (esketamine), and ProLivRx™—personalized care for lasting relief.</p>
                 <div class="inline-flex items-start gap-2 sm:gap-3 bg-secondary/15 border border-secondary/40 rounded-xl sm:rounded-2xl px-3 sm:px-5 py-3 sm:py-4 mb-6 sm:mb-8 max-w-full sm:max-w-xl backdrop-blur-sm">
                     <div class="w-8 sm:w-10 h-8 sm:h-10 min-w-8 sm:min-w-10 rounded-full bg-secondary flex items-center justify-center text-primary flex-shrink-0">
@@ -184,7 +184,7 @@ $page_schema = '';
                     <div class="relative z-10 p-4 sm:p-6 lg:p-12 xl:p-16 h-full flex items-center">
                         <div class="w-full">
                             <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Cleared</div>
-                            <h3 class="font-sans text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-2 sm:mb-4">Deep TMS Therapy</h3>
+                            <h3 class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">Deep TMS Therapy</h3>
                             <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Transcranial magnetic stimulation using H-Coil technology. Non-invasive, no sedation, covered by insurance.</p>
                             <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
                                 <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
@@ -216,7 +216,7 @@ $page_schema = '';
                     <div class="relative z-10 p-4 sm:p-6 lg:p-12 xl:p-16 h-full flex items-center">
                         <div class="w-full">
                             <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Approved</div>
-                            <h3 class="font-sans text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-2 sm:mb-4">Spravato®</h3>
+                            <h3 class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">Spravato®</h3>
                             <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Esketamine nasal spray for treatment-resistant depression. Works within hours, not weeks.</p>
                             <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
                                 <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
@@ -248,7 +248,7 @@ $page_schema = '';
                     <div class="relative z-10 p-4 sm:p-6 lg:p-12 xl:p-16 h-full flex items-center">
                         <div class="w-full">
                             <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Approved</div>
-                            <h3 class="font-sans text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-2 sm:mb-4">ProLivRx™</h3>
+                            <h3 class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">ProLivRx™</h3>
                             <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Physician-directed at-home brain stimulation for Major Depressive Disorder.</p>
                             <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
                                 <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
