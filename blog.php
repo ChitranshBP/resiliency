@@ -51,7 +51,7 @@
                 <!-- Article 0 - May 11 (Newest) -->
                 <a href="blog-mental-health-awareness.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <img src="assets/images/blog-mental-health-thumb.svg" alt="Mental Health Awareness" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <img src="assets/images/service_wellness.png" alt="Mental Health Awareness Month - Wellness and Support" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
                         <i data-lucide="heart" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
@@ -72,7 +72,7 @@
                 <!-- Article 1 - May 5 -->
                 <a href="blog-deep-tms-autism.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <img src="assets/images/blog-autism-thumb.svg" alt="Deep TMS Autism" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <img src="assets/images/autism_support.png" alt="Deep TMS for Autism - Clinical Consultation" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
                         <i data-lucide="users" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
@@ -93,7 +93,7 @@
                 <!-- Article 2 - April 26 -->
                 <a href="blog-deep-tms-science.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <img src="assets/images/blog-tms-science-thumb.svg" alt="Deep TMS Science" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <img src="assets/images/patient_tms_machine.jpg" alt="Patient receiving Deep TMS Therapy treatment" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
                         <i data-lucide="brain" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
@@ -114,7 +114,7 @@
                 <!-- Article 2 - April 19 -->
                 <a href="blog-ocd-disability.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <img src="assets/images/blog-ocd-disability-thumb.svg" alt="OCD Disability" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <img src="assets/images/ocd_relief.png" alt="OCD Relief and Recovery" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
                         <i data-lucide="scale" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
@@ -135,7 +135,7 @@
                 <!-- Article 3 - April 12 -->
                 <a href="blog-spravato-insurance.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <img src="assets/images/blog-spravato-insurance-thumb.svg" alt="Spravato Insurance" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <img src="assets/images/spravato_consultation.jpg" alt="Dr. LaFrenierre consulting with a patient about Spravato treatment" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
                         <i data-lucide="shield-check" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
@@ -155,8 +155,8 @@
 
                 <!-- Article 4 - April 7 (Oldest) -->
                 <a href="blog-deep-tms-cost.php" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
-                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <img src="assets/images/blog-tms-cost-thumb.svg" alt="Deep TMS Cost" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                    <div class="h-56 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center relative">
+                        <img src="assets/images/dr-l-tms-session.png" alt="Dr. LaFrenierre Administering Deep TMS Treatment" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
                         <i data-lucide="dollar-sign" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">
