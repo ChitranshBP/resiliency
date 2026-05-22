@@ -6,6 +6,8 @@
 # =============================================================================
 
 # --- Homepage Redirects ---
+/index                                                                         /               301
+/index.html                                                                    /               301
 /home                                                                          /               301
 /home/                                                                         /               301
 /medspa-newport-beach-ca/                                                      /               301

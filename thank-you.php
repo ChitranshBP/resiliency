@@ -29,7 +29,7 @@ $page_conversion = 'AW-11289954101/bL8vCLDO06scELWOvIcq';
                     Your message has been successfully received. A member of our team will be in touch with you shortly.
                 </p>
                 <div class="flex justify-center">
-                    <a href="index.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="/" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         <i data-lucide="arrow-left" class="w-5 h-5"></i> Return to Homepage
                     </a>
                 </div>

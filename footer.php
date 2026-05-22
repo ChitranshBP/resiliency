@@ -9,7 +9,7 @@
                 
                 <!-- Brand Column -->
                 <div class="lg:col-span-2">
-                    <a href="index.php" class="block mb-2">
+                    <a href="/" class="block mb-2">
                         <img src="/assets/images/logo/resiliency-new-logo.png" alt="Resiliency Mind+Body Medicine®" class="h-24 w-auto object-contain brightness-0 invert">
                     </a>
                     <p class="font-light leading-relaxed mb-8 max-w-sm text-gray-400 text-sm">
