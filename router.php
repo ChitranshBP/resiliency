@@ -1,6 +1,7 @@
 <?php
 /**
  * PHP Router with 301 Permanent Redirects
+ * Generated from: assets/resiliency-redirection.csv
  * 
  * Usage (local dev server): php -S localhost:8000 router.php
  * 
@@ -14,6 +15,7 @@
 // ============================================================================
 // REDIRECT MAP: old URL => new destination
 // All redirects are 301 (permanent) to preserve SEO equity
+// Generated from assets/resiliency-redirection.csv
 // ============================================================================
 
 $redirects = [
@@ -25,16 +27,18 @@ $redirects = [
     '/medspa-newport-beach-ca'                                      => '/',
     '/methylene-blue'                                               => '/',
     '/no-surprises-act-compliance'                                   => '/',
-    '/tms-treatment-dlp'                                            => '/',
     '/tms-for-restless-legs-syndrome-newport-beach-ca'              => '/',
     '/prp-treatment-newport-beach-ca'                               => '/',
     '/infrared-light-therapy-newport-beach-ca'                      => '/',
     '/5-benefits-of-longevity-medicine-you-need-to-know'            => '/',
-    '/amino-acid-iv-therapy-a-promising-approach-for-addiction-detox-a' => '/',
+    '/amino-acid-iv-therapy-a-promising-approach-for-addiction-detox-and-recovery' => '/',
+    '/tms-treatment-dip'                                            => '/',
 
     // --- Core Service Pages ---
     '/conservative-medication-management'                           => '/medication-management',
     '/tms-newportbeach'                                             => '/newport-beach',
+    '/tms-therapy-newport-beach-ca'                                 => '/newport-beach',
+    '/concierge-psychiatry-newport-beach-ca'                        => '/newport-beach',
     '/accelerated-tms-newport-beach-ca'                             => '/accelerated-tms',
     '/accelerated-tms-orange-county'                                => '/accelerated-tms',
     '/accelerated-tms-brainsway-swift-protocol'                     => '/accelerated-tms',
@@ -50,8 +54,6 @@ $redirects = [
     '/nad-iv-therapy'                                               => '/nad-therapy',
     '/iv-therapy-newport-beach-ca'                                  => '/iv-vitamin-therapy',
     '/cosmetic-injectables-newport-beach-ca'                        => '/iv-vitamin-therapy',
-    '/tms-therapy-newport-beach-ca'                                 => '/newport-beach',
-    '/cognitive-psychiatry-newport-beach-ca'                        => '/newport-beach',
     '/tms-for-condition-treatment'                                  => '/tms-therapy',
     '/what-to-expect-tms'                                           => '/tms-therapy',
     '/integrative-psychiatry-orange-county'                         => '/integrative-psychiatry',
@@ -65,8 +67,9 @@ $redirects = [
     '/tms-for-ptsd-orange-county'                                   => '/ptsd',
     '/tms-for-ptsd-newport-beach-ca'                                => '/ptsd',
     '/ptsd-tms'                                                     => '/ptsd',
+    '/adhd-treatment-in-orange-county'                              => '/adhd',
     '/adhd-treatment-orange-county'                                 => '/adhd',
-    '/treatment-for-suicidal-ideation-orange-county'                => '/suicidal-ideation',
+    '/treatment-for-suicidal-ideation-oragne-county'                => '/suicidal-ideation',
     '/tms-for-anxiety-newport-beach-ca'                             => '/anxiety',
     '/tms-for-ocd-newport-beach-ca'                                 => '/ocd',
     '/tms-for-depression-orange-county'                             => '/depression',
@@ -78,43 +81,47 @@ $redirects = [
 
     // --- Info / About Pages ---
     '/our-team'                                                     => '/team',
-    '/our-team/stefani-lafreniere-md'                               => '/team',
+    '/our-team/stefani-lafrenierre-md'                              => '/team',
     '/our-team/heather-wong-dmsc-mpas-pa-c-caq-psych'               => '/team',
     '/our-team/regina-dizon-pmhnp-bc'                               => '/team',
     '/our-team/milinda-estrada-pa-c'                                => '/team',
     '/about-us'                                                     => '/about',
     '/our-reviews'                                                  => '/reviews',
     '/acceptable-use-policy'                                        => '/insurance',
-    '/privacy-policy'                                               => '/compliance',
+    '/privacy-policy.'                                              => '/compliance',
     '/faq-1'                                                        => '/tms-faq',
 
-    // --- Blog Redirects (specific posts) ---
+    // --- Blog Redirects (specific posts - full slugs from CSV) ---
     '/blog-deep-tms-cost.php'                                       => '/blog-deep-tms-cost',
-    '/blog/tms-for-depression-in-orange-county-patient-journey-results-and' => '/depression',
+    '/blog/tms-for-depression-in-orange-county-patient-journey-results-and-what-to-know' => '/depression',
     '/blog/tms-anxiety-south-orange-county'                         => '/anxiety',
-    '/blog/treating-ocd-with-tms-what-orange-county-patients-should-ex' => '/blog-ocd-disability',
+    '/blog/treating-ocd-with-tms-what-orange-county-patients-should-expect-from-first-session-to-results' => '/blog-ocd-disability',
     '/blog/tms-helps-veterans-ptsd-orange-county'                   => '/ptsd',
-    '/blog/tms-for-anxiety-in-orange-county-integrating-brain-stimulation' => '/anxiety',
+    '/blog/tms-for-anxiety-in-orange-county-integrating-brain-stimulation-with-therapy-and-lifestyle-changes' => '/anxiety',
     '/blog/10-reasons-prp-facials'                                  => '/',
-    '/blog/tms-therapy-for-high-performers-ending-the-cycle-of-workpla' => '/blog',
-    '/blog/building-mental-resilience-how-to-strengthen-your-mindset-in' => '/blog',
+    '/blog/tms-therapy-for-high-performers-ending-the-cycle-of-workplace-stress' => '/blog',
+    '/blog/building-mental-resilience-how-to-strengthen-your-mindset-in-orange-county' => '/blog',
     '/blog/2023/10/28'                                              => '/blog',
     '/blog/spravato-first-session-orange-county'                    => '/spravato-therapy',
-    '/blog/transcranial-magnetic-stimulation-tms-demystifying-a-revoluti' => '/',
-    '/blog/spravato-esketamine-therapy-the-cutting-edge-approach-to-d' => '/spravato-therapy',
+    '/blog/transcranial-magnetic-stimulation-tms-demystifying-a-revolutionary-treatment-for-mental-health' => '/',
+    '/blog/spravato-esketamine-therapy-the-cutting-edge-approach-to-depression-treatment-in-oc' => '/spravato-therapy',
     '/blog/tms-for-ptsd-orange-county'                              => '/ptsd',
     '/blog/spravato-treatment-guide-orange-county'                  => '/spravato-therapy',
     '/blog/aesthetics-and-mental-wellness'                          => '/blog',
-    '/blog/a-complete-guide-to-tms-therapy-for-depression-in-orange-co' => '/blog',
-    '/blog/navigating-depression-recognizing-the-signs-preventing-relap' => '/blog',
+    '/blog/a-complete-guide-to-tms-therapy-for-depression-in-orange-county' => '/blog',
+    '/blog/navigating-depression-recognizing-the-signs-preventing-relapse-and-promoting-recovery' => '/blog',
     '/blog/am-i-depressed'                                          => '/blog',
     '/the-power-of-plant-based-antioxidants'                        => '/blog',
+    '/blog/the-power-of-plant-based-antioxidants'                   => '/blog',
+    '/navigating-depression-recognizing-the-signs-preventing-relapse-and-promoting-recovery' => '/blog',
+    '/blog/menopause-mental-health-insights'                        => '/blog',
 
     // --- Blog Category/Feed Redirects ---
     '/blog/category/ptsd/feed'                                      => '/ptsd',
     '/blog/category/ptsd'                                           => '/ptsd',
     '/blog/aesthetic'                                               => '/blog',
     '/blog/nad'                                                     => '/blog',
+    '/blog/category/nad-therapy'                                    => '/blog',
 ];
 
 // ============================================================================
@@ -141,7 +148,7 @@ $requestUri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 // Normalize: strip trailing slash (except for root "/")
 $normalizedUri = ($requestUri !== '/') ? rtrim($requestUri, '/') : '/';
 
-// 1. Check exact match redirects (with and without trailing slash)
+// 1. Check exact match redirects (normalized without trailing slash)
 if (isset($redirects[$normalizedUri]) && $normalizedUri !== $redirects[$normalizedUri]) {
     $destination = $redirects[$normalizedUri];
     header('HTTP/1.1 301 Moved Permanently');
@@ -150,7 +157,7 @@ if (isset($redirects[$normalizedUri]) && $normalizedUri !== $redirects[$normaliz
     exit;
 }
 
-// Also check the original URI with trailing slash (for exact matches in the map)
+// 2. Check with original URI (for entries like /privacy-policy. that have special endings)
 if ($requestUri !== $normalizedUri && isset($redirects[$requestUri]) && $requestUri !== $redirects[$requestUri]) {
     $destination = $redirects[$requestUri];
     header('HTTP/1.1 301 Moved Permanently');
@@ -159,7 +166,7 @@ if ($requestUri !== $normalizedUri && isset($redirects[$requestUri]) && $request
     exit;
 }
 
-// 2. Check wildcard pattern redirects
+// 3. Check wildcard pattern redirects
 foreach ($wildcardRedirects as $pattern => $destination) {
     if (preg_match($pattern, $normalizedUri) || preg_match($pattern, $requestUri)) {
         header('HTTP/1.1 301 Moved Permanently');
