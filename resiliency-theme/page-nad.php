@@ -3,7 +3,7 @@
 $page_title       = 'NAD+ IV Therapy Newport Beach | Cellular Energy &amp; Brain Health | Resiliency Mind + Body Medicine';
 $page_description = 'NAD+ IV infusion therapy in Newport Beach &amp; Orange County, CA. Replenish cellular energy, support DNA repair &amp; enhance cognitive performance. Physician-supervised. Call (949) 996-5355.';
 $page_keywords    = 'NAD+ therapy Newport Beach, NAD IV infusion Orange County, NAD therapy San Juan Capistrano, cellular energy therapy Newport Beach CA, anti-aging NAD therapy Orange County, brain health NAD Newport Beach, NAD+ IV drip Orange County CA';
-$page_canonical   = 'https://resiliencymbmedicine.com/nad-therapy.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/nad-therapy';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"NAD+ IV Therapy","description":"NAD+ intravenous infusion therapy for cellular energy, DNA repair, cognitive enhancement, and addiction recovery in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/nad-therapy.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}

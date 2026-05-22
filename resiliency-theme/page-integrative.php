@@ -3,7 +3,7 @@
 $page_title       = 'Integrative Psychiatry Newport Beach | Mind-Body Mental Health Care | Resiliency Mind + Body Medicine';
 $page_description = 'Integrative psychiatry combining advanced psychiatric treatment with functional medicine &amp; lifestyle interventions in Newport Beach &amp; Orange County, CA. Physician-led, whole-person care. Call (949) 996-5355.';
 $page_keywords    = 'integrative psychiatry Newport Beach, functional medicine psychiatry Orange County, holistic psychiatry Newport Beach CA, integrative mental health Orange County, mind body medicine Newport Beach, functional psychiatry San Juan Capistrano';
-$page_canonical   = 'https://resiliencymbmedicine.com/integrative-psychiatry.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/integrative-psychiatry';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Integrative Psychiatry","description":"Physician-led integrative psychiatry combining advanced psychiatric treatment with functional medicine and lifestyle interventions in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/integrative-psychiatry.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}

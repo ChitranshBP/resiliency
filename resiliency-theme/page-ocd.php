@@ -3,7 +3,7 @@
 $page_title       = 'OCD Treatment Newport Beach | FDA-Cleared Deep TMS for OCD | Resiliency Mind + Body Medicine';
 $page_description = 'FDA-cleared Deep TMS &amp; comprehensive OCD treatment in Newport Beach &amp; San Juan Capistrano, CA. BrainsWay® Deep TMS is the only FDA-cleared device for OCD. Call (949) 996-5355.';
 $page_keywords    = 'OCD treatment Newport Beach, TMS for OCD Orange County, Deep TMS OCD Newport Beach CA, OCD psychiatrist Orange County, obsessive compulsive disorder treatment Newport Beach, BrainsWay OCD TMS Orange County, OCD therapy Newport Beach';
-$page_canonical   = 'https://resiliencymbmedicine.com/ocd.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/ocd';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalCondition","name":"Obsessive-Compulsive Disorder","alternateName":["OCD","Obsessive Compulsive Disorder"],"description":"FDA-cleared Deep TMS treatment for OCD at Resiliency Mind + Body Medicine in Newport Beach and San Juan Capistrano, CA. BrainsWay Deep TMS is the only FDA-cleared device specifically for OCD.","url":"https://resiliencymbmedicine.com/ocd.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Intrusive thoughts"},{"@type":"MedicalSymptom","name":"Compulsive rituals"},{"@type":"MedicalSymptom","name":"Excessive checking"},{"@type":"MedicalSymptom","name":"Contamination fears"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Deep TMS Therapy for OCD","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"}]}

@@ -25,7 +25,7 @@
                     <a href="#resources" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Explore Resources <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
-                    <a href="contact.php" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center">
+                    <a href="contact" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center">
                         Contact Us
                     </a>
                 </div>
@@ -49,7 +49,7 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 reveal">
                 <!-- Card 1 -->
-                <a href="tms-therapy.php" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                <a href="tms-therapy" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-white transition-colors">
                         <i data-lucide="book-open" class="w-7 h-7"></i>
                     </div>
@@ -61,7 +61,7 @@
                 </a>
 
                 <!-- Card 2 -->
-                <a href="accelerated-tms.php" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                <a href="accelerated-tms" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-white transition-colors">
                         <i data-lucide="zap" class="w-7 h-7"></i>
                     </div>
@@ -73,7 +73,7 @@
                 </a>
 
                 <!-- Card 3 -->
-                <a href="tms-faq.php" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                <a href="tms-faq" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-white transition-colors">
                         <i data-lucide="help-circle" class="w-7 h-7"></i>
                     </div>
@@ -85,7 +85,7 @@
                 </a>
 
                 <!-- Card 4 -->
-                <a href="insurance.php" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                <a href="insurance" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-white transition-colors">
                         <i data-lucide="file-check-2" class="w-7 h-7"></i>
                     </div>
@@ -97,7 +97,7 @@
                 </a>
 
                 <!-- Card 5 -->
-                <a href="team.php" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                <a href="team" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-white transition-colors">
                         <i data-lucide="user-check" class="w-7 h-7"></i>
                     </div>
@@ -109,7 +109,7 @@
                 </a>
 
                 <!-- Card 6 -->
-                <a href="reviews.php" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                <a href="reviews" class="group bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 group-hover:bg-[#23bfe2] group-hover:text-white transition-colors">
                         <i data-lucide="star" class="w-7 h-7"></i>
                     </div>
@@ -173,7 +173,7 @@
                 Schedule Your Consultation to learn how Deep TMS can help you on your journey to mental wellness.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>

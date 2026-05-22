@@ -95,7 +95,7 @@ foreach ($pages as $php_file => $html_file) {
     $content = ob_get_clean();
     
     // Replace .php extensions with .html in links
-    // This regex looks for href="filename.php" or href='filename.php' and changes to .html
+    // This regex looks for href="filename" or href='filename' and changes to .html
     $content = preg_replace('/href="([^"]+)\.php"/', 'href="$1.html"', $content);
     $content = preg_replace("/href='([^']+)\.php'/", "href='$1.html'", $content);
     

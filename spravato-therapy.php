@@ -2,7 +2,7 @@
 $page_title       = 'Spravato® (Esketamine) Treatment Newport Beach | Treatment-Resistant Depression | Resiliency Mind + Body Medicine®';
 $page_description = 'Spravato® (esketamine nasal spray) for treatment-resistant depression &amp; suicidal ideation in Newport Beach &amp; Orange County. FDA-approved, in-office ketamine treatment. Call (949) 996-5355.';
 $page_keywords    = 'Spravato treatment Newport Beach, esketamine therapy Orange County, ketamine nasal spray Newport Beach, treatment-resistant depression Orange County, Spravato Orange County CA, ketamine treatment Newport Beach, Spravato San Juan Capistrano';
-$page_canonical   = 'https://resiliencymbmedicine.com/spravato-therapy.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/spravato-therapy';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Spravato® (Esketamine) Treatment","alternateName":"Ketamine Nasal Spray","description":"FDA-approved Spravato (esketamine) nasal spray for treatment-resistant depression and major depressive disorder with acute suicidal ideation. Administered in-office under supervision.","url":"https://resiliencymbmedicine.com/spravato-therapy.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
@@ -37,7 +37,7 @@ SCHEMA;
                     A breakthrough FDA-approved treatment for adults with treatment-resistant depression and suicidal ideation, offering rapid relief where traditional antidepressants have failed.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Get Started <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="#how-it-works" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center">
@@ -403,7 +403,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes — Spravato® is FDA-approved for <strong>treatment-resistant depression</strong>, which means patients must have tried and failed at least two different antidepressant medications at adequate doses and durations. It is also approved for <a href="suicidal-ideation.php" class="text-[#23bfe2] underline hover:text-white">major depressive disorder with acute suicidal ideation</a>. Our team will review your history to confirm eligibility during your initial consultation.
+                            Yes — Spravato® is FDA-approved for <strong>treatment-resistant depression</strong>, which means patients must have tried and failed at least two different antidepressant medications at adequate doses and durations. It is also approved for <a href="suicidal-ideation" class="text-[#23bfe2] underline hover:text-white">major depressive disorder with acute suicidal ideation</a>. Our team will review your history to confirm eligibility during your initial consultation.
                         </div>
                     </div>
                 </div>
@@ -495,7 +495,7 @@ SCHEMA;
                 Treatment-resistant depression doesn't have to be your final destination. Discover if Spravato is the right choice for your recovery.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -537,11 +537,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
-                <a href="accelerated-tms.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Accelerated TMS</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
-                <a href="suicidal-ideation.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Suicidal Ideation Support</a>
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="tms-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="accelerated-tms" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Accelerated TMS</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="suicidal-ideation" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Suicidal Ideation Support</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
             </div>
         </div>
     </section>

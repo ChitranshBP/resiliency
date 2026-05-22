@@ -2,7 +2,7 @@
 $page_title       = 'TMS Therapy Candidacy Quiz | Free Self-Assessment | Resiliency Mind + Body Medicine®';
 $page_description = 'Take our free, confidential TMS therapy candidacy assessment. Answer 6 short questions to see if Deep TMS may be right for your depression, anxiety, or OCD. Takes 3–5 minutes.';
 $page_keywords    = 'TMS quiz, TMS candidacy assessment, Deep TMS self-assessment, TMS therapy eligibility, depression treatment quiz Newport Beach, TMS screening Orange County';
-$page_canonical   = 'https://resiliencymbmedicine.com/tms-quiz.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/tms-quiz';
 ?>
 <?php include 'header.php'; ?>
 
@@ -65,7 +65,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/tms-quiz.php';
                 Our care coordinators are available to answer questions and help you decide whether TMS is a good fit.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-4 items-center">
-                <a href="contact.php" class="inline-flex items-center justify-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-4 rounded-full transition-all hover:-translate-y-1 shadow-xl">
+                <a href="contact" class="inline-flex items-center justify-center gap-2 bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-4 rounded-full transition-all hover:-translate-y-1 shadow-xl">
                     Schedule a Consultation <i data-lucide="arrow-up-right" class="w-5 h-5"></i>
                 </a>
                 <a href="tel:9499965355" class="inline-flex items-center gap-2 text-[#0B2035] font-bold hover:text-[#23bfe2] transition-colors">

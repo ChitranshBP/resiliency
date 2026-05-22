@@ -77,7 +77,7 @@
                     <article class="lg:w-2/3 reveal">
                         <div class="blog-content">
 
-                            <p>For individuals exploring advanced, non-medication treatments for depression, OCD, or anxiety, <a href="blog-deep-tms-cost.php" class="content-link">Deep Transcranial Magnetic Stimulation (Deep TMS)</a> is often recommended. To understand the costs involved, see our <a href="blog-deep-tms-cost.php" class="content-link">comprehensive cost guide</a>.</p>
+                            <p>For individuals exploring advanced, non-medication treatments for depression, OCD, or anxiety, <a href="blog-deep-tms-cost" class="content-link">Deep Transcranial Magnetic Stimulation (Deep TMS)</a> is often recommended. To understand the costs involved, see our <a href="blog-deep-tms-cost" class="content-link">comprehensive cost guide</a>.</p>
                             <p>But a key question remains: How does Deep TMS actually work, and what makes it different from standard TMS?</p>
                             <p>Understanding the mechanism builds confidence and helps patients make informed treatment decisions.</p>
                             <p>At Resiliency Mind+Body Medicine®, serving San Juan Capistrano and Newport Beach, CA, Deep TMS is delivered using <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" target="_blank" rel="nofollow noindex">FDA-cleared H-Coil technology</a> and evidence-based protocols tailored to each patient's brain and clinical profile.</p>
@@ -87,7 +87,7 @@
                             <p>It is commonly used for:</p>
                             <ul>
                                 <li>Treatment-resistant depression</li>
-                                <li><a href="blog-ocd-disability.php" class="content-link">Obsessive-Compulsive Disorder (OCD)</a></li>
+                                <li><a href="blog-ocd-disability" class="content-link">Obsessive-Compulsive Disorder (OCD)</a></li>
                                 <li>Anxiety-related conditions (in certain cases)</li>
                                 <li>Smoking addiction (FDA-cleared protocol)</li>
                             </ul>
@@ -176,7 +176,7 @@
                                 <li>5 days per week</li>
                                 <li>Total: 4-6 weeks (sometimes up to 8 weeks)</li>
                             </ul>
-                            <p>Deep TMS can often deliver results in a shorter timeframe due to deeper stimulation. For cost details, see our <a href="blog-deep-tms-cost.php" class="content-link">pricing guide</a>.</p>
+                            <p>Deep TMS can often deliver results in a shorter timeframe due to deeper stimulation. For cost details, see our <a href="blog-deep-tms-cost" class="content-link">pricing guide</a>.</p>
 
                             <h2>When Do Results Start?</h2>
                             <p>Response varies by individual:</p>
@@ -188,7 +188,7 @@
                             <p><strong>Clinical outcomes show:</strong></p>
                             <ul>
                                 <li>Strong response rates</li>
-                                <li>High remission rates in <a href="blog-ocd-disability.php" class="content-link">treatment-resistant depression</a></li>
+                                <li>High remission rates in <a href="blog-ocd-disability" class="content-link">treatment-resistant depression</a></li>
                                 <li>Durable results after completion</li>
                             </ul>
 
@@ -258,7 +258,7 @@
                                 </tbody>
                             </table>
 
-                            <p>Deep TMS offers the most comprehensive brain stimulation among non-invasive options. For comparison with <a href="blog-spravato-insurance.php" class="content-link">Spravato treatment</a>, see our insurance coverage guide.</p>
+                            <p>Deep TMS offers the most comprehensive brain stimulation among non-invasive options. For comparison with <a href="blog-spravato-insurance" class="content-link">Spravato treatment</a>, see our insurance coverage guide.</p>
 
                             <h2>Who Is a Good Candidate for Deep TMS?</h2>
                             <p>You may be a strong candidate if you:</p>
@@ -266,7 +266,7 @@
                                 <li>Have not responded to 2+ antidepressants</li>
                                 <li>Experience medication side effects</li>
                                 <li>Prefer non-drug treatment</li>
-                                <li>Have depression or <a href="blog-ocd-disability.php" class="content-link">OCD diagnosis</a></li>
+                                <li>Have depression or <a href="blog-ocd-disability" class="content-link">OCD diagnosis</a></li>
                             </ul>
                             <p>A professional evaluation is required to confirm eligibility.</p>
 
@@ -300,12 +300,12 @@
 
                             <div class="faq-item">
                                 <h3>5. Can I stay on medication during Deep TMS?</h3>
-                                <p>Yes, in many cases. This is managed by your provider. For insurance coverage options, see our <a href="blog-spravato-insurance.php" class="content-link">guide to insurance coverage</a>.</p>
+                                <p>Yes, in many cases. This is managed by your provider. For insurance coverage options, see our <a href="blog-spravato-insurance" class="content-link">guide to insurance coverage</a>.</p>
                             </div>
 
                             <div class="faq-item">
                                 <h3>6. How effective is Deep TMS?</h3>
-                                <p>Clinical studies show high response and remission rates, especially in <a href="blog-ocd-disability.php" class="content-link">treatment-resistant depression</a>.</p>
+                                <p>Clinical studies show high response and remission rates, especially in <a href="blog-ocd-disability" class="content-link">treatment-resistant depression</a>.</p>
                             </div>
 
                             <h2>Start Your Personalized Deep TMS Journey</h2>
@@ -326,10 +326,10 @@
                             <!-- Internal Links Section -->
                             <div class="internal-links-section">
                                 <h3>Related Articles</h3>
-                                <a href="blog-deep-tms-cost.php" class="internal-link"><i data-lucide="dollar-sign" class="w-4 h-4 inline-block mr-1"></i> Deep TMS Cost Guide</a>
-                                <a href="blog-spravato-insurance.php" class="internal-link"><i data-lucide="shield-check" class="w-4 h-4 inline-block mr-1"></i> Spravato Insurance Coverage</a>
-                                <a href="blog-deep-tms-autism.php" class="internal-link"><i data-lucide="users" class="w-4 h-4 inline-block mr-1"></i> Deep TMS for Autism</a>
-                                <a href="blog-mental-health-awareness.php" class="internal-link"><i data-lucide="heart" class="w-4 h-4 inline-block mr-1"></i> Mental Health Awareness Month</a>
+                                <a href="blog-deep-tms-cost" class="internal-link"><i data-lucide="dollar-sign" class="w-4 h-4 inline-block mr-1"></i> Deep TMS Cost Guide</a>
+                                <a href="blog-spravato-insurance" class="internal-link"><i data-lucide="shield-check" class="w-4 h-4 inline-block mr-1"></i> Spravato Insurance Coverage</a>
+                                <a href="blog-deep-tms-autism" class="internal-link"><i data-lucide="users" class="w-4 h-4 inline-block mr-1"></i> Deep TMS for Autism</a>
+                                <a href="blog-mental-health-awareness" class="internal-link"><i data-lucide="heart" class="w-4 h-4 inline-block mr-1"></i> Mental Health Awareness Month</a>
                             </div>
 
                         </div>
@@ -347,7 +347,7 @@
                         <!-- Post Navigation -->
                         <nav class="mt-12 pt-8 border-t border-gray-100 flex items-center justify-between">
                             <div class="w-1/2">
-                                <a href="blog-ocd-disability.php" class="group flex items-center gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
+                                <a href="blog-ocd-disability" class="group flex items-center gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
                                     <i data-lucide="arrow-left" class="w-5 h-5 text-[#23bfe2] group-hover:-translate-x-1 transition-transform"></i>
                                     <div>
                                         <span class="text-xs text-gray-400 font-light uppercase tracking-wider">Previous</span>
@@ -370,7 +370,7 @@
                             <div class="bg-gray-50 rounded-3xl p-8 border border-gray-100">
                                 <h3 class="text-xl font-bold text-[#0B2035] mb-6">Related Articles</h3>
                                 <div class="space-y-4">
-                                    <a href="blog-deep-tms-cost.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-deep-tms-cost" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="dollar-sign" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -379,7 +379,7 @@
                                             <p class="text-xs text-gray-400 font-light mt-1">April 7, 2026</p>
                                         </div>
                                     </a>
-                                    <a href="blog-spravato-insurance.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-spravato-insurance" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="shield-check" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -388,7 +388,7 @@
                                             <p class="text-xs text-gray-400 font-light mt-1">April 12, 2026</p>
                                         </div>
                                     </a>
-                                    <a href="blog-ocd-disability.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-ocd-disability" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="scale" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -406,7 +406,7 @@
                                 <p class="text-gray-300 font-light text-sm leading-relaxed mb-6">
                                     Our team is here to help you find the right mental health treatment.
                                 </p>
-                                <a href="contact.php" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-3 rounded-full text-sm transition-all hover:bg-white hover:-translate-y-1 transform">
+                                <a href="contact" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-3 rounded-full text-sm transition-all hover:bg-white hover:-translate-y-1 transform">
                                     Contact Us <i data-lucide="arrow-right" class="w-4 h-4"></i>
                                 </a>
                             </div>

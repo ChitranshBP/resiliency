@@ -98,7 +98,7 @@ SCHEMA;
                         Personalized treatments for depression, anxiety, OCD, and PTSD at our Newport Beach & San Juan Capistrano clinics — using evidence-based therapies and advanced neuromodulation technology.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-3 sm:gap-4 mb-8 sm:mb-10">
-                        <a href="contact.php" class="bg-lightblue text-primary font-bold px-6 sm:px-8 py-3.5 rounded-full text-center text-sm sm:text-base transition-all hover:bg-[#1aadd0] hover:shadow-lg shadow-md hover:-translate-y-1 transform">
+                        <a href="contact" class="bg-lightblue text-primary font-bold px-6 sm:px-8 py-3.5 rounded-full text-center text-sm sm:text-base transition-all hover:bg-[#1aadd0] hover:shadow-lg shadow-md hover:-translate-y-1 transform">
                            Schedule Your Consultation
                         </a>
                         <a href="#treatments" class="bg-white/10 backdrop-blur-sm border border-white/30 text-white font-medium px-6 sm:px-8 py-3.5 rounded-full text-center text-sm sm:text-base transition-all hover:bg-white/20">
@@ -170,7 +170,7 @@ SCHEMA;
                     </div>
 
                     <!-- CTA -->
-                    <a href="tms-quiz.php" class="group inline-flex items-center justify-center gap-2 bg-[#23bfe2] hover:bg-white text-[#0B2035] font-bold px-6 md:px-7 py-2.5 md:py-3 rounded-full transition-all hover:-translate-y-0.5 shadow-lg whitespace-nowrap flex-shrink-0 text-sm md:text-base">
+                    <a href="tms-quiz" class="group inline-flex items-center justify-center gap-2 bg-[#23bfe2] hover:bg-white text-[#0B2035] font-bold px-6 md:px-7 py-2.5 md:py-3 rounded-full transition-all hover:-translate-y-0.5 shadow-lg whitespace-nowrap flex-shrink-0 text-sm md:text-base">
                         Take the Quiz
                         <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
                     </a>
@@ -220,7 +220,7 @@ SCHEMA;
                     <p class="text-gray-600 mb-6 font-light text-sm leading-relaxed max-w-sm mx-auto lg:mx-0">
                         Research shows evidence-based psychiatry and advanced neuromodulation can significantly boost mental health.
                     </p>
-                    <a href="tms-therapy.php" class="inline-flex items-center gap-2 bg-primary text-white font-bold uppercase tracking-wider text-[10px] px-6 py-2.5 rounded-md transition-all hover:bg-primary/90 hover:shadow-md">
+                    <a href="tms-therapy" class="inline-flex items-center gap-2 bg-primary text-white font-bold uppercase tracking-wider text-[10px] px-6 py-2.5 rounded-md transition-all hover:bg-primary/90 hover:shadow-md">
                         LEARN MORE <i data-lucide="arrow-up-right" class="w-3.5 h-3.5"></i>
                     </a>
                 </div>
@@ -344,7 +344,7 @@ SCHEMA;
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Advanced therapies including Deep TMS, Spravato, and tailored medication management for persistent, treatment-resistant depression scenarios.
                                     </p>
-                                    <a href="depression.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="depression" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -374,7 +374,7 @@ SCHEMA;
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Comprehensive, multi-modal management for generalized anxiety, severe panic disorders, social anxiety, and phobias.
                                     </p>
-                                    <a href="anxiety.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="anxiety" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -404,7 +404,7 @@ SCHEMA;
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Specialized, FDA-approved Deep TMS protocols using the BrainsWay H7-coil, specifically designed to target obsessive and compulsive circuitry.
                                     </p>
-                                    <a href="ocd.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="ocd" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -434,7 +434,7 @@ SCHEMA;
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Deeply compassionate, trauma-informed care utilizing integrative approaches, lifestyle optimization, and neuro-restorative modalities.
                                     </p>
-                                    <a href="ptsd.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="ptsd" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -464,7 +464,7 @@ SCHEMA;
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Precision diagnosis and highly tailored medication management to enhance focus, executive function, and overall cognitive performance.
                                     </p>
-                                    <a href="adhd.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="adhd" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -494,7 +494,7 @@ SCHEMA;
                                     <p class="text-gray-100 leading-relaxed mb-6 font-light group-hover:text-gray-200">
                                         Careful psychiatric evaluation, mood stabilization, and management protocols for bipolar disorder and complex mood cyclings.
                                     </p>
-                                    <a href="bipolar.php" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
+                                    <a href="bipolar" class="inline-flex items-center gap-2 text-white font-semibold tracking-wide uppercase text-xs hover:text-white group-hover:text-[#23bfe2] transition-colors duration-500 mt-auto w-max">
                                         View Protocol <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
                                     </a>
                                 </div>
@@ -506,7 +506,7 @@ SCHEMA;
 
                 <!-- View All Button -->
                 <div class="mt-16 text-center reveal">
-                    <a href="conditions.php" class="inline-flex items-center gap-2 bg-[#0B2035] text-white hover:bg-[#23bfe2] hover:text-[#0B2035] font-bold px-10 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1">
+                    <a href="conditions" class="inline-flex items-center gap-2 bg-[#0B2035] text-white hover:bg-[#23bfe2] hover:text-[#0B2035] font-bold px-10 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1">
                         View All Conditions <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                 </div>
@@ -594,7 +594,7 @@ SCHEMA;
                             </li>
                         </ul>
                         
-                        <a href="tms-therapy.php" class="inline-flex items-center justify-center gap-2 bg-white text-primary hover:bg-[#23bfe2] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-[0_4px_20px_rgba(255,255,255,0.1)] hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] hover:-translate-y-1">
+                        <a href="tms-therapy" class="inline-flex items-center justify-center gap-2 bg-white text-primary hover:bg-[#23bfe2] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-[0_4px_20px_rgba(255,255,255,0.1)] hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] hover:-translate-y-1">
                             Explore Deep TMS Protocol <i data-lucide="arrow-right" class="w-5 h-5"></i>
                         </a>
                     </div>
@@ -672,7 +672,7 @@ SCHEMA;
                         <h4 class="text-xl font-bold text-primary mb-3">Deep TMS Therapy</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Breakthrough magnetic stimulation targeting deeper brain regions for robust remission.</p>
                         <div class="mb-6">
-                            <a href="tms-therapy.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="tms-therapy" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -684,7 +684,7 @@ SCHEMA;
                         <h4 class="text-xl font-bold text-primary mb-3">Spravato® (Esketamine)</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">First-of-its-kind FDA-approved nasal spray for treatment-resistant depression.</p>
                         <div class="mb-6">
-                            <a href="spravato-therapy.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="spravato-therapy" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -696,7 +696,7 @@ SCHEMA;
                         <h4 class="text-xl font-bold text-primary mb-3">IV Drip Therapy</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Customized intravenous vitamin infusions to optimize hydration, energy, and overall wellbeing.</p>
                         <div class="mb-6">
-                            <a href="iv-vitamin-therapy.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="iv-vitamin-therapy" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -708,7 +708,7 @@ SCHEMA;
                         <h4 class="text-xl font-bold text-primary mb-3">Medical Weight Loss</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Physician-supervised programs addressing the mind-body connection in metabolic health.</p>
                         <div class="mb-6">
-                            <a href="weight-loss.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="weight-loss" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -720,7 +720,7 @@ SCHEMA;
                         <h4 class="text-xl font-bold text-primary mb-3">Medication Management</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Expert psychiatric prescribing carefully tailored to your unique biology and needs.</p>
                         <div class="mb-6">
-                            <a href="medication-management.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="medication-management" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -732,7 +732,7 @@ SCHEMA;
                         <h4 class="text-xl font-bold text-primary mb-3">Wellness Services</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Integrative and complementary approaches to ensure holistic optimization of mind and body.</p>
                         <div class="mb-6">
-                            <a href="integrative-psychiatry.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="integrative-psychiatry" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -747,7 +747,7 @@ SCHEMA;
                         <h4 class="text-xl font-bold text-primary mb-3">Proliv™Rx</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">FDA-approved, at-home brain neuromodulation therapy for treatment-resistant depression.</p>
                         <div class="mb-6">
-                            <a href="proliv-rx.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="proliv-rx" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -759,7 +759,7 @@ SCHEMA;
                         <h4 class="text-xl font-bold text-primary mb-3">VNS Therapy</h4>
                         <p class="text-gray-600 mb-6 font-light text-sm flex-grow">Advanced Vagus Nerve Stimulation technology offering long-term relief for resistant conditions.</p>
                         <div class="mb-6">
-                            <a href="vns-therapy.php" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
+                            <a href="vns-therapy" class="inline-flex items-center gap-1 bg-primary text-white font-bold uppercase tracking-wider text-[11px] px-5 py-2.5 rounded hover:opacity-90 transition-opacity">
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
@@ -951,7 +951,7 @@ SCHEMA;
                             <p class="font-medium text-white">Let's build a foundation for lasting wellness together.</p>
                         </div>
                         
-                        <a href="team.php" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold uppercase tracking-wider text-xs px-8 py-4 rounded-md transition-all hover:bg-opacity-90 hover:shadow-md hover:-translate-y-1">
+                        <a href="team" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold uppercase tracking-wider text-xs px-8 py-4 rounded-md transition-all hover:bg-opacity-90 hover:shadow-md hover:-translate-y-1">
                             GET TO KNOW DR. LAFRENIERRE <i data-lucide="arrow-up-right" class="w-4 h-4"></i>
                         </a>
 
@@ -1151,7 +1151,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            At Resiliency, we go far beyond a 15-minute medication check. Our board-certified psychiatrist Dr. LaFrenierre combines <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">Spravato® treatment</a>, <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">conservative medication management</a>, and <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> into a truly personalized care plan. We treat the whole person — not just symptoms.
+                            At Resiliency, we go far beyond a 15-minute medication check. Our board-certified psychiatrist Dr. LaFrenierre combines <a href="tms-therapy" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="spravato-therapy" class="text-[#23bfe2] underline hover:text-white">Spravato® treatment</a>, <a href="medication-management" class="text-[#23bfe2] underline hover:text-white">conservative medication management</a>, and <a href="integrative-psychiatry" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> into a truly personalized care plan. We treat the whole person — not just symptoms.
                         </div>
                     </div>
                 </div>
@@ -1164,7 +1164,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            We specialize in a wide range of mental health conditions including <a href="depression.php" class="text-[#23bfe2] underline hover:text-white">depression</a>, <a href="anxiety.php" class="text-[#23bfe2] underline hover:text-white">anxiety</a>, <a href="ocd.php" class="text-[#23bfe2] underline hover:text-white">OCD</a>, <a href="ptsd.php" class="text-[#23bfe2] underline hover:text-white">PTSD</a>, <a href="adhd.php" class="text-[#23bfe2] underline hover:text-white">adult ADHD</a>, <a href="bipolar.php" class="text-[#23bfe2] underline hover:text-white">bipolar disorder</a>, <a href="substance-abuse.php" class="text-[#23bfe2] underline hover:text-white">substance use disorders</a>, and more. View our full <a href="conditions.php" class="text-[#23bfe2] underline hover:text-white">conditions we treat</a> page for details.
+                            We specialize in a wide range of mental health conditions including <a href="depression" class="text-[#23bfe2] underline hover:text-white">depression</a>, <a href="anxiety" class="text-[#23bfe2] underline hover:text-white">anxiety</a>, <a href="ocd" class="text-[#23bfe2] underline hover:text-white">OCD</a>, <a href="ptsd" class="text-[#23bfe2] underline hover:text-white">PTSD</a>, <a href="adhd" class="text-[#23bfe2] underline hover:text-white">adult ADHD</a>, <a href="bipolar" class="text-[#23bfe2] underline hover:text-white">bipolar disorder</a>, <a href="substance-abuse" class="text-[#23bfe2] underline hover:text-white">substance use disorders</a>, and more. View our full <a href="conditions" class="text-[#23bfe2] underline hover:text-white">conditions we treat</a> page for details.
                         </div>
                     </div>
                 </div>
@@ -1177,7 +1177,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS (Transcranial Magnetic Stimulation)</a> is an FDA-cleared, non-invasive brain stimulation treatment that uses magnetic fields to target mood-regulating brain circuits. It requires no anesthesia, has no systemic side effects, and patients can drive themselves to and from appointments. It is particularly effective for treatment-resistant depression, OCD, and anxious depression. Our team will assess your candidacy during an initial consultation.
+                            <a href="tms-therapy" class="text-[#23bfe2] underline hover:text-white">Deep TMS (Transcranial Magnetic Stimulation)</a> is an FDA-cleared, non-invasive brain stimulation treatment that uses magnetic fields to target mood-regulating brain circuits. It requires no anesthesia, has no systemic side effects, and patients can drive themselves to and from appointments. It is particularly effective for treatment-resistant depression, OCD, and anxious depression. Our team will assess your candidacy during an initial consultation.
                         </div>
                     </div>
                 </div>
@@ -1190,7 +1190,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. We accept most major commercial insurance carriers and Medicare for services like <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and psychiatric evaluations. <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">Spravato®</a> is also covered by many insurance plans when medical necessity criteria are met. Visit our <a href="insurance.php" class="text-[#23bfe2] underline hover:text-white">insurance & fees page</a> or call us at (949) 996-5355 for a benefits check.
+                            Yes. We accept most major commercial insurance carriers and Medicare for services like <a href="tms-therapy" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and psychiatric evaluations. <a href="spravato-therapy" class="text-[#23bfe2] underline hover:text-white">Spravato®</a> is also covered by many insurance plans when medical necessity criteria are met. Visit our <a href="insurance" class="text-[#23bfe2] underline hover:text-white">insurance & fees page</a> or call us at (949) 996-5355 for a benefits check.
                         </div>
                     </div>
                 </div>
@@ -1203,7 +1203,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. We offer secure, HIPAA-compliant <a href="telehealth.php" class="text-[#23bfe2] underline hover:text-white">telehealth appointments</a> for psychiatric evaluations, medication management, and follow-up care. Some services — including Deep TMS, Spravato®, IV therapy, and in-office procedures — require an in-person visit at our Newport Beach or San Juan Capistrano locations.
+                            Yes. We offer secure, HIPAA-compliant <a href="telehealth" class="text-[#23bfe2] underline hover:text-white">telehealth appointments</a> for psychiatric evaluations, medication management, and follow-up care. Some services — including Deep TMS, Spravato®, IV therapy, and in-office procedures — require an in-person visit at our Newport Beach or San Juan Capistrano locations.
                         </div>
                     </div>
                 </div>
@@ -1216,13 +1216,13 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Getting started is simple. You can <a href="contact.php" class="text-[#23bfe2] underline hover:text-white">schedule a consultation online</a> or call us at (949) 996-5355. You can also complete our <a href="new-patient-form.php" class="text-[#23bfe2] underline hover:text-white">new patient forms</a> ahead of your first visit. Our team will conduct a comprehensive psychiatric evaluation and work with you to design a personalized treatment plan.
+                            Getting started is simple. You can <a href="contact" class="text-[#23bfe2] underline hover:text-white">schedule a consultation online</a> or call us at (949) 996-5355. You can also complete our <a href="new-patient-form" class="text-[#23bfe2] underline hover:text-white">new patient forms</a> ahead of your first visit. Our team will conduct a comprehensive psychiatric evaluation and work with you to design a personalized treatment plan.
                         </div>
                     </div>
                 </div>
             </div>
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
@@ -1255,13 +1255,13 @@ SCHEMA;
                 </p>
 
                 <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                    <a href="contact.php" class="group relative inline-flex items-center justify-center bg-lightblue hover:bg-[#1aadd0] text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl overflow-hidden text-lg w-full sm:w-auto">
+                    <a href="contact" class="group relative inline-flex items-center justify-center bg-lightblue hover:bg-[#1aadd0] text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl overflow-hidden text-lg w-full sm:w-auto">
                         <span class="relative z-10 flex items-center gap-2">
                             Schedule Your Consultation
                             <i data-lucide="arrow-right" class="w-5 h-5 transform group-hover:translate-x-1 transition-transform"></i>
                         </span>
                     </a>
-                    <a href="contact.php" class="group inline-flex items-center justify-center bg-white/5 hover:bg-white/10 border-2 border-white/20 hover:border-white/40 text-white font-semibold px-10 py-5 rounded-full transition-all duration-300 text-lg w-full sm:w-auto">
+                    <a href="contact" class="group inline-flex items-center justify-center bg-white/5 hover:bg-white/10 border-2 border-white/20 hover:border-white/40 text-white font-semibold px-10 py-5 rounded-full transition-all duration-300 text-lg w-full sm:w-auto">
                         Contact Our Team
                     </a>
                 </div>

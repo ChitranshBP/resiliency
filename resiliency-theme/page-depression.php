@@ -6,7 +6,7 @@ $page_description = 'Comprehensive depression treatment in Newport Beach &amp; O
 $page_keywords = 'depression treatment Newport Beach, depression psychiatrist Orange County, TMS for depression Newport
 Beach, SPRAVATO depression Orange County, major depressive disorder treatment Newport Beach CA, treatment-resistant
 depression Orange County, depression doctor Newport Beach, psychiatrist for depression Orange County CA';
-$page_canonical = 'https://resiliencymbmedicine.com/depression.php';
+$page_canonical = 'https://resiliencymbmedicine.com/depression';
 $page_schema = <<<'SCHEMA' <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"MedicalCondition","name":"Major Depressive
     Disorder","alternateName":["Depression","Treatment-Resistant Depression","MDD"],"description":"Major depressive

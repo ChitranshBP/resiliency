@@ -3,7 +3,7 @@
 $page_title       = 'Cognitive Enhancement Newport Beach &amp; Orange County | Brain Optimization | Resiliency Mind + Body Medicine';
 $page_description = 'Physician-supervised cognitive enhancement in Newport Beach &amp; Orange County, CA. NAD+ therapy, targeted supplements, metabolic optimization &amp; neuromodulation for peak brain performance. Call (949) 996-5355.';
 $page_keywords    = 'cognitive enhancement Newport Beach, brain optimization Orange County, cognitive performance Newport Beach CA, brain enhancement Orange County, NAD therapy cognitive Newport Beach, neuromodulation brain boost Orange County CA, cognitive enhancement doctor Newport Beach';
-$page_canonical   = 'https://resiliencymbmedicine.com/cognitive-enhancement.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/cognitive-enhancement';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Cognitive Enhancement Program","description":"Physician-supervised cognitive enhancement using NAD+ therapy, supplements, metabolic optimization, and neuromodulation in Newport Beach and Orange County, CA.","url":"https://resiliencymbmedicine.com/cognitive-enhancement.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}

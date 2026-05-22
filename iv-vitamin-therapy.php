@@ -2,7 +2,7 @@
 $page_title       = 'IV Vitamin Therapy Newport Beach &amp; Orange County | Energy, Wellness &amp; Recovery Infusions | Resiliency Mind + Body Medicine®';
 $page_description = 'Physician-supervised IV vitamin &amp; nutrient infusions in Newport Beach &amp; San Juan Capistrano, CA. Boost energy, mental clarity, immunity, and recovery. Call (949) 996-5355.';
 $page_keywords    = 'IV vitamin therapy Newport Beach, IV infusion Orange County, vitamin drip Newport Beach CA, IV therapy San Juan Capistrano, nutrient infusion Orange County, IV hydration Newport Beach, wellness infusion Orange County CA';
-$page_canonical   = 'https://resiliencymbmedicine.com/iv-vitamin-therapy.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/iv-vitamin-therapy';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"IV Vitamin Therapy","description":"Physician-supervised IV nutrient infusions for energy, immunity, mental clarity, and recovery in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/iv-vitamin-therapy.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
@@ -37,7 +37,7 @@ SCHEMA;
                     Direct infusion of essential nutrients, amino acids, and antioxidants to promote energy, cellular repair, mental clarity, and overall wellness—physician-supervised for safety.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#23bfe2] hover:bg-white text-[#0B2035] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl">
+                    <a href="contact" class="group relative inline-flex items-center justify-center bg-[#23bfe2] hover:bg-white text-[#0B2035] font-bold px-8 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl">
                         <span class="relative z-10 flex items-center gap-2">
                             Book a Session
                             <i data-lucide="arrow-up-right" class="w-5 h-5 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -544,7 +544,7 @@ SCHEMA;
                 Experience the difference of physician-supervised IV vitamin therapy. Book your session and start feeling your best.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Book Your IV Session
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -591,11 +591,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="nad-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">NAD+ Therapy</a>
-                <a href="weight-loss.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medical Weight Loss</a>
-                <a href="hormone-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Hormone Therapy</a>
-                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
-                <a href="cognitive-enhancement.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Cognitive Enhancement</a>
+                <a href="nad-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">NAD+ Therapy</a>
+                <a href="weight-loss" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medical Weight Loss</a>
+                <a href="hormone-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Hormone Therapy</a>
+                <a href="integrative-psychiatry" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="cognitive-enhancement" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Cognitive Enhancement</a>
             </div>
         </div>
     </section>

@@ -2,7 +2,7 @@
 $page_title       = 'ADHD Treatment Newport Beach &amp; Orange County | Adult ADHD Psychiatrist | Resiliency Mind + Body Medicine®';
 $page_description = 'Comprehensive adult ADHD treatment in Newport Beach &amp; Orange County, CA. Diagnostic evaluation, conservative medication management &amp; integrative strategies from a board-certified psychiatrist. Call (949) 996-5355.';
 $page_keywords    = 'ADHD treatment Newport Beach, adult ADHD psychiatrist Orange County, ADHD doctor Newport Beach CA, adult ADHD medication management Orange County, ADHD diagnosis Newport Beach, ADHD psychiatrist San Juan Capistrano, adult attention deficit disorder treatment Orange County';
-$page_canonical   = 'https://resiliencymbmedicine.com/adhd.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/adhd';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalCondition","name":"Attention Deficit Hyperactivity Disorder","alternateName":["ADHD","Adult ADHD","ADD"],"description":"Comprehensive adult ADHD treatment with diagnostic evaluation, conservative medication management, and integrative strategies in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/adhd.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Inattention"},{"@type":"MedicalSymptom","name":"Impulsivity"},{"@type":"MedicalSymptom","name":"Hyperactivity"},{"@type":"MedicalSymptom","name":"Executive dysfunction"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"},{"@type":"MedicalTherapy","name":"Integrative Psychiatry","url":"https://resiliencymbmedicine.com/integrative-psychiatry.php"},{"@type":"MedicalTherapy","name":"Pharmacogenetic Testing","url":"https://resiliencymbmedicine.com/pharmacogenetic-testing.php"}]}
@@ -36,7 +36,7 @@ SCHEMA;
                     Comprehensive ADHD management with careful diagnostic evaluation, conservative medication options, and integrative strategies for improved focus, organization, and daily functioning.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -220,7 +220,7 @@ SCHEMA;
                         </li>
                     </ul>
 
-                    <a href="tms-therapy.php" class="inline-flex items-center gap-2 bg-[#0B2035] text-white font-bold px-8 py-3.5 rounded-full transition-all hover:bg-[#23bfe2] hover:text-[#0B2035] hover:-translate-y-1 shadow-md">
+                    <a href="tms-therapy" class="inline-flex items-center gap-2 bg-[#0B2035] text-white font-bold px-8 py-3.5 rounded-full transition-all hover:bg-[#23bfe2] hover:text-[#0B2035] hover:-translate-y-1 shadow-md">
                         Learn About TMS Therapy <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                 </div>
@@ -289,7 +289,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. While stimulant medications can be effective for ADHD, they are not appropriate for everyone. We offer non-stimulant medication options, <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry approaches</a>, nutritional optimization, and lifestyle interventions as alternatives. <a href="pharmacogenetic-testing.php" class="text-[#23bfe2] underline hover:text-white">Pharmacogenetic testing</a> can also help identify the most effective medication with the fewest side effects for your genetic profile.
+                            Yes. While stimulant medications can be effective for ADHD, they are not appropriate for everyone. We offer non-stimulant medication options, <a href="integrative-psychiatry" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry approaches</a>, nutritional optimization, and lifestyle interventions as alternatives. <a href="pharmacogenetic-testing" class="text-[#23bfe2] underline hover:text-white">Pharmacogenetic testing</a> can also help identify the most effective medication with the fewest side effects for your genetic profile.
                         </div>
                     </div>
                 </div>
@@ -316,7 +316,7 @@ SCHEMA;
                 Schedule a consultation with our team and discover a personalized treatment plan designed for your unique needs.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -362,11 +362,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
-                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
-                <a href="telehealth.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Telehealth Appointments</a>
-                <a href="pharmacogenetic-testing.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Pharmacogenetic Testing</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="integrative-psychiatry" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="telehealth" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Telehealth Appointments</a>
+                <a href="pharmacogenetic-testing" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Pharmacogenetic Testing</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
             </div>
         </div>
     </section>

@@ -2,7 +2,7 @@
 $page_title       = 'Telehealth Psychiatry Orange County &amp; California | Secure Video Appointments | Resiliency Mind + Body Medicine®';
 $page_description = 'HIPAA-compliant telehealth psychiatric appointments for Orange County &amp; California patients. Access expert psychiatric care from home. Board-certified psychiatrist, same-day availability. Call (949) 996-5355.';
 $page_keywords    = 'telehealth psychiatry Orange County, online psychiatrist Newport Beach, virtual psychiatry California, telehealth mental health Orange County CA, remote psychiatrist Newport Beach, online psychiatric care California, telehealth ADHD treatment Orange County';
-$page_canonical   = 'https://resiliencymbmedicine.com/telehealth.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/telehealth';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Telehealth Psychiatric Appointments","description":"Secure, HIPAA-compliant telehealth psychiatry serving Orange County and all of California. Virtual psychiatric evaluations, medication management, and follow-up care.","url":"https://resiliencymbmedicine.com/telehealth.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®","telephone":"(949) 996-5355","areaServed":["Orange County, CA","California"],"address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
@@ -37,7 +37,7 @@ SCHEMA;
                     Access high-quality psychiatric care from the comfort of your home, office, or anywhere with an internet connection—secure, HIPAA-compliant video visits with our providers.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="#about" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center">
@@ -352,7 +352,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Telehealth is available for psychiatric evaluations, <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">medication management</a>, follow-up appointments, and care coordination. Services that require an in-person visit at our Newport Beach or San Juan Capistrano clinics include <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">Spravato® treatment</a>, <a href="iv-vitamin-therapy.php" class="text-[#23bfe2] underline hover:text-white">IV vitamin therapy</a>, and <a href="nad-therapy.php" class="text-[#23bfe2] underline hover:text-white">NAD+ infusions</a>.
+                            Telehealth is available for psychiatric evaluations, <a href="medication-management" class="text-[#23bfe2] underline hover:text-white">medication management</a>, follow-up appointments, and care coordination. Services that require an in-person visit at our Newport Beach or San Juan Capistrano clinics include <a href="tms-therapy" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="spravato-therapy" class="text-[#23bfe2] underline hover:text-white">Spravato® treatment</a>, <a href="iv-vitamin-therapy" class="text-[#23bfe2] underline hover:text-white">IV vitamin therapy</a>, and <a href="nad-therapy" class="text-[#23bfe2] underline hover:text-white">NAD+ infusions</a>.
                         </div>
                     </div>
                 </div>
@@ -376,7 +376,7 @@ SCHEMA;
                 Schedule a secure telehealth appointment with our team and receive expert psychiatric care from wherever you are.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -423,11 +423,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
-                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
-                <a href="adhd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD Treatment</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
-                <a href="contact.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Book an Appointment</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="spravato-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
+                <a href="adhd" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD Treatment</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="contact" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Book an Appointment</a>
             </div>
         </div>
     </section>

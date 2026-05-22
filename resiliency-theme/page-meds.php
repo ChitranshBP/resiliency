@@ -3,7 +3,7 @@
 $page_title       = 'Psychiatric Medication Management Newport Beach | Conservative &amp; Personalized Care | Resiliency Mind + Body Medicine';
 $page_description = 'Conservative, whole-person psychiatric medication management in Newport Beach &amp; San Juan Capistrano, CA. Board-certified psychiatrist Dr. LaFrenierre minimizes medications while maximizing results. Call (949) 996-5355.';
 $page_keywords    = 'psychiatric medication management Newport Beach, psychiatrist Orange County medication, medication management San Juan Capistrano, psychiatric prescriber Newport Beach CA, conservative medication psychiatry Orange County, board-certified psychiatrist Newport Beach';
-$page_canonical   = 'https://resiliencymbmedicine.com/medication-management.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/medication-management';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Conservative Psychiatric Medication Management","description":"Thoughtful, whole-person psychiatric medication management in Newport Beach and San Juan Capistrano, CA. Board-certified psychiatrist minimizes medications while maximizing results.","url":"https://resiliencymbmedicine.com/medication-management.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}

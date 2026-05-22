@@ -2,7 +2,7 @@
 $page_title       = 'OCD Treatment Newport Beach | FDA-Cleared Deep TMS for OCD | Resiliency Mind + Body Medicine®';
 $page_description = 'FDA-cleared Deep TMS &amp; comprehensive OCD treatment in Newport Beach &amp; San Juan Capistrano, CA. BrainsWay® Deep TMS is the only FDA-cleared device for OCD. Call (949) 996-5355.';
 $page_keywords    = 'OCD treatment Newport Beach, TMS for OCD Orange County, Deep TMS OCD Newport Beach CA, OCD psychiatrist Orange County, obsessive compulsive disorder treatment Newport Beach, BrainsWay OCD TMS Orange County, OCD therapy Newport Beach';
-$page_canonical   = 'https://resiliencymbmedicine.com/ocd.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/ocd';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalCondition","name":"Obsessive-Compulsive Disorder","alternateName":["OCD","Obsessive Compulsive Disorder"],"description":"FDA-cleared Deep TMS treatment for OCD at Resiliency Mind + Body Medicine® in Newport Beach and San Juan Capistrano, CA. BrainsWay Deep TMS is the only FDA-cleared device specifically for OCD.","url":"https://resiliencymbmedicine.com/ocd.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Intrusive thoughts"},{"@type":"MedicalSymptom","name":"Compulsive rituals"},{"@type":"MedicalSymptom","name":"Excessive checking"},{"@type":"MedicalSymptom","name":"Contamination fears"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Deep TMS Therapy for OCD","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"}]}
@@ -36,7 +36,7 @@ SCHEMA;
                     Overcome OCD with FDA-cleared BrainsWay® Deep TMS, physician-led medication management, and integrative care at our Newport Beach and San Juan Capistrano locations.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -400,7 +400,7 @@ SCHEMA;
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
@@ -420,7 +420,7 @@ SCHEMA;
                 Schedule a consultation with our team and discover a personalized treatment plan designed for your unique needs.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -466,10 +466,10 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
-                <a href="anxiety.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety Treatment</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="tms-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="anxiety" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety Treatment</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
             </div>
         </div>
     </section>

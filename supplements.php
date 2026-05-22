@@ -2,7 +2,7 @@
 $page_title       = 'Psychiatric &amp; Wellness Supplements Newport Beach | Nutraceuticals | Resiliency Mind + Body Medicine®';
 $page_description = 'Physician-curated nutraceuticals &amp; supplements for brain health, mood, focus &amp; sleep from Resiliency Mind + Body Medicine® in Newport Beach, CA. Shop evidence-based wellness supplements. Call (949) 996-5355.';
 $page_keywords    = 'psychiatric supplements Newport Beach, wellness supplements Orange County, brain health supplements Newport Beach CA, mood supplements Orange County, nutraceuticals Newport Beach, mental health supplements Orange County CA, sleep supplements Newport Beach';
-$page_canonical   = 'https://resiliencymbmedicine.com/supplements.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/supplements';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Product","name":"Psychiatric & Wellness Supplements","description":"Physician-curated nutraceuticals and supplements for brain health, mood, focus, and sleep from Resiliency Mind + Body Medicine® in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/supplements.php","brand":{"@type":"Brand","name":"Resiliency Mind + Body Medicine®"},"offers":{"@type":"Offer","seller":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®"},"availability":"https://schema.org/InStock"}}
@@ -451,7 +451,7 @@ SCHEMA;
                         </div>
                     </div>
                     <p class="text-gray-500 text-xs font-light italic mb-5">To maximize absorption, the best organic, non-GMO supplements include vitamin K2.</p>
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
                         Book Now <i data-lucide="arrow-right" class="w-4 h-4"></i>
                     </a>
                 </div>
@@ -479,7 +479,7 @@ SCHEMA;
                         </div>
                     </div>
                     <p class="text-gray-500 text-xs font-light italic mb-5">Glycinate is considered the best form of magnesium due to its incredible absorption rate. Preferred for sleep, cramps, blood pressure, and supporting mood.</p>
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
                         Book Now <i data-lucide="arrow-right" class="w-4 h-4"></i>
                     </a>
                 </div>
@@ -505,7 +505,7 @@ SCHEMA;
                         </div>
                     </div>
                     <div class="mt-auto">
-                        <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
+                        <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
                             Book Now <i data-lucide="arrow-right" class="w-4 h-4"></i>
                         </a>
                     </div>
@@ -533,7 +533,7 @@ SCHEMA;
                             <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-semibold px-3 py-1 rounded-full">M-UNE</span>
                         </div>
                     </div>
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
                         Book Now <i data-lucide="arrow-right" class="w-4 h-4"></i>
                     </a>
                 </div>
@@ -562,7 +562,7 @@ SCHEMA;
                             <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-semibold px-3 py-1 rounded-full">M-UNE</span>
                         </div>
                     </div>
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
                         Book Now <i data-lucide="arrow-right" class="w-4 h-4"></i>
                     </a>
                 </div>
@@ -588,7 +588,7 @@ SCHEMA;
                             <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-semibold px-3 py-1 rounded-full">M-UNE</span>
                         </div>
                     </div>
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
                         Book Now <i data-lucide="arrow-right" class="w-4 h-4"></i>
                     </a>
                 </div>
@@ -613,7 +613,7 @@ SCHEMA;
                             <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-semibold px-3 py-1 rounded-full">GLUT GLOW</span>
                         </div>
                     </div>
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-6 py-3 rounded-full text-center text-sm transition-all hover:bg-white shadow-md hover:-translate-y-1 transform inline-flex items-center justify-center gap-2 w-full">
                         Book Now <i data-lucide="arrow-right" class="w-4 h-4"></i>
                     </a>
                 </div>
@@ -733,14 +733,14 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-600 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-gray-200 mt-2">
-                            Many supplements are compatible with psychiatric medications, but some interactions exist — for example, high-dose omega-3s may enhance blood thinners, and St. John's Wort can reduce the effectiveness of certain antidepressants. Our providers always review your full medication list before recommending supplements as part of your <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-[#0B2035]">integrative psychiatry</a> or <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-[#0B2035]">medication management</a> plan to ensure safety and effectiveness.
+                            Many supplements are compatible with psychiatric medications, but some interactions exist — for example, high-dose omega-3s may enhance blood thinners, and St. John's Wort can reduce the effectiveness of certain antidepressants. Our providers always review your full medication list before recommending supplements as part of your <a href="integrative-psychiatry" class="text-[#23bfe2] underline hover:text-[#0B2035]">integrative psychiatry</a> or <a href="medication-management" class="text-[#23bfe2] underline hover:text-[#0B2035]">medication management</a> plan to ensure safety and effectiveness.
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-500 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-[#0B2035]">Contact our clinical team.</a></p>
+                <p class="text-gray-500 font-light">Have more questions? <a href="contact" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-[#0B2035]">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>

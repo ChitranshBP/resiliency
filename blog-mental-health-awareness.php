@@ -80,7 +80,7 @@
                             <p>Mental health affects how we think, feel, and function every day—yet it's often overlooked until symptoms become overwhelming.</p>
                             <p>That's why many people ask: what is Mental Health Awareness Month, and why does it matter?</p>
                             <p>Observed each May, Mental Health Awareness Month is a time to increase understanding, reduce stigma, and encourage people to seek help when they need it.</p>
-                            <p>At Resiliency Mind + Body Medicine, this month is also an opportunity to highlight modern, evidence-based treatments like <a href="blog-deep-tms-science.php" class="content-link">Deep TMS</a>, available to patients in Newport Beach, CA and San Juan Capistrano, CA.</p>
+                            <p>At Resiliency Mind + Body Medicine, this month is also an opportunity to highlight modern, evidence-based treatments like <a href="blog-deep-tms-science" class="content-link">Deep TMS</a>, available to patients in Newport Beach, CA and San Juan Capistrano, CA.</p>
 
                             <div class="awareness-ribbon">
                                 <i data-lucide="heart"></i>
@@ -178,17 +178,17 @@
                                 <li>Non-invasive and drug-free</li>
                                 <li>Minimal side effects, such as mild scalp discomfort</li>
                             </ul>
-                            <p>All treatment options are discussed carefully to ensure safety and appropriateness. For more details on Deep TMS, see our <a href="blog-deep-tms-cost.php" class="content-link">cost and insurance guide</a>.</p>
+                            <p>All treatment options are discussed carefully to ensure safety and appropriateness. For more details on Deep TMS, see our <a href="blog-deep-tms-cost" class="content-link">cost and insurance guide</a>.</p>
 
                             <h2>The Role of Deep TMS in Modern Mental Health Care</h2>
                             <p>As awareness grows, so does interest in newer treatment options.</p>
-                            <p><a href="blog-deep-tms-science.php" class="content-link">Deep TMS (Transcranial Magnetic Stimulation)</a> is:</p>
+                            <p><a href="blog-deep-tms-science" class="content-link">Deep TMS (Transcranial Magnetic Stimulation)</a> is:</p>
                             <ul>
                                 <li>FDA-approved for depression</li>
                                 <li>Non-invasive and medication-free</li>
                                 <li>Designed to stimulate brain regions involved in mood regulation</li>
                             </ul>
-                            <p>For individuals who haven't found relief with traditional treatments, Deep TMS offers an alternative path supported by clinical research. For comparing treatment options, see our <a href="blog-spravato-insurance.php" class="content-link">Spravato insurance guide</a>.</p>
+                            <p>For individuals who haven't found relief with traditional treatments, Deep TMS offers an alternative path supported by clinical research. For comparing treatment options, see our <a href="blog-spravato-insurance" class="content-link">Spravato insurance guide</a>.</p>
 
                             <h2>Why Choose Resiliency Mind + Body Medicine</h2>
                             <p>Patients across Orange County, CA choose our clinic because of:</p>
@@ -229,7 +229,7 @@
 
                             <div class="faq-item">
                                 <h3>5. Are there non-medication treatments available?</h3>
-                                <p>Yes, options like <a href="blog-deep-tms-science.php" class="content-link">Deep TMS</a> provide non-drug alternatives for certain conditions.</p>
+                                <p>Yes, options like <a href="blog-deep-tms-science" class="content-link">Deep TMS</a> provide non-drug alternatives for certain conditions.</p>
                             </div>
 
                             <div class="faq-item">
@@ -249,9 +249,9 @@
                             <!-- Internal Links Section -->
                             <div class="internal-links-section">
                                 <h3>Related Articles</h3>
-                                <a href="blog-deep-tms-science.php" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> How Does Deep TMS Work? (Science Guide)</a>
-                                <a href="blog-deep-tms-cost.php" class="internal-link"><i data-lucide="dollar-sign" class="w-4 h-4 inline-block mr-1"></i> Deep TMS Cost Guide</a>
-                                <a href="blog-deep-tms-autism.php" class="internal-link"><i data-lucide="users" class="w-4 h-4 inline-block mr-1"></i> Deep TMS for Autism</a>
+                                <a href="blog-deep-tms-science" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> How Does Deep TMS Work? (Science Guide)</a>
+                                <a href="blog-deep-tms-cost" class="internal-link"><i data-lucide="dollar-sign" class="w-4 h-4 inline-block mr-1"></i> Deep TMS Cost Guide</a>
+                                <a href="blog-deep-tms-autism" class="internal-link"><i data-lucide="users" class="w-4 h-4 inline-block mr-1"></i> Deep TMS for Autism</a>
                             </div>
 
                         </div>
@@ -269,7 +269,7 @@
                         <!-- Post Navigation -->
                         <nav class="mt-12 pt-8 border-t border-gray-100 flex items-center justify-between">
                             <div class="w-1/2">
-                                <a href="blog-deep-tms-autism.php" class="group flex items-center gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
+                                <a href="blog-deep-tms-autism" class="group flex items-center gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
                                     <i data-lucide="arrow-left" class="w-5 h-5 text-[#23bfe2] group-hover:-translate-x-1 transition-transform"></i>
                                     <div>
                                         <span class="text-xs text-gray-400 font-light uppercase tracking-wider">Previous</span>
@@ -292,7 +292,7 @@
                             <div class="bg-gray-50 rounded-3xl p-8 border border-gray-100">
                                 <h3 class="text-xl font-bold text-[#0B2035] mb-6">Related Articles</h3>
                                 <div class="space-y-4">
-                                    <a href="blog-deep-tms-science.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-deep-tms-science" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="brain" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -301,7 +301,7 @@
                                             <p class="text-xs text-gray-400 font-light mt-1">April 26, 2026</p>
                                         </div>
                                     </a>
-                                    <a href="blog-deep-tms-autism.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-deep-tms-autism" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="users" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -310,7 +310,7 @@
                                             <p class="text-xs text-gray-400 font-light mt-1">May 5, 2026</p>
                                         </div>
                                     </a>
-                                    <a href="blog-deep-tms-cost.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-deep-tms-cost" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="dollar-sign" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -328,7 +328,7 @@
                                 <p class="text-gray-300 font-light text-sm leading-relaxed mb-6">
                                     Our team is here to help you find the right mental health treatment.
                                 </p>
-                                <a href="contact.php" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-3 rounded-full text-sm transition-all hover:bg-white hover:-translate-y-1 transform">
+                                <a href="contact" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-3 rounded-full text-sm transition-all hover:bg-white hover:-translate-y-1 transform">
                                     Contact Us <i data-lucide="arrow-right" class="w-4 h-4"></i>
                                 </a>
                             </div>

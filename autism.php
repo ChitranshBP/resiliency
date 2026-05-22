@@ -2,7 +2,7 @@
 $page_title       = 'Autism Spectrum Support Newport Beach &amp; Orange County | Psychiatric Care for ASD | Resiliency Mind + Body Medicine®';
 $page_description = 'Specialized psychiatric support for autism spectrum disorder (ASD) in Newport Beach &amp; Orange County, CA. Compassionate, individualized care addressing co-occurring mental health conditions. Call (949) 996-5355.';
 $page_keywords    = 'autism spectrum support Newport Beach, ASD psychiatrist Orange County, autism psychiatric care Newport Beach CA, autism spectrum disorder treatment Orange County, autism doctor Newport Beach, ASD mental health Orange County CA';
-$page_canonical   = 'https://resiliencymbmedicine.com/autism.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/autism';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalCondition","name":"Autism Spectrum Disorder","alternateName":["ASD","Autism","Autism Spectrum"],"description":"Specialized psychiatric support for autism spectrum disorder addressing co-occurring mental health conditions with compassionate, individualized care in Newport Beach and Orange County, CA.","url":"https://resiliencymbmedicine.com/autism.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Social communication difficulties"},{"@type":"MedicalSymptom","name":"Sensory sensitivities"},{"@type":"MedicalSymptom","name":"Repetitive behaviors"},{"@type":"MedicalSymptom","name":"Co-occurring anxiety or depression"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"},{"@type":"MedicalTherapy","name":"Integrative Psychiatry","url":"https://resiliencymbmedicine.com/integrative-psychiatry.php"}]}
@@ -36,7 +36,7 @@ SCHEMA;
                     Specialized psychiatric support for individuals on the autism spectrum—addressing co-occurring mental health conditions, sensory challenges, and quality of life with compassionate, individualized care.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -220,7 +220,7 @@ SCHEMA;
                         </li>
                     </ul>
 
-                    <a href="tms-therapy.php" class="inline-flex items-center gap-2 bg-[#0B2035] text-white font-bold px-8 py-3.5 rounded-full transition-all hover:bg-[#23bfe2] hover:text-[#0B2035] hover:-translate-y-1 shadow-md">
+                    <a href="tms-therapy" class="inline-flex items-center gap-2 bg-[#0B2035] text-white font-bold px-8 py-3.5 rounded-full transition-all hover:bg-[#23bfe2] hover:text-[#0B2035] hover:-translate-y-1 shadow-md">
                         Learn About TMS Therapy <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                 </div>
@@ -289,7 +289,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. Many of our psychiatric consultations, <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">medication management</a> check-ins, and follow-up appointments for autism spectrum patients are available via <a href="telehealth.php" class="text-[#23bfe2] underline hover:text-white">secure telehealth</a>. This can be especially helpful for individuals who find travel or unfamiliar environments challenging. In-person visits are available at our Newport Beach and San Juan Capistrano offices.
+                            Yes. Many of our psychiatric consultations, <a href="medication-management" class="text-[#23bfe2] underline hover:text-white">medication management</a> check-ins, and follow-up appointments for autism spectrum patients are available via <a href="telehealth" class="text-[#23bfe2] underline hover:text-white">secure telehealth</a>. This can be especially helpful for individuals who find travel or unfamiliar environments challenging. In-person visits are available at our Newport Beach and San Juan Capistrano offices.
                         </div>
                     </div>
                 </div>
@@ -316,7 +316,7 @@ SCHEMA;
                 Schedule a consultation with our team and discover a personalized treatment plan designed for your unique needs.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -362,11 +362,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="adhd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD Treatment</a>
-                <a href="anxiety.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety Treatment</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
-                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="adhd" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD Treatment</a>
+                <a href="anxiety" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety Treatment</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="integrative-psychiatry" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
             </div>
         </div>
     </section>

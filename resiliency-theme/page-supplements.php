@@ -3,7 +3,7 @@
 $page_title       = 'Psychiatric &amp; Wellness Supplements Newport Beach | Nutraceuticals | Resiliency Mind + Body Medicine';
 $page_description = 'Physician-curated nutraceuticals &amp; supplements for brain health, mood, focus &amp; sleep from Resiliency Mind + Body Medicine in Newport Beach, CA. Shop evidence-based wellness supplements. Call (949) 996-5355.';
 $page_keywords    = 'psychiatric supplements Newport Beach, wellness supplements Orange County, brain health supplements Newport Beach CA, mood supplements Orange County, nutraceuticals Newport Beach, mental health supplements Orange County CA, sleep supplements Newport Beach';
-$page_canonical   = 'https://resiliencymbmedicine.com/supplements.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/supplements';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Product","name":"Psychiatric & Wellness Supplements","description":"Physician-curated nutraceuticals and supplements for brain health, mood, focus, and sleep from Resiliency Mind + Body Medicine in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/supplements.php","brand":{"@type":"Brand","name":"Resiliency Mind + Body Medicine"},"offers":{"@type":"Offer","seller":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine"},"availability":"https://schema.org/InStock"}}

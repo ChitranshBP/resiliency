@@ -3,7 +3,7 @@
 $page_title       = 'Accelerated Deep TMS SWIFT Protocol Newport Beach | 6-Day Depression Treatment | Resiliency Mind + Body Medicine';
 $page_description = 'Accelerated Deep TMS using BrainsWay SWIFT Protocol — intensive 6-day depression treatment in Newport Beach &amp; San Juan Capistrano, CA. Faster remission for treatment-resistant depression. Call (949) 996-5355.';
 $page_keywords    = 'accelerated TMS Newport Beach, SWIFT protocol TMS Orange County, intensive TMS therapy Newport Beach, accelerated TMS San Juan Capistrano, SAINT protocol TMS Orange County, rapid TMS depression treatment Newport Beach, BrainsWay SWIFT TMS California';
-$page_canonical   = 'https://resiliencymbmedicine.com/accelerated-tms.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/accelerated-tms';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Accelerated Deep TMS – SWIFT Protocol","alternateName":"SAINT TMS Protocol","description":"Intensive 6-day accelerated Deep TMS protocol using BrainsWay SWIFT for rapid treatment-resistant depression remission in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/accelerated-tms.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}

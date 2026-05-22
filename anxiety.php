@@ -2,7 +2,7 @@
 $page_title       = 'Anxiety Treatment Newport Beach &amp; Orange County | TMS &amp; Psychiatric Care | Resiliency Mind + Body Medicine®';
 $page_description = 'Expert anxiety treatment in Newport Beach &amp; Orange County, CA. Deep TMS therapy, medication management &amp; integrative psychiatry for generalized anxiety, panic disorder &amp; social anxiety. Call (949) 996-5355.';
 $page_keywords    = 'anxiety treatment Newport Beach, anxiety psychiatrist Orange County, TMS for anxiety Newport Beach, generalized anxiety disorder treatment Orange County CA, panic disorder treatment Newport Beach, social anxiety psychiatrist Orange County, anxiety doctor Newport Beach CA';
-$page_canonical   = 'https://resiliencymbmedicine.com/anxiety.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/anxiety';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalCondition","name":"Anxiety Disorder","alternateName":["Generalized Anxiety Disorder","Panic Disorder","Social Anxiety","GAD"],"description":"Expert treatment for anxiety disorders including generalized anxiety, social anxiety, panic disorder, and phobias using Deep TMS, medication management, and integrative psychiatry in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/anxiety.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Excessive worry"},{"@type":"MedicalSymptom","name":"Panic attacks"},{"@type":"MedicalSymptom","name":"Avoidance behavior"},{"@type":"MedicalSymptom","name":"Physical tension"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"},{"@type":"MedicalTherapy","name":"Integrative Psychiatry","url":"https://resiliencymbmedicine.com/integrative-psychiatry.php"}]}
@@ -36,7 +36,7 @@ SCHEMA;
                     Expert treatment for generalized anxiety, social anxiety, panic disorder, and phobias using a combination of advanced neuromodulation, medication management, and evidence-based therapies.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -396,7 +396,7 @@ SCHEMA;
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
@@ -416,7 +416,7 @@ SCHEMA;
                 Schedule a consultation with our team and discover a personalized treatment plan designed for your unique needs.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -462,11 +462,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
-                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
-                <a href="telehealth.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Telehealth Appointments</a>
+                <a href="tms-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="integrative-psychiatry" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="telehealth" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Telehealth Appointments</a>
             </div>
         </div>
     </section>

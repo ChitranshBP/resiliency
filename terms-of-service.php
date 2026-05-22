@@ -57,7 +57,7 @@
                 <div class="mb-10">
                     <h3 class="text-2xl font-bold text-[#0B2035] mb-4">4. Privacy</h3>
                     <p class="text-gray-600 leading-relaxed">
-                        Your use of this website is also governed by our <a href="privacy-policy.php" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors">Privacy Policy</a>. Please review our Privacy Policy to understand our practices regarding the collection, use, and protection of your personal information.
+                        Your use of this website is also governed by our <a href="privacy-policy" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors">Privacy Policy</a>. Please review our Privacy Policy to understand our practices regarding the collection, use, and protection of your personal information.
                     </p>
                 </div>
 

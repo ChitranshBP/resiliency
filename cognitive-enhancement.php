@@ -2,7 +2,7 @@
 $page_title       = 'Cognitive Enhancement Newport Beach &amp; Orange County | Brain Optimization | Resiliency Mind + Body Medicine®';
 $page_description = 'Physician-supervised cognitive enhancement in Newport Beach &amp; Orange County, CA. NAD+ therapy, targeted supplements, metabolic optimization &amp; neuromodulation for peak brain performance. Call (949) 996-5355.';
 $page_keywords    = 'cognitive enhancement Newport Beach, brain optimization Orange County, cognitive performance Newport Beach CA, brain enhancement Orange County, NAD therapy cognitive Newport Beach, neuromodulation brain boost Orange County CA, cognitive enhancement doctor Newport Beach';
-$page_canonical   = 'https://resiliencymbmedicine.com/cognitive-enhancement.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/cognitive-enhancement';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Cognitive Enhancement Program","description":"Physician-supervised cognitive enhancement using NAD+ therapy, supplements, metabolic optimization, and neuromodulation in Newport Beach and Orange County, CA.","url":"https://resiliencymbmedicine.com/cognitive-enhancement.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
@@ -36,7 +36,7 @@ SCHEMA;
                     Optimize your brain performance with physician-supervised cognitive enhancement protocols including NAD+ therapy, targeted supplements, metabolic optimization, and neuromodulation.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -235,7 +235,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Our cognitive enhancement programs are suited for professionals seeking peak mental performance, students looking to optimize focus and memory, individuals experiencing age-related cognitive changes, and patients recovering from burnout or brain fog. We recommend combining <a href="nad-therapy.php" class="text-[#23bfe2] underline hover:text-white">NAD+ therapy</a>, <a href="iv-vitamin-therapy.php" class="text-[#23bfe2] underline hover:text-white">IV vitamin infusions</a>, and <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> for best results.
+                            Our cognitive enhancement programs are suited for professionals seeking peak mental performance, students looking to optimize focus and memory, individuals experiencing age-related cognitive changes, and patients recovering from burnout or brain fog. We recommend combining <a href="nad-therapy" class="text-[#23bfe2] underline hover:text-white">NAD+ therapy</a>, <a href="iv-vitamin-therapy" class="text-[#23bfe2] underline hover:text-white">IV vitamin infusions</a>, and <a href="integrative-psychiatry" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> for best results.
                         </div>
                     </div>
                 </div>
@@ -259,7 +259,7 @@ SCHEMA;
                 Schedule a consultation with our team and discover physician-supervised protocols designed to optimize your brain performance.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -305,11 +305,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="nad-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">NAD+ Therapy</a>
-                <a href="mental-clarity.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Mental Clarity</a>
-                <a href="iv-vitamin-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">IV Vitamin Therapy</a>
-                <a href="tms-for-mental-boost.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">TMS for Mental Boost</a>
-                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="nad-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">NAD+ Therapy</a>
+                <a href="mental-clarity" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Mental Clarity</a>
+                <a href="iv-vitamin-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">IV Vitamin Therapy</a>
+                <a href="tms-for-mental-boost" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">TMS for Mental Boost</a>
+                <a href="integrative-psychiatry" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
             </div>
         </div>
     </section>

@@ -2,7 +2,7 @@
 $page_title       = 'Deep TMS Therapy Newport Beach &amp; Orange County | FDA-Cleared Depression Treatment | Resiliency Mind + Body Medicine®';
 $page_description = 'FDA-cleared Deep TMS therapy for depression, anxiety &amp; OCD at our Newport Beach &amp; San Juan Capistrano clinics. Non-invasive, medication-free treatment with 93% response rates. Call (949) 996-5355.';
 $page_keywords    = 'Deep TMS therapy Newport Beach, TMS therapy Orange County, TMS for depression Newport Beach, BrainsWay Deep TMS Orange County, non-invasive depression treatment Newport Beach, TMS therapy San Juan Capistrano, neuromodulation Orange County, TMS treatment Orange County CA';
-$page_canonical   = 'https://resiliencymbmedicine.com/tms-therapy.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/tms-therapy';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Deep TMS Therapy","alternateName":"Transcranial Magnetic Stimulation","description":"FDA-cleared Deep TMS therapy for depression, anxious depression, and OCD using BrainsWay H-Coil technology. Non-invasive, no anesthesia required.","url":"https://resiliencymbmedicine.com/tms-therapy.php","recognizingAuthority":{"@type":"Organization","name":"FDA"},"relevantSpecialty":"Psychiatry","study":{"@type":"MedicalTrial","name":"BrainsWay Deep TMS Clinical Trials"},"provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
@@ -38,7 +38,7 @@ SCHEMA;
                     An advanced, FDA-cleared treatment for major depressive disorder, anxious depression, and OCD—without the systemic side effects of medication.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Get Qualified <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="#how-it-works" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center">
@@ -588,7 +588,7 @@ SCHEMA;
                 Take the decisive first step toward reclaiming your life from depression or OCD. Find out if Deep TMS therapy is the right path for you.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                        Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -632,12 +632,12 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="accelerated-tms.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Accelerated TMS (SWIFT Protocol)</a>
-                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
-                <a href="anxiety.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety Treatment</a>
-                <a href="ocd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">OCD Treatment</a>
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="accelerated-tms" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Accelerated TMS (SWIFT Protocol)</a>
+                <a href="spravato-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="anxiety" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety Treatment</a>
+                <a href="ocd" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">OCD Treatment</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
             </div>
         </div>
     </section>

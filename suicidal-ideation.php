@@ -2,7 +2,7 @@
 $page_title       = 'Suicidal Ideation Treatment Newport Beach | Spravato &amp; TMS Crisis Care | Resiliency Mind + Body Medicine®';
 $page_description = 'Compassionate, evidence-based treatment for suicidal ideation in Newport Beach &amp; Orange County, CA. Spravato® &amp; Deep TMS provide rapid relief for severe depression &amp; suicidal thoughts. Call (949) 996-5355.';
 $page_keywords    = 'suicidal ideation treatment Newport Beach, Spravato suicidal ideation Orange County, crisis psychiatric care Newport Beach CA, suicidal thoughts treatment Orange County, rapid depression treatment Newport Beach, TMS suicidal ideation Orange County CA';
-$page_canonical   = 'https://resiliencymbmedicine.com/suicidal-ideation.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/suicidal-ideation';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalCondition","name":"Suicidal Ideation","alternateName":["Suicidal Thoughts","SI","Major Depressive Disorder with Suicidal Ideation"],"description":"Evidence-based treatment for suicidal ideation using Spravato and Deep TMS in Newport Beach and San Juan Capistrano, CA. Rapid relief for severe depression and suicidal thoughts.","url":"https://resiliencymbmedicine.com/suicidal-ideation.php","relevantSpecialty":"Psychiatry","possibleTreatment":[{"@type":"MedicalTherapy","name":"Spravato Treatment","url":"https://resiliencymbmedicine.com/spravato-therapy.php"},{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"}]}
@@ -36,7 +36,7 @@ SCHEMA;
                     Find hope and healing with Deep TMS and Spravato® — advanced, evidence-based treatments for severe depression and suicidal ideation at Resiliency Mind+Body Medicine®.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -373,14 +373,14 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes — <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">Spravato® (esketamine)</a> is specifically FDA-approved for major depressive disorder with acute suicidal ideation or behavior. Clinical trials showed rapid reduction in suicidal thoughts within 24 hours of the first dose. All Spravato® sessions are administered in our clinic under direct medical supervision, with a mandatory 2-hour monitoring period after each dose to ensure safety. Our team is also trained in crisis assessment and safety planning.
+                            Yes — <a href="spravato-therapy" class="text-[#23bfe2] underline hover:text-white">Spravato® (esketamine)</a> is specifically FDA-approved for major depressive disorder with acute suicidal ideation or behavior. Clinical trials showed rapid reduction in suicidal thoughts within 24 hours of the first dose. All Spravato® sessions are administered in our clinic under direct medical supervision, with a mandatory 2-hour monitoring period after each dose to ensure safety. Our team is also trained in crisis assessment and safety planning.
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
@@ -400,7 +400,7 @@ SCHEMA;
                 You don't have to face this alone. Our team is ready to provide immediate, compassionate care. If in crisis, call 988.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -447,11 +447,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
-                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
-                <a href="contact.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Schedule a Consultation</a>
+                <a href="spravato-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
+                <a href="tms-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="contact" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Schedule a Consultation</a>
             </div>
         </div>
     </section>

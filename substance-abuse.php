@@ -2,7 +2,7 @@
 $page_title       = 'Substance Use &amp; Smoking Cessation Newport Beach | Deep TMS Addiction Treatment | Resiliency Mind + Body Medicine®';
 $page_description = 'FDA-cleared Deep TMS for substance use disorders &amp; smoking cessation in Newport Beach &amp; Orange County, CA. BrainsWay® Deep TMS plus physician-led medication management for addiction recovery. Call (949) 996-5355.';
 $page_keywords    = 'substance use treatment Newport Beach, addiction treatment Orange County, smoking cessation Newport Beach CA, TMS for addiction Orange County, substance use disorder Newport Beach, nicotine addiction treatment Orange County CA, addiction psychiatrist Newport Beach';
-$page_canonical   = 'https://resiliencymbmedicine.com/substance-abuse.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/substance-abuse';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalCondition","name":"Substance Use Disorder","alternateName":["Addiction","Substance Abuse","Smoking Cessation","Nicotine Addiction"],"description":"Deep TMS and physician-led treatment for substance use disorders and smoking cessation in Newport Beach and San Juan Capistrano, CA. FDA-cleared BrainsWay Deep TMS for addiction.","url":"https://resiliencymbmedicine.com/substance-abuse.php","relevantSpecialty":"Addiction Medicine","signOrSymptom":[{"@type":"MedicalSymptom","name":"Cravings"},{"@type":"MedicalSymptom","name":"Loss of control"},{"@type":"MedicalSymptom","name":"Withdrawal symptoms"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"},{"@type":"MedicalTherapy","name":"Integrative Psychiatry","url":"https://resiliencymbmedicine.com/integrative-psychiatry.php"}]}
@@ -36,7 +36,7 @@ SCHEMA;
                     Comprehensive care for nicotine and other substance use disorders with BrainsWay® Deep TMS, medication management, and integrative physician-led treatment.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -415,14 +415,14 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            The standard Deep TMS protocol for smoking cessation involves 18 sessions over 6 weeks. Each session is approximately 18 minutes. Unlike many other smoking cessation approaches, <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS</a> works by directly targeting the brain circuits involved in addiction and craving. Many patients experience a significant reduction in cravings within the first two weeks of treatment.
+                            The standard Deep TMS protocol for smoking cessation involves 18 sessions over 6 weeks. Each session is approximately 18 minutes. Unlike many other smoking cessation approaches, <a href="tms-therapy" class="text-[#23bfe2] underline hover:text-white">Deep TMS</a> works by directly targeting the brain circuits involved in addiction and craving. Many patients experience a significant reduction in cravings within the first two weeks of treatment.
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
@@ -442,7 +442,7 @@ SCHEMA;
                 Schedule a consultation with our team and discover a personalized treatment plan designed for your unique needs.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -488,10 +488,10 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
-                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="tms-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="integrative-psychiatry" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
             </div>
         </div>
     </section>

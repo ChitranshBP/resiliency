@@ -2,7 +2,7 @@
 $page_title       = 'Conditions We Treat | Mental Health Psychiatry Newport Beach &amp; Orange County | Resiliency Mind + Body Medicine®';
 $page_description = 'Expert psychiatric care for depression, anxiety, OCD, PTSD, ADHD, bipolar disorder &amp; more in Newport Beach &amp; Orange County, CA. Two clinic locations in Southern California. Call (949) 996-5355.';
 $page_keywords    = 'mental health conditions Newport Beach, psychiatric care Orange County, depression anxiety OCD treatment Newport Beach, mental health doctor Orange County CA, psychiatry Orange County California, psychiatrist Newport Beach conditions treated';
-$page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/conditions';
 ?>
 <?php include 'header.php'; ?>
 
@@ -28,7 +28,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                     Expert psychiatric care for a wide range of mental health and neurological conditions, with personalized treatment plans tailored to each patient.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -53,7 +53,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
             <!-- First 9 cards in grid -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Depression -->
-                <a href="depression.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group block text-center">
+                <a href="depression" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group block text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="cloud-rain" class="w-7 h-7"></i>
                     </div>
@@ -63,7 +63,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 </a>
 
                 <!-- Anxiety -->
-                <a href="anxiety.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group block text-center">
+                <a href="anxiety" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group block text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="wind" class="w-7 h-7"></i>
                     </div>
@@ -73,7 +73,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 </a>
 
                 <!-- OCD -->
-                <a href="ocd.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group block text-center">
+                <a href="ocd" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group block text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="repeat" class="w-7 h-7"></i>
                     </div>
@@ -83,7 +83,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 </a>
 
                 <!-- PTSD -->
-                <a href="ptsd.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group block text-center">
+                <a href="ptsd" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group block text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="shield-alert" class="w-7 h-7"></i>
                     </div>
@@ -93,7 +93,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 </a>
 
                 <!-- ADHD -->
-                <a href="adhd.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group block text-center">
+                <a href="adhd" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group block text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="zap" class="w-7 h-7"></i>
                     </div>
@@ -103,7 +103,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 </a>
 
                 <!-- Bipolar Disorder -->
-                <a href="bipolar.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group block text-center">
+                <a href="bipolar" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group block text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="activity" class="w-7 h-7"></i>
                     </div>
@@ -113,7 +113,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 </a>
 
                 <!-- Substance Use -->
-                <a href="substance-abuse.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group block text-center">
+                <a href="substance-abuse" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group block text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="glass-water" class="w-7 h-7"></i>
                     </div>
@@ -123,7 +123,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 </a>
 
                 <!-- Autism Spectrum -->
-                <a href="autism.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group block text-center">
+                <a href="autism" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group block text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
@@ -133,7 +133,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 </a>
 
                 <!-- Suicidal Ideation -->
-                <a href="suicidal-ideation.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group block text-center">
+                <a href="suicidal-ideation" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group block text-center">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="alert-triangle" class="w-7 h-7"></i>
                     </div>
@@ -146,7 +146,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
             <!-- Last row: 2 centered cards -->
             <div class="flex flex-col md:flex-row justify-center gap-8 mt-8">
                 <!-- Cognitive Enhancement -->
-                <a href="cognitive-enhancement.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group block text-center w-full md:w-[calc(33.333%-1.333rem)]">
+                <a href="cognitive-enhancement" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group block text-center w-full md:w-[calc(33.333%-1.333rem)]">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="sparkles" class="w-7 h-7"></i>
                     </div>
@@ -156,7 +156,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 </a>
 
                 <!-- Mental Clarity -->
-                <a href="mental-clarity.php" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group block text-center w-full md:w-[calc(33.333%-1.333rem)]">
+                <a href="mental-clarity" class="bg-white rounded-[2rem] p-8 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group block text-center w-full md:w-[calc(33.333%-1.333rem)]">
                     <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
                         <i data-lucide="sun" class="w-7 h-7"></i>
                     </div>
@@ -180,7 +180,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                 Schedule a consultation with our team and discover a personalized treatment plan designed for your unique needs.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -236,7 +236,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            We treat a comprehensive range of psychiatric conditions including <a href="depression.php" class="text-[#23bfe2] underline hover:text-white">major depressive disorder</a>, <a href="anxiety.php" class="text-[#23bfe2] underline hover:text-white">generalized anxiety & panic disorder</a>, <a href="ocd.php" class="text-[#23bfe2] underline hover:text-white">OCD</a>, <a href="ptsd.php" class="text-[#23bfe2] underline hover:text-white">PTSD</a>, <a href="adhd.php" class="text-[#23bfe2] underline hover:text-white">adult ADHD</a>, <a href="bipolar.php" class="text-[#23bfe2] underline hover:text-white">bipolar disorder</a>, <a href="substance-abuse.php" class="text-[#23bfe2] underline hover:text-white">substance use disorders</a>, <a href="autism.php" class="text-[#23bfe2] underline hover:text-white">autism spectrum</a>, and <a href="suicidal-ideation.php" class="text-[#23bfe2] underline hover:text-white">suicidal ideation</a>.
+                            We treat a comprehensive range of psychiatric conditions including <a href="depression" class="text-[#23bfe2] underline hover:text-white">major depressive disorder</a>, <a href="anxiety" class="text-[#23bfe2] underline hover:text-white">generalized anxiety & panic disorder</a>, <a href="ocd" class="text-[#23bfe2] underline hover:text-white">OCD</a>, <a href="ptsd" class="text-[#23bfe2] underline hover:text-white">PTSD</a>, <a href="adhd" class="text-[#23bfe2] underline hover:text-white">adult ADHD</a>, <a href="bipolar" class="text-[#23bfe2] underline hover:text-white">bipolar disorder</a>, <a href="substance-abuse" class="text-[#23bfe2] underline hover:text-white">substance use disorders</a>, <a href="autism" class="text-[#23bfe2] underline hover:text-white">autism spectrum</a>, and <a href="suicidal-ideation" class="text-[#23bfe2] underline hover:text-white">suicidal ideation</a>.
                         </div>
                     </div>
                 </div>
@@ -249,7 +249,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            During your initial psychiatric evaluation, Dr. LaFrenierre will conduct a comprehensive assessment of your symptoms, history, and biology to recommend the most appropriate treatment approach. This may include <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">Spravato®</a>, <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">medication management</a>, or a combination of therapies.
+                            During your initial psychiatric evaluation, Dr. LaFrenierre will conduct a comprehensive assessment of your symptoms, history, and biology to recommend the most appropriate treatment approach. This may include <a href="tms-therapy" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a>, <a href="spravato-therapy" class="text-[#23bfe2] underline hover:text-white">Spravato®</a>, <a href="medication-management" class="text-[#23bfe2] underline hover:text-white">medication management</a>, or a combination of therapies.
                         </div>
                     </div>
                 </div>
@@ -262,7 +262,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Absolutely. We specialize in treatment-resistant cases. Both <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and <a href="spravato-therapy.php" class="text-[#23bfe2] underline hover:text-white">Spravato® (esketamine)</a> are FDA-approved specifically for patients who have not found relief with standard antidepressant medications. Our <a href="accelerated-tms.php" class="text-[#23bfe2] underline hover:text-white">Accelerated TMS SWIFT Protocol</a> is also available for faster results.
+                            Absolutely. We specialize in treatment-resistant cases. Both <a href="tms-therapy" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> and <a href="spravato-therapy" class="text-[#23bfe2] underline hover:text-white">Spravato® (esketamine)</a> are FDA-approved specifically for patients who have not found relief with standard antidepressant medications. Our <a href="accelerated-tms" class="text-[#23bfe2] underline hover:text-white">Accelerated TMS SWIFT Protocol</a> is also available for faster results.
                         </div>
                     </div>
                 </div>
@@ -275,7 +275,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. Our <a href="telehealth.php" class="text-[#23bfe2] underline hover:text-white">telehealth appointments</a> are available for psychiatric evaluations, medication follow-ups, and care coordination for patients throughout Orange County and California. Some treatments require in-person visits at our Newport Beach or San Juan Capistrano clinics.
+                            Yes. Our <a href="telehealth" class="text-[#23bfe2] underline hover:text-white">telehealth appointments</a> are available for psychiatric evaluations, medication follow-ups, and care coordination for patients throughout Orange County and California. Some treatments require in-person visits at our Newport Beach or San Juan Capistrano clinics.
                         </div>
                     </div>
                 </div>
@@ -288,7 +288,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes. Our clinic is led by Dr. Stefani LaFrenierre, MD, who is double board-certified in Adult Psychiatry and Addiction Medicine. She earned her medical degree from UCLA and completed her residency at San Mateo Behavioral Health. Learn more on our <a href="about.php" class="text-[#23bfe2] underline hover:text-white">about page</a> or meet the full <a href="team.php" class="text-[#23bfe2] underline hover:text-white">clinical team</a>.
+                            Yes. Our clinic is led by Dr. Stefani LaFrenierre, MD, who is double board-certified in Adult Psychiatry and Addiction Medicine. She earned her medical degree from UCLA and completed her residency at San Mateo Behavioral Health. Learn more on our <a href="about" class="text-[#23bfe2] underline hover:text-white">about page</a> or meet the full <a href="team" class="text-[#23bfe2] underline hover:text-white">clinical team</a>.
                         </div>
                     </div>
                 </div>
@@ -301,13 +301,13 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            We strive to accommodate new patients quickly. Contact us at (949) 996-5355 or <a href="contact.php" class="text-[#23bfe2] underline hover:text-white">book online</a> to schedule your initial consultation. You can also complete your <a href="new-patient-form.php" class="text-[#23bfe2] underline hover:text-white">new patient forms</a> in advance to streamline your first visit.
+                            We strive to accommodate new patients quickly. Contact us at (949) 996-5355 or <a href="contact" class="text-[#23bfe2] underline hover:text-white">book online</a> to schedule your initial consultation. You can also complete your <a href="new-patient-form" class="text-[#23bfe2] underline hover:text-white">new patient forms</a> in advance to streamline your first visit.
                         </div>
                     </div>
                 </div>
             </div>
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
@@ -317,15 +317,15 @@ $page_canonical   = 'https://resiliencymbmedicine.com/conditions.php';
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression</a>
-                <a href="anxiety.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety</a>
-                <a href="ocd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">OCD</a>
-                <a href="ptsd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">PTSD</a>
-                <a href="adhd.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD</a>
-                <a href="bipolar.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Bipolar Disorder</a>
-                <a href="substance-abuse.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Substance Use</a>
-                <a href="suicidal-ideation.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Suicidal Ideation</a>
-                <a href="autism.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Autism Spectrum</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression</a>
+                <a href="anxiety" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Anxiety</a>
+                <a href="ocd" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">OCD</a>
+                <a href="ptsd" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">PTSD</a>
+                <a href="adhd" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">ADHD</a>
+                <a href="bipolar" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Bipolar Disorder</a>
+                <a href="substance-abuse" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Substance Use</a>
+                <a href="suicidal-ideation" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Suicidal Ideation</a>
+                <a href="autism" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Autism Spectrum</a>
             </div>
         </div>
     </section>

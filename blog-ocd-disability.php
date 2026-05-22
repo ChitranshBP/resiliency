@@ -77,9 +77,9 @@
                     <article class="lg:w-2/3 reveal">
                         <div class="blog-content">
 
-                            <p><a href="https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder" target="_blank" rel="nofollow noindex">Obsessive-Compulsive Disorder (OCD)</a> is often misunderstood as a personality quirk or mild behavioral issue. In reality, it is a serious mental health condition that can significantly impair daily functioning, relationships, and quality of life. For understanding treatment options, see our <a href="blog-deep-tms-science.php" class="content-link">Deep TMS science guide</a>.</p>
+                            <p><a href="https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder" target="_blank" rel="nofollow noindex">Obsessive-Compulsive Disorder (OCD)</a> is often misunderstood as a personality quirk or mild behavioral issue. In reality, it is a serious mental health condition that can significantly impair daily functioning, relationships, and quality of life. For understanding treatment options, see our <a href="blog-deep-tms-science" class="content-link">Deep TMS science guide</a>.</p>
                             <p>A common and important question patients and families ask is: "Is OCD considered a disability?"</p>
-                            <p>The answer depends on clinical severity, functional impairment, and legal definitions. This comprehensive guide explains when OCD qualifies as a disability, how it is evaluated, and what treatment options are available. For cost-related information, see our <a href="blog-deep-tms-cost.php" class="content-link">Deep TMS cost guide</a>.</p>
+                            <p>The answer depends on clinical severity, functional impairment, and legal definitions. This comprehensive guide explains when OCD qualifies as a disability, how it is evaluated, and what treatment options are available. For cost-related information, see our <a href="blog-deep-tms-cost" class="content-link">Deep TMS cost guide</a>.</p>
                             <p>At Resiliency Mind+Body Medicine®, serving San Juan Capistrano and Newport Beach, CA, patients receive expert diagnosis and evidence-based treatment for OCD and related disorders.</p>
 
                             <h2>What Is OCD?</h2>
@@ -108,7 +108,7 @@
                                 <li>Causes severe distress or anxiety</li>
                                 <li>Impacts work, school, or relationships</li>
                             </ul>
-                            <p>In moderate to severe cases, OCD is classified as a serious mental illness. For treatment options that can help, learn about our <a href="blog-spravato-insurance.php" class="content-link">insurance-covered treatment options</a>.</p>
+                            <p>In moderate to severe cases, OCD is classified as a serious mental illness. For treatment options that can help, learn about our <a href="blog-spravato-insurance" class="content-link">insurance-covered treatment options</a>.</p>
 
                             <h3>Legal Perspective in the United States</h3>
                             <p>Under the Americans with Disabilities Act (ADA), OCD may qualify as a disability if it substantially limits one or more major life activities, such as:</p>
@@ -141,7 +141,7 @@
                             </ul>
 
                             <h2>When Does OCD Become Disabling?</h2>
-                            <p>Not all OCD cases meet disability criteria. The distinction lies in severity and functional impact. For understanding treatment-resistant cases that may qualify, see our <a href="blog-deep-tms-science.php" class="content-link">guide on Deep TMS mechanisms</a>.</p>
+                            <p>Not all OCD cases meet disability criteria. The distinction lies in severity and functional impact. For understanding treatment-resistant cases that may qualify, see our <a href="blog-deep-tms-science" class="content-link">guide on Deep TMS mechanisms</a>.</p>
 
                             <table>
                                 <thead>
@@ -219,12 +219,12 @@
                             </ul>
 
                             <h3>3. Advanced Treatments</h3>
-                            <p>For treatment-resistant OCD, <a href="blog-deep-tms-science.php" class="content-link">Deep TMS therapy</a> and other advanced options are available:</p>
+                            <p>For treatment-resistant OCD, <a href="blog-deep-tms-science" class="content-link">Deep TMS therapy</a> and other advanced options are available:</p>
                             <ul>
                                 <li>Transcranial Magnetic Stimulation (TMS)</li>
                                 <li>Ketamine-based therapies (in select cases)</li>
                             </ul>
-                            <p>These options are available at specialized centers like Resiliency Mind+Body Medicine®. For understanding costs, see our <a href="blog-deep-tms-cost.php" class="content-link">comprehensive cost guide</a>.</p>
+                            <p>These options are available at specialized centers like Resiliency Mind+Body Medicine®. For understanding costs, see our <a href="blog-deep-tms-cost" class="content-link">comprehensive cost guide</a>.</p>
 
                             <h2>Can OCD Improve Enough to No Longer Be Disabling?</h2>
                             <p>Yes. With appropriate treatment:</p>
@@ -259,12 +259,12 @@
 
                             <div class="faq-item">
                                 <h3>5. Can OCD be cured?</h3>
-                                <p>OCD is typically a chronic condition, but it is highly manageable with proper treatment, and many patients experience significant improvement. Learn about <a href="blog-deep-tms-science.php" class="content-link">advanced treatment options</a> that can help.</p>
+                                <p>OCD is typically a chronic condition, but it is highly manageable with proper treatment, and many patients experience significant improvement. Learn about <a href="blog-deep-tms-science" class="content-link">advanced treatment options</a> that can help.</p>
                             </div>
 
                             <div class="faq-item">
                                 <h3>6. What is the most effective treatment for OCD?</h3>
-                                <p>Exposure and Response Prevention (ERP), a form of CBT, is considered the gold standard, often combined with medication or <a href="blog-spravato-insurance.php" class="content-link">advanced therapies like TMS</a> when needed.</p>
+                                <p>Exposure and Response Prevention (ERP), a form of CBT, is considered the gold standard, often combined with medication or <a href="blog-spravato-insurance" class="content-link">advanced therapies like TMS</a> when needed.</p>
                             </div>
 
                             <h2>Take the Next Step Toward Lasting Relief</h2>
@@ -275,7 +275,7 @@
                                 <li>Access to advanced therapies like TMS</li>
                                 <li>Ongoing support and progress monitoring</li>
                             </ul>
-                            <p>If OCD symptoms are interfering with your daily life, work, or relationships, seeking professional help is critical. For insurance coverage details, see our <a href="blog-spravato-insurance.php" class="content-link">insurance guide</a>.</p>
+                            <p>If OCD symptoms are interfering with your daily life, work, or relationships, seeking professional help is critical. For insurance coverage details, see our <a href="blog-spravato-insurance" class="content-link">insurance guide</a>.</p>
                             <p>At Resiliency Mind+Body Medicine®, expert clinicians provide individualized care to help you:</p>
                             <ul>
                                 <li>Accurately diagnose OCD</li>
@@ -289,10 +289,10 @@
                             <!-- Internal Links Section -->
                             <div class="internal-links-section">
                                 <h3>Related Articles</h3>
-                                <a href="blog-deep-tms-cost.php" class="internal-link"><i data-lucide="dollar-sign" class="w-4 h-4 inline-block mr-1"></i> Deep TMS Cost Guide</a>
-                                <a href="blog-spravato-insurance.php" class="internal-link"><i data-lucide="shield-check" class="w-4 h-4 inline-block mr-1"></i> Spravato Insurance Coverage</a>
-                                <a href="blog-deep-tms-science.php" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> How Does Deep TMS Work? (Science Guide)</a>
-                                <a href="blog-mental-health-awareness.php" class="internal-link"><i data-lucide="heart" class="w-4 h-4 inline-block mr-1"></i> Mental Health Awareness Month</a>
+                                <a href="blog-deep-tms-cost" class="internal-link"><i data-lucide="dollar-sign" class="w-4 h-4 inline-block mr-1"></i> Deep TMS Cost Guide</a>
+                                <a href="blog-spravato-insurance" class="internal-link"><i data-lucide="shield-check" class="w-4 h-4 inline-block mr-1"></i> Spravato Insurance Coverage</a>
+                                <a href="blog-deep-tms-science" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> How Does Deep TMS Work? (Science Guide)</a>
+                                <a href="blog-mental-health-awareness" class="internal-link"><i data-lucide="heart" class="w-4 h-4 inline-block mr-1"></i> Mental Health Awareness Month</a>
                             </div>
 
                         </div>
@@ -310,7 +310,7 @@
                         <!-- Post Navigation -->
                         <nav class="mt-12 pt-8 border-t border-gray-100 flex items-center justify-between">
                             <div class="w-1/2">
-                                <a href="blog-spravato-insurance.php" class="group flex items-center gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
+                                <a href="blog-spravato-insurance" class="group flex items-center gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
                                     <i data-lucide="arrow-left" class="w-5 h-5 text-[#23bfe2] group-hover:-translate-x-1 transition-transform"></i>
                                     <div>
                                         <span class="text-xs text-gray-400 font-light uppercase tracking-wider">Previous</span>
@@ -319,7 +319,7 @@
                                 </a>
                             </div>
                             <div class="w-1/2 text-right">
-                                <a href="blog-deep-tms-science.php" class="group flex items-center justify-end gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
+                                <a href="blog-deep-tms-science" class="group flex items-center justify-end gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
                                     <div>
                                         <span class="text-xs text-gray-400 font-light uppercase tracking-wider">Next</span>
                                         <p class="text-sm font-bold text-[#0B2035] group-hover:text-[#23bfe2] transition-colors truncate max-w-[180px]">How Does Deep TMS Work?</p>
@@ -338,7 +338,7 @@
                             <div class="bg-gray-50 rounded-3xl p-8 border border-gray-100">
                                 <h3 class="text-xl font-bold text-[#0B2035] mb-6">Related Articles</h3>
                                 <div class="space-y-4">
-                                    <a href="blog-deep-tms-cost.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-deep-tms-cost" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="dollar-sign" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -347,7 +347,7 @@
                                             <p class="text-xs text-gray-400 font-light mt-1">April 7, 2026</p>
                                         </div>
                                     </a>
-                                    <a href="blog-spravato-insurance.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-spravato-insurance" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="shield-check" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -356,7 +356,7 @@
                                             <p class="text-xs text-gray-400 font-light mt-1">April 12, 2026</p>
                                         </div>
                                     </a>
-                                    <a href="blog-deep-tms-science.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-deep-tms-science" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="brain" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -374,7 +374,7 @@
                                 <p class="text-gray-300 font-light text-sm leading-relaxed mb-6">
                                     Our team is here to help you find the right mental health treatment.
                                 </p>
-                                <a href="contact.php" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-3 rounded-full text-sm transition-all hover:bg-white hover:-translate-y-1 transform">
+                                <a href="contact" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-3 rounded-full text-sm transition-all hover:bg-white hover:-translate-y-1 transform">
                                     Contact Us <i data-lucide="arrow-right" class="w-4 h-4"></i>
                                 </a>
                             </div>

@@ -2,7 +2,7 @@
 $page_title       = 'Bipolar Disorder Treatment Newport Beach &amp; Orange County | Mood Stabilization | Resiliency Mind + Body Medicine®';
 $page_description = 'Multi-modality bipolar disorder treatment in Newport Beach &amp; Orange County, CA. Deep TMS, Spravato &amp; expert medication management for mood stabilization. Board-certified psychiatrist. Call (949) 996-5355.';
 $page_keywords    = 'bipolar disorder treatment Newport Beach, bipolar psychiatrist Orange County, mood disorder treatment Newport Beach CA, bipolar medication management Orange County, bipolar disorder doctor Newport Beach, mood stabilization psychiatry Orange County CA, TMS for bipolar Orange County';
-$page_canonical   = 'https://resiliencymbmedicine.com/bipolar.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/bipolar';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalCondition","name":"Bipolar Disorder","alternateName":["Bipolar I","Bipolar II","Manic Depression","Mood Disorder"],"description":"Multi-modality bipolar disorder treatment including Deep TMS, Spravato, and expert medication management for mood stabilization in Newport Beach and San Juan Capistrano, CA.","url":"https://resiliencymbmedicine.com/bipolar.php","relevantSpecialty":"Psychiatry","signOrSymptom":[{"@type":"MedicalSymptom","name":"Manic episodes"},{"@type":"MedicalSymptom","name":"Depressive episodes"},{"@type":"MedicalSymptom","name":"Mood instability"},{"@type":"MedicalSymptom","name":"Impulsivity"}],"possibleTreatment":[{"@type":"MedicalTherapy","name":"Deep TMS Therapy","url":"https://resiliencymbmedicine.com/tms-therapy.php"},{"@type":"MedicalTherapy","name":"Medication Management","url":"https://resiliencymbmedicine.com/medication-management.php"},{"@type":"MedicalTherapy","name":"Spravato Treatment","url":"https://resiliencymbmedicine.com/spravato-therapy.php"}]}
@@ -36,7 +36,7 @@ SCHEMA;
                     Achieve mood stability with a multi-modality approach including FDA-approved Deep TMS therapy, medication management, and integrative care at Resiliency Mind+Body Medicine®.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -428,14 +428,14 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> can be a valuable adjunct treatment for the depressive episodes of bipolar disorder, particularly in patients who have not responded adequately to mood stabilizers or antidepressants. We carefully evaluate each patient's history and current mood state before recommending TMS, as treatment protocol adjustments are needed for bipolar patients to minimize the risk of mood switching. Contact us to discuss your specific situation.
+                            <a href="tms-therapy" class="text-[#23bfe2] underline hover:text-white">Deep TMS Therapy</a> can be a valuable adjunct treatment for the depressive episodes of bipolar disorder, particularly in patients who have not responded adequately to mood stabilizers or antidepressants. We carefully evaluate each patient's history and current mood state before recommending TMS, as treatment protocol adjustments are needed for bipolar patients to minimize the risk of mood switching. Contact us to discuss your specific situation.
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
@@ -455,7 +455,7 @@ SCHEMA;
                 Schedule a consultation with our team and discover a personalized treatment plan designed for your unique needs.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -501,11 +501,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
-                <a href="medication-management.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
-                <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
-                <a href="depression.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
-                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="tms-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Deep TMS Therapy</a>
+                <a href="medication-management" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Medication Management</a>
+                <a href="spravato-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Spravato® Treatment</a>
+                <a href="depression" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Depression Treatment</a>
+                <a href="integrative-psychiatry" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
             </div>
         </div>
     </section>

@@ -198,7 +198,7 @@ $page_schema = '';
                                     <p class="text-white/70 text-xs sm:text-sm">SWIFT Protocol</p>
                                 </div>
                             </div>
-                            <a href="tms-therapy.php" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
+                            <a href="tms-therapy" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
                         </div>
                     </div>
                 </div>
@@ -230,7 +230,7 @@ $page_schema = '';
                                     <p class="text-white/70 text-xs sm:text-sm">Per Visit</p>
                                 </div>
                             </div>
-                            <a href="spravato-therapy.php" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
+                            <a href="spravato-therapy" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
                         </div>
                     </div>
                 </div>
@@ -262,7 +262,7 @@ $page_schema = '';
                                     <p class="text-white/70 text-xs sm:text-sm">Easy to Use</p>
                                 </div>
                             </div>
-                            <a href="proliv-rx.php" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
+                            <a href="proliv-rx" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
                         </div>
                     </div>
                 </div>
@@ -280,56 +280,56 @@ $page_schema = '';
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">Expert psychiatric care for a range of mental health conditions using advanced, evidence-based treatments.</p>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                <a href="depression.php" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                <a href="depression" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
                     <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="heart-pulse" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Depression</h3>
                     <p class="text-gray-500 text-sm">Treatment-resistant depression, major depressive disorder</p>
                 </a>
-                <a href="anxiety.php" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                <a href="anxiety" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
                     <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Anxiety</h3>
                     <p class="text-gray-500 text-sm">Generalized anxiety, panic disorders, social anxiety</p>
                 </a>
-                <a href="ocd.php" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                <a href="ocd" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
                     <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="repeat" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">OCD</h3>
                     <p class="text-gray-500 text-sm">Obsessive-compulsive disorder with TMS protocols</p>
                 </a>
-                <a href="ptsd.php" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                <a href="ptsd" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
                     <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="shield" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">PTSD</h3>
                     <p class="text-gray-500 text-sm">Post-traumatic stress disorder and trauma</p>
                 </a>
-                <a href="adhd.php" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                <a href="adhd" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
                     <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="focus" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Adult ADHD</h3>
                     <p class="text-gray-500 text-sm">Attention deficit hyperactivity disorder</p>
                 </a>
-                <a href="bipolar.php" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                <a href="bipolar" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
                     <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="wind" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Bipolar</h3>
                     <p class="text-gray-500 text-sm">Bipolar disorder management and treatment</p>
                 </a>
-                <a href="medication-management.php" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                <a href="medication-management" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
                     <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="pill" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Medication Management</h3>
                     <p class="text-gray-500 text-sm">Psychiatric medications with holistic approach</p>
                 </a>
-                <a href="autism.php" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                <a href="autism" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
                     <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="users" class="w-7 h-7"></i>
                     </div>
@@ -345,7 +345,7 @@ $page_schema = '';
         <div class="max-w-7xl mx-auto px-6">
             <div class="grid lg:grid-cols-2 gap-12 items-center">
                 <div>
-                    <a href="team.php"><img src="../assets/images/mental-Health/TMS/Dr.-L-tms.webp" alt="Dr. Stefani LaFrenierre" class="rounded-3xl w-full h-[450px] object-cover object-[50%_20%] shadow-soft hover:opacity-90 transition-opacity cursor-pointer"></a>
+                    <a href="team"><img src="../assets/images/mental-Health/TMS/Dr.-L-tms.webp" alt="Dr. Stefani LaFrenierre" class="rounded-3xl w-full h-[450px] object-cover object-[50%_20%] shadow-soft hover:opacity-90 transition-opacity cursor-pointer"></a>
                 </div>
                 <div>
                     <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Your Psychiatrist</span></div>
@@ -359,7 +359,7 @@ $page_schema = '';
                         <span class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">REMS Certified</span>
                         <span class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">8,000+ TMS Treatments</span>
                     </div>
-                    <a href="contact.php" class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white hover:shadow-xl transition-all">Schedule Consultation <i data-lucide="arrow-right" class="w-4 h-4"></i></a>
+                    <a href="contact" class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white hover:shadow-xl transition-all">Schedule Consultation <i data-lucide="arrow-right" class="w-4 h-4"></i></a>
                 </div>
             </div>
         </div>
@@ -383,7 +383,7 @@ $page_schema = '';
                         <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Blue Cross</span>
                         <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Kaiser</span>
                     </div>
-                    <a href="contact.php" class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-primary font-bold rounded-full hover:bg-primary hover:text-white transition-all">Verify Your Benefits <i data-lucide="arrow-right" class="w-5 h-5"></i></a>
+                    <a href="contact" class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-primary font-bold rounded-full hover:bg-primary hover:text-white transition-all">Verify Your Benefits <i data-lucide="arrow-right" class="w-5 h-5"></i></a>
                 </div>
                 <div class="bg-neutral rounded-3xl p-8 shadow-soft">
                     <div class="flex items-center gap-3 mb-6">
@@ -468,7 +468,7 @@ $page_schema = '';
                         <h3 class="font-bold text-2xl text-primary mb-4">Serving Irvine and Surrounding Areas</h3>
                         <p class="text-gray-600 leading-relaxed mb-6">While we don't have a clinic directly in Irvine, our team proudly serves patients from Irvine, Costa Mesa, Huntington Beach, Tustin, Lake Forest, and surrounding Orange County communities at our Newport Beach and San Juan Capistrano locations.</p>
                         <div class="flex flex-wrap gap-4">
-                            <a href="contact.php" class="inline-flex items-center gap-2 px-6 py-3 bg-secondary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white transition-all">
+                            <a href="contact" class="inline-flex items-center gap-2 px-6 py-3 bg-secondary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white transition-all">
                                 <i data-lucide="calendar" class="w-5 h-5"></i> Schedule Appointment
                             </a>
                             <a href="tel:+19499965355" class="inline-flex items-center gap-2 px-6 py-3 bg-transparent border-2 border-primary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white transition-all">
@@ -576,7 +576,7 @@ $page_schema = '';
                 <a href="tel:+19499965355" class="group inline-flex items-center justify-center bg-secondary hover:bg-white text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl text-lg w-full sm:w-auto">
                     <i data-lucide="phone" class="w-5 h-5 mr-2"></i> Call (949) 996-5355
                 </a>
-                <a href="contact.php" class="group inline-flex items-center justify-center bg-white/5 hover:bg-white/10 border-2 border-white/20 hover:border-white/40 text-white font-semibold px-10 py-5 rounded-full transition-all duration-300 text-lg w-full sm:w-auto">
+                <a href="contact" class="group inline-flex items-center justify-center bg-white/5 hover:bg-white/10 border-2 border-white/20 hover:border-white/40 text-white font-semibold px-10 py-5 rounded-full transition-all duration-300 text-lg w-full sm:w-auto">
                     Schedule Consultation
                 </a>
             </div>

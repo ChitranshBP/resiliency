@@ -243,7 +243,7 @@ SCHEMA;
                 </div>
                 <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Providers in Newport Beach</h3>
                 <p class="text-gray-600 text-lg font-light leading-relaxed mb-6">Our Newport Beach office is home to our full multidisciplinary team including psychiatrists, psychiatric nurse practitioners, physician associates, and wellness specialists.</p>
-                <a href="team.php" class="inline-flex items-center gap-2 text-[#23bfe2] font-bold hover:text-[#0B2035] transition-colors text-lg">
+                <a href="team" class="inline-flex items-center gap-2 text-[#23bfe2] font-bold hover:text-[#0B2035] transition-colors text-lg">
                     Meet the Full Team <i data-lucide="arrow-right" class="w-5 h-5"></i>
                 </a>
             </div>
@@ -319,7 +319,7 @@ SCHEMA;
                         <i data-lucide="phone" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-[#0B2035] mb-3">First Visit?</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Call <a href="tel:+19499965355" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors">(949) 996-5355</a> to schedule your appointment. Complete your patient forms online at <a href="new-patient-form.php" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors">our patient form page</a> before your visit for a smoother experience.</p>
+                    <p class="text-gray-500 font-light leading-relaxed">Call <a href="tel:+19499965355" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors">(949) 996-5355</a> to schedule your appointment. Complete your patient forms online at <a href="new-patient-form" class="text-[#23bfe2] font-semibold hover:text-[#0B2035] transition-colors">our patient form page</a> before your visit for a smoother experience.</p>
                 </div>
             </div>
         </div>
@@ -336,7 +336,7 @@ SCHEMA;
                     <h3 class="text-2xl font-bold text-[#0B2035] mb-3">Visit Our San Juan Capistrano Office</h3>
                     <p class="text-gray-500 font-light leading-relaxed mb-2">27184 Ortega Hwy, STE 103</p>
                     <p class="text-gray-500 font-light leading-relaxed mb-6">San Juan Capistrano, CA 92675</p>
-                    <a href="san-juan-capistrano.php" class="inline-flex items-center gap-2 text-[#23bfe2] font-bold hover:text-[#0B2035] transition-colors text-lg">
+                    <a href="san-juan-capistrano" class="inline-flex items-center gap-2 text-[#23bfe2] font-bold hover:text-[#0B2035] transition-colors text-lg">
                         View Location <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                 </div>
@@ -353,7 +353,7 @@ SCHEMA;
             <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6">Book an Appointment at Newport Beach</h2>
             <p class="text-gray-300 text-lg font-light leading-relaxed mb-10 max-w-2xl mx-auto">Ready to start your journey toward better mental health? Contact our Newport Beach office today.</p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                     Schedule Now <i data-lucide="arrow-right" class="w-5 h-5"></i>
                 </a>
                 <a href="tel:+19499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">

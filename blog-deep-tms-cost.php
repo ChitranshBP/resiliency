@@ -77,11 +77,11 @@
                     <article class="lg:w-2/3 reveal">
                         <div class="blog-content">
 
-                            <p>Deep Transcranial Magnetic Stimulation (Deep TMS) is one of the most advanced, FDA-cleared treatments for <a href="blog-ocd-disability.php" class="content-link">depression, OCD</a>, and other mental health conditions, especially for patients who haven't found relief with medications. To understand how Deep TMS works, read our <a href="blog-deep-tms-science.php" class="content-link">comprehensive guide on Deep TMS therapy mechanisms</a>.</p>
+                            <p>Deep Transcranial Magnetic Stimulation (Deep TMS) is one of the most advanced, FDA-cleared treatments for <a href="blog-ocd-disability" class="content-link">depression, OCD</a>, and other mental health conditions, especially for patients who haven't found relief with medications. To understand how Deep TMS works, read our <a href="blog-deep-tms-science" class="content-link">comprehensive guide on Deep TMS therapy mechanisms</a>.</p>
                             <p>If you're considering treatment, cost is naturally one of the first questions. This guide focuses on the real patient experience at Resiliency Mind+Body Medicine®, including actual pricing, insurance coverage, and what most patients truly pay out-of-pocket.</p>
 
                             <h2>What Is Deep TMS and Why Is It Different?</h2>
-                            <p>Deep TMS uses specialized <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" target="_blank" rel="nofollow noindex">H-Coil technology</a> to stimulate deeper and broader brain regions than standard TMS. For comparison, learn how <a href="blog-spravato-insurance.php" class="content-link">Spravato coverage compares</a> to other treatment options.</p>
+                            <p>Deep TMS uses specialized <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" target="_blank" rel="nofollow noindex">H-Coil technology</a> to stimulate deeper and broader brain regions than standard TMS. For comparison, learn how <a href="blog-spravato-insurance" class="content-link">Spravato coverage compares</a> to other treatment options.</p>
 
                             <h3>FDA-cleared for:</h3>
                             <ul>
@@ -93,7 +93,7 @@
                             <h3>Why patients choose Deep TMS:</h3>
                             <ul>
                                 <li>Targets deeper neural circuits tied to mood</li>
-                                <li>Effective for <a href="blog-ocd-disability.php" class="content-link">treatment-resistant depression</a></li>
+                                <li>Effective for <a href="blog-ocd-disability" class="content-link">treatment-resistant depression</a></li>
                                 <li>Non-invasive (no anesthesia required)</li>
                                 <li>No systemic side effects like medication</li>
                             </ul>
@@ -128,7 +128,7 @@
                             <p>This shorter treatment time is a meaningful advantage for patients balancing work, family, and daily responsibilities.</p>
 
                             <h2>Insurance Coverage: The Most Important Factor</h2>
-                            <p>For most patients, insurance, not sticker price, determines cost. If you're comparing treatment options, see our <a href="blog-spravato-insurance.php" class="content-link">guide to Spravato insurance coverage</a> as an alternative treatment.</p>
+                            <p>For most patients, insurance, not sticker price, determines cost. If you're comparing treatment options, see our <a href="blog-spravato-insurance" class="content-link">guide to Spravato insurance coverage</a> as an alternative treatment.</p>
                             <p>At Resiliency Mind+Body Medicine®, we are in-network with:</p>
                             <ul>
                                 <li>Commercial insurance plans</li>
@@ -187,7 +187,7 @@
                             <h3>1. Insurance Approval</h3>
                             <p>Most major insurers cover Deep TMS when:</p>
                             <ul>
-                                <li>You have a diagnosis of <a href="blog-ocd-disability.php" class="content-link">depression</a></li>
+                                <li>You have a diagnosis of <a href="blog-ocd-disability" class="content-link">depression</a></li>
                                 <li>You've tried 2+ antidepressants</li>
                                 <li>Medical necessity is documented</li>
                             </ul>
@@ -213,7 +213,7 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td><a href="blog-spravato-insurance.php" class="content-link">Medications</a></td>
+                                        <td><a href="blog-spravato-insurance" class="content-link">Medications</a></td>
                                         <td>Monthly</td>
                                         <td>Ongoing</td>
                                     </tr>
@@ -223,7 +223,7 @@
                                         <td>Ongoing</td>
                                     </tr>
                                     <tr>
-                                        <td><a href="blog-deep-tms-science.php" class="content-link">Deep TMS</a></td>
+                                        <td><a href="blog-deep-tms-science" class="content-link">Deep TMS</a></td>
                                         <td>Structured course</td>
                                         <td>Often finite</td>
                                     </tr>
@@ -238,7 +238,7 @@
                             </ul>
 
                             <h2>Is Deep TMS Worth It?</h2>
-                            <p>For many patients, especially those with <a href="blog-ocd-disability.php" class="content-link">treatment-resistant depression</a>:</p>
+                            <p>For many patients, especially those with <a href="blog-ocd-disability" class="content-link">treatment-resistant depression</a>:</p>
                             <ul>
                                 <li>High response and remission rates</li>
                                 <li>Minimal side effects</li>
@@ -280,7 +280,7 @@
 
                             <div class="faq-item">
                                 <h3>3. Can treatment really be free?</h3>
-                                <p>Yes. For details on coverage options, see our <a href="blog-spravato-insurance.php" class="content-link">insurance coverage guide</a>.</p>
+                                <p>Yes. For details on coverage options, see our <a href="blog-spravato-insurance" class="content-link">insurance coverage guide</a>.</p>
                                 <ul>
                                     <li>Medi-Cal patients: $0</li>
                                     <li>Medicare + supplement: $0</li>
@@ -310,7 +310,7 @@
 
                             <div class="faq-item">
                                 <h3>6. Will I need treatment again?</h3>
-                                <p>Some patients benefit from maintenance sessions, but many achieve long-term relief after one course. Learn more about <a href="blog-deep-tms-science.php" class="content-link">how Deep TMS creates lasting changes through neuroplasticity</a>.</p>
+                                <p>Some patients benefit from maintenance sessions, but many achieve long-term relief after one course. Learn more about <a href="blog-deep-tms-science" class="content-link">how Deep TMS creates lasting changes through neuroplasticity</a>.</p>
                             </div>
 
                             <h2>Ready to Understand Your Exact Cost?</h2>
@@ -327,10 +327,10 @@
                             <!-- Internal Links Section -->
                             <div class="internal-links-section">
                                 <h3>Related Articles</h3>
-                                <a href="blog-deep-tms-science.php" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> How Does Deep TMS Work? (Science Guide)</a>
-                                <a href="blog-spravato-insurance.php" class="internal-link"><i data-lucide="shield-check" class="w-4 h-4 inline-block mr-1"></i> Spravato Insurance Coverage Guide</a>
-                                <a href="blog-deep-tms-autism.php" class="internal-link"><i data-lucide="users" class="w-4 h-4 inline-block mr-1"></i> Deep TMS for Autism</a>
-                                <a href="blog-mental-health-awareness.php" class="internal-link"><i data-lucide="heart" class="w-4 h-4 inline-block mr-1"></i> Mental Health Awareness Month</a>
+                                <a href="blog-deep-tms-science" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> How Does Deep TMS Work? (Science Guide)</a>
+                                <a href="blog-spravato-insurance" class="internal-link"><i data-lucide="shield-check" class="w-4 h-4 inline-block mr-1"></i> Spravato Insurance Coverage Guide</a>
+                                <a href="blog-deep-tms-autism" class="internal-link"><i data-lucide="users" class="w-4 h-4 inline-block mr-1"></i> Deep TMS for Autism</a>
+                                <a href="blog-mental-health-awareness" class="internal-link"><i data-lucide="heart" class="w-4 h-4 inline-block mr-1"></i> Mental Health Awareness Month</a>
                             </div>
 
                         </div>
@@ -352,7 +352,7 @@
                                 <p class="text-sm font-bold text-[#0B2035]">No previous post</p>
                             </div>
                             <div class="w-1/2 text-right">
-                                <a href="blog-spravato-insurance.php" class="group flex items-center justify-end gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
+                                <a href="blog-spravato-insurance" class="group flex items-center justify-end gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
                                     <div>
                                         <span class="text-xs text-gray-400 font-light uppercase tracking-wider">Next</span>
                                         <p class="text-sm font-bold text-[#0B2035] group-hover:text-[#23bfe2] transition-colors truncate max-w-[180px]">Is Spravato Covered by Insurance?</p>
@@ -371,7 +371,7 @@
                             <div class="bg-gray-50 rounded-3xl p-8 border border-gray-100">
                                 <h3 class="text-xl font-bold text-[#0B2035] mb-6">Related Articles</h3>
                                 <div class="space-y-4">
-                                    <a href="blog-deep-tms-science.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-deep-tms-science" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="brain" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -380,7 +380,7 @@
                                             <p class="text-xs text-gray-400 font-light mt-1">April 26, 2026</p>
                                         </div>
                                     </a>
-                                    <a href="blog-spravato-insurance.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-spravato-insurance" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="shield-check" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -389,7 +389,7 @@
                                             <p class="text-xs text-gray-400 font-light mt-1">April 12, 2026</p>
                                         </div>
                                     </a>
-                                    <a href="blog-ocd-disability.php" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                    <a href="blog-ocd-disability" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="scale" class="w-5 h-5 text-[#23bfe2]"></i>
                                         </div>
@@ -407,7 +407,7 @@
                                 <p class="text-gray-300 font-light text-sm leading-relaxed mb-6">
                                     Our team is here to help you find the right mental health treatment.
                                 </p>
-                                <a href="contact.php" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-3 rounded-full text-sm transition-all hover:bg-white hover:-translate-y-1 transform">
+                                <a href="contact" class="inline-flex items-center gap-2 bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-3 rounded-full text-sm transition-all hover:bg-white hover:-translate-y-1 transform">
                                     Contact Us <i data-lucide="arrow-right" class="w-4 h-4"></i>
                                 </a>
                             </div>

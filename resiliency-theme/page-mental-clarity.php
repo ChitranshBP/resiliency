@@ -3,7 +3,7 @@
 $page_title       = 'Mental Clarity &amp; Brain Fog Treatment Newport Beach | Cognitive Wellness | Resiliency Mind + Body Medicine';
 $page_description = 'Clear brain fog, sharpen focus &amp; restore cognitive function in Newport Beach &amp; Orange County, CA. Integrative psychiatry, NAD+ therapy, nutritional optimization &amp; neuromodulation. Call (949) 996-5355.';
 $page_keywords    = 'mental clarity Newport Beach, brain fog treatment Orange County, cognitive wellness Newport Beach CA, brain fog doctor Orange County, mental clarity treatment San Juan Capistrano, focus improvement Newport Beach, cognitive function treatment Orange County';
-$page_canonical   = 'https://resiliencymbmedicine.com/mental-clarity.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/mental-clarity';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Mental Clarity & Brain Fog Treatment","description":"Targeted treatments to clear brain fog, sharpen focus, and restore cognitive function through integrative psychiatry, NAD+ therapy, and neuromodulation in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/mental-clarity.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}

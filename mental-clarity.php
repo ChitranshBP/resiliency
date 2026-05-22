@@ -2,7 +2,7 @@
 $page_title       = 'Mental Clarity &amp; Brain Fog Treatment Newport Beach | Cognitive Wellness | Resiliency Mind + Body Medicine®';
 $page_description = 'Clear brain fog, sharpen focus &amp; restore cognitive function in Newport Beach &amp; Orange County, CA. Integrative psychiatry, NAD+ therapy, nutritional optimization &amp; neuromodulation. Call (949) 996-5355.';
 $page_keywords    = 'mental clarity Newport Beach, brain fog treatment Orange County, cognitive wellness Newport Beach CA, brain fog doctor Orange County, mental clarity treatment San Juan Capistrano, focus improvement Newport Beach, cognitive function treatment Orange County';
-$page_canonical   = 'https://resiliencymbmedicine.com/mental-clarity.php';
+$page_canonical   = 'https://resiliencymbmedicine.com/mental-clarity';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"MedicalTherapy","name":"Mental Clarity & Brain Fog Treatment","description":"Targeted treatments to clear brain fog, sharpen focus, and restore cognitive function through integrative psychiatry, NAD+ therapy, and neuromodulation in Newport Beach, CA.","url":"https://resiliencymbmedicine.com/mental-clarity.php","relevantSpecialty":"Psychiatry","provider":{"@type":"MedicalBusiness","name":"Resiliency Mind + Body Medicine®","telephone":"(949) 996-5355","address":[{"@type":"PostalAddress","streetAddress":"1501 Superior Ave, Suite 210","addressLocality":"Newport Beach","addressRegion":"CA","postalCode":"92663"},{"@type":"PostalAddress","streetAddress":"27184 Ortega Hwy, STE 103","addressLocality":"San Juan Capistrano","addressRegion":"CA","postalCode":"92675"}]}}
@@ -36,7 +36,7 @@ SCHEMA;
                     Targeted treatments to clear brain fog, sharpen focus, and restore cognitive function through integrative psychiatry, nutritional optimization, and advanced neuromodulation.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -237,7 +237,7 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes — persistent brain fog can be linked to depression, anxiety, hormonal imbalances, nutritional deficiencies, sleep disorders, or thyroid dysfunction. At Resiliency, we investigate the root cause before recommending treatment. Our approach may include <a href="hormone-therapy.php" class="text-[#23bfe2] underline hover:text-white">hormone therapy</a>, <a href="nad-therapy.php" class="text-[#23bfe2] underline hover:text-white">NAD+ IV infusions</a>, or <a href="integrative-psychiatry.php" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> to address underlying causes.
+                            Yes — persistent brain fog can be linked to depression, anxiety, hormonal imbalances, nutritional deficiencies, sleep disorders, or thyroid dysfunction. At Resiliency, we investigate the root cause before recommending treatment. Our approach may include <a href="hormone-therapy" class="text-[#23bfe2] underline hover:text-white">hormone therapy</a>, <a href="nad-therapy" class="text-[#23bfe2] underline hover:text-white">NAD+ IV infusions</a>, or <a href="integrative-psychiatry" class="text-[#23bfe2] underline hover:text-white">integrative psychiatry</a> to address underlying causes.
                         </div>
                     </div>
                 </div>
@@ -261,7 +261,7 @@ SCHEMA;
                 Schedule a consultation with our team and discover a personalized plan to clear brain fog and sharpen your cognitive performance.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>
@@ -307,11 +307,11 @@ SCHEMA;
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p class="text-xs font-bold tracking-widest text-[#23bfe2] uppercase mb-6">Also Explore</p>
             <div class="flex flex-wrap gap-3">
-                <a href="cognitive-enhancement.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Cognitive Enhancement</a>
-                <a href="nad-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">NAD+ Therapy</a>
-                <a href="iv-vitamin-therapy.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">IV Vitamin Therapy</a>
-                <a href="integrative-psychiatry.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
-                <a href="tms-for-mental-boost.php" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">TMS for Mental Boost</a>
+                <a href="cognitive-enhancement" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Cognitive Enhancement</a>
+                <a href="nad-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">NAD+ Therapy</a>
+                <a href="iv-vitamin-therapy" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">IV Vitamin Therapy</a>
+                <a href="integrative-psychiatry" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">Integrative Psychiatry</a>
+                <a href="tms-for-mental-boost" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#0B2035]/15 text-[#0B2035] text-sm font-medium hover:bg-[#0B2035] hover:text-white transition-all">TMS for Mental Boost</a>
             </div>
         </div>
     </section>

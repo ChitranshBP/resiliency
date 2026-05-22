@@ -31,7 +31,7 @@ SCHEMA;
                     Specialized TMS protocols to help stabilize the brain after cannabis-induced psychotic episodes—supporting recovery, reducing relapse risk, and rebuilding cognitive clarity.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                    <a href="contact.php" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
+                    <a href="contact" class="bg-[#23bfe2] text-[#0B2035] font-bold px-8 py-4 rounded-full text-center transition-all hover:bg-white hover:shadow-[0_10px_30px_rgba(35,191,226,0.3)] shadow-md hover:-translate-y-1 transform flex items-center justify-center gap-2">
                         Schedule Your Consultation <i data-lucide="arrow-right" class="w-5 h-5"></i>
                     </a>
                     <a href="tel:9499965355" class="bg-transparent border border-white/30 text-white font-medium px-8 py-4 rounded-full text-center transition-all hover:bg-white/10 flex items-center justify-center gap-2">
@@ -243,14 +243,14 @@ SCHEMA;
                     </button>
                     <div class="px-8 pb-8 text-gray-300 font-light leading-relaxed text-lg hidden faq-content">
                         <div class="pt-2 border-t border-white/10 mt-2">
-                            Yes — abstaining from cannabis significantly enhances the effectiveness of <a href="tms-therapy.php" class="text-[#23bfe2] underline hover:text-white">Deep TMS treatment</a>. Continued use can re-trigger psychotic symptoms and interfere with neural recovery. We provide guidance on <a href="substance-abuse.php" class="text-[#23bfe2] underline hover:text-white">substance use cessation</a> as part of your treatment plan and may coordinate <a href="medication-management.php" class="text-[#23bfe2] underline hover:text-white">medication management</a> to support abstinence and stabilize mood throughout your TMS course.
+                            Yes — abstaining from cannabis significantly enhances the effectiveness of <a href="tms-therapy" class="text-[#23bfe2] underline hover:text-white">Deep TMS treatment</a>. Continued use can re-trigger psychotic symptoms and interfere with neural recovery. We provide guidance on <a href="substance-abuse" class="text-[#23bfe2] underline hover:text-white">substance use cessation</a> as part of your treatment plan and may coordinate <a href="medication-management" class="text-[#23bfe2] underline hover:text-white">medication management</a> to support abstinence and stabilize mood throughout your TMS course.
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-12">
-                <p class="text-gray-400 font-light">Have more questions? <a href="contact.php" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
+                <p class="text-gray-400 font-light">Have more questions? <a href="contact" class="text-[#23bfe2] font-semibold hover:text-white transition-colors underline underline-offset-4 decoration-[#23bfe2]/30 hover:decoration-white">Contact our clinical team.</a></p>
             </div>
         </div>
     </section>
@@ -267,7 +267,7 @@ SCHEMA;
                 A confidential consultation is the safest way to understand whether TMS belongs in your recovery plan. Our team is here to help you and your family.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="contact.php" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
+                <a href="contact" class="group relative inline-flex items-center justify-center bg-[#0B2035] hover:bg-[#23bfe2] text-white hover:text-[#0B2035] font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl w-full sm:w-auto text-lg">
                     <span class="relative z-10 flex items-center gap-2">
                         Schedule Your Consultation
                         <i data-lucide="arrow-up-right" class="w-6 h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"></i>

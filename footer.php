@@ -35,11 +35,11 @@
                 <div>
                     <h4 class="text-white font-bold mb-8 tracking-wider uppercase text-xs">Clinic</h4>
                     <ul class="space-y-4 text-sm">
-                        <li><a href="about.php" class="hover:text-lightblue transition-colors flex items-center gap-2">About Our Clinic</a></li>
-                        <li><a href="team.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Meet Our Providers</a></li>
-                        <li><a href="tms-therapy.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Deep TMS Therapy</a></li>
-                        <li><a href="spravato-therapy.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Spravato Treatment</a></li>
-                        <li><a href="blog.php" class="hover:text-lightblue transition-colors flex items-center gap-2">Clinic Blog</a></li>
+                        <li><a href="about" class="hover:text-lightblue transition-colors flex items-center gap-2">About Our Clinic</a></li>
+                        <li><a href="team" class="hover:text-lightblue transition-colors flex items-center gap-2">Meet Our Providers</a></li>
+                        <li><a href="tms-therapy" class="hover:text-lightblue transition-colors flex items-center gap-2">Deep TMS Therapy</a></li>
+                        <li><a href="spravato-therapy" class="hover:text-lightblue transition-colors flex items-center gap-2">Spravato Treatment</a></li>
+                        <li><a href="blog" class="hover:text-lightblue transition-colors flex items-center gap-2">Clinic Blog</a></li>
                     </ul>
                 </div>
 
@@ -48,10 +48,10 @@
                     <h4 class="text-white font-bold mb-8 tracking-wider uppercase text-xs">Resources</h4>
                     <ul class="space-y-4 text-sm">
                         <li><a href="https://resiliencymbm.intakeq.com/portal" target="_blank" rel="noopener" class="hover:text-lightblue transition-colors">Patient Portal</a></li>
-                        <li><a href="new-patient-form.php" class="hover:text-lightblue transition-colors">New Patient Forms</a></li>
-                        <li><a href="insurance.php" class="hover:text-lightblue transition-colors">Insurance & Fees</a></li>
-                        <li><a href="contact.php" class="hover:text-lightblue transition-colors">Contact Us</a></li>
-                        <li><a href="faqs.php" class="hover:text-lightblue transition-colors">Frequently Asked Questions</a></li>
+                        <li><a href="new-patient-form" class="hover:text-lightblue transition-colors">New Patient Forms</a></li>
+                        <li><a href="insurance" class="hover:text-lightblue transition-colors">Insurance & Fees</a></li>
+                        <li><a href="contact" class="hover:text-lightblue transition-colors">Contact Us</a></li>
+                        <li><a href="faqs" class="hover:text-lightblue transition-colors">Frequently Asked Questions</a></li>
                     </ul>
                 </div>
 
@@ -59,14 +59,14 @@
                 <div class="lg:col-span-2">
                     <h4 class="text-white font-bold mb-8 tracking-wider uppercase text-xs">Conditions We Treat</h4>
                     <ul class="grid grid-cols-2 gap-x-6 gap-y-4 text-sm">
-                        <li><a href="depression.php" class="hover:text-lightblue transition-colors">Depression</a></li>
-                        <li><a href="anxiety.php" class="hover:text-lightblue transition-colors">Anxiety</a></li>
-                        <li><a href="ocd.php" class="hover:text-lightblue transition-colors">OCD</a></li>
-                        <li><a href="ptsd.php" class="hover:text-lightblue transition-colors">PTSD</a></li>
-                        <li><a href="adhd.php" class="hover:text-lightblue transition-colors">ADHD</a></li>
-                        <li><a href="bipolar.php" class="hover:text-lightblue transition-colors">Bipolar Disorder</a></li>
-                        <li><a href="substance-abuse.php" class="hover:text-lightblue transition-colors">Substance Use</a></li>
-                        <li><a href="suicidal-ideation.php" class="hover:text-lightblue transition-colors">Suicidal Ideation</a></li>
+                        <li><a href="depression" class="hover:text-lightblue transition-colors">Depression</a></li>
+                        <li><a href="anxiety" class="hover:text-lightblue transition-colors">Anxiety</a></li>
+                        <li><a href="ocd" class="hover:text-lightblue transition-colors">OCD</a></li>
+                        <li><a href="ptsd" class="hover:text-lightblue transition-colors">PTSD</a></li>
+                        <li><a href="adhd" class="hover:text-lightblue transition-colors">ADHD</a></li>
+                        <li><a href="bipolar" class="hover:text-lightblue transition-colors">Bipolar Disorder</a></li>
+                        <li><a href="substance-abuse" class="hover:text-lightblue transition-colors">Substance Use</a></li>
+                        <li><a href="suicidal-ideation" class="hover:text-lightblue transition-colors">Suicidal Ideation</a></li>
                     </ul>
                 </div>
 
@@ -88,8 +88,8 @@
                         <i data-lucide="map-pin" class="w-5 h-5"></i>
                     </div>
                     <div>
-                        <a href="newport-beach.php" class="text-[10px] uppercase tracking-widest text-gray-500 font-bold mb-1 hover:text-secondary transition-colors block">Newport Beach</a>
-                        <a href="newport-beach.php" class="text-white font-medium text-sm hover:text-secondary transition-colors leading-snug block">1501 Superior Ave STE 210,<br>Newport Beach, CA 92663</a>
+                        <a href="newport-beach" class="text-[10px] uppercase tracking-widest text-gray-500 font-bold mb-1 hover:text-secondary transition-colors block">Newport Beach</a>
+                        <a href="newport-beach" class="text-white font-medium text-sm hover:text-secondary transition-colors leading-snug block">1501 Superior Ave STE 210,<br>Newport Beach, CA 92663</a>
                     </div>
                 </div>
                 <div class="flex items-start gap-4">
@@ -97,8 +97,8 @@
                         <i data-lucide="map-pin" class="w-5 h-5"></i>
                     </div>
                     <div>
-                        <a href="san-juan-capistrano.php" class="text-[10px] uppercase tracking-widest text-gray-500 font-bold mb-1 hover:text-secondary transition-colors block">San Juan Capistrano</a>
-                        <a href="san-juan-capistrano.php" class="text-white font-medium text-sm hover:text-secondary transition-colors leading-snug block">27184 Ortega Hwy, STE 103,<br>San Juan Capistrano, CA 92675</a>
+                        <a href="san-juan-capistrano" class="text-[10px] uppercase tracking-widest text-gray-500 font-bold mb-1 hover:text-secondary transition-colors block">San Juan Capistrano</a>
+                        <a href="san-juan-capistrano" class="text-white font-medium text-sm hover:text-secondary transition-colors leading-snug block">27184 Ortega Hwy, STE 103,<br>San Juan Capistrano, CA 92675</a>
                     </div>
                 </div>
             </div>
@@ -121,9 +121,9 @@
             <div class="flex flex-col md:flex-row justify-between items-center text-xs font-light text-gray-500">
                 <p>&copy; 2026 Resiliency Mind + Body Medicine®. All rights reserved.</p>
                 <div class="flex gap-8 mt-4 md:mt-0 uppercase tracking-widest">
-                    <a href="privacy-policy.php" class="hover:text-white transition-colors">Privacy Policy</a>
-                    <a href="terms-of-service.php" class="hover:text-white transition-colors">Terms of Service</a>
-                    <a href="acceptable-use.php" class="hover:text-white transition-colors">Accessibility</a>
+                    <a href="privacy-policy" class="hover:text-white transition-colors">Privacy Policy</a>
+                    <a href="terms-of-service" class="hover:text-white transition-colors">Terms of Service</a>
+                    <a href="acceptable-use" class="hover:text-white transition-colors">Accessibility</a>
                 </div>
             </div>
         </div>
@@ -131,7 +131,7 @@
 
     <!-- Floating CTA (Mobile only or always visible depending on preference, sticking to just a simple one for demo) -->
     <div class="fixed bottom-6 right-6 md:hidden z-50">
-        <a href="contact.php" class="bg-primary hover:bg-primary/90 text-white w-14 h-14 rounded-full flex items-center justify-center shadow-lg transition-transform hover:scale-110">
+        <a href="contact" class="bg-primary hover:bg-primary/90 text-white w-14 h-14 rounded-full flex items-center justify-center shadow-lg transition-transform hover:scale-110">
             <i data-lucide="calendar" class="w-6 h-6"></i>
         </a>
     </div>
