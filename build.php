@@ -59,6 +59,13 @@ $pages = [
     'san-juan-capistrano.php' => 'san-juan-capistrano.html',
     'proliv-rx.php' => 'proliv-rx.html',
     'thank-you.php' => 'thank-you.html',
+    // Blog post pages (needed for redirect destinations)
+    'blog-deep-tms-cost.php' => 'blog-deep-tms-cost.html',
+    'blog-ocd-disability.php' => 'blog-ocd-disability.html',
+    'blog-deep-tms-autism.php' => 'blog-deep-tms-autism.html',
+    'blog-deep-tms-science.php' => 'blog-deep-tms-science.html',
+    'blog-mental-health-awareness.php' => 'blog-mental-health-awareness.html',
+    'blog-spravato-insurance.php' => 'blog-spravato-insurance.html',
 ];
 $assets_dirs = ['assets', 'css', 'js'];
 
@@ -100,6 +107,12 @@ foreach ($pages as $php_file => $html_file) {
 // 4. Copy Sitemap
 if (file_exists($source_dir . '/resiliency-sitemap.xml')) {
     copy($source_dir . '/resiliency-sitemap.xml', $output_dir . '/sitemap.xml');
+}
+
+// 5. Copy _redirects file for Netlify 301 redirects
+if (file_exists($source_dir . '/_redirects')) {
+    copy($source_dir . '/_redirects', $output_dir . '/_redirects');
+    echo "Copied _redirects for Netlify...\n";
 }
 
 echo "--- Build Complete! ---\n";

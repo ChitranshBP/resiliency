@@ -1,0 +1,115 @@
+# =============================================================================
+# Netlify 301 Permanent Redirects
+# Migrated from old WordPress site to new static site
+# All redirects are 301 (permanent) to preserve SEO equity
+# Order: specific rules first, then wildcard rules, then catch-all
+# =============================================================================
+
+# --- Homepage Redirects ---
+/home                                                                          /               301
+/home/                                                                         /               301
+/medspa-newport-beach-ca/                                                      /               301
+/methylene-blue/                                                               /               301
+/no-surprises-act-compliance/                                                  /               301
+/tms-treatment-dlp/                                                            /               301
+/tms-for-restless-legs-syndrome-newport-beach-ca/                              /               301
+/prp-treatment-newport-beach-ca/                                               /               301
+/infrared-light-therapy-newport-beach-ca/                                      /               301
+/5-benefits-of-longevity-medicine-you-need-to-know/                            /               301
+/amino-acid-iv-therapy-a-promising-approach-for-addiction-detox-a/             /               301
+
+# --- Core Service Pages ---
+/conservative-medication-management/                                           /medication-management  301
+/tms-newportbeach/                                                             /newport-beach         301
+/tms-newportbeach                                                              /newport-beach         301
+/accelerated-tms-newport-beach-ca/                                             /accelerated-tms       301
+/accelerated-tms-orange-county/                                                /accelerated-tms       301
+/accelerated-tms-brainsway-swift-protocol/                                     /accelerated-tms       301
+/tms-for-substance-abuse/                                                      /substance-abuse       301
+/tms-for-substance-abuse-newport-beach-ca/                                     /substance-abuse       301
+/weight-loss-in-orange-county/                                                 /weight-loss           301
+/spravato-treatment-in-orange-county/                                          /spravato-therapy      301
+/spravato-treatment-orange-county/                                             /spravato-therapy      301
+/spravato-treatment/                                                           /spravato-therapy      301
+/iv-ketamine-therapy-newport-beach-ca/                                         /spravato-therapy      301
+/ketamine-for-anxiety-newport-beach-ca/                                        /spravato-therapy      301
+/nad-iv-therapy/                                                               /nad-therapy           301
+/iv-therapy-newport-beach-ca/                                                  /iv-vitamin-therapy    301
+/cosmetic-injectables-newport-beach-ca/                                        /iv-vitamin-therapy    301
+/tms-therapy-newport-beach-ca/                                                 /newport-beach         301
+/cognitive-psychiatry-newport-beach-ca/                                        /newport-beach         301
+/tms-for-condition-treatment/                                                  /tms-therapy           301
+/what-to-expect-tms/                                                           /tms-therapy           301
+/integrative-psychiatry-orange-county/                                         /integrative-psychiatry 301
+/integrative-psychiatry-newport-beach-ca/                                      /integrative-psychiatry 301
+/supplements-newport-beach-ca/                                                 /supplements           301
+/supplements-that-can-offer-support-for-psychosis/                             /supplements           301
+/cognitive-enhancement-orange-county/                                          /cognitive-enhancement  301
+/cannabis-induced-psychosis-dopamine/                                          /tms-for-cannabis-induced-psychosis 301
+/ketamine-for-substance-abuse-newport-beach-ca/                                /substance-abuse       301
+
+# --- Condition Pages ---
+/tms-for-ptsd-orange-county/                                                   /ptsd                  301
+/tms-for-ptsd-newport-beach-ca                                                 /ptsd                  301
+/tms-for-ptsd-newport-beach-ca/                                                /ptsd                  301
+/ptsd-tms/                                                                     /ptsd                  301
+/adhd-treatment-orange-county/                                                 /adhd                  301
+/treatment-for-suicidal-ideation-orange-county/                                /suicidal-ideation     301
+/tms-for-anxiety-newport-beach-ca/                                             /anxiety               301
+/tms-for-anxiety-newport-beach-ca                                              /anxiety               301
+/tms-for-ocd-newport-beach-ca/                                                 /ocd                   301
+/tms-for-depression-orange-county/                                             /depression            301
+/tms-for-depression-newport-beach-ca/                                          /depression            301
+/tms-for-bipolar-disorder/                                                     /bipolar               301
+/tms-for-bipolar-disorder-newport-beach-ca/                                    /bipolar               301
+/autism-spectrum-support-orange-county/                                        /autism                301
+/mental-clarity-treatment-orange-county/                                       /mental-clarity        301
+
+# --- Info / About Pages ---
+/our-team/                                                                     /team                  301
+/our-team/stefani-lafreniere-md/                                               /team                  301
+/our-team/heather-wong-dmsc-mpas-pa-c-caq-psych/                               /team                  301
+/our-team/regina-dizon-pmhnp-bc/                                               /team                  301
+/our-team/milinda-estrada-pa-c/                                                /team                  301
+/about-us/                                                                     /about                 301
+/our-reviews/                                                                  /reviews               301
+/acceptable-use-policy/                                                        /insurance             301
+/privacy-policy/                                                               /compliance            301
+/faq-1/                                                                        /tms-faq               301
+
+# --- Blog Redirects (specific posts) ---
+/blog-deep-tms-cost.php                                                        /blog-deep-tms-cost    301
+/blog/tms-for-depression-in-orange-county-patient-journey-results-and/         /depression            301
+/blog/tms-anxiety-south-orange-county/                                         /anxiety               301
+/blog/treating-ocd-with-tms-what-orange-county-patients-should-ex/             /blog-ocd-disability   301
+/blog/tms-helps-veterans-ptsd-orange-county/                                   /ptsd                  301
+/blog/tms-for-anxiety-in-orange-county-integrating-brain-stimulation/          /anxiety               301
+/blog/10-reasons-prp-facials/                                                  /                      301
+/blog/tms-therapy-for-high-performers-ending-the-cycle-of-workpla/             /blog                  301
+/blog/building-mental-resilience-how-to-strengthen-your-mindset-in/            /blog                  301
+/blog/2023/10/28/                                                              /blog                  301
+/blog/spravato-first-session-orange-county/                                    /spravato-therapy      301
+/blog/transcranial-magnetic-stimulation-tms-demystifying-a-revoluti/           /                      301
+/blog/spravato-esketamine-therapy-the-cutting-edge-approach-to-d/              /spravato-therapy      301
+/blog/tms-for-ptsd-orange-county/                                              /ptsd                  301
+/blog/spravato-treatment-guide-orange-county/                                  /spravato-therapy      301
+/blog/aesthetics-and-mental-wellness/                                          /blog                  301
+/blog/a-complete-guide-to-tms-therapy-for-depression-in-orange-co/             /blog                  301
+/blog/navigating-depression-recognizing-the-signs-preventing-relap/            /blog                  301
+/blog/am-i-depressed/                                                          /blog                  301
+/the-power-of-plant-based-antioxidants/                                        /blog                  301
+
+# --- Blog Category/Feed Redirects ---
+/blog/category/ptsd/feed/                                                      /ptsd                  301
+/blog/category/ptsd/                                                           /ptsd                  301
+/blog/aesthetic/                                                               /blog                  301
+/blog/nad/                                                                     /blog                  301
+
+# --- Wildcard Redirects (wp-content, wp-includes, wp-*.php) ---
+# These MUST come after all specific rules to avoid conflicts
+/wp-content/themes/hello-elementor/*                                           /                      301
+/wp-content/themes/resiliency-theme/*                                          /                      301
+/wp-content/plugins/*                                                          /                      301
+/wp-content/*                                                                  /                      301
+/wp-includes/s/wp-emoji-release.min.js*                                        /                      301
+/wp-*.php                                                                      /                      301
