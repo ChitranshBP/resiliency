@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0B2035"/>
+      <stop offset="50%" style="stop-color:#0f2d4a"/>
+      <stop offset="100%" style="stop-color:#1a365d"/>
+    </linearGradient>
+    <linearGradient id="accent3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#23bfe2"/>
+      <stop offset="100%" style="stop-color:#1da1bf"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b5cf6"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+    <filter id="glow3">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="400" height="280" fill="url(#bg3)"/>
+
+  <!-- Background elements -->
+  <circle cx="350" cy="50" r="70" fill="#8b5cf6" opacity="0.05"/>
+  <circle cx="50" cy="220" r="60" fill="#23bfe2" opacity="0.08"/>
+
+  <!-- Main scale of justice with brain -->
+  <g transform="translate(200, 110)" filter="url(#glow3)">
+    <!-- Outer glow ring -->
+    <circle cx="0" cy="0" r="75" fill="none" stroke="#23bfe2" stroke-width="1" opacity="0.3"/>
+
+    <!-- Brain outline in center -->
+    <ellipse cx="0" cy="5" rx="32" ry="28" fill="none" stroke="url(#purple)" stroke-width="2.5"/>
+
+    <!-- Brain details -->
+    <path d="M-18 -8 Q-5 -18 10 -8 Q18 -4 14 5 Q18 14 5 18 Q-10 22 -18 14 Q-27 9 -23 0 Q-27 -9 -18 -8" fill="none" stroke="url(#purple)" stroke-width="1.5" opacity="0.7"/>
+    <path d="M0 -18 Q12 -22 22 -13" fill="none" stroke="url(#purple)" stroke-width="1" opacity="0.5"/>
+    <path d="M-5 22 Q5 27 13 22" fill="none" stroke="url(#purple)" stroke-width="1" opacity="0.5"/>
+
+    <!-- Scale beam -->
+    <rect x="-60" y="-4" width="120" height="5" rx="2.5" fill="url(#accent3)"/>
+
+    <!-- Center pivot -->
+    <circle cx="0" cy="-2" r="10" fill="#0B2035" stroke="url(#accent3)" stroke-width="2.5"/>
+    <circle cx="0" cy="-2" r="4" fill="#23bfe2"/>
+
+    <!-- Left scale pan -->
+    <line x1="-48" y1="1" x2="-48" y2="42" stroke="#23bfe2" stroke-width="2" opacity="0.8"/>
+    <path d="M-65 42 L-31 42 L-36 52 L-60 52 Z" fill="none" stroke="url(#accent3)" stroke-width="2"/>
+
+    <!-- Right scale pan -->
+    <line x1="48" y1="1" x2="48" y2="42" stroke="#23bfe2" stroke-width="2" opacity="0.8"/>
+    <path d="M65 42 L31 42 L36 52 L60 52 Z" fill="none" stroke="url(#accent3)" stroke-width="2"/>
+
+    <!-- Base -->
+    <rect x="-18" y="52" width="36" height="7" rx="2" fill="url(#accent3)"/>
+    <rect x="-26" y="59" width="52" height="5" rx="2" fill="#23bfe2" opacity="0.6"/>
+  </g>
+
+  <!-- ADA text badge -->
+  <g transform="translate(310, 70)">
+    <rect x="-26" y="-13" width="52" height="26" rx="13" fill="url(#purple)" opacity="0.9"/>
+    <text x="0" y="4" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">ADA</text>
+  </g>
+
+  <!-- Bottom label -->
+  <rect x="100" y="200" width="200" height="4" rx="2" fill="url(#accent3)" opacity="0.5"/>
+  <text x="200" y="235" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3">DISABILITY</text>
+
+  <!-- Corner accents -->
+  <line x1="20" y1="20" x2="60" y2="20" stroke="#23bfe2" stroke-width="2" opacity="0.6"/>
+  <line x1="20" y1="20" x2="20" y2="60" stroke="#23bfe2" stroke-width="2" opacity="0.6"/>
+  <line x1="380" y1="260" x2="340" y2="260" stroke="#23bfe2" stroke-width="2" opacity="0.6"/>
+  <line x1="380" y1="260" x2="380" y2="220" stroke="#23bfe2" stroke-width="2" opacity="0.6"/>
+
+  <!-- Question marks for OCD -->
+  <text x="55" y="85" font-family="Georgia" font-size="22" fill="#8b5cf6" opacity="0.4">?</text>
+  <text x="335" y="160" font-family="Georgia" font-size="18" fill="#8b5cf6" opacity="0.3">?</text>
+</svg>

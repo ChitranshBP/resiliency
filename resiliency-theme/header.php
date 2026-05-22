@@ -12,6 +12,7 @@ if (!defined('ABSPATH')) {
 <!DOCTYPE html>
 <html <?php language_attributes(); ?> class="scroll-smooth">
 <head>
+    <meta name="google-site-verification" content="nSYRfJaDkZhj8oNegsv90RUX3540I86V1VhB18o5XdQ" />
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
