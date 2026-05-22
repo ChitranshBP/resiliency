@@ -1,4 +1,6 @@
+Options -MultiViews
 RewriteEngine On
+
 
 # =============================================================================
 # 301 PERMANENT REDIRECTS
@@ -123,9 +125,10 @@ RewriteRule ^wp-.*\.php$ / [R=301,L]
 
 # Redirect /page.php to /page (remove .php from browser URL)
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^\ ]+)\.php
-RewriteRule ^/?(.*)\\.php$ /$1 [L,R=301]
+RewriteRule ^/?(.*)\.php$ /$1 [L,R=301]
 
 # Serve .php file if extensionless request matches a .php file
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\\.php -f
+RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [L]
+
