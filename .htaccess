@@ -1,10 +1,131 @@
 RewriteEngine On
 
-# Redirect /page.php to /page
+# =============================================================================
+# 301 PERMANENT REDIRECTS
+# Generated from: assets/resiliency-redirection.csv
+# All redirects go directly to final destination (no chains)
+# =============================================================================
+
+# --- Homepage Redirects ---
+RewriteRule ^index/?$ / [R=301,L]
+RewriteRule ^home/?$ / [R=301,L]
+RewriteRule ^medspa-newport-beach-ca/?$ / [R=301,L]
+RewriteRule ^methylene-blue/?$ / [R=301,L]
+RewriteRule ^no-surprises-act-compliance/?$ / [R=301,L]
+RewriteRule ^tms-for-restless-legs-syndrome-newport-beach-ca/?$ / [R=301,L]
+RewriteRule ^prp-treatment-newport-beach-ca/?$ / [R=301,L]
+RewriteRule ^infrared-light-therapy-newport-beach-ca/?$ / [R=301,L]
+RewriteRule ^5-benefits-of-longevity-medicine-you-need-to-know/?$ / [R=301,L]
+RewriteRule ^amino-acid-iv-therapy-a-promising-approach-for-addiction-detox-and-recovery/?$ / [R=301,L]
+RewriteRule ^tms-treatment-dip/?$ / [R=301,L]
+
+# --- Core Service Pages ---
+RewriteRule ^conservative-medication-management/?$ /medication-management [R=301,L]
+RewriteRule ^tms-newportbeach/?$ /newport-beach [R=301,L]
+RewriteRule ^tms-therapy-newport-beach-ca/?$ /newport-beach [R=301,L]
+RewriteRule ^concierge-psychiatry-newport-beach-ca/?$ /newport-beach [R=301,L]
+RewriteRule ^accelerated-tms-newport-beach-ca/?$ /accelerated-tms [R=301,L]
+RewriteRule ^accelerated-tms-orange-county/?$ /accelerated-tms [R=301,L]
+RewriteRule ^accelerated-tms-brainsway-swift-protocol/?$ /accelerated-tms [R=301,L]
+RewriteRule ^tms-for-substance-abuse/?$ /substance-abuse [R=301,L]
+RewriteRule ^tms-for-substance-abuse-newport-beach-ca/?$ /substance-abuse [R=301,L]
+RewriteRule ^ketamine-for-substance-abuse-newport-beach-ca/?$ /substance-abuse [R=301,L]
+RewriteRule ^weight-loss-in-orange-county/?$ /weight-loss [R=301,L]
+RewriteRule ^spravato-treatment-in-orange-county/?$ /spravato-therapy [R=301,L]
+RewriteRule ^spravato-treatment-orange-county/?$ /spravato-therapy [R=301,L]
+RewriteRule ^spravato-treatment/?$ /spravato-therapy [R=301,L]
+RewriteRule ^iv-ketamine-therapy-newport-beach-ca/?$ /spravato-therapy [R=301,L]
+RewriteRule ^ketamine-for-anxiety-newport-beach-ca/?$ /spravato-therapy [R=301,L]
+RewriteRule ^nad-iv-therapy/?$ /nad-therapy [R=301,L]
+RewriteRule ^iv-therapy-newport-beach-ca/?$ /iv-vitamin-therapy [R=301,L]
+RewriteRule ^cosmetic-injectables-newport-beach-ca/?$ /iv-vitamin-therapy [R=301,L]
+RewriteRule ^tms-for-condition-treatment/?$ /tms-therapy [R=301,L]
+RewriteRule ^what-to-expect-tms/?$ /tms-therapy [R=301,L]
+RewriteRule ^integrative-psychiatry-orange-county/?$ /integrative-psychiatry [R=301,L]
+RewriteRule ^integrative-psychiatry-newport-beach-ca/?$ /integrative-psychiatry [R=301,L]
+RewriteRule ^supplements-newport-beach-ca/?$ /supplements [R=301,L]
+RewriteRule ^supplements-that-can-offer-support-for-psychosis/?$ /supplements [R=301,L]
+RewriteRule ^cognitive-enhancement-orange-county/?$ /cognitive-enhancement [R=301,L]
+RewriteRule ^cannabis-induced-psychosis-dopamine/?$ /tms-for-cannabis-induced-psychosis [R=301,L]
+
+# --- Condition Pages ---
+RewriteRule ^tms-for-ptsd-orange-county/?$ /ptsd [R=301,L]
+RewriteRule ^tms-for-ptsd-newport-beach-ca/?$ /ptsd [R=301,L]
+RewriteRule ^ptsd-tms/?$ /ptsd [R=301,L]
+RewriteRule ^adhd-treatment-in-orange-county/?$ /adhd [R=301,L]
+RewriteRule ^adhd-treatment-orange-county/?$ /adhd [R=301,L]
+RewriteRule ^treatment-for-suicidal-ideation-oragne-county/?$ /suicidal-ideation [R=301,L]
+RewriteRule ^tms-for-anxiety-newport-beach-ca/?$ /anxiety [R=301,L]
+RewriteRule ^tms-for-ocd-newport-beach-ca/?$ /ocd [R=301,L]
+RewriteRule ^tms-for-depression-orange-county/?$ /depression [R=301,L]
+RewriteRule ^tms-for-depression-newport-beach-ca/?$ /depression [R=301,L]
+RewriteRule ^tms-for-bipolar-disorder/?$ /bipolar [R=301,L]
+RewriteRule ^tms-for-bipolar-disorder-newport-beach-ca/?$ /bipolar [R=301,L]
+RewriteRule ^autism-spectrum-support-orange-county/?$ /autism [R=301,L]
+RewriteRule ^mental-clarity-treatment-orange-county/?$ /mental-clarity [R=301,L]
+
+# --- Info / About Pages ---
+RewriteRule ^our-team/stefani-lafrenierre-md/?$ /team [R=301,L]
+RewriteRule ^our-team/heather-wong-dmsc-mpas-pa-c-caq-psych/?$ /team [R=301,L]
+RewriteRule ^our-team/regina-dizon-pmhnp-bc/?$ /team [R=301,L]
+RewriteRule ^our-team/milinda-estrada-pa-c/?$ /team [R=301,L]
+RewriteRule ^our-team/?$ /team [R=301,L]
+RewriteRule ^about-us/?$ /about [R=301,L]
+RewriteRule ^our-reviews/?$ /reviews [R=301,L]
+RewriteRule ^acceptable-use-policy/?$ /insurance [R=301,L]
+RewriteRule ^privacy-policy\./?$ /compliance [R=301,L]
+RewriteRule ^faq-1/?$ /tms-faq [R=301,L]
+
+# --- Blog Redirects (specific posts - full slugs from CSV) ---
+RewriteRule ^blog-deep-tms-cost\.php$ /blog-deep-tms-cost [R=301,L]
+RewriteRule ^blog/tms-for-depression-in-orange-county-patient-journey-results-and-what-to-know/?$ /depression [R=301,L]
+RewriteRule ^blog/tms-anxiety-south-orange-county/?$ /anxiety [R=301,L]
+RewriteRule ^blog/treating-ocd-with-tms-what-orange-county-patients-should-expect-from-first-session-to-results/?$ /blog-ocd-disability [R=301,L]
+RewriteRule ^blog/tms-helps-veterans-ptsd-orange-county/?$ /ptsd [R=301,L]
+RewriteRule ^blog/tms-for-anxiety-in-orange-county-integrating-brain-stimulation-with-therapy-and-lifestyle-changes/?$ /anxiety [R=301,L]
+RewriteRule ^blog/10-reasons-prp-facials/?$ / [R=301,L]
+RewriteRule ^blog/tms-therapy-for-high-performers-ending-the-cycle-of-workplace-stress/?$ /blog [R=301,L]
+RewriteRule ^blog/building-mental-resilience-how-to-strengthen-your-mindset-in-orange-county/?$ /blog [R=301,L]
+RewriteRule ^blog/2023/10/28/?$ /blog [R=301,L]
+RewriteRule ^blog/spravato-first-session-orange-county/?$ /spravato-therapy [R=301,L]
+RewriteRule ^blog/transcranial-magnetic-stimulation-tms-demystifying-a-revolutionary-treatment-for-mental-health/?$ / [R=301,L]
+RewriteRule ^blog/spravato-esketamine-therapy-the-cutting-edge-approach-to-depression-treatment-in-oc/?$ /spravato-therapy [R=301,L]
+RewriteRule ^blog/tms-for-ptsd-orange-county/?$ /ptsd [R=301,L]
+RewriteRule ^blog/spravato-treatment-guide-orange-county/?$ /spravato-therapy [R=301,L]
+RewriteRule ^blog/aesthetics-and-mental-wellness/?$ /blog [R=301,L]
+RewriteRule ^blog/a-complete-guide-to-tms-therapy-for-depression-in-orange-county/?$ /blog [R=301,L]
+RewriteRule ^blog/navigating-depression-recognizing-the-signs-preventing-relapse-and-promoting-recovery/?$ /blog [R=301,L]
+RewriteRule ^blog/am-i-depressed/?$ /blog [R=301,L]
+RewriteRule ^the-power-of-plant-based-antioxidants/?$ /blog [R=301,L]
+RewriteRule ^blog/the-power-of-plant-based-antioxidants/?$ /blog [R=301,L]
+RewriteRule ^navigating-depression-recognizing-the-signs-preventing-relapse-and-promoting-recovery/?$ /blog [R=301,L]
+RewriteRule ^blog/menopause-mental-health-insights/?$ /blog [R=301,L]
+
+# --- Blog Category/Feed Redirects ---
+RewriteRule ^blog/category/ptsd/feed/?$ /ptsd [R=301,L]
+RewriteRule ^blog/category/ptsd/?$ /ptsd [R=301,L]
+RewriteRule ^blog/aesthetic/?$ /blog [R=301,L]
+RewriteRule ^blog/nad/?$ /blog [R=301,L]
+RewriteRule ^blog/category/nad-therapy/?$ /blog [R=301,L]
+
+# --- Wildcard Redirects (WordPress leftovers) ---
+RewriteRule ^wp-content/themes/hello-elementor/ / [R=301,L]
+RewriteRule ^wp-content/themes/resiliency-theme/ / [R=301,L]
+RewriteRule ^wp-content/plugins/ / [R=301,L]
+RewriteRule ^wp-content/ / [R=301,L]
+RewriteRule ^wp-includes/ / [R=301,L]
+RewriteRule ^wp-.*\.php$ / [R=301,L]
+
+# =============================================================================
+# CLEAN URL ROUTING
+# Strip .php extension from URLs and serve files without extension
+# =============================================================================
+
+# Redirect /page.php to /page (remove .php from browser URL)
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^\ ]+)\.php
-RewriteRule ^/?(.*)\.php$ /$1 [L,R=301]
+RewriteRule ^/?(.*)\\.php$ /$1 [L,R=301]
 
 # Serve .php file if extensionless request matches a .php file
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteCond %{REQUEST_FILENAME}\\.php -f
 RewriteRule ^(.*)$ $1.php [L]
