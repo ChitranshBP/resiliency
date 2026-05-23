@@ -242,9 +242,9 @@
                             <!-- Internal Links Section -->
                             <div class="internal-links-section">
                                 <h3>Related Articles</h3>
+                                <a href="blog-deep-tms-anxiety" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> Deep TMS for Anxiety</a>
                                 <a href="blog-deep-tms-science" class="internal-link"><i data-lucide="brain" class="w-4 h-4 inline-block mr-1"></i> How Does Deep TMS Work? (Science Guide)</a>
                                 <a href="blog-deep-tms-cost" class="internal-link"><i data-lucide="dollar-sign" class="w-4 h-4 inline-block mr-1"></i> Deep TMS Cost Guide</a>
-                                <a href="blog-mental-health-awareness" class="internal-link"><i data-lucide="heart" class="w-4 h-4 inline-block mr-1"></i> Mental Health Awareness Month</a>
                             </div>
 
                         </div>
@@ -290,6 +290,15 @@
                             <div class="bg-gray-50 rounded-3xl p-8 border border-gray-100">
                                 <h3 class="text-xl font-bold text-[#0B2035] mb-6">Related Articles</h3>
                                 <div class="space-y-4">
+                                    <a href="blog-deep-tms-anxiety" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
+                                        <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
+                                            <i data-lucide="brain" class="w-5 h-5 text-[#23bfe2]"></i>
+                                        </div>
+                                        <div>
+                                            <p class="text-sm font-bold text-[#0B2035] group-hover:text-[#23bfe2] transition-colors leading-snug">Deep TMS for Anxiety Guide</p>
+                                            <p class="text-xs text-gray-400 font-light mt-1">May 23, 2026</p>
+                                        </div>
+                                    </a>
                                     <a href="blog-deep-tms-science" class="group flex items-start gap-4 p-4 rounded-xl hover:bg-white transition-colors">
                                         <div class="w-12 h-12 rounded-lg bg-[#0B2035] flex items-center justify-center flex-shrink-0">
                                             <i data-lucide="brain" class="w-5 h-5 text-[#23bfe2]"></i>

@@ -48,7 +48,28 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 reveal">
-                <!-- Article 0 - May 11 (Newest) -->
+                <!-- Article 0 - May 23 (Newest) -->
+                <a href="blog-deep-tms-anxiety" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/tms_anxiety_thumb.png" alt="Can Deep TMS Help Anxiety?" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="brain" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
+                    </div>
+                    <div class="p-8">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS</span>
+                            <span class="text-gray-400 text-sm font-light">May 23, 2026</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Can Deep TMS Help Anxiety? What You Should Know</h3>
+                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
+                            Explore whether Deep TMS can help regulate overactive neural pathways, calm anxiety symptoms, and offer a non-medication alternative.
+                        </p>
+                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
+                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Article 1 - May 11 -->
                 <a href="blog-mental-health-awareness" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
                         <img src="assets/images/service_wellness.png" alt="Mental Health Awareness Month - Wellness and Support" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -69,7 +90,7 @@
                     </div>
                 </a>
 
-                <!-- Article 1 - May 5 -->
+                <!-- Article 2 - May 5 -->
                 <a href="blog-deep-tms-autism" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
                         <img src="assets/images/autism_support.png" alt="Deep TMS for Autism - Clinical Consultation" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -90,7 +111,7 @@
                     </div>
                 </a>
 
-                <!-- Article 2 - April 26 -->
+                <!-- Article 3 - April 26 -->
                 <a href="blog-deep-tms-science" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
                         <img src="assets/images/patient_tms_machine.jpg" alt="Patient receiving Deep TMS Therapy treatment" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -111,7 +132,7 @@
                     </div>
                 </a>
 
-                <!-- Article 2 - April 19 -->
+                <!-- Article 4 - April 19 -->
                 <a href="blog-ocd-disability" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
                         <img src="assets/images/ocd_relief.png" alt="OCD Relief and Recovery" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -132,7 +153,7 @@
                     </div>
                 </a>
 
-                <!-- Article 3 - April 12 -->
+                <!-- Article 5 - April 12 -->
                 <a href="blog-spravato-insurance" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
                         <img src="assets/images/spravato_consultation.jpg" alt="Dr. LaFrenierre consulting with a patient about Spravato treatment" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -153,7 +174,7 @@
                     </div>
                 </a>
 
-                <!-- Article 4 - April 7 (Oldest) -->
+                <!-- Article 6 - April 7 (Oldest) -->
                 <a href="blog-deep-tms-cost" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-56 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center relative">
                         <img src="assets/images/dr-l-tms-session.png" alt="Dr. LaFrenierre Administering Deep TMS Treatment" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
