@@ -30,7 +30,7 @@ SCHEMA;
                     <span class="text-[#23bfe2] text-xs sm:text-sm font-bold tracking-widest uppercase">Virtual Care</span>
                 </div>
                 <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight mb-4 sm:mb-6">
-                    Telehealth <span class="text-[#23bfe2] font-light">Appointments</span>
+                    Telepsychiatry <span class="text-[#23bfe2] font-light">Appointments</span>
                     <span class="block text-base sm:text-lg md:text-xl font-normal text-white/70 mt-2 tracking-normal">Serving Newport Beach, San Juan Capistrano &amp; All of California</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-gray-200 mb-6 sm:mb-10 leading-relaxed font-light max-w-2xl">
