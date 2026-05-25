@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Contact Resiliency Mind + Body Medicine in Newport Beach & San Juan Capistrano, CA';
+$page_description = 'Contact Resiliency Mind + Body Medicine in Newport Beach & San Juan Capistrano, CA. Schedule your psychiatric consultation for Deep TMS, Spravato & comprehensive mental health care.';
+$page_keywords    = 'contact Newport Beach, psychiatric consultation San Juan Capistrano, schedule appointment Orange County, book psychiatrist Newport Beach CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/contact';
+?>
 <?php include 'header.php'; ?>
 
 <main>

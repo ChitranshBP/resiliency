@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Proliv™Rx At-Home TMS Newport Beach | FDA-Approved Home Neuromodulation | Resiliency Mind + Body Medicine®';
-$page_description = 'Proliv™Rx — the first FDA-approved at-home brain neuromodulation device for treatment-resistant depression. Prescribed &amp; supervised by our Newport Beach &amp; Orange County psychiatrists. Call (949) 996-5355.';
-$page_keywords    = 'Proliv Rx Newport Beach, at-home TMS Orange County, home neuromodulation Newport Beach CA, FDA approved home TMS Orange County, treatment-resistant depression device Newport Beach, at-home brain stimulation Orange County CA';
+$page_title       = 'Proliv™Rx At-Home TMS in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'FDA-approved at-home brain neuromodulation in Newport Beach & San Juan Capistrano, CA. Proliv™Rx prescribed and supervised by our board-certified psychiatrists.';
+$page_keywords    = 'Proliv Rx Newport Beach, at-home TMS San Juan Capistrano, home neuromodulation Orange County, FDA approved home TMS Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/proliv-rx';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

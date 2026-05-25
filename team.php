@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Meet Our Team in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Meet our board-certified psychiatrists & clinical team in Newport Beach & San Juan Capistrano, CA. Expert mental health care with compassionate, personalized treatment.';
+$page_keywords    = 'team Newport Beach, psychiatrists San Juan Capistrano, clinical team Orange County, mental health providers Newport Beach CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/team';
+?>
 <?php include 'header.php'; ?>
 
 <main>

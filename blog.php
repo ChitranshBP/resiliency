@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Psychiatric Blog in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Insights and education on Deep TMS, Spravato, depression, anxiety, OCD & mental health from Newport Beach & San Juan Capistrano, CA psychiatrists.';
+$page_keywords    = 'psychiatric blog Newport Beach, mental health San Juan Capistrano, TMS blog Orange County, psychiatry education Newport Beach CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/blog';
+?>
 <?php include 'header.php'; ?>
 
 <main>

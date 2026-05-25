@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'OCD Treatment Newport Beach | FDA-Cleared Deep TMS for OCD | Resiliency Mind + Body Medicine®';
-$page_description = 'FDA-cleared Deep TMS &amp; comprehensive OCD treatment in Newport Beach &amp; San Juan Capistrano, CA. BrainsWay® Deep TMS is the only FDA-cleared device for OCD. Call (949) 996-5355.';
-$page_keywords    = 'OCD treatment Newport Beach, TMS for OCD Orange County, Deep TMS OCD Newport Beach CA, OCD psychiatrist Orange County, obsessive compulsive disorder treatment Newport Beach, BrainsWay OCD TMS Orange County, OCD therapy Newport Beach';
+$page_title       = 'Deep TMS for OCD Treatment in Newport Beach & San Juan Capistrano | Resiliency Mind + Body Medicine®';
+$page_description = 'FDA-cleared BrainsWay Deep TMS for OCD in Newport Beach & San Juan Capistrano, CA. The only FDA-cleared device specifically for OCD treatment.';
+$page_keywords    = 'OCD treatment Newport Beach, Deep TMS OCD San Juan Capistrano, BrainsWay TMS OCD Orange County, obsessive compulsive disorder treatment California, OCD therapy Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/ocd';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

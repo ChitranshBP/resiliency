@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'PTSD Treatment Newport Beach &amp; Orange County | Deep TMS &amp; Psychiatric Care | Resiliency Mind + Body Medicine®';
-$page_description = 'Compassionate PTSD treatment in Newport Beach &amp; Orange County, CA. FDA-approved Deep TMS, Spravato &amp; medication management to help you find peace and healing. Call (949) 996-5355.';
-$page_keywords    = 'PTSD treatment Newport Beach, PTSD psychiatrist Orange County, TMS for PTSD Newport Beach CA, trauma treatment Orange County, PTSD therapy Newport Beach, post-traumatic stress disorder treatment Orange County CA, PTSD doctor Newport Beach';
+$page_title       = 'Deep TMS for PTSD Treatment in Newport Beach & San Juan Capistrano | Resiliency Mind + Body Medicine®';
+$page_description = 'Compassionate PTSD treatment in Newport Beach & San Juan Capistrano, CA. FDA-approved Deep TMS, Spravato & medication management for trauma survivors.';
+$page_keywords    = 'PTSD treatment Newport Beach, trauma therapy San Juan Capistrano, Deep TMS PTSD Orange County, post-traumatic stress disorder treatment Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/ptsd';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

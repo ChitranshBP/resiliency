@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Cognitive Enhancement Newport Beach &amp; Orange County | Brain Optimization | Resiliency Mind + Body Medicine®';
-$page_description = 'Physician-supervised cognitive enhancement in Newport Beach &amp; Orange County, CA. NAD+ therapy, targeted supplements, metabolic optimization &amp; neuromodulation for peak brain performance. Call (949) 996-5355.';
-$page_keywords    = 'cognitive enhancement Newport Beach, brain optimization Orange County, cognitive performance Newport Beach CA, brain enhancement Orange County, NAD therapy cognitive Newport Beach, neuromodulation brain boost Orange County CA, cognitive enhancement doctor Newport Beach';
+$page_title       = 'Cognitive Enhancement in Newport Beach & San Juan Capistrano | Resiliency Mind + Body Medicine®';
+$page_description = 'Physician-supervised cognitive enhancement in Newport Beach & San Juan Capistrano, CA. NAD+ therapy, targeted supplements, metabolic optimization & neuromodulation for peak brain performance.';
+$page_keywords    = 'cognitive enhancement Newport Beach, brain optimization San Juan Capistrano, NAD therapy cognitive Orange County, brain performance Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/cognitive-enhancement';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

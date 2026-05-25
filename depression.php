@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Depression Treatment Newport Beach &amp; Orange County | TMS, Spravato &amp; Psychiatry | Resiliency Mind + Body Medicine®';
-$page_description = 'Comprehensive depression treatment in Newport Beach &amp; Orange County, CA. Deep TMS, Spravato, &amp; medication management for major depression &amp; treatment-resistant depression. Call (949) 996-5355.';
-$page_keywords    = 'depression treatment Newport Beach, depression psychiatrist Orange County, TMS for depression Newport Beach, Spravato depression Orange County, major depressive disorder treatment Newport Beach CA, treatment-resistant depression Orange County, depression doctor Newport Beach, psychiatrist for depression Orange County CA';
+$page_title       = 'Deep TMS for Depression Treatment in Newport Beach & San Juan Capistrano | Resiliency Mind + Body Medicine®';
+$page_description = 'Comprehensive depression treatment in Newport Beach & San Juan Capistrano, CA. Deep TMS, Spravato & medication management for major depression & treatment-resistant depression.';
+$page_keywords    = 'depression treatment Newport Beach, TMS depression San Juan Capistrano, Spravato Orange County, treatment-resistant depression Newport Beach CA, major depressive disorder treatment Orange County';
 $page_canonical   = 'https://resiliencymbmedicine.com/depression';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

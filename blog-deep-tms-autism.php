@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can Deep TMS Help Autism? What Patients Should Know | Resiliency Mind+Body Medicine</title>
+    <title>Can Deep TMS Help Autism? Patient Guide | Resiliency Mind+Body Medicine®</title>
+    <meta name="description" content="Explore whether Deep TMS can help autism spectrum disorder. Learn about TMS applications for ASD in Newport Beach & San Juan Capistrano, CA.">
+    <meta name="keywords" content="Deep TMS autism Newport Beach, TMS ASD San Juan Capistrano, autism treatment Orange County, TMS autism research California">
+    <link rel="canonical" href="https://resiliencymbmedicine.com/blog-deep-tms-autism">
+    <meta name="robots" content="index, follow">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">

@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Autism Spectrum Support Newport Beach &amp; Orange County | Psychiatric Care for ASD | Resiliency Mind + Body Medicine®';
-$page_description = 'Specialized psychiatric support for autism spectrum disorder (ASD) in Newport Beach &amp; Orange County, CA. Compassionate, individualized care addressing co-occurring mental health conditions. Call (949) 996-5355.';
-$page_keywords    = 'autism spectrum support Newport Beach, ASD psychiatrist Orange County, autism psychiatric care Newport Beach CA, autism spectrum disorder treatment Orange County, autism doctor Newport Beach, ASD mental health Orange County CA';
+$page_title       = 'Autism Spectrum Support in Newport Beach & San Juan Capistrano | Resiliency Mind + Body Medicine®';
+$page_description = 'Specialized psychiatric support for autism spectrum disorder (ASD) in Newport Beach & San Juan Capistrano, CA. Compassionate, individualized care addressing co-occurring mental health conditions.';
+$page_keywords    = 'autism spectrum support Newport Beach, ASD care San Juan Capistrano, autism psychiatrist Orange County, adult autism treatment Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/autism';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Telehealth Psychiatry Orange County &amp; California | Secure Video Appointments | Resiliency Mind + Body Medicine®';
-$page_description = 'HIPAA-compliant telehealth psychiatric appointments for Orange County &amp; California patients. Access expert psychiatric care from home. Board-certified psychiatrist, same-day availability. Call (949) 996-5355.';
-$page_keywords    = 'telehealth psychiatry Orange County, online psychiatrist Newport Beach, virtual psychiatry California, telehealth mental health Orange County CA, remote psychiatrist Newport Beach, online psychiatric care California, telehealth ADHD treatment Orange County';
+$page_title       = 'Telehealth Psychiatry in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'HIPAA-compliant telehealth psychiatry serving Newport Beach & San Juan Capistrano, CA. Secure video psychiatric appointments with board-certified psychiatrists.';
+$page_keywords    = 'telehealth psychiatry Newport Beach, online psychiatrist San Juan Capistrano, virtual psychiatry Orange County, telehealth mental health Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/telehealth';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

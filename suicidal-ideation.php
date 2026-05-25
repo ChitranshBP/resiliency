@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Suicidal Ideation Treatment Newport Beach | Spravato &amp; TMS Crisis Care | Resiliency Mind + Body Medicine®';
-$page_description = 'Compassionate, evidence-based treatment for suicidal ideation in Newport Beach &amp; Orange County, CA. Spravato® &amp; Deep TMS provide rapid relief for severe depression &amp; suicidal thoughts. Call (949) 996-5355.';
-$page_keywords    = 'suicidal ideation treatment Newport Beach, Spravato suicidal ideation Orange County, crisis psychiatric care Newport Beach CA, suicidal thoughts treatment Orange County, rapid depression treatment Newport Beach, TMS suicidal ideation Orange County CA';
+$page_title       = 'Suicidal Ideation Treatment in Newport Beach & San Juan Capistrano | Resiliency Mind + Body Medicine®';
+$page_description = 'Compassionate treatment for suicidal ideation in Newport Beach & San Juan Capistrano, CA. Spravato & Deep TMS provide rapid relief for crisis situations.';
+$page_keywords    = 'suicidal ideation treatment Newport Beach, crisis care San Juan Capistrano, Spravato suicidal ideation Orange County, depression crisis treatment Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/suicidal-ideation';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

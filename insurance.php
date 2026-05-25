@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Insurance Coverage for TMS & Psychiatry in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Insurance information for TMS, Spravato & psychiatric treatment in Newport Beach & San Juan Capistrano, CA. Most major insurance plans accepted including Aetna, Anthem, Cigna & United.';
+$page_keywords    = 'insurance Newport Beach, TMS coverage San Juan Capistrano, psychiatric insurance Orange County, insurance accepted Newport Beach CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/insurance';
+?>
 <?php include 'header.php'; ?>
 
 <main>

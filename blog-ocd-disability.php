@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Is OCD a Disability? Understanding Legal, Clinical, and Functional Impact | Resiliency Mind+Body Medicine®</title>
+    <title>Is OCD a Disability? Understanding Your Options | Resiliency Mind+Body Medicine®</title>
+    <meta name="description" content="Understand legal, clinical & functional impact of OCD and explore Deep TMS treatment options in Newport Beach & San Juan Capistrano, CA.">
+    <meta name="keywords" content="OCD disability Newport Beach, OCD legal San Juan Capistrano, OCD treatment Orange County, Deep TMS OCD California">
+    <link rel="canonical" href="https://resiliencymbmedicine.com/blog-ocd-disability">
+    <meta name="robots" content="index, follow">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">

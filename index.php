@@ -1,4 +1,8 @@
 <?php
+$page_title       = 'Deep TMS & Psychiatric Care in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Orange County\'s leading psychiatric clinic offering FDA-cleared Deep TMS, Spravato, and personalized mental health treatment in Newport Beach and San Juan Capistrano, CA.';
+$page_keywords    = 'Deep TMS Newport Beach, psychiatric care Orange County, TMS therapy San Juan Capistrano, Spravato treatment Newport Beach, depression anxiety treatment Orange County, psychiatrist Newport Beach CA, mental health clinic San Juan Capistrano';
+$page_canonical   = 'https://resiliencymbmedicine.com/';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {

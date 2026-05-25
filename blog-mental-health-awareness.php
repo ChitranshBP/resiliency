@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>What Is Mental Health Awareness Month and Why Does It Matter? | Resiliency Mind+Body Medicine</title>
+    <title>Mental Health Awareness Month: Why It Matters | Resiliency Mind+Body Medicine®</title>
+    <meta name="description" content="Learn why Mental Health Awareness Month matters and how to access support for depression, anxiety, OCD & more in Newport Beach & San Juan Capistrano, CA.">
+    <meta name="keywords" content="mental health awareness Newport Beach, mental health month San Juan Capistrano, psychiatry Orange County, depression anxiety support California">
+    <link rel="canonical" href="https://resiliencymbmedicine.com/blog-mental-health-awareness">
+    <meta name="robots" content="index, follow">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">

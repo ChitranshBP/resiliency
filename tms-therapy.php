@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Deep TMS Therapy Newport Beach &amp; Orange County | FDA-Cleared Depression Treatment | Resiliency Mind + Body Medicine®';
-$page_description = 'FDA-cleared Deep TMS therapy for depression, anxiety &amp; OCD at our Newport Beach &amp; San Juan Capistrano clinics. Non-invasive, medication-free treatment with 93% response rates. Call (949) 996-5355.';
-$page_keywords    = 'Deep TMS therapy Newport Beach, TMS therapy Orange County, TMS for depression Newport Beach, BrainsWay Deep TMS Orange County, non-invasive depression treatment Newport Beach, TMS therapy San Juan Capistrano, neuromodulation Orange County, TMS treatment Orange County CA';
+$page_title       = 'Deep TMS Therapy in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'FDA-cleared Deep TMS therapy for depression, anxiety & OCD in Newport Beach & San Juan Capistrano, CA. Non-invasive, medication-free treatment with 93% response rates.';
+$page_keywords    = 'Deep TMS therapy Newport Beach, TMS treatment San Juan Capistrano, BrainsWay Deep TMS Orange County, transcranial magnetic stimulation Newport Beach CA, TMS depression anxiety OCD';
 $page_canonical   = 'https://resiliencymbmedicine.com/tms-therapy';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

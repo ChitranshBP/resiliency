@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Pharmacogenetic Testing Newport Beach | DNA-Guided Medication Selection | Resiliency Mind + Body Medicine®';
-$page_description = 'Pharmacogenetic (PGx) testing in Newport Beach &amp; Orange County, CA. DNA-guided psychiatric medication selection to find the right medication faster with fewer side effects. Call (949) 996-5355.';
-$page_keywords    = 'pharmacogenetic testing Newport Beach, PGx testing Orange County, DNA medication testing Newport Beach CA, genetic psychiatric testing Orange County, pharmacogenomics Newport Beach, medication gene testing Orange County CA';
+$page_title       = 'Pharmacogenetic Testing in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'DNA-guided medication selection in Newport Beach & San Juan Capistrano, CA. PGx testing identifies optimal psychiatric medications with fewer side effects.';
+$page_keywords    = 'pharmacogenetic testing Newport Beach, PGx testing San Juan Capistrano, DNA medication Orange County, genetic testing psychiatry Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/pharmacogenetic-testing';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

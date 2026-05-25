@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How Does Deep TMS Therapy Work? A Complete Scientific and Clinical Guide | Resiliency Mind+Body Medicine®</title>
+    <title>How Deep TMS Therapy Works: Scientific Guide | Resiliency Mind+Body Medicine®</title>
+    <meta name="description" content="A complete scientific and clinical guide to Deep TMS therapy. Learn how transcranial magnetic stimulation works for depression & anxiety in Newport Beach & San Juan Capistrano, CA.">
+    <meta name="keywords" content="Deep TMS science Newport Beach, TMS mechanism San Juan Capistrano, transcranial magnetic stimulation Orange County, TMS how it works California">
+    <link rel="canonical" href="https://resiliencymbmedicine.com/blog-deep-tms-science">
+    <meta name="robots" content="index, follow">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">

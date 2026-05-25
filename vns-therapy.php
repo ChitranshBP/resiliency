@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'VNS Therapy Newport Beach | Vagus Nerve Stimulation for Depression | Resiliency Mind + Body Medicine®';
-$page_description = 'Vagus Nerve Stimulation (VNS) therapy using LivaNova Symmetry™ for treatment-resistant depression &amp; epilepsy in Newport Beach &amp; Orange County, CA. FDA-cleared implantable neuromodulation. Call (949) 996-5355.';
-$page_keywords    = 'VNS therapy Newport Beach, vagus nerve stimulation Orange County, VNS depression Newport Beach CA, LivaNova therapy Orange County, treatment-resistant depression VNS Newport Beach, vagus nerve stimulation therapy Orange County CA';
+$page_title       = 'VNS Therapy in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Vagus nerve stimulation (VNS) for depression in Newport Beach & San Juan Capistrano, CA. FDA-cleared implantable neuromodulation with LivaNova Symmetry System.';
+$page_keywords    = 'VNS therapy Newport Beach, vagus nerve stimulation San Juan Capistrano, VNS depression Orange County, LivaNova therapy Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/vns-therapy';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

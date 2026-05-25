@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Spravato® (Esketamine) Treatment Newport Beach | Treatment-Resistant Depression | Resiliency Mind + Body Medicine®';
-$page_description = 'Spravato® (esketamine nasal spray) for treatment-resistant depression &amp; suicidal ideation in Newport Beach &amp; Orange County. FDA-approved, in-office ketamine treatment. Call (949) 996-5355.';
-$page_keywords    = 'Spravato treatment Newport Beach, esketamine therapy Orange County, ketamine nasal spray Newport Beach, treatment-resistant depression Orange County, Spravato Orange County CA, ketamine treatment Newport Beach, Spravato San Juan Capistrano';
+$page_title       = 'Spravato® Treatment in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Spravato® (esketamine nasal spray) for treatment-resistant depression in Newport Beach & San Juan Capistrano, CA. FDA-approved, physician-supervised in-office treatment.';
+$page_keywords    = 'Spravato treatment Newport Beach, esketamine San Juan Capistrano, ketamine nasal spray Orange County, treatment-resistant depression Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/spravato-therapy';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

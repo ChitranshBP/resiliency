@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Is Spravato Covered by Insurance? A Complete 2026 Guide | Resiliency Mind+Body Medicine®</title>
+    <title>Does Insurance Cover Spravato? Complete 2026 Guide | Resiliency Mind+Body Medicine®</title>
+    <meta name="description" content="Complete guide to Spravato insurance coverage in 2026. Learn about Medicare, commercial insurance, and financial options for treatment-resistant depression in Newport Beach & San Juan Capistrano, CA.">
+    <meta name="keywords" content="Spravato insurance Newport Beach, esketamine coverage San Juan Capistrano, treatment-resistant depression Orange County, Spravato Medicare California">
+    <link rel="canonical" href="https://resiliencymbmedicine.com/blog-spravato-insurance">
+    <meta name="robots" content="index, follow">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">

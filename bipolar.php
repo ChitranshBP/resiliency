@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Bipolar Disorder Treatment Newport Beach &amp; Orange County | Mood Stabilization | Resiliency Mind + Body Medicine®';
-$page_description = 'Multi-modality bipolar disorder treatment in Newport Beach &amp; Orange County, CA. Deep TMS, Spravato &amp; expert medication management for mood stabilization. Board-certified psychiatrist. Call (949) 996-5355.';
-$page_keywords    = 'bipolar disorder treatment Newport Beach, bipolar psychiatrist Orange County, mood disorder treatment Newport Beach CA, bipolar medication management Orange County, bipolar disorder doctor Newport Beach, mood stabilization psychiatry Orange County CA, TMS for bipolar Orange County';
+$page_title       = 'Bipolar Disorder Treatment in Newport Beach & San Juan Capistrano | Resiliency Mind + Body Medicine®';
+$page_description = 'Multi-modality bipolar disorder treatment in Newport Beach & San Juan Capistrano, CA. Deep TMS, Spravato & mood stabilization care from board-certified psychiatrists.';
+$page_keywords    = 'bipolar disorder treatment Newport Beach, mood stabilization San Juan Capistrano, bipolar psychiatrist Orange County, bipolar medication management Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/bipolar';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

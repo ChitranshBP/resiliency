@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Can Deep TMS Help Anxiety? What You Should Know | Resiliency Mind+Body Medicine®';
-$page_description = 'Explore whether Deep TMS can help regulate overactive neural pathways, calm anxiety symptoms, and offer a non-medication alternative.';
-$page_keywords    = 'Deep TMS anxiety, anxiety treatment Newport Beach, off-label TMS anxiety, neuroplasticity anxiety';
+$page_title       = 'Deep TMS for Anxiety: What You Should Know | Resiliency Mind+Body Medicine®';
+$page_description = 'Explore whether Deep TMS can help regulate overactive neural pathways, calm anxiety symptoms, and offer a non-medication alternative for anxiety treatment.';
+$page_keywords    = 'Deep TMS anxiety Newport Beach, anxiety treatment San Juan Capistrano, TMS neuroplasticity Orange County, off-label TMS anxiety California';
 $page_canonical   = 'https://resiliencymbmedicine.com/blog-deep-tms-anxiety';
 $page_schema      = <<<'SCHEMA'
 <script type="application/ld+json">

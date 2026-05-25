@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'FAQs About Psychiatry in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Frequently asked questions about Deep TMS, Spravato & psychiatric treatment in Newport Beach & San Juan Capistrano, CA. Find answers to common questions about our services.';
+$page_keywords    = 'FAQs Newport Beach, TMS questions San Juan Capistrano, psychiatric FAQ Orange County, Spravato questions Newport Beach CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/faqs';
+?>
 <?php include 'header.php'; ?>
 
 <main>

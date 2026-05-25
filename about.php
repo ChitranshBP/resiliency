@@ -1,4 +1,8 @@
 <?php
+$page_title       = 'About Resiliency Mind + Body Medicine in Newport Beach & San Juan Capistrano, CA';
+$page_description = 'Orange County\'s leading psychiatric clinic in Newport Beach & San Juan Capistrano, CA. Deep TMS, Spravato & integrative mental health care led by Dr. Stefani LaFrenierre.';
+$page_keywords    = 'about Resiliency Newport Beach, psychiatric clinic San Juan Capistrano, Dr. LaFrenierre Orange County, mental health clinic Newport Beach CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/about';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {

@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'IV Vitamin Therapy Newport Beach &amp; Orange County | Energy, Wellness &amp; Recovery Infusions | Resiliency Mind + Body Medicine®';
-$page_description = 'Physician-supervised IV vitamin &amp; nutrient infusions in Newport Beach &amp; San Juan Capistrano, CA. Boost energy, mental clarity, immunity, and recovery. Call (949) 996-5355.';
-$page_keywords    = 'IV vitamin therapy Newport Beach, IV infusion Orange County, vitamin drip Newport Beach CA, IV therapy San Juan Capistrano, nutrient infusion Orange County, IV hydration Newport Beach, wellness infusion Orange County CA';
+$page_title       = 'IV Vitamin Therapy in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Physician-supervised IV vitamin infusions in Newport Beach & San Juan Capistrano, CA. Boost energy, immunity & recovery with customized nutrient therapy.';
+$page_keywords    = 'IV vitamin therapy Newport Beach, IV infusion San Juan Capistrano, vitamin drip Orange County, nutrient therapy Newport Beach CA, wellness IV treatment';
 $page_canonical   = 'https://resiliencymbmedicine.com/iv-vitamin-therapy';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

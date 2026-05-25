@@ -1,3 +1,9 @@
+<?php
+$page_title       = 'Patient Reviews in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Read patient reviews for Resiliency Mind + Body Medicine in Newport Beach & San Juan Capistrano, CA. Real patient experiences with Deep TMS, Spravato & psychiatric care.';
+$page_keywords    = 'patient reviews Newport Beach, testimonials San Juan Capistrano, TMS reviews Orange County, patient feedback Newport Beach CA';
+$page_canonical   = 'https://resiliencymbmedicine.com/reviews';
+?>
 <?php include 'header.php'; ?>
 
 <main>

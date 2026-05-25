@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Accelerated Deep TMS SWIFT Protocol Newport Beach | 6-Day Depression Treatment | Resiliency Mind + Body Medicine®';
-$page_description = 'Accelerated Deep TMS using BrainsWay SWIFT Protocol — intensive 6-day depression treatment in Newport Beach &amp; San Juan Capistrano, CA. Faster remission for treatment-resistant depression. Call (949) 996-5355.';
-$page_keywords    = 'accelerated TMS Newport Beach, SWIFT protocol TMS Orange County, intensive TMS therapy Newport Beach, accelerated TMS San Juan Capistrano, SAINT protocol TMS Orange County, rapid TMS depression treatment Newport Beach, BrainsWay SWIFT TMS California';
+$page_title       = 'Accelerated Deep TMS (SWIFT) in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Accelerated Deep TMS SWIFT Protocol — intensive 6-day depression treatment in Newport Beach & San Juan Capistrano, CA. Faster remission for treatment-resistant depression.';
+$page_keywords    = 'accelerated TMS Newport Beach, SWIFT protocol San Juan Capistrano, intensive TMS therapy Orange County, SAINT protocol TMS Newport Beach CA, rapid depression treatment';
 $page_canonical   = 'https://resiliencymbmedicine.com/accelerated-tms';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Anxiety Treatment Newport Beach &amp; Orange County | TMS &amp; Psychiatric Care | Resiliency Mind + Body Medicine®';
-$page_description = 'Expert anxiety treatment in Newport Beach &amp; Orange County, CA. Deep TMS therapy, medication management &amp; integrative psychiatry for generalized anxiety, panic disorder &amp; social anxiety. Call (949) 996-5355.';
-$page_keywords    = 'anxiety treatment Newport Beach, anxiety psychiatrist Orange County, TMS for anxiety Newport Beach, generalized anxiety disorder treatment Orange County CA, panic disorder treatment Newport Beach, social anxiety psychiatrist Orange County, anxiety doctor Newport Beach CA';
+$page_title       = 'Deep TMS for Anxiety Treatment in Newport Beach & San Juan Capistrano | Resiliency Mind + Body Medicine®';
+$page_description = 'Expert anxiety treatment in Newport Beach & San Juan Capistrano, CA. Deep TMS therapy, medication management & integrative psychiatry for generalized anxiety, panic disorder & social anxiety.';
+$page_keywords    = 'anxiety treatment Newport Beach, anxiety TMS San Juan Capistrano, anxiety psychiatrist Orange County, panic disorder treatment Newport Beach CA, social anxiety therapy Orange County';
 $page_canonical   = 'https://resiliencymbmedicine.com/anxiety';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">

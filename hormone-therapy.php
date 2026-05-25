@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Hormone Therapy Newport Beach | HRT &amp; Metabolic Optimization | Resiliency Mind + Body Medicine®';
-$page_description = 'Comprehensive hormone assessment &amp; replacement therapy in Newport Beach &amp; Orange County, CA. Address mood, energy, cognition &amp; vitality with evidence-based HRT. Call (949) 996-5355.';
-$page_keywords    = 'hormone therapy Newport Beach, HRT Orange County CA, hormone replacement therapy Newport Beach, testosterone therapy Orange County, menopause treatment Newport Beach, bioidentical hormones Orange County, hormone optimization San Juan Capistrano';
+$page_title       = 'Hormone Therapy in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Comprehensive hormone replacement therapy in Newport Beach & San Juan Capistrano, CA. Address mood, energy, cognition & vitality with evidence-based HRT.';
+$page_keywords    = 'hormone therapy Newport Beach, HRT San Juan Capistrano, hormone replacement Orange County, bioidentical hormones Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/hormone-therapy';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
