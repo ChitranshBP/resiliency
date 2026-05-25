@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Medical Weight Loss Newport Beach | Semaglutide &amp; Tirzepatide Programs | Resiliency Mind + Body Medicine®';
-$page_description = 'Physician-supervised medical weight loss in Newport Beach &amp; Orange County using FDA-approved GLP-1 medications (semaglutide, tirzepatide). Personalized programs with nutritional coaching. Call (949) 996-5355.';
-$page_keywords    = 'medical weight loss Newport Beach, semaglutide Newport Beach, tirzepatide Orange County, GLP-1 weight loss Orange County CA, weight loss doctor Newport Beach, medical weight loss San Juan Capistrano, Wegovy Newport Beach, Ozempic weight loss Orange County';
+$page_title       = 'Medical Weight Loss in Newport Beach & San Juan Capistrano, CA | Resiliency Mind + Body Medicine®';
+$page_description = 'Physician-supervised medical weight loss in Newport Beach & San Juan Capistrano, CA using FDA-approved GLP-1 medications (semaglutide, tirzepatide). Personalized programs with nutritional coaching.';
+$page_keywords    = 'medical weight loss Newport Beach, medical weight loss San Juan Capistrano, semaglutide Orange County, tirzepatide San Juan Capistrano, GLP-1 weight loss California, weight loss doctor Newport Beach CA';
 $page_canonical   = 'https://resiliencymbmedicine.com/weight-loss';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
