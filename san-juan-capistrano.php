@@ -1,4 +1,8 @@
 <?php
+$page_title       = 'Psychiatric Clinic in San Juan Capistrano, CA | Deep TMS & Spravato | Resiliency Mind + Body Medicine®';
+$page_description = 'Psychiatric clinic in San Juan Capistrano, CA offering Deep TMS, Spravato, medication management, IV therapy & integrative psychiatry. Serving Orange County.';
+$page_keywords    = 'psychiatric clinic San Juan Capistrano, TMS therapy San Juan Capistrano, Spravato Orange County, psychiatrist San Juan Capistrano CA, mental health clinic';
+$page_canonical   = 'https://resiliencymbmedicine.com/san-juan-capistrano';
 $page_schema = <<<'SCHEMA'
 <script type="application/ld+json">
 {
