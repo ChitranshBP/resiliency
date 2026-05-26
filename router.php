@@ -48,7 +48,7 @@ $redirects = [
     '/weight-loss-in-orange-county'                                 => '/weight-loss',
     '/spravato-treatment-in-orange-county'                          => '/spravato-therapy',
     '/spravato-treatment-orange-county'                             => '/spravato-therapy',
-    '/spravato-treatment'                                           => '/spravato-therapy',
+    '/spravato-therapy'                                          => '/spravato-therapy',
     '/iv-ketamine-therapy-newport-beach-ca'                         => '/spravato-therapy',
     '/ketamine-for-anxiety-newport-beach-ca'                        => '/spravato-therapy',
     '/nad-iv-therapy'                                               => '/nad-therapy',
@@ -197,6 +197,12 @@ if ($normalizedUri !== '/' && is_file($phpFile)) {
 // Serve index.php for root
 if ($normalizedUri === '/') {
     include __DIR__ . '/index.php';
+    exit;
+}
+
+// Serve the spravato-treatment landing page
+if ($normalizedUri === '/spravato-treatment') {
+    include __DIR__ . '/spravato-treatment/index.html';
     exit;
 }
 
