@@ -111,7 +111,7 @@ $page_schema = '';
                     <span class="text-secondary text-xs sm:text-sm md:text-base font-semibold tracking-[0.1em] sm:tracking-[0.15em] md:tracking-[0.2em] uppercase">Irvine, California</span>
                 </div>
                 <h1 class="font-sans text-xl sm:text-2xl md:text-2xl lg:text-4xl xl:text-5xl font-bold text-white leading-tight mb-2 sm:mb-3 md:mb-5">Deep TMS, Spravato® & ProLivRx™ <span class="block sm:inline text-secondary">Mental Health Treatment in Irvine, CA</span></h1>
-                <p class="text-white/80 text-sm sm:text-base md:text-base lg:text-lg leading-relaxed mb-4 sm:mb-5 md:mb-6 max-w-sm sm:max-w-md md:max-w-lg">Advanced, FDA-approved treatments for depression in Irvine. Deep TMS, Spravato® (esketamine), and ProLivRx™—personalized care for lasting relief.</p>
+                <p class="text-white/80 text-sm sm:text-base md:text-base lg:text-lg leading-relaxed mb-4 sm:mb-5 md:mb-6 max-w-sm sm:max-w-md md:max-w-lg">Advanced, FDA-approved treatments for depression in Irvine. Deep TMS, Spravato® (esketamine), and ProLivRx™ — personalized care for lasting relief.</p>
                 <div class="flex flex-col sm:flex-row gap-2 sm:gap-3 md:gap-4">
                     <a href="#treatments" class="px-5 sm:px-5 md:px-8 py-2.5 sm:py-2.5 md:py-3.5 bg-secondary text-primary rounded-full font-semibold text-sm sm:text-sm md:text-base hover:bg-white hover:shadow-xl transition-all whitespace-nowrap text-center">Explore Treatments →</a>
                     <a href="tel:+19499965355" class="px-5 sm:px-5 md:px-8 py-2.5 sm:py-2.5 md:py-3.5 bg-transparent border-2 border-white/30 text-white rounded-full font-semibold text-sm sm:text-sm md:text-base hover:border-secondary hover:text-secondary transition-all text-center">Call (949) 996-5355</a>
@@ -179,7 +179,7 @@ $page_schema = '';
                         <div class="w-full">
                             <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Cleared</div>
                             <h3 class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">Deep TMS Therapy</h3>
-                            <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Transcranial magnetic stimulation using H-Coil technology. Non-invasive, no sedation, covered by insurance.</p>
+                            <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Transcranial magnetic stimulation using H-Coil technology.<br>Non-invasive, no sedation, covered by insurance.</p>
                             <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
                                 <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
                                     <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">78%</div>
@@ -353,7 +353,7 @@ $page_schema = '';
                     <div class="border-l-4 border-secondary bg-white rounded-r-xl p-6 mb-6 shadow-soft">
                         <p class="text-gray-600 leading-relaxed">Dr. Stefani LaFrenierre is a board-certified psychiatrist leading all treatment programs at our Irvine location. With extensive training in interventional psychiatry and neuromodulation, she ensures every patient receives expert, personalized care.</p>
                     </div>
-                    <p class="leading-relaxed mb-6">Dr. LaFrenierre combines cutting-edge treatments like Deep TMS, Spravato, and ProLivRx with integrative psychiatry to address the whole person—not just symptoms.</p>
+                    <p class="leading-relaxed mb-6">Dr. LaFrenierre combines cutting-edge treatments like Deep TMS, Spravato, and ProLivRx with integrative psychiatry to address the whole person — not just symptoms.</p>
                     <div class="flex flex-wrap gap-3 mb-8">
                         <span class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">BrainsWay Ultra Provider</span>
                         <span class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">REMS Certified</span>
@@ -570,7 +570,7 @@ $page_schema = '';
                 Take the First Step Toward <br class="hidden md:block"/> <span class="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">Better Mental Health</span>
             </h2>
             <p class="text-xl text-gray-300 mb-12 font-light max-w-3xl mx-auto leading-relaxed">
-                Schedule your consultation at our Irvine clinic. We'll help you determine which treatment—Deep TMS, Spravato®, or ProLivRx™—is right for you.
+                Schedule your consultation at our Irvine clinic. We'll help you determine which treatment — Deep TMS, Spravato®, or ProLivRx™ — is right for you.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
                 <a href="tel:+19499965355" class="group inline-flex items-center justify-center bg-secondary hover:bg-white text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl text-lg w-full sm:w-auto">
