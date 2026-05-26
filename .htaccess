@@ -35,7 +35,7 @@ RewriteRule ^ketamine-for-substance-abuse-newport-beach-ca/?$ /substance-abuse [
 RewriteRule ^weight-loss-in-orange-county/?$ /weight-loss [R=301,L]
 RewriteRule ^spravato-treatment-in-orange-county/?$ /spravato-therapy [R=301,L]
 RewriteRule ^spravato-treatment-orange-county/?$ /spravato-therapy [R=301,L]
-RewriteRule ^spravato-treatment/?$ /spravato-therapy [R=301,L]
+RewriteRule ^spravato-treatment/index\.html$ /spravato-treatment/ [R=301,L]
 RewriteRule ^iv-ketamine-therapy-newport-beach-ca/?$ /spravato-therapy [R=301,L]
 RewriteRule ^ketamine-for-anxiety-newport-beach-ca/?$ /spravato-therapy [R=301,L]
 RewriteRule ^nad-iv-therapy/?$ /nad-therapy [R=301,L]
