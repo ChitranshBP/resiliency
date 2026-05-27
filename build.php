@@ -60,6 +60,7 @@ $pages = [
     'proliv-rx.php' => 'proliv-rx.html',
     'thank-you.php' => 'thank-you.html',
     // Blog post pages (needed for redirect destinations)
+    'blog-spravato-cost-california.php' => 'blog-spravato-cost-california.html',
     'blog-deep-tms-cost.php' => 'blog-deep-tms-cost.html',
     'blog-ocd-disability.php' => 'blog-ocd-disability.html',
     'blog-deep-tms-autism.php' => 'blog-deep-tms-autism.html',

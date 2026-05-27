@@ -92,6 +92,7 @@ $redirects = [
     '/faq-1'                                                        => '/tms-faq',
 
     // --- Blog Redirects (specific posts - full slugs from CSV) ---
+    '/blog-spravato-cost-california.php'                            => '/blog-spravato-cost-california',
     '/blog-deep-tms-cost.php'                                       => '/blog-deep-tms-cost',
     '/blog/tms-for-depression-in-orange-county-patient-journey-results-and-what-to-know' => '/depression',
     '/blog/tms-anxiety-south-orange-county'                         => '/anxiety',

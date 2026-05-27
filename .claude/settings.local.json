@@ -67,7 +67,9 @@
       "Bash(git add *)",
       "Bash(php -r ' *)",
       "Bash(git commit -m ' *)",
-      "Bash(mkdir -p \"c:\\\\Users\\\\GCV\\\\Desktop\\\\resiliency\\\\location\\\\images\" && mkdir -p \"c:\\\\Users\\\\GCV\\\\Desktop\\\\resiliency\\\\location\\\\.vscode\")"
+      "Bash(mkdir -p \"c:\\\\Users\\\\GCV\\\\Desktop\\\\resiliency\\\\location\\\\images\" && mkdir -p \"c:\\\\Users\\\\GCV\\\\Desktop\\\\resiliency\\\\location\\\\.vscode\")",
+      "Bash(php -S localhost:8000 router.php)",
+      "Bash(git push *)"
     ],
     "additionalDirectories": [
       "c:\\Users\\GCV\\Desktop\\resiliency\\location"

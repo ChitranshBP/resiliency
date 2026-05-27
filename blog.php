@@ -54,7 +54,28 @@ $page_canonical   = 'https://resiliencymbmedicine.com/blog';
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 reveal">
-                <!-- Article 0 - May 23 (Newest) -->
+                <!-- Article - May 27 (Newest) -->
+                <a href="blog-spravato-cost-california" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/spravato_cost_insurance.png" alt="How Much Do Patients Actually Pay for Spravato® Treatment in California?" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="dollar-sign" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
+                    </div>
+                    <div class="p-8">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Spravato</span>
+                            <span class="text-gray-400 text-sm font-light">May 27, 2026</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">How Much Do Patients Actually Pay for Spravato® Treatment in California?</h3>
+                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
+                            Wondering what Spravato costs out-of-pocket in California? Discover the real cost with commercial insurance, Medicare, Medi-Cal, and savings programs.
+                        </p>
+                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
+                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Article 0 - May 23 -->
                 <a href="blog-deep-tms-anxiety" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
                         <img src="assets/images/tms_anxiety_thumb.png" alt="Can Deep TMS Help Anxiety?" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -162,7 +183,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/blog';
                 <!-- Article 5 - April 12 -->
                 <a href="blog-spravato-insurance" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <img src="assets/images/spravato_consultation.jpg" alt="Dr. LaFrenierre consulting with a patient about Spravato treatment" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <img src="assets/images/spravato_cost_insurance.png" alt="Dr. LaFrenierre consulting with a patient about Spravato treatment and insurance coverage" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
                         <i data-lucide="shield-check" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">

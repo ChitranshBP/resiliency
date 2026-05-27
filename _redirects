@@ -81,6 +81,7 @@
 /faq-1                                                                         /tms-faq               301
 
 # --- Blog Redirects (specific posts - full slugs from CSV) ---
+/blog-spravato-cost-california.php                                             /blog-spravato-cost-california 301
 /blog-deep-tms-cost.php                                                        /blog-deep-tms-cost    301
 /blog/tms-for-depression-in-orange-county-patient-journey-results-and-what-to-know/ /depression       301
 /blog/tms-anxiety-south-orange-county/                                         /anxiety               301
