@@ -180,19 +180,8 @@
                     </div>
                 </div>
 
-                <!-- Loren Mendez -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
-                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/loren.png" alt="Loren Mendez" class="w-full h-full object-cover object-top transition-transform duration-500">
-                    </div>
-                    <div class="p-6">
-                        <h4 class="text-lg font-bold text-primary">Loren Mendez</h4>
-                        <p class="text-gray-500 text-sm font-medium mt-1">Operations & Patient Care Coordinator</p>
-                    </div>
-                </div>
-
                 <!-- Rylee Hickman -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/rylee.png" alt="Rylee Hickman" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -203,7 +192,7 @@
                 </div>
 
                 <!-- Cathleen Sliney -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
+                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/cathleen.png" alt="Cathleen Sliney" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
