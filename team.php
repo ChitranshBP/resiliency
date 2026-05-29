@@ -51,17 +51,16 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <h3 class="text-4xl md:text-5xl font-bold text-primary mb-6">Our Providers</h3>
                 <p class="text-gray-600 text-lg font-light leading-relaxed">Board-certified psychiatrists, physician associates, and psychiatric nurse practitioners delivering expert care.</p>
             </div>
-
-            <!-- First row: 4 cards -->
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <!-- First row: 4 cards -->
+            <div class="flex flex-wrap justify-center gap-6">
                 <!-- Dr. Stefani LaFrenierre -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer" onclick="openBioModal('stefani')">
+                <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer" onclick="openBioModal('stefani')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/stefani.png" alt="Dr. Stefani LaFrenierre, MD" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Dr. Stefani LaFrenierre, MD</h4>
-                        <p class="text-[#23bfe2] text-sm font-semibold mt-1">Psychiatrist & Addiction Medicine</p>
+                        <p class="text-[#23bfe2] text-sm font-semibold mt-1">Psychiatric & Addiction Medicine</p>
                         <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
                             <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
                         </p>
@@ -69,7 +68,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 </div>
 
                 <!-- Dr. Heather Wong -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer" onclick="openBioModal('heather')">
+                <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer" onclick="openBioModal('heather')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/heather.png" alt="Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -83,7 +82,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 </div>
 
                 <!-- Milinda Estrada -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('milinda')">
+                <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('milinda')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/milinda.png" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
@@ -97,12 +96,26 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 </div>
 
                 <!-- Regina Dizon -->
-                <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden cursor-pointer" onclick="openBioModal('regina')">
+                <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden cursor-pointer" onclick="openBioModal('regina')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
                         <img src="assets/images/team/regina.png" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Regina Dizon, PMHNP-BC</h4>
+                        <p class="text-[#23bfe2] text-sm font-semibold mt-1">Psychiatric NP</p>
+                        <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
+                            <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Lorraine Nxumalo -->
+                <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer" onclick="openBioModal('lorraine')">
+                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
+                        <img src="assets/images/team/lorraine.png" alt="Lorraine Nxumalo, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
+                    </div>
+                    <div class="p-6">
+                        <h4 class="text-lg font-bold text-primary">Lorraine Nxumalo, PMHNP-BC</h4>
                         <p class="text-[#23bfe2] text-sm font-semibold mt-1">Psychiatric NP</p>
                         <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
                             <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
@@ -316,6 +329,15 @@ const teamBios = {
         bio: `<p>Regina Dizon is a passionate and highly experienced board-certified Psychiatric Mental Health Nurse Practitioner, proudly serving patients at Resiliency Mind+Body Medicine®.</p>
               <p>Her background also includes roles as an emergency medical technician, medical assistant, and nursing assistant, giving her a broad foundation and a personal touch in caring for patients.</p>
               <p>She integrates both holistic, nonpharmacological strategies and evidence-based pharmacological treatments to support overall mental wellness. Regina is committed to providing comprehensive, compassionate care that addresses the whole person.</p>`
+    },
+    lorraine: {
+        name: 'Lorraine Nxumalo, PMHNP-BC',
+        title: 'Psychiatric Nurse Practitioner',
+        img: 'assets/images/team/lorraine.png',
+        bookUrl: 'https://resiliencymbmedicine.com/our-team/lorraine-nxumalo-pmhnp-bc/',
+        bio: `<p>Lorraine Nxumalo is a board-certified Psychiatric Mental Health Nurse Practitioner dedicated to providing compassionate, patient-centered mental health care. She graduated from Charles R. Drew University of Medicine and Science and has experience working across diverse psychiatric settings.</p>
+              <p>Lorraine believes in a collaborative approach to treatment where patients feel heard, supported, and actively involved in their care. She prioritizes accurate assessment, thoughtful diagnosis, and individualized treatment planning that addresses mental, emotional, and social well-being. Her goal is to equip patients with the knowledge, support, and tools needed to effectively manage their mental health and work toward lasting wellness.</p>
+              <p>As a PMHNP, Lorraine is committed to creating a safe and supportive environment where each patient’s unique needs and beliefs are respected. Through compassionate care and evidence-based treatment, she works to help patients achieve their personal wellness goals.</p>`
     },
     rylee_k: {
         name: 'Rylee Kaczynski',
