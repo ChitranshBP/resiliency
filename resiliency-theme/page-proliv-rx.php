@@ -5,7 +5,7 @@
     <!-- Hero Section -->
     <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Proliv™Rx-IMG-FINAL.png" alt="Proliv Rx Neuromodulation" class="w-full h-full object-cover object-[50%_35%]">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/proliv_image.jpeg" alt="Proliv Rx Neuromodulation" class="w-full h-full object-cover object-[50%_35%]">
             <div class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20"></div>
         </div>
 
@@ -87,7 +87,7 @@
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Proliv™Rx-IMG-FINAL.png" alt="Proliv Rx Device" class="w-full h-[550px] object-cover">
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/proliv_image.jpeg" alt="Proliv Rx Device" class="w-full h-[550px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
 

@@ -144,7 +144,7 @@ $wildcardRedirects = [
 // REDIRECT LOGIC
 // ============================================================================
 
-$requestUri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+$requestUri = urldecode(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
 
 // Normalize: strip trailing slash (except for root "/")
 $normalizedUri = ($requestUri !== '/') ? rtrim($requestUri, '/') : '/';
