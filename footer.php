@@ -139,7 +139,22 @@
     <!-- Scripts -->
     <script src="js/main.js"></script>
     <script>
-        lucide.createIcons();
+        // Lazy-load hero video after page is interactive
+        (function() {
+            var v = document.getElementById('hero-video');
+            if (!v) return;
+            var sources = v.querySelectorAll('source[data-src]');
+            var load = function() {
+                sources.forEach(function(s) { s.src = s.getAttribute('data-src'); });
+                v.load();
+                v.play().catch(function(){});
+            };
+            if ('requestIdleCallback' in window) {
+                requestIdleCallback(load, { timeout: 2000 });
+            } else {
+                setTimeout(load, 1500);
+            }
+        })();
     </script>
 </body>
 </html>

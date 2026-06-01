@@ -151,8 +151,16 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
-    <!-- Icons (Lucide) -->
-    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Icons (Lucide - loaded after page is interactive) -->
+    <script>
+    window.addEventListener('DOMContentLoaded', function() {
+        var s = document.createElement('script');
+        s.src = 'https://unpkg.com/lucide@latest';
+        s.defer = true;
+        s.onload = function() { if (window.lucide) lucide.createIcons(); };
+        document.body.appendChild(s);
+    });
+    </script>
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -185,8 +193,8 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/styles.css">
 
-    <!-- UserWay Accessibility Widget -->
-    <script src="https://cdn.userway.org/widget.js" data-account="4BeUTqjVL9"></script>
+    <!-- UserWay Accessibility Widget (deferred to after page interactive) -->
+    <script defer src="https://cdn.userway.org/widget.js" data-account="4BeUTqjVL9"></script>
 </head>
 <body class="font-sans text-gray-800 bg-surface antialiased selection:bg-accent selection:text-white">
 
