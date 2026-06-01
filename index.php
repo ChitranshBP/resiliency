@@ -390,7 +390,7 @@ SCHEMA;
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-2 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/brainsway-image.jpg" alt="Deep TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
+                            <img src="assets/images/brainsway-image.webp" alt="Deep TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110">
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -680,7 +680,7 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/brainsway-image.jpg" alt="Deep TMS Therapy" class="w-full h-48 object-cover rounded-xl mt-auto">
+                        <img src="assets/images/brainsway-image.webp" alt="Deep TMS Therapy" class="w-full h-48 object-cover rounded-xl mt-auto">
                     </div>
 
                     <!-- Service 2 -->
@@ -692,7 +692,7 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/spravato-home.jpg" alt="Spravato" class="w-full h-48 object-cover rounded-xl object-[50%_30%]">
+                        <img src="assets/images/spravato-home.webp" alt="Spravato" class="w-full h-48 object-cover rounded-xl object-[50%_30%]">
                     </div>
 
                     <!-- Service 3 -->

@@ -87,7 +87,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/insurance';
                 </div>
                 <!-- Hoag Medical Group -->
                 <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
-                    <img src="assets/images/insurance/hoag.jpeg" alt="Hoag Medical Group" class="max-h-16 w-auto object-contain mb-3">
+                    <img src="assets/images/insurance/hoag.webp" alt="Hoag Medical Group" class="max-h-16 w-auto object-contain mb-3">
                     <p class="text-[#0B2035] font-semibold text-xs">Hoag Medical Group</p>
                 </div>
                 <!-- Magellan Health -->
@@ -102,7 +102,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/insurance';
                 </div>
                 <!-- MHN -->
                 <!-- <div class="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 hover:-translate-y-1 hover:shadow-xl transition-all duration-300 flex flex-col items-center justify-center min-h-[140px]">
-                    <img src="assets/images/insurance/mhn.jpeg" alt="MHN - Managed Health Network" class="max-h-16 w-auto object-contain mb-3">
+                    <img src="assets/images/insurance/mhn.webp" alt="MHN - Managed Health Network" class="max-h-16 w-auto object-contain mb-3">
                     <p class="text-[#0B2035] font-semibold text-xs">MHN</p>
                 </div> -->
                 <!-- Optum -->

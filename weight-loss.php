@@ -20,7 +20,7 @@ SCHEMA;
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
             <img src="assets\images\breadcrumbs\weight-loss-bread.webp" alt="Medical Weight Loss" class="hidden lg:block w-full h-full object-cover object-[50%_20%]">
-            <img src="assets\images\breadcrumbs\weightloss-mobile-banner.jpeg" alt="Medical Weight Loss" class="lg:hidden w-full h-full object-cover object-right md:object-[50%_30%]">
+            <img src="assets\images\breadcrumbs\weightloss-mobile-banner.webp" alt="Medical Weight Loss" class="lg:hidden w-full h-full object-cover object-right md:object-[50%_30%]">
             <div class="absolute inset-0 bg-[#0B2035]/60 lg:bg-gradient-to-r lg:from-[#0B2035]/75 lg:via-[#0B2035]/50 lg:to-[#0B2035]/20"></div>
         </div>
 

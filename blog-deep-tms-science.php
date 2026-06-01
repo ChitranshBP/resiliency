@@ -50,7 +50,7 @@
         <!-- Hero Section -->
         <section class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
             <div class="absolute inset-0 z-0 bg-[#0B2035]">
-                <img src="assets/images/patient_tms_machine.jpg" alt="Patient receiving Deep TMS Therapy treatment" class="w-full h-full object-cover object-[center_35%]" onerror="this.style.display='none'">
+                <img src="assets/images/patient_tms_machine.webp" alt="Patient receiving Deep TMS Therapy treatment" class="w-full h-full object-cover object-[center_35%]" onerror="this.style.display='none'">
                 <div class="absolute inset-0 bg-gradient-to-r from-[#0B2035]/90 via-[#0B2035]/70 to-[#0B2035]/40"></div>
             </div>
             <div class="absolute -bottom-20 -right-20 w-96 h-96 bg-[#23bfe2]/20 rounded-full blur-[120px] pointer-events-none"></div>

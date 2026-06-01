@@ -104,7 +104,7 @@ SCHEMA;
             <div class="flex flex-col lg:flex-row items-center gap-16 lg:gap-20">
                 <div class="w-full lg:w-1/2 relative reveal">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/brainsway-image.jpg" alt="Deep TMS for OCD" class="w-full h-[500px] object-cover">
+                        <img src="assets/images/brainsway-image.webp" alt="Deep TMS for OCD" class="w-full h-[500px] object-cover">
                         <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
                     </div>
                     <div class="absolute -bottom-6 -right-6 bg-white p-5 rounded-3xl border border-gray-100 shadow-[0_20px_40px_-10px_rgba(11,32,53,0.15)] flex items-center gap-4 group hover:-translate-y-2 transition-transform duration-500">

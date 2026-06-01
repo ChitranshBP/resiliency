@@ -197,7 +197,7 @@ SCHEMA;
                         <div class="absolute -inset-6 bg-gradient-to-br from-[#23bfe2]/20 to-transparent rounded-[3rem] blur-2xl opacity-60"></div>
                         <div class="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white ring-1 ring-gray-100">
                             <img 
-                                src="assets\images\spravato REMS.jpg" 
+                                src="assets\images\spravato REMS.webp"
                                 alt="Dr. LaFrenierre" 
                                 class="w-full h-[500px] object-cover object-top grayscale-[0.2] transition-all duration-700 group-hover:grayscale-0 group-hover:scale-105"
                             >

@@ -141,7 +141,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/blog';
                 <!-- Article 3 - April 26 -->
                 <a href="blog-deep-tms-science" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
-                        <img src="assets/images/patient_tms_machine.jpg" alt="Patient receiving Deep TMS Therapy treatment" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <img src="assets/images/patient_tms_machine.webp" alt="Patient receiving Deep TMS Therapy treatment" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
                         <i data-lucide="brain" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
                     </div>
                     <div class="p-8">

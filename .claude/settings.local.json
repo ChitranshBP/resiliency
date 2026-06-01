@@ -69,7 +69,17 @@
       "Bash(git commit -m ' *)",
       "Bash(mkdir -p \"c:\\\\Users\\\\GCV\\\\Desktop\\\\resiliency\\\\location\\\\images\" && mkdir -p \"c:\\\\Users\\\\GCV\\\\Desktop\\\\resiliency\\\\location\\\\.vscode\")",
       "Bash(php -S localhost:8000 router.php)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(powershell -Command \"Get-Command -Name '*.webp*' -ErrorAction SilentlyContinue | Select-Object Name\")",
+      "Bash(powershell -Command \"Get-Command Add-Type -ErrorAction SilentlyContinue | Select-Object Name; php -m 2>/dev/null | grep -i -E 'gd|imagick'\")",
+      "Bash(php -m)",
+      "Bash(where.exe cwebp *)",
+      "Bash(where.exe ffmpeg *)",
+      "Bash(where.exe magick *)",
+      "Bash(powershell -Command \"[System.Reflection.Assembly]::LoadWithPartialName\\('System.Drawing'\\)\")",
+      "Bash(python -c \"from PIL import Image; print\\('ok'\\)\")",
+      "Bash(node -e \"console.log\\(process.version\\)\")",
+      "Bash(python convert-to-webp.py)"
     ],
     "additionalDirectories": [
       "c:\\Users\\GCV\\Desktop\\resiliency\\location"
