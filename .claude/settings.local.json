@@ -79,7 +79,10 @@
       "Bash(powershell -Command \"[System.Reflection.Assembly]::LoadWithPartialName\\('System.Drawing'\\)\")",
       "Bash(python -c \"from PIL import Image; print\\('ok'\\)\")",
       "Bash(node -e \"console.log\\(process.version\\)\")",
-      "Bash(python convert-to-webp.py)"
+      "Bash(python convert-to-webp.py)",
+      "Bash(sort -k5 -n -r)",
+      "Bash(python convert-png-to-webp.py)",
+      "Bash(python -c ' *)"
     ],
     "additionalDirectories": [
       "c:\\Users\\GCV\\Desktop\\resiliency\\location"
