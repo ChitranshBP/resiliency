@@ -177,29 +177,70 @@ SCHEMA;
                 </p>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="trending-down" class="w-8 h-8"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Effective Symptom Relief</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Many patients experience a significant reduction in depressive symptoms, with some achieving complete remission.</p>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                <div class="reveal">
+                    <ul class="space-y-5">
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="trending-down" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Effective Symptom Relief</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Many patients experience a significant reduction in depressive symptoms, with some achieving complete remission.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="shield-check" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Non-Invasive & Drug-Free</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Deep TMS does not require anesthesia or medication, avoiding the side effects often associated with antidepressants.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="sparkles" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Sustainable Results</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Deep TMS can provide long-lasting relief, helping patients maintain improved mood and quality of life.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="brain" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Targets Brain Circuits Directly</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Deep TMS stimulates the prefrontal cortex to restore neural activity in mood-regulating regions.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="clock" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">No Downtime</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Each session lasts about 20-30 minutes and you can return to your daily activities immediately after.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="badge-check" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">FDA-Cleared</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Backed by extensive clinical research and FDA-cleared for the treatment of major depressive disorder.</p>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
 
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="shield-check" class="w-8 h-8"></i>
+                <div class="reveal reveal-delay-1 flex justify-center">
+                    <div class="rounded-[2rem] overflow-hidden shadow-2xl border-4 border-black max-w-[380px] w-full aspect-[9/16]">
+                        <iframe src="https://www.youtube.com/embed/dAx6UqZUGkY?rel=0&modestbranding=1" title="Deep TMS for Depression" class="w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Non-Invasive & Drug-Free</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS does not require anesthesia or medication, avoiding the side effects often associated with antidepressants.</p>
-                </div>
-
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="sparkles" class="w-8 h-8"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Sustainable Results</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS can provide long-lasting relief, helping patients maintain improved mood and quality of life.</p>
                 </div>
             </div>
         </div>

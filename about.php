@@ -172,9 +172,8 @@ SCHEMA;
                 <div class="w-full lg:w-1/2 reveal">
                     <div class="relative group">
                         <div class="absolute -inset-6 bg-gradient-to-br from-[#23bfe2]/20 to-transparent rounded-[3rem] blur-2xl opacity-60"></div>
-                        <div class="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white/10 ring-1 ring-white/5">
-                            <img src="assets/images/home/Stefani-LaFrenierre-main-home.webp" alt="Dr. Stefani LaFrenierre, MD" class="w-full h-[550px] object-cover object-top transition-all duration-700 group-hover:scale-105">
-                            <div class="absolute inset-0 bg-gradient-to-t from-[#0B2035]/60 via-transparent to-transparent"></div>
+                        <div class="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-black ring-1 ring-white/5 max-w-[400px] mx-auto aspect-[9/16]">
+                            <iframe src="https://www.youtube.com/embed/yfiIyPAsvB8?rel=0&modestbranding=1" title="Meet Our Founder - Dr. Stefani LaFrenierre" class="w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
 
                         <div class="absolute bottom-10 -right-6 bg-[#0B2035] text-white p-6 rounded-3xl shadow-2xl border border-white/10 group-hover:-translate-y-2 transition-transform duration-500">

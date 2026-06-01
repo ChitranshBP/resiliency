@@ -19,7 +19,7 @@ SCHEMA;
     <section
         class="relative min-h-[500px] md:h-[60vh] flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-24 md:pb-0">
         <div class="absolute inset-0 z-0 bg-[#0B2035]">
-            <img src="assets/images/proliv_image.jpeg" alt="Proliv Rx Neuromodulation"
+            <img src="assets\images\proliv-img-2.webp" alt="Proliv Rx Neuromodulation"
                 class="w-full h-full object-cover object-[50%_20%]">
             <div
                 class="absolute inset-0 bg-[#0B2035]/60 md:bg-gradient-to-r md:from-[#0B2035]/75 md:via-[#0B2035]/50 md:to-[#0B2035]/20">

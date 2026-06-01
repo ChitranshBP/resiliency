@@ -755,7 +755,7 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/Proliv™Rx-IMG-FINAL.png" alt="Proliv Rx At-Home Neuromodulation" class="w-full h-48 object-cover rounded-xl mt-auto">
+                        <img src="assets\images\proliv-img-2.webp" alt="Proliv Rx At-Home Neuromodulation" class="w-full h-48 object-cover rounded-xl mt-auto">
                     </div>
 
                     <!-- Service 8: VNS Therapy -->

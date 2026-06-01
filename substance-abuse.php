@@ -98,9 +98,8 @@ SCHEMA;
                 </div>
 
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
-                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5">
-                        <img src="assets/images/substance_abuse_freedom.png" alt="Substance Use Disorder Treatment at Resiliency" class="w-full h-[450px] object-cover">
-                        <div class="absolute inset-0 bg-gradient-to-tr from-[#0B2035]/20 via-transparent to-transparent"></div>
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100 ring-1 ring-[#0B2035]/5 max-w-[360px] mx-auto aspect-[9/16]">
+                        <iframe src="https://www.youtube.com/embed/iEvcC4Kjc4s?rel=0&modestbranding=1" title="Understanding Substance Abuse" class="w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>

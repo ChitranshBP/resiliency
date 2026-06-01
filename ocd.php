@@ -197,29 +197,70 @@ SCHEMA;
                 <h3 class="text-4xl md:text-5xl font-bold text-[#0B2035] mb-6">Benefits of Deep TMS for OCD</h3>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group text-center">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="trending-down" class="w-8 h-8"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Symptom Reduction</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Many patients experience a significant decrease in the severity of obsessive thoughts and compulsive behaviors.</p>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                <div class="reveal">
+                    <ul class="space-y-5">
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="trending-down" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Symptom Reduction</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Many patients experience a significant decrease in the severity of obsessive thoughts and compulsive behaviors.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="shield-check" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Non-Invasive & Drug-Free</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Deep TMS does not require medication, avoiding potential side effects of pharmaceuticals.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="sparkles" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Enhanced Quality of Life</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">By alleviating OCD symptoms, Deep TMS can help improve overall daily functioning and well-being.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="clock" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Quick & Convenient Sessions</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Each session lasts only 20-30 minutes with no downtime, allowing you to return to your daily activities right after.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="brain" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Targeted Brain Stimulation</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Deep TMS specifically targets the brain circuits involved in OCD, providing focused and effective treatment.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <div class="w-10 h-10 min-w-10 bg-[#23bfe2]/10 rounded-xl flex items-center justify-center text-[#23bfe2] mt-0.5">
+                                <i data-lucide="heart-pulse" class="w-5 h-5"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-lg font-bold text-[#0B2035] mb-1">Long-Lasting Results</h4>
+                                <p class="text-gray-500 font-light leading-relaxed">Many patients maintain their improvements for months after completing treatment, with options for maintenance sessions.</p>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
 
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group text-center">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="shield-check" class="w-8 h-8"></i>
+                <div class="reveal reveal-delay-1 flex justify-center">
+                    <div class="rounded-[2rem] overflow-hidden shadow-2xl border-4 border-black max-w-[360px] w-full aspect-[9/16]">
+                        <iframe src="https://www.youtube.com/embed/hjnq70nXu0I?rel=0&modestbranding=1" title="Deep TMS for OCD" class="w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Non-Invasive & Drug-Free</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">Deep TMS does not require medication, avoiding potential side effects of pharmaceuticals.</p>
-                </div>
-
-                <div class="bg-neutral rounded-[2rem] p-10 shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group text-center">
-                    <div class="w-16 h-16 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mb-6 mx-auto group-hover:bg-[#23bfe2] group-hover:text-[#0B2035] transition-colors">
-                        <i data-lucide="sparkles" class="w-8 h-8"></i>
-                    </div>
-                    <h4 class="text-xl font-bold text-[#0B2035] mb-3">Enhanced Quality of Life</h4>
-                    <p class="text-gray-500 font-light leading-relaxed">By alleviating OCD symptoms, Deep TMS can help improve overall daily functioning and well-being.</p>
                 </div>
             </div>
         </div>

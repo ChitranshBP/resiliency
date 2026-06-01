@@ -89,7 +89,7 @@ SCHEMA;
                 <!-- Image with decorative elements -->
                 <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-gray-100">
-                        <img src="assets\images\spravato-home.jpg" alt="Spravato Treatment relief" class="w-full h-[500px] object-cover object-top ">
+                        <img src="assets\images\spravato-dr-l.webp" alt="Spravato Treatment relief" class="w-full h-[500px] object-cover object-[50%_30%] grayscale-[0.2] transition-all duration-700 group-hover:grayscale-0">
                         <div class="absolute inset-0 bg-gradient-to-t from-[#0B2035]/40 to-transparent"></div>
                     </div>
                     

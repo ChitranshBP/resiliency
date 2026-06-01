@@ -198,7 +198,7 @@ SCHEMA;
                         <i data-lucide="droplets" class="w-7 h-7"></i>
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Spravato&reg; Treatment</h4>
-                    <p class="text-gray-300 font-light leading-relaxed">FDA-approved esketamine nasal spray for treatment-resistant depression, administered in our certified clinic.</p>
+                    <p class="text-gray-300 font-light leading-relaxed">FDA-approved nasal spray for treatment-resistant depression, administered in our certified clinic.</p>
                 </div>
 
                 <!-- Medication Management -->
@@ -328,17 +328,24 @@ SCHEMA;
     <!-- Section 5: Other Location -->
     <section class="py-16 bg-neutral relative overflow-hidden">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="max-w-2xl mx-auto reveal">
-                <div class="bg-white rounded-[2rem] p-8 md:p-10 border border-gray-100 shadow-soft hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 text-center">
-                    <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mx-auto mb-6">
-                        <i data-lucide="map-pin" class="w-7 h-7"></i>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
+                <div class="max-w-2xl reveal">
+                    <div class="bg-white rounded-[2rem] p-8 md:p-10 border border-gray-100 shadow-soft hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 text-center">
+                        <div class="w-14 h-14 bg-[#23bfe2]/10 rounded-2xl flex items-center justify-center text-[#23bfe2] mx-auto mb-6">
+                            <i data-lucide="map-pin" class="w-7 h-7"></i>
+                        </div>
+                        <h3 class="text-2xl font-bold text-[#0B2035] mb-3">Visit Our San Juan Capistrano Office</h3>
+                        <p class="text-gray-500 font-light leading-relaxed mb-2">27184 Ortega Hwy, STE 103</p>
+                        <p class="text-gray-500 font-light leading-relaxed mb-6">San Juan Capistrano, CA 92675</p>
+                        <a href="san-juan-capistrano" class="inline-flex items-center gap-2 text-[#23bfe2] font-bold hover:text-[#0B2035] transition-colors text-lg">
+                            View Location <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                        </a>
                     </div>
-                    <h3 class="text-2xl font-bold text-[#0B2035] mb-3">Visit Our San Juan Capistrano Office</h3>
-                    <p class="text-gray-500 font-light leading-relaxed mb-2">27184 Ortega Hwy, STE 103</p>
-                    <p class="text-gray-500 font-light leading-relaxed mb-6">San Juan Capistrano, CA 92675</p>
-                    <a href="san-juan-capistrano" class="inline-flex items-center gap-2 text-[#23bfe2] font-bold hover:text-[#0B2035] transition-colors text-lg">
-                        View Location <i data-lucide="arrow-right" class="w-5 h-5"></i>
-                    </a>
+                </div>
+                <div class="reveal reveal-delay-1 flex justify-center">
+                    <div class="rounded-[2rem] overflow-hidden shadow-2xl border-4 border-black max-w-[280px] w-full aspect-[9/16]">
+                        <iframe src="https://www.youtube.com/embed/L7-34P2qQ-M?rel=0&modestbranding=1" title="Resiliency Services" class="w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
                 </div>
             </div>
         </div>
