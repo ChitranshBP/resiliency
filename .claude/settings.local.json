@@ -83,7 +83,8 @@
       "Bash(sort -k5 -n -r)",
       "Bash(python convert-png-to-webp.py)",
       "Bash(python -c ' *)",
-      "Bash(curl -L -o assets/images/home/hero-poster.jpg \"https://res.cloudinary.com/de4kw1t2i/video/upload/so_0/v1774957698/334716_1_Online-Video-Cutter.Com_wn4n7v.jpg\")"
+      "Bash(curl -L -o assets/images/home/hero-poster.jpg \"https://res.cloudinary.com/de4kw1t2i/video/upload/so_0/v1774957698/334716_1_Online-Video-Cutter.Com_wn4n7v.jpg\")",
+      "Bash(python compress-homepage-images.py)"
     ],
     "additionalDirectories": [
       "c:\\Users\\GCV\\Desktop\\resiliency\\location"
