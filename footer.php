@@ -139,6 +139,16 @@
     <!-- Scripts -->
     <script src="js/main.js"></script>
     <script>
+        // Swap to mobile poster on small viewports
+        (function() {
+            var v = document.getElementById('hero-video');
+            if (!v) return;
+            if (window.matchMedia('(max-width: 767px)').matches) {
+                var mp = v.getAttribute('data-mobile-poster');
+                if (mp) v.poster = mp;
+            }
+        })();
+
         // Lazy-load hero video after page is interactive
         (function() {
             var v = document.getElementById('hero-video');

@@ -83,7 +83,7 @@ SCHEMA;
         <section class="relative min-h-[520px] sm:min-h-[580px] md:min-h-[640px] md:h-[78vh] flex items-center justify-center overflow-hidden pt-28 pb-32 sm:pt-32 sm:pb-32 md:pt-32 md:pb-32">
             <!-- Background Video (lazy-loaded, plays after page interactive) -->
             <div class="absolute inset-0 z-0">
-                <video id="hero-video" class="w-full h-full object-cover" muted loop playsinline preload="none" poster="assets/images/home/hero-poster.webp">
+                <video id="hero-video" class="w-full h-full object-cover" muted loop playsinline preload="none" poster="assets/images/home/hero-poster.webp" data-mobile-poster="assets/images/home/hero-poster-mobile.webp">
                     <source data-src="https://res.cloudinary.com/de4kw1t2i/video/upload/v1774957698/334716_1_Online-Video-Cutter.Com_wn4n7v.webm" type="video/webm">
                 </video>
                 <div class="absolute inset-0 bg-primary/60 md:bg-gradient-to-r md:from-primary/70 md:via-primary/50 md:to-transparent"></div>
@@ -298,7 +298,10 @@ SCHEMA;
             
             <!-- Section Background Image with Frosted Overlay -->
             <div class="absolute inset-0 z-0">
-                <img src="assets/images/hero_bg.webp" alt="Clinical Background" class="w-full h-full object-cover" loading="lazy" decoding="async">
+                <picture>
+                    <source media="(max-width: 767px)" srcset="assets/images/hero_bg-mobile.webp">
+                    <img src="assets/images/hero_bg.webp" alt="Clinical Background" class="w-full h-full object-cover" loading="lazy" decoding="async">
+                </picture>
             </div>
             <div class="absolute inset-0 z-0 bg-white/90 backdrop-blur-[2px]"></div>
 
@@ -330,7 +333,10 @@ SCHEMA;
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets\images\ambience\resiliency-amb-5.webp" alt="Depression Treatment" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            <picture>
+                                <source media="(max-width: 767px)" srcset="assets\images\ambience\resiliency-amb-5-mobile.webp">
+                                <img src="assets\images\ambience\resiliency-amb-5.webp" alt="Depression Treatment" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            </picture>
                         </div>
                         <!-- Overlay Gradient (ensures readability) -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -360,7 +366,10 @@ SCHEMA;
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-1 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/doctor_consult.webp" alt="Anxiety Consultation" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            <picture>
+                                <source media="(max-width: 767px)" srcset="assets/images/doctor_consult-mobile.webp">
+                                <img src="assets/images/doctor_consult.webp" alt="Anxiety Consultation" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            </picture>
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -390,7 +399,10 @@ SCHEMA;
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-2 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/brainsway-image.webp" alt="Deep TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            <picture>
+                                <source media="(max-width: 767px)" srcset="assets/images/brainsway-image-mobile.webp">
+                                <img src="assets/images/brainsway-image.webp" alt="Deep TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            </picture>
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -420,7 +432,10 @@ SCHEMA;
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets\images\ambience\resiliency-amb-4.webp" alt="PTSD Wellness" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            <picture>
+                                <source media="(max-width: 767px)" srcset="assets\images\ambience\resiliency-amb-4-mobile.webp">
+                                <img src="assets\images\ambience\resiliency-amb-4.webp" alt="PTSD Wellness" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            </picture>
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -450,7 +465,10 @@ SCHEMA;
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal reveal-delay-1 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_med_management.webp" alt="ADHD Management" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            <picture>
+                                <source media="(max-width: 767px)" srcset="assets/images/service_med_management-mobile.webp">
+                                <img src="assets/images/service_med_management.webp" alt="ADHD Management" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            </picture>
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -480,7 +498,10 @@ SCHEMA;
                     <div class="group relative rounded-[2rem] overflow-hidden min-h-[350px] md:min-h-[420px] flex flex-col justify-end p-8 reveal transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100/10 cursor-pointer">
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
-                            <img src="assets/images/service_iv.webp" alt="Mood Disorder Support" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            <picture>
+                                <source media="(max-width: 767px)" srcset="assets/images/service_iv-mobile.webp">
+                                <img src="assets/images/service_iv.webp" alt="Mood Disorder Support" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                            </picture>
                         </div>
                         <!-- Overlay Gradient -->
                         <div class="absolute inset-0 z-0 bg-gradient-to-t from-[#0B2035]/80 via-[#0B2035]/40 to-transparent group-hover:opacity-0 transition-opacity duration-500"></div>
@@ -522,7 +543,10 @@ SCHEMA;
             
             <!-- Section Background Image -->
             <div class="absolute inset-0 z-0">
-                <img src="assets/images/anxiety_consultation.webp" alt="Clinical Environment Background" class="w-full h-full object-cover" loading="lazy" decoding="async">
+                <picture>
+                    <source media="(max-width: 767px)" srcset="assets/images/anxiety_consultation-mobile.webp">
+                    <img src="assets/images/anxiety_consultation.webp" alt="Clinical Environment Background" class="w-full h-full object-cover" loading="lazy" decoding="async">
+                </picture>
             </div>
             
             <!-- Premium Dark Overlay -->
@@ -539,7 +563,10 @@ SCHEMA;
                     <div class="w-full lg:w-1/2 relative reveal">
                         <!-- Polished Image Container -->
                         <div class="relative rounded-[2rem] overflow-hidden border border-white/10 shadow-[0_20px_50px_rgba(35,191,226,0.15)] ring-1 ring-white/20">
-                            <img src="assets/images/home/TMS-Therapy-Orange-County-homepage.webp" alt="Advanced Deep TMS Machine" class="w-full h-[500px] object-cover transition-transform duration-1000 hover:scale-105" loading="lazy" decoding="async">
+                            <picture>
+                                <source media="(max-width: 767px)" srcset="assets/images/home/TMS-Therapy-Orange-County-homepage-mobile.webp">
+                                <img src="assets/images/home/TMS-Therapy-Orange-County-homepage.webp" alt="Advanced Deep TMS Machine" class="w-full h-[500px] object-cover transition-transform duration-1000 hover:scale-105" loading="lazy" decoding="async">
+                            </picture>
                             
                             <!-- Elegant Overlay Gradient -->
                             <div class="absolute inset-0 bg-gradient-to-t from-primary/60 via-transparent to-transparent"></div>
@@ -648,7 +675,10 @@ SCHEMA;
                     <!-- Image Side -->
                     <div class="w-full lg:w-1/2 relative reveal reveal-delay-1">
                         <div class="relative rounded-[2.5rem] overflow-hidden shadow-hover border border-gray-100">
-                            <img src="assets/images/home/Resiliency01.webp" alt="Modern Clinic Consultation Room" class="w-full h-[550px] object-cover" loading="lazy" decoding="async">
+                            <picture>
+                                <source media="(max-width: 767px)" srcset="assets/images/home/Resiliency01-mobile.webp">
+                                <img src="assets/images/home/Resiliency01.webp" alt="Modern Clinic Consultation Room" class="w-full h-[550px] object-cover" loading="lazy" decoding="async">
+                            </picture>
                             <!-- Subtle highlight to match depth -->
                             <div class="absolute inset-0 bg-gradient-to-tr from-white/10 via-transparent to-transparent"></div>
                         </div>
@@ -680,7 +710,10 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/brainsway-image.webp" alt="Deep TMS Therapy" class="w-full h-48 object-cover rounded-xl mt-auto" loading="lazy" decoding="async">
+                        <picture>
+                            <source media="(max-width: 767px)" srcset="assets/images/brainsway-image-mobile.webp">
+                            <img src="assets/images/brainsway-image.webp" alt="Deep TMS Therapy" class="w-full h-48 object-cover rounded-xl mt-auto" loading="lazy" decoding="async">
+                        </picture>
                     </div>
 
                     <!-- Service 2 -->
@@ -692,7 +725,10 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/spravato-home.webp" alt="Spravato" class="w-full h-48 object-cover rounded-xl object-[50%_30%]" loading="lazy" decoding="async">
+                        <picture>
+                            <source media="(max-width: 767px)" srcset="assets/images/spravato-home-mobile.webp">
+                            <img src="assets/images/spravato-home.webp" alt="Spravato" class="w-full h-48 object-cover rounded-xl object-[50%_30%]" loading="lazy" decoding="async">
+                        </picture>
                     </div>
 
                     <!-- Service 3 -->
@@ -704,7 +740,10 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/service_iv.webp" alt="IV Drip Therapy" class="w-full h-48 object-cover rounded-xl mt-auto" loading="lazy" decoding="async">
+                        <picture>
+                            <source media="(max-width: 767px)" srcset="assets/images/service_iv-mobile.webp">
+                            <img src="assets/images/service_iv.webp" alt="IV Drip Therapy" class="w-full h-48 object-cover rounded-xl mt-auto" loading="lazy" decoding="async">
+                        </picture>
                     </div>
 
                     <!-- Service 4 -->
@@ -716,7 +755,10 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/anxiety_consultation.webp" alt="Medical Weight Loss" class="w-full h-48 object-cover object-[50%_20%] rounded-xl mt-auto" loading="lazy" decoding="async">
+                        <picture>
+                            <source media="(max-width: 767px)" srcset="assets/images/anxiety_consultation-mobile.webp">
+                            <img src="assets/images/anxiety_consultation.webp" alt="Medical Weight Loss" class="w-full h-48 object-cover object-[50%_20%] rounded-xl mt-auto" loading="lazy" decoding="async">
+                        </picture>
                     </div>
 
                     <!-- Service 5 -->
@@ -728,7 +770,10 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/service_med_management.webp" alt="Medical Management" class="w-full h-48 object-cover rounded-xl mt-auto" loading="lazy" decoding="async">
+                        <picture>
+                            <source media="(max-width: 767px)" srcset="assets/images/service_med_management-mobile.webp">
+                            <img src="assets/images/service_med_management.webp" alt="Medical Management" class="w-full h-48 object-cover rounded-xl mt-auto" loading="lazy" decoding="async">
+                        </picture>
                     </div>
 
                     <!-- Service 6 -->
@@ -740,7 +785,10 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets\images\ambience\resiliency-amb-1.webp" alt="Wellness Services" class="w-full h-48 object-cover object-[50%_60%] rounded-xl mt-auto">
+                        <picture>
+                            <source media="(max-width: 767px)" srcset="assets\images\ambience\resiliency-amb-1-mobile.webp">
+                            <img src="assets\images\ambience\resiliency-amb-1.webp" alt="Wellness Services" class="w-full h-48 object-cover object-[50%_60%] rounded-xl mt-auto" loading="lazy" decoding="async">
+                        </picture>
                     </div>
                 </div>
 
@@ -755,7 +803,10 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets\images\proliv-img-2.webp" alt="Proliv Rx At-Home Neuromodulation" class="w-full h-48 object-cover rounded-xl mt-auto">
+                        <picture>
+                            <source media="(max-width: 767px)" srcset="assets\images\proliv-img-2-mobile.webp">
+                            <img src="assets\images\proliv-img-2.webp" alt="Proliv Rx At-Home Neuromodulation" class="w-full h-48 object-cover rounded-xl mt-auto" loading="lazy" decoding="async">
+                        </picture>
                     </div>
 
                     <!-- Service 8: VNS Therapy -->
@@ -767,7 +818,10 @@ SCHEMA;
                                 LEARN MORE <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
                             </a>
                         </div>
-                        <img src="assets/images/vns_therapy_device.webp" alt="VNS Therapy" class="w-full h-48 object-cover rounded-xl mt-auto border border-gray-100" loading="lazy" decoding="async">
+                        <picture>
+                            <source media="(max-width: 767px)" srcset="assets/images/vns_therapy_device-mobile.webp">
+                            <img src="assets/images/vns_therapy_device.webp" alt="VNS Therapy" class="w-full h-48 object-cover rounded-xl mt-auto border border-gray-100" loading="lazy" decoding="async">
+                        </picture>
                     </div>
                 </div>
             </div>
@@ -1235,7 +1289,10 @@ SCHEMA;
         <section class="py-20 relative overflow-hidden">
             <!-- Background Image -->
             <div class="absolute inset-0 z-0">
-                <img src="assets/images/home/cta-bg.webp" alt="Serene Clinical Environment" class="w-full h-full object-cover object-center" loading="lazy" decoding="async">
+                <picture>
+                    <source media="(max-width: 767px)" srcset="assets/images/home/cta-bg-mobile.webp">
+                    <img src="assets/images/home/cta-bg.webp" alt="Serene Clinical Environment" class="w-full h-full object-cover object-center" loading="lazy" decoding="async">
+                </picture>
             </div>
 
             <!-- Simple Dark Overlay for Text Readability -->
