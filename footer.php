@@ -139,18 +139,21 @@
     <!-- Scripts -->
     <script src="js/main.js"></script>
     <script>
-        // Swap to mobile poster on small viewports
+        // Skip hero video on mobile — poster image is enough, video is too heavy
+        var isMobile = window.matchMedia('(max-width: 767px)').matches;
         (function() {
             var v = document.getElementById('hero-video');
             if (!v) return;
-            if (window.matchMedia('(max-width: 767px)').matches) {
+            if (isMobile) {
                 var mp = v.getAttribute('data-mobile-poster');
                 if (mp) v.poster = mp;
+                v.removeAttribute('data-src');  // do not load video source
             }
         })();
 
-        // Lazy-load hero video after page is interactive
+        // Lazy-load hero video after page is interactive (desktop only)
         (function() {
+            if (isMobile) return;  // skip entirely on mobile
             var v = document.getElementById('hero-video');
             if (!v) return;
             var sources = v.querySelectorAll('source[data-src]');
