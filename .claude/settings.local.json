@@ -85,7 +85,10 @@
       "Bash(python -c ' *)",
       "Bash(curl -L -o assets/images/home/hero-poster.jpg \"https://res.cloudinary.com/de4kw1t2i/video/upload/so_0/v1774957698/334716_1_Online-Video-Cutter.Com_wn4n7v.jpg\")",
       "Bash(python compress-homepage-images.py)",
-      "Bash(python make-mobile-variants.py)"
+      "Bash(python make-mobile-variants.py)",
+      "Bash(npm install *)",
+      "Bash(npx tailwindcss *)",
+      "Bash(git rm *)"
     ],
     "additionalDirectories": [
       "c:\\Users\\GCV\\Desktop\\resiliency\\location"

@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "get-image-colors": "^4.0.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
   }
 }
