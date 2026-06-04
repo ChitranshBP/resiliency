@@ -1,7 +1,10 @@
 // --- Lazy-load non-critical 3rd-party scripts (TBT reduction) ---
 // Scans the page for <span data-lazy-script="..."> elements and loads them
 // only when the page is fully idle (or on first user interaction).
+// Note: PsychologyToday + LegitScript currently use <script defer> instead,
+// so the badges render reliably. Keep this loader available for future scripts.
 (function lazyLoadThirdParty() {
+    if (!document.querySelector('[data-lazy-script]')) return;
     var load = function() {
         document.querySelectorAll('[data-lazy-script]').forEach(function(el) {
             if (el.dataset.loaded) return;
@@ -9,7 +12,6 @@
             var s = document.createElement('script');
             s.src = el.dataset.lazyScript;
             s.async = true;
-            // Copy data-* attributes (PsychologyToday needs them)
             Object.keys(el.dataset).forEach(function(k) {
                 if (k === 'lazyScript' || k === 'loaded') return;
                 s.setAttribute('data-' + k.replace(/[A-Z]/g, function(m) { return '-' + m.toLowerCase(); }), el.dataset[k]);

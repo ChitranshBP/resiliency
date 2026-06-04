@@ -93,7 +93,8 @@
       "Read(//c/Users/GCV/Desktop/**)",
       "Bash(curl -sIL \"https://cdn.userway.org/widget.js\")",
       "Bash(curl -sIL \"https://static.legitscript.com/seals/18505104.js\")",
-      "Bash(curl -sIL \"https://member.psychologytoday.com/verified-seal.js\")"
+      "Bash(curl -sIL \"https://member.psychologytoday.com/verified-seal.js\")",
+      "Bash(curl -sL \"https://static.legitscript.com/seals/18505104.js\")"
     ],
     "additionalDirectories": [
       "c:\\Users\\GCV\\Desktop\\resiliency\\location"

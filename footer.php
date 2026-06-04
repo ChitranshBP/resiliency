@@ -103,11 +103,11 @@
                 </div>
             </div>
 
-            <!-- Verification Badges (lazy-loaded after page idle) -->
+            <!-- Verification Badges -->
             <div class="flex flex-wrap items-center gap-6 justify-center mb-10 py-6 border-t border-b border-white/5">
                 <!-- Psychology Today Verified -->
                 <a href="https://www.psychologytoday.com/profile/1615083" class="sx-verified-seal"></a>
-                <span data-lazy-script="https://member.psychologytoday.com/verified-seal.js" data-badge="14" data-id="1615083" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy8xNC9wcm9maWxlLzE2MTUwODM/Y2FsbGJhY2s9c3hjYWxsYmFjaw=="></span>
+                <script defer type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js" data-badge="14" data-id="1615083" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy8xNC9wcm9maWxlLzE2MTUwODM/Y2FsbGJhY2s9c3hjYWxsYmFjaw=="></script>
 
                 <!-- Solstice Training Institute Badge -->
                 <a href="https://solsticetraining.org" target="_blank" rel="noopener noreferrer">
@@ -115,7 +115,9 @@
                 </a>
 
                 <!-- LegitScript Verified -->
-                <span data-lazy-script="https://static.legitscript.com/seals/18505104.js"></span>
+                <a href="https://www.legitscript.com/websites/?checker_keywords=resiliencymbmedicine.com" target="_blank" rel="noopener noreferrer" title="Verify LegitScript Approval for www.resiliencymbmedicine.com">
+                    <img src="https://static.legitscript.com/seals/18505104.png" alt="Verify Approval for www.resiliencymbmedicine.com" width="73" height="79" loading="lazy" decoding="async">
+                </a>
             </div>
 
             <div class="flex flex-col md:flex-row justify-between items-center text-xs font-light text-gray-500">
