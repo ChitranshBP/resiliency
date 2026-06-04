@@ -136,8 +136,8 @@
         </a>
     </div>
 
-    <!-- Scripts -->
-    <script src="js/main.js"></script>
+    <!-- Scripts (deferred) -->
+    <script defer src="js/main.js"></script>
     <script>
         // Skip hero video on mobile — poster image is enough, video is too heavy
         var isMobile = window.matchMedia('(max-width: 767px)').matches;

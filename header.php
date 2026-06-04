@@ -149,9 +149,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <!-- Google Fonts (non-blocking) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preconnect" href="https://cdn.userway.org">
-    <link rel="preconnect" href="https://static.legitscript.com">
-    <link rel="preconnect" href="https://member.psychologytoday.com">
+    <link rel="preconnect" href="https://res.cloudinary.com">
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet"></noscript>
@@ -171,8 +169,10 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <link rel="preload" href="css/tailwind-built.css" as="style">
     <link rel="stylesheet" href="css/tailwind-built.css">
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/styles.css">
+    <!-- Custom CSS (non-blocking) -->
+    <link rel="preload" href="css/styles.css" as="style">
+    <link rel="stylesheet" href="css/styles.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="css/styles.css"></noscript>
 
     <!-- UserWay Accessibility Widget (lazy-loaded after page idle) -->
     <script>
