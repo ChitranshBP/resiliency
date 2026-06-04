@@ -88,7 +88,12 @@
       "Bash(python make-mobile-variants.py)",
       "Bash(npm install *)",
       "Bash(npx tailwindcss *)",
-      "Bash(git rm *)"
+      "Bash(git rm *)",
+      "Bash(cd \"c:\\\\Users\\\\GCV\\\\Desktop\\\\resiliency\" && ls -la *.png *.jpg *.jpeg 2>/dev/null | head -5; ls -la \"C:\\\\Users\\\\GCV\\\\Desktop\"/*.png \"C:\\\\Users\\\\GCV\\\\Desktop\"/*.jpg 2>/dev/null | head -5)",
+      "Read(//c/Users/GCV/Desktop/**)",
+      "Bash(curl -sIL \"https://cdn.userway.org/widget.js\")",
+      "Bash(curl -sIL \"https://static.legitscript.com/seals/18505104.js\")",
+      "Bash(curl -sIL \"https://member.psychologytoday.com/verified-seal.js\")"
     ],
     "additionalDirectories": [
       "c:\\Users\\GCV\\Desktop\\resiliency\\location"

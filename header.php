@@ -149,6 +149,9 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <!-- Google Fonts (non-blocking) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.userway.org">
+    <link rel="preconnect" href="https://static.legitscript.com">
+    <link rel="preconnect" href="https://member.psychologytoday.com">
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet"></noscript>
@@ -171,8 +174,30 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/styles.css">
 
-    <!-- UserWay Accessibility Widget (deferred to after page interactive) -->
-    <script defer src="https://cdn.userway.org/widget.js" data-account="4BeUTqjVL9"></script>
+    <!-- UserWay Accessibility Widget (lazy-loaded after page idle) -->
+    <script>
+    (function() {
+        var loadUW = function() {
+            var s = document.createElement('script');
+            s.src = 'https://cdn.userway.org/widget.js';
+            s.setAttribute('data-account', '4BeUTqjVL9');
+            s.async = true;
+            document.body.appendChild(s);
+        };
+        // Load on idle, or on first user interaction (whichever comes first)
+        if ('requestIdleCallback' in window) {
+            requestIdleCallback(loadUW, { timeout: 4000 });
+        } else {
+            setTimeout(loadUW, 4000);
+        }
+        ['mousemove','touchstart','keydown','scroll'].forEach(function(evt) {
+            window.addEventListener(evt, function onFirst() {
+                loadUW();
+                window.removeEventListener(evt, onFirst);
+            }, { once: true, passive: true });
+        });
+    })();
+    </script>
 </head>
 <body class="font-sans text-gray-800 bg-surface antialiased selection:bg-accent selection:text-white">
 

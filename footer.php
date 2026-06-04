@@ -103,11 +103,11 @@
                 </div>
             </div>
 
-            <!-- Verification Badges -->
+            <!-- Verification Badges (lazy-loaded after page idle) -->
             <div class="flex flex-wrap items-center gap-6 justify-center mb-10 py-6 border-t border-b border-white/5">
                 <!-- Psychology Today Verified -->
                 <a href="https://www.psychologytoday.com/profile/1615083" class="sx-verified-seal"></a>
-                <script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js" data-badge="14" data-id="1615083" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy8xNC9wcm9maWxlLzE2MTUwODM/Y2FsbGJhY2s9c3hjYWxsYmFjaw=="></script>
+                <span data-lazy-script="https://member.psychologytoday.com/verified-seal.js" data-badge="14" data-id="1615083" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy8xNC9wcm9maWxlLzE2MTUwODM/Y2FsbGJhY2s9c3hjYWxsYmFjaw=="></span>
 
                 <!-- Solstice Training Institute Badge -->
                 <a href="https://solsticetraining.org" target="_blank" rel="noopener noreferrer">
@@ -115,7 +115,7 @@
                 </a>
 
                 <!-- LegitScript Verified -->
-                <script src="https://static.legitscript.com/seals/18505104.js"></script>
+                <span data-lazy-script="https://static.legitscript.com/seals/18505104.js"></span>
             </div>
 
             <div class="flex flex-col md:flex-row justify-between items-center text-xs font-light text-gray-500">
