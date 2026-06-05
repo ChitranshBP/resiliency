@@ -150,6 +150,12 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://res.cloudinary.com">
+
+    <!-- Preload LCP image (hero poster) so it's discovered immediately -->
+    <link rel="preload" as="image" href="assets/images/home/hero-poster-mobile.webp" imagesrcset="assets/images/home/hero-poster-mobile.webp" fetchpriority="high">
+
+    <!-- Preload hero video source for desktop LCP (small metadata fetch) -->
+    <link rel="preload" as="video" href="https://res.cloudinary.com/de4kw1t2i/video/upload/v1774957698/334716_1_Online-Video-Cutter.Com_wn4n7v.webm" type="video/webm" fetchpriority="high" media="(min-width: 768px)">
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet"></noscript>
