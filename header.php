@@ -165,24 +165,18 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
     });
     </script>
     
-    <!-- Tailwind CSS (non-blocking on mobile, blocking on desktop) -->
+    <!-- Tailwind CSS (prebuilt for performance) -->
     <link rel="preload" href="css/tailwind-built.css" as="style">
-    <link rel="stylesheet" href="css/tailwind-built.css" media="print" onload="this.media='all'">
-    <noscript><link rel="stylesheet" href="css/tailwind-built.css"></noscript>
+    <link rel="stylesheet" href="css/tailwind-built.css">
 
     <!-- Custom CSS (non-blocking) -->
     <link rel="preload" href="css/styles.css" as="style">
     <link rel="stylesheet" href="css/styles.css" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="css/styles.css"></noscript>
 
-    <!-- UserWay Accessibility Widget (lazy-loaded on desktop, skipped on mobile for TBT) -->
+    <!-- UserWay Accessibility Widget (lazy-loaded after page idle) -->
     <script>
     (function() {
-        // Skip on mobile to save TBT (the widget is ~70KB+ JS bundle)
-        var isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent) ||
-                       (window.matchMedia && window.matchMedia('(max-width: 768px)').matches);
-        if (isMobile) return;
-
         var loadUW = function() {
             var s = document.createElement('script');
             s.src = 'https://cdn.userway.org/widget.js';
@@ -190,6 +184,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
             s.async = true;
             document.body.appendChild(s);
         };
+        // Load on idle, or on first user interaction (whichever comes first)
         if ('requestIdleCallback' in window) {
             requestIdleCallback(loadUW, { timeout: 4000 });
         } else {
