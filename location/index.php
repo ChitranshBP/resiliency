@@ -7,6 +7,7 @@ $page_schema = '';
 ?>
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,10 +47,10 @@ $page_schema = '';
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11289954101"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'AW-11289954101');
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'AW-11289954101');
     </script>
 
     <!-- Google Fonts -->
@@ -91,30 +92,49 @@ $page_schema = '';
     <!-- Custom CSS -->
     <link rel="stylesheet" href="../css/styles.css">
 </head>
+
 <body class="font-sans text-gray-800 bg-surface antialiased selection:bg-accent selection:text-white">
 
     <!-- HEADER INCLUDE -->
     <?php include '../header.php'; ?>
 
     <!-- HERO -->
-    <section class="relative min-h-[450px] sm:min-h-[500px] md:min-h-[550px] lg:min-h-[65vh] flex items-center justify-center overflow-hidden pt-16 sm:pt-20 md:pt-24 lg:pt-20 pb-10 sm:pb-14 md:pb-16 lg:pb-0" id="hero">
+    <section
+        class="relative min-h-[450px] sm:min-h-[500px] md:min-h-[550px] lg:min-h-[65vh] flex items-center justify-center overflow-hidden pt-16 sm:pt-20 md:pt-24 lg:pt-20 pb-10 sm:pb-14 md:pb-16 lg:pb-0"
+        id="hero">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0 bg-primary">
-            <img src="../assets/images/breadcrumbs/med-management-bread.webp" alt="Psychiatric care serving Irvine" class="hidden lg:block w-full h-full object-cover object-[50%_20%]">
-            <img src="../assets/images/dr-L-patient-2.webp" alt="Psychiatric care serving Irvine" class="lg:hidden w-full h-full object-cover object-[80%_50%] md:object-[50%_30%]">
-            <div class="absolute inset-0 bg-primary/75 sm:bg-primary/70 md:bg-primary/60 lg:bg-gradient-to-r lg:from-primary/80 lg:via-primary/50 lg:to-primary/20"></div>
+            <img src="../assets/images/breadcrumbs/med-management-bread.webp" alt="Psychiatric care serving Irvine"
+                class="hidden lg:block w-full h-full object-cover object-[50%_20%]">
+            <img src="../assets/images/dr-L-patient-2.webp" alt="Psychiatric care serving Irvine"
+                class="lg:hidden w-full h-full object-cover object-[80%_50%] md:object-[50%_30%]">
+            <div
+                class="absolute inset-0 bg-primary/75 sm:bg-primary/70 md:bg-primary/60 lg:bg-gradient-to-r lg:from-primary/80 lg:via-primary/50 lg:to-primary/20">
+            </div>
         </div>
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 md:px-8 w-full">
             <div class="max-w-3xl reveal text-left">
                 <div class="flex items-center gap-1.5 sm:gap-2 md:gap-3 mb-2 sm:mb-3 md:mb-4">
                     <div class="w-5 sm:w-6 md:w-10 h-0.5 bg-secondary"></div>
-                    <span class="text-secondary text-xs sm:text-sm md:text-base font-semibold tracking-[0.1em] sm:tracking-[0.15em] md:tracking-[0.2em] uppercase">Serving Irvine, California</span>
+                    <span
+                        class="text-secondary text-xs sm:text-sm md:text-base font-semibold tracking-[0.1em] sm:tracking-[0.15em] md:tracking-[0.2em] uppercase">Serving
+                        Irvine, California</span>
                 </div>
-                <h1 class="font-sans text-xl sm:text-2xl md:text-2xl lg:text-4xl xl:text-5xl font-bold text-white leading-tight mb-2 sm:mb-3 md:mb-5">Deep TMS, Spravato® & ProLivRx™ <span class="block sm:inline text-secondary">Mental Health Treatment Near Irvine, CA</span></h1>
-                <p class="text-white/80 text-sm sm:text-base md:text-base lg:text-lg leading-relaxed mb-4 sm:mb-5 md:mb-6 max-w-sm sm:max-w-md md:max-w-lg">Advanced, FDA-approved treatments for depression serving Irvine area patients. Deep TMS, Spravato® (esketamine), and ProLivRx™ — personalized care for lasting relief.</p>
+                <h1
+                    class="font-sans text-xl sm:text-2xl md:text-2xl lg:text-4xl xl:text-5xl font-bold text-white leading-tight mb-2 sm:mb-3 md:mb-5">
+                    Deep TMS, Spravato® & ProLivRx™ <span class="block sm:inline text-secondary">Mental Health Treatment
+                        Near Irvine, CA</span></h1>
+                <p
+                    class="text-white/80 text-sm sm:text-base md:text-base lg:text-lg leading-relaxed mb-4 sm:mb-5 md:mb-6 max-w-sm sm:max-w-md md:max-w-lg">
+                    Advanced, FDA-approved treatments for depression serving Irvine area patients. Deep TMS, Spravato®
+                    (esketamine), and ProLivRx™ — personalized care for lasting relief.</p>
                 <div class="flex flex-col sm:flex-row gap-2 sm:gap-3 md:gap-4">
-                    <a href="#treatments" class="px-5 sm:px-5 md:px-8 py-2.5 sm:py-2.5 md:py-3.5 bg-secondary text-primary rounded-full font-semibold text-sm sm:text-sm md:text-base hover:bg-white hover:shadow-xl transition-all whitespace-nowrap text-center">Explore Treatments →</a>
-                    <a href="tel:+19499965355" class="px-5 sm:px-5 md:px-8 py-2.5 sm:py-2.5 md:py-3.5 bg-transparent border-2 border-white/30 text-white rounded-full font-semibold text-sm sm:text-sm md:text-base hover:border-secondary hover:text-secondary transition-all text-center">Call (949) 996-5355</a>
+                    <a href="#treatments"
+                        class="px-5 sm:px-5 md:px-8 py-2.5 sm:py-2.5 md:py-3.5 bg-secondary text-primary rounded-full font-semibold text-sm sm:text-sm md:text-base hover:bg-white hover:shadow-xl transition-all whitespace-nowrap text-center">Explore
+                        Treatments →</a>
+                    <a href="tel:+19499965355"
+                        class="px-5 sm:px-5 md:px-8 py-2.5 sm:py-2.5 md:py-3.5 bg-transparent border-2 border-white/30 text-white rounded-full font-semibold text-sm sm:text-sm md:text-base hover:border-secondary hover:text-secondary transition-all text-center">Call
+                        (949) 996-5355</a>
                 </div>
             </div>
         </div>
@@ -150,20 +170,28 @@ $page_schema = '';
     <section class="py-16 bg-white reveal" id="treatments">
         <div class="max-w-7xl mx-auto px-6">
             <div class="text-center mb-12">
-                <div class="flex items-center gap-3 mb-4 justify-center"><div class="w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Our Treatments</span></div>
-                <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-4">Advanced Treatments for <span class="text-secondary">Depression</span></h2>
-                <p class="text-lg text-gray-600 max-w-2xl mx-auto">Three FDA-approved, non-invasive treatments for treatment-resistant depression. Each offers a different pathway to lasting relief.</p>
+                <div class="flex items-center gap-3 mb-4 justify-center">
+                    <div class="w-12 h-0.5 bg-secondary"></div><span
+                        class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Our Treatments</span>
+                </div>
+                <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-4">Advanced Treatments for <span
+                        class="text-secondary">Depression</span></h2>
+                <p class="text-lg text-gray-600 max-w-2xl mx-auto">Three FDA-approved, non-invasive treatments for
+                    treatment-resistant depression. Each offers a different pathway to lasting relief.</p>
             </div>
 
             <!-- Tab Navigation -->
             <div class="flex flex-wrap justify-center gap-2 sm:gap-4 mb-8">
-                <button onclick="switchTab('tms')" id="tab-tms" class="tab-btn px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-lg transition-all bg-primary text-white shadow-lg whitespace-nowrap">
+                <button onclick="switchTab('tms')" id="tab-tms"
+                    class="tab-btn px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-lg transition-all bg-primary text-white shadow-lg whitespace-nowrap">
                     Deep TMS
                 </button>
-                <button onclick="switchTab('spravato')" id="tab-spravato" class="tab-btn px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-lg transition-all bg-neutral text-primary hover:bg-gray-200 whitespace-nowrap">
+                <button onclick="switchTab('spravato')" id="tab-spravato"
+                    class="tab-btn px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-lg transition-all bg-neutral text-primary hover:bg-gray-200 whitespace-nowrap">
                     Spravato®
                 </button>
-                <button onclick="switchTab('prolivrx')" id="tab-prolivrx" class="tab-btn px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-lg transition-all bg-neutral text-primary hover:bg-gray-200 whitespace-nowrap">
+                <button onclick="switchTab('prolivrx')" id="tab-prolivrx"
+                    class="tab-btn px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-lg transition-all bg-neutral text-primary hover:bg-gray-200 whitespace-nowrap">
                     ProLivRx™
                 </button>
             </div>
@@ -173,96 +201,155 @@ $page_schema = '';
 
                 <!-- Deep TMS Content -->
                 <div id="content-tms" class="tab-content absolute inset-0 transition-all duration-500">
-                    <div class="absolute inset-0 bg-cover bg-right sm:bg-center" style="background-image:url('../assets/images/breadcrumbs/deep-tms-breadcrumbs.webp'); background-position: center 20%;"></div>
-                    <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent lg:bg-gradient-to-r lg:from-primary lg:via-primary/80 lg:to-transparent"></div>
+                    <div class="absolute inset-0 bg-cover bg-right sm:bg-center"
+                        style="background-image:url('../assets/images/breadcrumbs/deep-tms-breadcrumbs.webp'); background-position: center 20%;">
+                    </div>
+                    <div
+                        class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent lg:bg-gradient-to-r lg:from-primary lg:via-primary/80 lg:to-transparent">
+                    </div>
                     <div class="relative z-10 p-4 sm:p-6 lg:p-12 xl:p-16 h-full flex items-center">
                         <div class="w-full">
-                            <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Cleared</div>
-                            <h3 class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">Deep TMS Therapy</h3>
-                            <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Transcranial magnetic stimulation using H-Coil technology.<br>Non-invasive, no sedation, covered by insurance.</p>
+                            <div
+                                class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">
+                                FDA-Cleared</div>
+                            <h3
+                                class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">
+                                Deep TMS Therapy</h3>
+                            <p
+                                class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">
+                                Transcranial magnetic stimulation using H-Coil technology.<br>Non-invasive, no sedation,
+                                covered by insurance.</p>
                             <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
                                     <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">78%</div>
                                     <p class="text-white/70 text-xs sm:text-sm">Remission Rate</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
-                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">87.8%</div>
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">87.8%
+                                    </div>
                                     <p class="text-white/70 text-xs sm:text-sm">Response Rate</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
-                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">20 min</div>
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">20 min
+                                    </div>
                                     <p class="text-white/70 text-xs sm:text-sm">Per Session</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
-                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">6 Days</div>
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">6 Days
+                                    </div>
                                     <p class="text-white/70 text-xs sm:text-sm">SWIFT Protocol</p>
                                 </div>
                             </div>
-                            <a href="tms-therapy" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
+                            <a href="tms-therapy"
+                                class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn
+                                More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
                         </div>
                     </div>
                 </div>
 
                 <!-- Spravato Content -->
-                <div id="content-spravato" class="tab-content absolute inset-0 transition-all duration-500 opacity-0 pointer-events-none translate-x-8">
-                    <div class="absolute inset-0 bg-cover bg-right sm:bg-center" style="background-image:url('../assets/images/spravato-banner.png'); background-position: center 30%;"></div>
-                    <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent lg:bg-gradient-to-r lg:from-primary lg:via-primary/80 lg:to-transparent"></div>
+                <div id="content-spravato"
+                    class="tab-content absolute inset-0 transition-all duration-500 opacity-0 pointer-events-none translate-x-8">
+                    <div class="absolute inset-0 bg-cover bg-right sm:bg-center"
+                        style="background-image:url('../assets/images/spravato-banner.png'); background-position: center 30%;">
+                    </div>
+                    <div
+                        class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent lg:bg-gradient-to-r lg:from-primary lg:via-primary/80 lg:to-transparent">
+                    </div>
                     <div class="relative z-10 p-4 sm:p-6 lg:p-12 xl:p-16 h-full flex items-center">
                         <div class="w-full">
-                            <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Approved</div>
-                            <h3 class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">Spravato®</h3>
-                            <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Esketamine nasal spray for treatment-resistant depression. Works within hours, not weeks.</p>
+                            <div
+                                class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">
+                                FDA-Approved</div>
+                            <h3
+                                class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">
+                                Spravato®</h3>
+                            <p
+                                class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">
+                                Esketamine nasal spray for treatment-resistant depression. Works within hours, not
+                                weeks.</p>
                             <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
-                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">24hrs</div>
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">24hrs
+                                    </div>
                                     <p class="text-white/70 text-xs sm:text-sm">Fast Relief</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
                                     <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">$10</div>
                                     <p class="text-white/70 text-xs sm:text-sm">Per Session</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
-                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">100%</div>
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">100%
+                                    </div>
                                     <p class="text-white/70 text-xs sm:text-sm">REMS Certified</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
-                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">2hrs</div>
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">2hrs
+                                    </div>
                                     <p class="text-white/70 text-xs sm:text-sm">Per Visit</p>
                                 </div>
                             </div>
-                            <a href="spravato-therapy" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
+                            <a href="spravato-therapy"
+                                class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn
+                                More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
                         </div>
                     </div>
                 </div>
 
                 <!-- ProLivRx Content -->
-                <div id="content-prolivrx" class="tab-content absolute inset-0 transition-all duration-500 opacity-0 pointer-events-none translate-x-8">
-                    <div class="absolute inset-0 bg-cover bg-center" style="background-image:url('../assets/images/Proliv™Rx-IMG-FINAL.png');"></div>
-                    <div class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent lg:bg-gradient-to-r lg:from-primary lg:via-primary/80 lg:to-transparent"></div>
+                <div id="content-prolivrx"
+                    class="tab-content absolute inset-0 transition-all duration-500 opacity-0 pointer-events-none translate-x-8">
+                    <div class="absolute inset-0 bg-cover bg-center"
+                        style="background-image:url('../assets/images/Proliv™Rx-IMG-FINAL.png');"></div>
+                    <div
+                        class="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-transparent lg:bg-gradient-to-r lg:from-primary lg:via-primary/80 lg:to-transparent">
+                    </div>
                     <div class="relative z-10 p-4 sm:p-6 lg:p-12 xl:p-16 h-full flex items-center">
                         <div class="w-full">
-                            <div class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">FDA-Approved</div>
-                            <h3 class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">ProLivRx™</h3>
-                            <p class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">Physician-directed at-home brain stimulation for Major Depressive Disorder.</p>
+                            <div
+                                class="inline-flex items-center gap-2 bg-secondary text-primary text-xs font-bold px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-3 sm:mb-6">
+                                FDA-Approved</div>
+                            <h3
+                                class="font-sans text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-2 sm:mb-4">
+                                ProLivRx™</h3>
+                            <p
+                                class="text-base sm:text-lg lg:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6 max-w-xl">
+                                Physician-directed at-home brain stimulation for Major Depressive Disorder.</p>
                             <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-8">
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
-                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">Home</div>
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">Home
+                                    </div>
                                     <p class="text-white/70 text-xs sm:text-sm">Use At Home</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
                                     <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">VNS</div>
                                     <p class="text-white/70 text-xs sm:text-sm">Non-Invasive</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
                                     <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">MDD</div>
                                     <p class="text-white/70 text-xs sm:text-sm">FDA Cleared</p>
                                 </div>
-                                <div class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
-                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">Portable</div>
+                                <div
+                                    class="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-2 sm:p-4 text-center">
+                                    <div class="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">Portable
+                                    </div>
                                     <p class="text-white/70 text-xs sm:text-sm">Easy to Use</p>
                                 </div>
                             </div>
-                            <a href="proliv-rx" class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
+                            <a href="proliv-rx"
+                                class="inline-flex items-center gap-2 px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 lg:py-4 bg-secondary text-primary font-bold rounded-xl sm:rounded-2xl hover:bg-white hover:shadow-xl transition-all text-sm sm:text-base">Learn
+                                More <i data-lucide="arrow-right" class="w-4 sm:w-5 h-4 sm:h-5"></i></a>
                         </div>
                     </div>
                 </div>
@@ -275,62 +362,84 @@ $page_schema = '';
     <section class="py-16 bg-neutral reveal" id="conditions">
         <div class="max-w-7xl mx-auto px-6">
             <div class="text-center mb-12">
-                <div class="flex items-center gap-3 mb-4 justify-center"><div class="w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Conditions We Treat</span></div>
-                <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-4">Comprehensive Mental Health <span class="text-secondary">Care</span></h2>
-                <p class="text-lg text-gray-600 max-w-2xl mx-auto">Expert psychiatric care for a range of mental health conditions using advanced, evidence-based treatments.</p>
+                <div class="flex items-center gap-3 mb-4 justify-center">
+                    <div class="w-12 h-0.5 bg-secondary"></div><span
+                        class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Conditions We
+                        Treat</span>
+                </div>
+                <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-4">Comprehensive Mental Health <span
+                        class="text-secondary">Care</span></h2>
+                <p class="text-lg text-gray-600 max-w-2xl mx-auto">Expert psychiatric care for a range of mental health
+                    conditions using advanced, evidence-based treatments.</p>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                <a href="depression" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
-                    <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
+                <a href="depression"
+                    class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                    <div
+                        class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="heart-pulse" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Depression</h3>
                     <p class="text-gray-500 text-sm">Treatment-resistant depression, major depressive disorder</p>
                 </a>
-                <a href="anxiety" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
-                    <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
+                <a href="anxiety"
+                    class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                    <div
+                        class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="brain" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Anxiety</h3>
                     <p class="text-gray-500 text-sm">Generalized anxiety, panic disorders, social anxiety</p>
                 </a>
-                <a href="ocd" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
-                    <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
+                <a href="ocd"
+                    class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                    <div
+                        class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="repeat" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">OCD</h3>
                     <p class="text-gray-500 text-sm">Obsessive-compulsive disorder with TMS protocols</p>
                 </a>
-                <a href="ptsd" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
-                    <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
+                <a href="ptsd"
+                    class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                    <div
+                        class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="shield" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">PTSD</h3>
                     <p class="text-gray-500 text-sm">Post-traumatic stress disorder and trauma</p>
                 </a>
-                <a href="adhd" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
-                    <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
+                <a href="adhd"
+                    class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                    <div
+                        class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="focus" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Adult ADHD</h3>
                     <p class="text-gray-500 text-sm">Attention deficit hyperactivity disorder</p>
                 </a>
-                <a href="bipolar" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
-                    <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
+                <a href="bipolar"
+                    class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                    <div
+                        class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="wind" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Bipolar</h3>
                     <p class="text-gray-500 text-sm">Bipolar disorder management and treatment</p>
                 </a>
-                <a href="medication-management" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
-                    <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
+                <a href="medication-management"
+                    class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                    <div
+                        class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="pill" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Medication Management</h3>
                     <p class="text-gray-500 text-sm">Psychiatric medications with holistic approach</p>
                 </a>
-                <a href="autism" class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
-                    <div class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
+                <a href="autism"
+                    class="bg-white rounded-2xl p-6 text-center shadow-soft hover:shadow-xl transition-all hover:-translate-y-1 block">
+                    <div
+                        class="w-14 h-14 bg-secondary/10 rounded-2xl flex items-center justify-center text-secondary mx-auto mb-4">
                         <i data-lucide="users" class="w-7 h-7"></i>
                     </div>
                     <h3 class="font-bold text-lg text-primary mb-2">Autism Support</h3>
@@ -345,21 +454,41 @@ $page_schema = '';
         <div class="max-w-7xl mx-auto px-6">
             <div class="grid lg:grid-cols-2 gap-12 items-center">
                 <div>
-                    <a href="team"><img src="../assets/images/mental-Health/TMS/Dr.-L-tms.webp" alt="Dr. Stefani LaFrenierre" class="rounded-3xl w-full h-[450px] object-cover object-[50%_20%] shadow-soft hover:opacity-90 transition-opacity cursor-pointer"></a>
+                    <a href="team"><img src="../assets/images/mental-Health/TMS/Dr.-L-tms.webp"
+                            alt="Dr. Stefani LaFrenierre"
+                            class="rounded-3xl w-full h-[450px] object-cover object-[50%_20%] shadow-soft hover:opacity-90 transition-opacity cursor-pointer"></a>
                 </div>
                 <div>
-                    <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Your Psychiatrist</span></div>
-                    <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-6">Care Led by <span class="text-secondary">Dr. LaFrenierre</span></h2>
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-12 h-0.5 bg-secondary"></div><span
+                            class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Your
+                            Psychiatrist</span>
+                    </div>
+                    <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-6">Care Led by <span
+                            class="text-secondary">Dr. LaFrenierre</span></h2>
                     <div class="border-l-4 border-secondary bg-white rounded-r-xl p-6 mb-6 shadow-soft">
-                        <p class="text-gray-600 leading-relaxed">Dr. Stefani LaFrenierre is a board-certified psychiatrist leading all treatment programs serving the Irvine area. With extensive training in interventional psychiatry and neuromodulation, she ensures every patient receives expert, personalized care from our nearby offices.</p>
+                        <p class="text-gray-600 leading-relaxed">Dr. Stefani LaFrenierre is a board-certified
+                            psychiatrist leading all treatment programs serving the Irvine area. With extensive training
+                            in interventional psychiatry and neuromodulation, she ensures every patient receives expert,
+                            personalized care from our nearby offices.</p>
                     </div>
-                    <p class="leading-relaxed mb-6">Dr. LaFrenierre combines cutting-edge treatments like Deep TMS, Spravato, and ProLivRx with integrative psychiatry to address the whole person — not just symptoms.</p>
+                    <p class="leading-relaxed mb-6">Dr. LaFrenierre combines cutting-edge treatments like Deep TMS,
+                        Spravato, and ProLivRx with integrative psychiatry to address the whole person — not just
+                        symptoms.</p>
                     <div class="flex flex-wrap gap-3 mb-8">
-                        <span class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">BrainsWay Ultra Provider</span>
-                        <span class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">REMS Certified</span>
-                        <span class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">8,000+ TMS Treatments</span>
+                        <span
+                            class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">BrainsWay
+                            Ultra Provider</span>
+                        <span
+                            class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">REMS
+                            Certified</span>
+                        <span
+                            class="bg-white px-4 py-2 rounded-full text-sm font-semibold text-primary shadow-soft">8,000+
+                            TMS Treatments</span>
                     </div>
-                    <a href="contact" class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white hover:shadow-xl transition-all">Schedule Consultation <i data-lucide="arrow-right" class="w-4 h-4"></i></a>
+                    <a href="contact"
+                        class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white hover:shadow-xl transition-all">Schedule
+                        Consultation <i data-lucide="arrow-right" class="w-4 h-4"></i></a>
                 </div>
             </div>
         </div>
@@ -370,29 +499,48 @@ $page_schema = '';
         <div class="max-w-7xl mx-auto px-6">
             <div class="grid lg:grid-cols-2 gap-12 items-center">
                 <div>
-                    <div class="flex items-center gap-3 mb-4"><div class="w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Insurance & Pricing</span></div>
-                    <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-6">Insurance <span class="text-secondary">Accepted</span></h2>
-                    <p class="text-lg text-gray-600 leading-relaxed mb-6">We work with most major insurance providers to make treatment accessible. Our team handles benefits verification and prior authorization at no cost.</p>
-                    <div class="flex flex-wrap gap-3 mb-8">
-                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Aetna</span>
-                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Anthem</span>
-                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Cigna</span>
-                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">United Healthcare</span>
-                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Medicare</span>
-                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">TriCare</span>
-                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Blue Cross</span>
-                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Kaiser</span>
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-12 h-0.5 bg-secondary"></div><span
+                            class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Insurance &
+                            Pricing</span>
                     </div>
-                    <a href="contact" class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-primary font-bold rounded-full hover:bg-primary hover:text-white transition-all">Verify Your Benefits <i data-lucide="arrow-right" class="w-5 h-5"></i></a>
+                    <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-6">Insurance <span
+                            class="text-secondary">Accepted</span></h2>
+                    <p class="text-lg text-gray-600 leading-relaxed mb-6">We work with most major insurance providers to
+                        make treatment accessible. Our team handles benefits verification and prior authorization at no
+                        cost.</p>
+                    <div class="flex flex-wrap gap-3 mb-8">
+                        <span
+                            class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Aetna</span>
+                        <span
+                            class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Anthem</span>
+                        <span
+                            class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Cigna</span>
+                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">United
+                            Healthcare</span>
+                        <span
+                            class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Medicare</span>
+                        <span
+                            class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">TriCare</span>
+                        <span class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Blue
+                            Cross</span>
+                        <span
+                            class="bg-primary/10 px-4 py-2 rounded-full text-sm font-semibold text-primary">Kaiser</span>
+                    </div>
+                    <a href="contact"
+                        class="inline-flex items-center gap-2 px-8 py-3.5 bg-secondary text-primary font-bold rounded-full hover:bg-primary hover:text-white transition-all">Verify
+                        Your Benefits <i data-lucide="arrow-right" class="w-5 h-5"></i></a>
                 </div>
                 <div class="bg-neutral rounded-3xl p-8 shadow-soft">
                     <div class="flex items-center gap-3 mb-6">
-                        <div class="w-12 h-12 rounded-2xl bg-secondary/20 flex items-center justify-center text-secondary">
+                        <div
+                            class="w-12 h-12 rounded-2xl bg-secondary/20 flex items-center justify-center text-secondary">
                             <i data-lucide="file-check-2" class="w-6 h-6"></i>
                         </div>
                         <h3 class="font-bold text-xl text-primary">Free Benefits Verification</h3>
                     </div>
-                    <p class="text-gray-600 leading-relaxed mb-6">Before starting treatment, we'll verify your insurance coverage and explain any out-of-pocket costs. No surprises.</p>
+                    <p class="text-gray-600 leading-relaxed mb-6">Before starting treatment, we'll verify your insurance
+                        coverage and explain any out-of-pocket costs. No surprises.</p>
                     <ul class="space-y-3">
                         <li class="flex items-center gap-3">
                             <i data-lucide="check-circle-2" class="w-5 h-5 text-secondary flex-shrink-0"></i>
@@ -420,25 +568,34 @@ $page_schema = '';
     <section class="py-16 bg-white reveal" id="location">
         <div class="max-w-7xl mx-auto px-6">
             <div class="text-center mb-12">
-                <div class="flex items-center gap-3 mb-4 justify-center"><div class="w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Find Us</span></div>
-                <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-4">Visit Our <span class="text-secondary">Nearest Clinics</span></h2>
-                <p class="text-lg text-gray-600 max-w-2xl mx-auto">We proudly serve the Irvine area from our flagship clinics in Newport Beach and San Juan Capistrano. Easy access from the 405, 5, and 55 freeways.</p>
+                <div class="flex items-center gap-3 mb-4 justify-center">
+                    <div class="w-12 h-0.5 bg-secondary"></div><span
+                        class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Find Us</span>
+                </div>
+                <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-4">Visit Our <span
+                        class="text-secondary">Nearest Clinics</span></h2>
+                <p class="text-lg text-gray-600 max-w-2xl mx-auto">We proudly serve the Irvine area from our flagship
+                    clinics in Newport Beach and San Juan Capistrano. Easy access from the 405, 5, and 55 freeways.</p>
             </div>
             <div class="grid md:grid-cols-2 gap-8 mb-12">
                 <!-- Newport Beach -->
                 <div class="bg-neutral rounded-3xl p-8">
                     <div class="flex items-center gap-3 mb-4">
-                        <div class="w-10 h-10 rounded-2xl bg-secondary/20 flex items-center justify-center text-secondary">
+                        <div
+                            class="w-10 h-10 rounded-2xl bg-secondary/20 flex items-center justify-center text-secondary">
                             <i data-lucide="map-pin" class="w-5 h-5"></i>
                         </div>
                         <h4 class="font-bold text-xl text-primary">Newport Beach</h4>
                     </div>
                     <p class="text-gray-600 mb-4">1501 Superior Ave, Suite 210<br>Newport Beach, CA 92663</p>
                     <div class="flex flex-wrap gap-4">
-                        <a href="https://maps.google.com/?q=1501+Superior+Ave+Newport+Beach+CA+92663" target="_blank" rel="noopener" class="inline-flex items-center gap-2 px-5 py-2.5 bg-secondary text-primary font-semibold rounded-full hover:bg-primary hover:text-white transition-all text-sm">
+                        <a href="https://maps.google.com/?q=1501+Superior+Ave+Newport+Beach+CA+92663" target="_blank"
+                            rel="noopener"
+                            class="inline-flex items-center gap-2 px-5 py-2.5 bg-secondary text-primary font-semibold rounded-full hover:bg-primary hover:text-white transition-all text-sm">
                             <i data-lucide="navigation" class="w-4 h-4"></i> Get Directions
                         </a>
-                        <a href="tel:+19499965355" class="inline-flex items-center gap-2 px-5 py-2.5 bg-transparent border-2 border-primary text-primary font-semibold rounded-full hover:bg-primary hover:text-white transition-all text-sm">
+                        <a href="tel:+19499965355"
+                            class="inline-flex items-center gap-2 px-5 py-2.5 bg-transparent border-2 border-primary text-primary font-semibold rounded-full hover:bg-primary hover:text-white transition-all text-sm">
                             <i data-lucide="phone" class="w-4 h-4"></i> (949) 996-5355
                         </a>
                     </div>
@@ -446,17 +603,21 @@ $page_schema = '';
                 <!-- San Juan Capistrano -->
                 <div class="bg-neutral rounded-3xl p-8">
                     <div class="flex items-center gap-3 mb-4">
-                        <div class="w-10 h-10 rounded-2xl bg-secondary/20 flex items-center justify-center text-secondary">
+                        <div
+                            class="w-10 h-10 rounded-2xl bg-secondary/20 flex items-center justify-center text-secondary">
                             <i data-lucide="map-pin" class="w-5 h-5"></i>
                         </div>
                         <h4 class="font-bold text-xl text-primary">San Juan Capistrano</h4>
                     </div>
                     <p class="text-gray-600 mb-4">27184 Ortega Hwy, STE 103<br>San Juan Capistrano, CA 92675</p>
                     <div class="flex flex-wrap gap-4">
-                        <a href="https://maps.google.com/?q=27184+Ortega+Hwy+San+Juan+Capistrano+CA+92675" target="_blank" rel="noopener" class="inline-flex items-center gap-2 px-5 py-2.5 bg-secondary text-primary font-semibold rounded-full hover:bg-primary hover:text-white transition-all text-sm">
+                        <a href="https://maps.google.com/?q=27184+Ortega+Hwy+San+Juan+Capistrano+CA+92675"
+                            target="_blank" rel="noopener"
+                            class="inline-flex items-center gap-2 px-5 py-2.5 bg-secondary text-primary font-semibold rounded-full hover:bg-primary hover:text-white transition-all text-sm">
                             <i data-lucide="navigation" class="w-4 h-4"></i> Get Directions
                         </a>
-                        <a href="tel:+19499965355" class="inline-flex items-center gap-2 px-5 py-2.5 bg-transparent border-2 border-primary text-primary font-semibold rounded-full hover:bg-primary hover:text-white transition-all text-sm">
+                        <a href="tel:+19499965355"
+                            class="inline-flex items-center gap-2 px-5 py-2.5 bg-transparent border-2 border-primary text-primary font-semibold rounded-full hover:bg-primary hover:text-white transition-all text-sm">
                             <i data-lucide="phone" class="w-4 h-4"></i> (949) 996-5355
                         </a>
                     </div>
@@ -466,18 +627,25 @@ $page_schema = '';
                 <div class="grid lg:grid-cols-2 gap-12 items-center">
                     <div>
                         <h3 class="font-bold text-2xl text-primary mb-4">Serving Irvine and Surrounding Areas</h3>
-                        <p class="text-gray-600 leading-relaxed mb-6">While we don't have a clinic directly in Irvine, our team proudly serves patients from Irvine, Costa Mesa, Huntington Beach, Tustin, Lake Forest, and surrounding Orange County communities at our Newport Beach and San Juan Capistrano locations.</p>
+                        <p class="text-gray-600 leading-relaxed mb-6">Our team proudly serves patients from Irvine,
+                            Costa Mesa, Huntington Beach, Tustin, Lake Forest, and surrounding Orange County communities
+                            at our Newport Beach and San Juan Capistrano locations.</p>
                         <div class="flex flex-wrap gap-4">
-                            <a href="contact" class="inline-flex items-center gap-2 px-6 py-3 bg-secondary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white transition-all">
+                            <a href="contact"
+                                class="inline-flex items-center gap-2 px-6 py-3 bg-secondary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white transition-all">
                                 <i data-lucide="calendar" class="w-5 h-5"></i> Schedule Appointment
                             </a>
-                            <a href="tel:+19499965355" class="inline-flex items-center gap-2 px-6 py-3 bg-transparent border-2 border-primary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white transition-all">
+                            <a href="tel:+19499965355"
+                                class="inline-flex items-center gap-2 px-6 py-3 bg-transparent border-2 border-primary text-primary font-bold rounded-2xl hover:bg-primary hover:text-white transition-all">
                                 <i data-lucide="phone" class="w-5 h-5"></i> Call (949) 996-5355
                             </a>
                         </div>
                     </div>
                     <div class="rounded-3xl overflow-hidden">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3320.1234567890!2d-117.8229!3d33.6846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDQwJzU2LjMiTiAxMTfCsDQ5JzI1LjYiVw!5e0!3m2!1sen!2sus!4v1234567890" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3320.1234567890!2d-117.8229!3d33.6846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDQwJzU2LjMiTiAxMTfCsDQ5JzI1LjYiVw!5e0!3m2!1sen!2sus!4v1234567890"
+                            width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
@@ -488,63 +656,92 @@ $page_schema = '';
     <section class="py-16 bg-neutral reveal" id="faq">
         <div class="max-w-4xl mx-auto px-6">
             <div class="text-center mb-12">
-                <div class="flex items-center gap-3 mb-4 justify-center"><div class="w-12 h-0.5 bg-secondary"></div><span class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Common Questions</span></div>
-                <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-4">Frequently Asked <span class="text-secondary">Questions</span></h2>
+                <div class="flex items-center gap-3 mb-4 justify-center">
+                    <div class="w-12 h-0.5 bg-secondary"></div><span
+                        class="text-secondary text-xs font-semibold tracking-[0.2em] uppercase">Common Questions</span>
+                </div>
+                <h2 class="font-sans text-3xl md:text-4xl font-bold text-primary mb-4">Frequently Asked <span
+                        class="text-secondary">Questions</span></h2>
             </div>
             <div class="space-y-4">
                 <div class="bg-white rounded-2xl shadow-soft overflow-hidden reveal">
-                    <button class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
+                    <button
+                        class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
                         <span>What treatments are available for the Irvine area?</span>
-                        <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
+                        <div
+                            class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
                             <i data-lucide="plus" class="w-5 h-5"></i>
                         </div>
                     </button>
                     <div class="px-6 pb-6 text-gray-600 leading-relaxed hidden faq-content">
-                        <div class="pt-4 border-t border-gray-100">Patients from Irvine can access Deep TMS Therapy, Spravato® (esketamine) treatment, and ProLivRx™ for depression and related conditions at our nearby Newport Beach and San Juan Capistrano clinics, with ProLivRx™ also available for at-home care.</div>
+                        <div class="pt-4 border-t border-gray-100">Patients from Irvine can access Deep TMS Therapy,
+                            Spravato® (esketamine) treatment, and ProLivRx™ for depression and related conditions at our
+                            nearby Newport Beach and San Juan Capistrano clinics, with ProLivRx™ also available for
+                            at-home care.</div>
                     </div>
                 </div>
                 <div class="bg-white rounded-2xl shadow-soft overflow-hidden reveal">
-                    <button class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
+                    <button
+                        class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
                         <span>Is Deep TMS covered by insurance?</span>
-                        <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
+                        <div
+                            class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
                             <i data-lucide="plus" class="w-5 h-5"></i>
                         </div>
                     </button>
                     <div class="px-6 pb-6 text-gray-600 leading-relaxed hidden faq-content">
-                        <div class="pt-4 border-t border-gray-100">Yes, Deep TMS is FDA-cleared and most insurance providers cover it for depression and OCD. We handle benefits verification and prior authorization at no cost.</div>
+                        <div class="pt-4 border-t border-gray-100">Yes, Deep TMS is FDA-cleared and most insurance
+                            providers cover it for depression and OCD. We handle benefits verification and prior
+                            authorization at no cost.</div>
                     </div>
                 </div>
                 <div class="bg-white rounded-2xl shadow-soft overflow-hidden reveal">
-                    <button class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
+                    <button
+                        class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
                         <span>How is Spravato different from regular ketamine?</span>
-                        <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
+                        <div
+                            class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
                             <i data-lucide="plus" class="w-5 h-5"></i>
                         </div>
                     </button>
                     <div class="px-6 pb-6 text-gray-600 leading-relaxed hidden faq-content">
-                        <div class="pt-4 border-t border-gray-100">Spravato® is an FDA-approved esketamine nasal spray administered in-office under medical supervision, while regular ketamine is often used off-label and may be given through IV infusions or other forms. Spravato® is specifically approved for treatment-resistant depression and certain depressive disorders, with a standardized dosing and monitoring protocol. Like ketamine, it works much faster than traditional antidepressants, with some patients experiencing relief within hours or days rather than weeks.</div>
+                        <div class="pt-4 border-t border-gray-100">Spravato® is an FDA-approved esketamine nasal spray
+                            administered in-office under medical supervision, while regular ketamine is often used
+                            off-label and may be given through IV infusions or other forms. Spravato® is specifically
+                            approved for treatment-resistant depression and certain depressive disorders, with a
+                            standardized dosing and monitoring protocol. Like ketamine, it works much faster than
+                            traditional antidepressants, with some patients experiencing relief within hours or days
+                            rather than weeks.</div>
                     </div>
                 </div>
                 <div class="bg-white rounded-2xl shadow-soft overflow-hidden reveal">
-                    <button class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
+                    <button
+                        class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
                         <span>Do I need a referral to schedule an appointment?</span>
-                        <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
+                        <div
+                            class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
                             <i data-lucide="plus" class="w-5 h-5"></i>
                         </div>
                     </button>
                     <div class="px-6 pb-6 text-gray-600 leading-relaxed hidden faq-content">
-                        <div class="pt-4 border-t border-gray-100">No referral is required. You can schedule directly by calling (949) 996-5355 or booking online. We also accept referrals from primary care physicians and other mental health providers.</div>
+                        <div class="pt-4 border-t border-gray-100">No referral is required. You can schedule directly by
+                            calling (949) 996-5355 or booking online. We also accept referrals from primary care
+                            physicians and other mental health providers.</div>
                     </div>
                 </div>
                 <div class="bg-white rounded-2xl shadow-soft overflow-hidden reveal">
-                    <button class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
+                    <button
+                        class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
                         <span>What should I expect during my first visit?</span>
-                        <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
+                        <div
+                            class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
                             <i data-lucide="plus" class="w-5 h-5"></i>
                         </div>
                     </button>
                     <div class="px-6 pb-6 text-gray-600 leading-relaxed hidden faq-content">
-                        <div class="pt-4 border-t border-gray-100">Your first visit includes a comprehensive psychiatric evaluation, review of your medical history, and discussion of treatment options tailored to your needs.</div>
+                        <div class="pt-4 border-t border-gray-100">Your first visit includes a comprehensive psychiatric
+                            evaluation, review of your medical history, and discussion of treatment options tailored to
+                            your needs.</div>
                     </div>
                 </div>
             </div>
@@ -555,7 +752,8 @@ $page_schema = '';
     <section class="py-16 relative overflow-hidden reveal" id="contact">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0">
-            <img src="../assets/images/home/cta-bg.png" alt="Clinical Environment" class="w-full h-full object-cover object-center">
+            <img src="../assets/images/home/cta-bg.png" alt="Clinical Environment"
+                class="w-full h-full object-cover object-center">
         </div>
         <!-- Dark Overlay -->
         <div class="absolute inset-0 z-0 bg-primary/70"></div>
@@ -563,20 +761,27 @@ $page_schema = '';
         <div class="absolute inset-0 z-0 bg-gradient-to-t from-primary via-transparent to-transparent opacity-80"></div>
 
         <div class="max-w-5xl mx-auto px-6 text-center relative z-10">
-            <span class="inline-block py-1 px-4 rounded-full bg-white/10 text-secondary text-sm font-semibold tracking-wider uppercase mb-8 border border-secondary/30 backdrop-blur-sm">
+            <span
+                class="inline-block py-1 px-4 rounded-full bg-white/10 text-secondary text-sm font-semibold tracking-wider uppercase mb-8 border border-secondary/30 backdrop-blur-sm">
                 Begin Your Healing Journey
             </span>
             <h2 class="font-sans text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-8 leading-tight">
-                Take the First Step Toward <br class="hidden md:block"/> <span class="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">Better Mental Health</span>
+                Take the First Step Toward <br class="hidden md:block" /> <span
+                    class="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">Better Mental
+                    Health</span>
             </h2>
             <p class="text-xl text-gray-300 mb-12 font-light max-w-3xl mx-auto leading-relaxed">
-                Schedule your consultation with our team serving the Irvine area. We'll help you determine which treatment — Deep TMS, Spravato®, or ProLivRx™ — is right for you at one of our convenient nearby offices.
+                Schedule your consultation with our team serving the Irvine area. We'll help you determine which
+                treatment — Deep TMS, Spravato®, or ProLivRx™ — is right for you at one of our convenient nearby
+                offices.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6 items-center">
-                <a href="tel:+19499965355" class="group inline-flex items-center justify-center bg-secondary hover:bg-white text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl text-lg w-full sm:w-auto">
+                <a href="tel:+19499965355"
+                    class="group inline-flex items-center justify-center bg-secondary hover:bg-white text-primary font-bold px-10 py-5 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-1 hover:shadow-2xl text-lg w-full sm:w-auto">
                     <i data-lucide="phone" class="w-5 h-5 mr-2"></i> Call (949) 996-5355
                 </a>
-                <a href="contact" class="group inline-flex items-center justify-center bg-white/5 hover:bg-white/10 border-2 border-white/20 hover:border-white/40 text-white font-semibold px-10 py-5 rounded-full transition-all duration-300 text-lg w-full sm:w-auto">
+                <a href="contact"
+                    class="group inline-flex items-center justify-center bg-white/5 hover:bg-white/10 border-2 border-white/20 hover:border-white/40 text-white font-semibold px-10 py-5 rounded-full transition-all duration-300 text-lg w-full sm:w-auto">
                     Schedule Consultation
                 </a>
             </div>
@@ -588,7 +793,8 @@ $page_schema = '';
 
     <!-- Floating CTA -->
     <div class="fixed bottom-6 right-6 z-50">
-        <a href="tel:+19499965355" class="bg-secondary hover:bg-secondary/90 text-primary w-14 h-14 rounded-full flex items-center justify-center shadow-lg transition-all hover:scale-110">
+        <a href="tel:+19499965355"
+            class="bg-secondary hover:bg-secondary/90 text-primary w-14 h-14 rounded-full flex items-center justify-center shadow-lg transition-all hover:scale-110">
             <i data-lucide="phone" class="w-6 h-6"></i>
         </a>
     </div>
@@ -605,7 +811,7 @@ $page_schema = '';
         document.querySelectorAll('.reveal').forEach(el => obs.observe(el));
 
         // Smooth scroll
-        document.querySelectorAll('a[href^="#"]').forEach(a => a.addEventListener('click', function(e) {
+        document.querySelectorAll('a[href^="#"]').forEach(a => a.addEventListener('click', function (e) {
             const t = document.querySelector(this.getAttribute('href'));
             if (t) {
                 e.preventDefault();
@@ -635,7 +841,7 @@ $page_schema = '';
 
         // FAQ toggle
         document.querySelectorAll('.faq-toggle').forEach(btn => {
-            btn.addEventListener('click', function() {
+            btn.addEventListener('click', function () {
                 const content = this.nextElementSibling;
                 const icon = this.querySelector('i');
                 const isOpen = !content.classList.contains('hidden');
@@ -656,4 +862,5 @@ $page_schema = '';
         });
     </script>
 </body>
+
 </html>
