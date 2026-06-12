@@ -667,17 +667,16 @@ $page_schema = '';
                 <div class="bg-white rounded-2xl shadow-soft overflow-hidden reveal">
                     <button
                         class="faq-toggle w-full px-6 py-5 text-left font-bold text-lg flex items-center justify-between hover:bg-gray-50 transition-colors group">
-                        <span>What treatments are available for the Irvine area?</span>
+                        <span>Is Deep TMS safe?</span>
                         <div
                             class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary group-hover:bg-secondary group-hover:text-primary transition-colors">
                             <i data-lucide="plus" class="w-5 h-5"></i>
                         </div>
                     </button>
                     <div class="px-6 pb-6 text-gray-600 leading-relaxed hidden faq-content">
-                        <div class="pt-4 border-t border-gray-100">Patients from Irvine can access Deep TMS Therapy,
-                            Spravato® (esketamine) treatment, and ProLivRx™ for depression and related conditions at our
-                            nearby Newport Beach and San Juan Capistrano clinics, with ProLivRx™ also available for
-                            at-home care.</div>
+                        <div class="pt-4 border-t border-gray-100">Yes. Deep TMS is FDA-cleared and has been extensively
+                            studied in clinical trials. Most patients experience minimal side effects, with the most
+                            common being mild scalp discomfort or headache.</div>
                     </div>
                 </div>
                 <div class="bg-white rounded-2xl shadow-soft overflow-hidden reveal">
