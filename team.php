@@ -122,6 +122,20 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                         </p>
                     </div>
                 </div>
+
+                <!-- Stefani Pateryn -->
+                <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('stefani_pateryn')">
+                    <div class="h-64 overflow-hidden rounded-t-[2rem]">
+                        <img src="assets/images/team/Stefani-Pateryn.webp" alt="Stefani Pateryn, DNP, PMHNP-BC, PHN" class="w-full h-full object-cover object-top transition-transform duration-500">
+                    </div>
+                    <div class="p-6">
+                        <h4 class="text-lg font-bold text-primary">Stefani Pateryn, DNP, PMHNP-BC, PHN</h4>
+                        <p class="text-[#23bfe2] text-sm font-semibold mt-1">Psychiatric NP</p>
+                        <p class="text-gray-400 text-xs mt-3 flex items-center gap-1 group-hover:text-[#23bfe2] transition-colors">
+                            <i data-lucide="info" class="w-3 h-3"></i> Click to read bio
+                        </p>
+                    </div>
+                </div>
             </div>
 
             <!-- Clinical & Operations Staff -->
@@ -338,6 +352,15 @@ const teamBios = {
         bio: `<p>Lorraine Nxumalo is a board-certified Psychiatric Mental Health Nurse Practitioner dedicated to providing compassionate, patient-centered mental health care. She graduated from Charles R. Drew University of Medicine and Science and has experience working across diverse psychiatric settings.</p>
               <p>Lorraine believes in a collaborative approach to treatment where patients feel heard, supported, and actively involved in their care. She prioritizes accurate assessment, thoughtful diagnosis, and individualized treatment planning that addresses mental, emotional, and social well-being. Her goal is to equip patients with the knowledge, support, and tools needed to effectively manage their mental health and work toward lasting wellness.</p>
               <p>As a PMHNP, Lorraine is committed to creating a safe and supportive environment where each patient’s unique needs and beliefs are respected. Through compassionate care and evidence-based treatment, she works to help patients achieve their personal wellness goals.</p>`
+    },
+    stefani_pateryn: {
+        name: 'Stefani Pateryn, DNP, PMHNP-BC, PHN',
+        title: 'Psychiatric Nurse Practitioner',
+        img: 'assets/images/team/Stefani-Pateryn.webp',
+        bookUrl: 'https://resiliencymbm.intakeq.com/connect',
+        bio: `<p>Stefani is a Doctor of Nursing Practice and a board-certified Psychiatric Mental Health Nurse Practitioner. She has registered nursing experience caring for patients ages 8 and older across the full spectrum of psychiatric diagnoses in the inpatient setting. In her four years of inpatient psychiatry, she has developed a strong passion for supporting individuals through acute mental health crises, practicing trauma-informed care, and building a therapeutic alliance grounded in trust and collaboration.</p>
+              <p>Stefani's previous work as a Neonatal Intensive Care Unit RN, as a school nurse, and as a psychiatric nurse shaped her holistic, patient-centered perspective. In addition to her clinical work, she has served as a clinical instructor for Bachelor of Science in Nursing students during their mental health rotations, where she enjoyed teaching the next generation of nurses the importance of active listening, empathy, and building a therapeutic nurse–patient relationship to improve patient care and outcomes.</p>
+              <p>Her treatment approach is guided by evidence-based research and tailored to each individual's needs. She incorporates elements of psychoanalytic, cognitive-behavioral, and solution-focused therapies into her practice, while emphasizing patient education and respect for patient autonomy in treatment decisions. She believes in approaching each person holistically, treating root causes, and creating comprehensive treatment plans that consider mental, emotional, physical, and social factors.</p>`
     },
     rylee_k: {
         name: 'Rylee Kaczynski',
