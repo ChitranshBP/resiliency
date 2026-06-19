@@ -54,7 +54,49 @@ $page_canonical   = 'https://resiliencymbmedicine.com/blog';
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 reveal">
-                <!-- Article - May 27 (Newest) -->
+                <!-- Article - June 15 (Newest) -->
+                <a href="blog-choosing-tms-provider" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/choose_tms_provider_thumb.png" alt="How to Choose the Right Deep TMS Provider in California" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="search" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
+                    </div>
+                    <div class="p-8">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS</span>
+                            <span class="text-gray-400 text-sm font-light">Jun 15, 2026</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">How to Choose the Right Deep TMS Provider in California</h3>
+                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
+                            Learn what to look for in a Deep TMS provider — from psychiatric expertise and BrainsWay technology to insurance coverage, costs, and patient experience.
+                        </p>
+                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
+                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Article - June 7 -->
+                <a href="blog-deep-tms-bipolar" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/bipolar_tms_thumb.png" alt="Can Deep TMS Cure Bipolar Disorder?" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="activity" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
+                    </div>
+                    <div class="p-8">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-purple-500/10 text-purple-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Bipolar</span>
+                            <span class="text-gray-400 text-sm font-light">Jun 7, 2026</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">Can Deep TMS Cure Bipolar Disorder?</h3>
+                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
+                            Understanding what Deep TMS can and cannot do for bipolar disorder, including treatment options, insurance coverage, and costs.
+                        </p>
+                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
+                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Article - May 27 -->
                 <a href="blog-spravato-cost-california" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
                         <img src="assets/images/spravato_cost_insurance.png" alt="How Much Do Patients Actually Pay for Spravato® Treatment in California?" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">

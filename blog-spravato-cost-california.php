@@ -291,10 +291,10 @@
                                 </a>
                             </div>
                             <div class="w-1/2 text-right">
-                                <a href="blog-deep-tms-anxiety" class="group flex items-center justify-end gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
+                                <a href="blog-deep-tms-bipolar" class="group flex items-center justify-end gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
                                     <div>
                                         <span class="text-xs text-gray-400 font-light uppercase tracking-wider">Next</span>
-                                        <p class="text-sm font-bold text-[#0B2035] group-hover:text-[#23bfe2] transition-colors truncate max-w-[180px]">Can Deep TMS Help Anxiety?</p>
+                                        <p class="text-sm font-bold text-[#0B2035] group-hover:text-[#23bfe2] transition-colors truncate max-w-[180px]">Deep TMS & Bipolar Disorder</p>
                                     </div>
                                     <i data-lucide="arrow-right" class="w-5 h-5 text-[#23bfe2] group-hover:translate-x-1 transition-transform"></i>
                                 </a>

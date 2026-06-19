@@ -400,8 +400,13 @@ SCHEMA;
                                 </a>
                             </div>
                             <div class="w-1/2 text-right">
-                                <span class="text-gray-400 text-sm font-light uppercase tracking-wider">Next</span>
-                                <p class="text-sm font-bold text-[#0B2035]">No next post</p>
+                                <a href="blog-deep-tms-bipolar" class="group flex items-center justify-end gap-3 p-4 rounded-2xl border border-gray-100 hover:border-[#23bfe2] transition-all">
+                                    <div>
+                                        <span class="text-xs text-gray-400 font-light uppercase tracking-wider">Next</span>
+                                        <p class="text-sm font-bold text-[#0B2035] group-hover:text-[#23bfe2] transition-colors truncate max-w-[180px]">Deep TMS & Bipolar Disorder</p>
+                                    </div>
+                                    <i data-lucide="arrow-right" class="w-5 h-5 text-[#23bfe2] group-hover:translate-x-1 transition-transform"></i>
+                                </a>
                             </div>
                         </nav>
                     </article>
