@@ -36,7 +36,7 @@ $page_schema = <<<'SCHEMA'
       "name": "What conditions do you treat at your Newport Beach and San Juan Capistrano clinics?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We specialize in depression, anxiety, OCD, PTSD, adult ADHD, bipolar disorder, substance use disorders, autism spectrum, and suicidal ideation at our Newport Beach and San Juan Capistrano, CA clinics."
+        "text": "We specialize in depression, anxiety, , PTSD, adult ADHD, bipolar disorder, substance use disorders, autism spectrum, and suicidal ideation at our Newport Beach and San Juan Capistrano, CA clinics."
       }
     },
     {
@@ -44,7 +44,7 @@ $page_schema = <<<'SCHEMA'
       "name": "What is Deep TMS Therapy and is it right for me?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Deep TMS (Transcranial Magnetic Stimulation) is an FDA-cleared, non-invasive brain stimulation treatment. It requires no anesthesia, has no systemic side effects, and patients can drive themselves to appointments. It is particularly effective for treatment-resistant depression, OCD, and anxious depression."
+        "text": "Deep TMS (Transcranial Magnetic Stimulation) is an FDA-cleared, non-invasive brain stimulation treatment. It requires no anesthesia, has no systemic side effects, and patients can drive themselves to appointments. It is particularly effective for treatment-resistant depression, , and anxious depression."
       }
     },
     {
@@ -99,7 +99,7 @@ SCHEMA;
                         Orange County's Advanced <span class="text-secondary font-light">Psychiatry & Deep TMS Therapy</span>
                     </h1>
                     <p class="text-base sm:text-lg md:text-xl text-gray-100 mb-6 sm:mb-8 leading-relaxed font-light">
-                        Personalized treatments for depression, anxiety, OCD, and PTSD at our Newport Beach & San Juan Capistrano clinics — using evidence-based therapies and advanced neuromodulation technology.
+                        Personalized treatments for depression, anxiety, , and PTSD at our Newport Beach & San Juan Capistrano clinics — using evidence-based therapies and advanced neuromodulation technology.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-3 sm:gap-4 mb-8 sm:mb-10">
                         <a href="contact" class="bg-lightblue text-primary font-bold px-6 sm:px-8 py-3.5 rounded-full text-center text-sm sm:text-base transition-all hover:bg-[#1aadd0] hover:shadow-lg shadow-md hover:-translate-y-1 transform">
@@ -260,7 +260,7 @@ SCHEMA;
                         <p class="text-[9px] font-bold text-primary uppercase tracking-wider px-2 leading-tight">ANXIETY RELIEF</p>
                     </div>
 
-                    <!-- Stat 3: OCD -->
+                    <!-- Stat 3:  -->
                     <div class="flex flex-col items-center text-center reveal reveal-delay-2">
                         <div class="relative w-24 h-24 mb-4">
                             <svg class="w-full h-full transform -rotate-90" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
@@ -400,7 +400,7 @@ SCHEMA;
                         <!-- Background Image -->
                         <div class="absolute inset-0 z-0">
                             <picture>
-                                <source media="(max-width: 767px)" srcset="assets/images/brainsway-image-mobile.webp">
+                                <source media="(max-width: 767px)" srcset="https://magneticsmag.com/wp-content/uploads/2021/08/Brainsway1.png">
                                 <img src="assets/images/brainsway-image.webp" alt="Deep TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
                             </picture>
                         </div>
