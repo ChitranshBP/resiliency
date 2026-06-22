@@ -56,7 +56,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Dr. Stefani LaFrenierre -->
                 <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer" onclick="openBioModal('stefani')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/stefani.png" alt="Dr. Stefani LaFrenierre, MD" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/stefani.webp" alt="Dr. Stefani LaFrenierre, MD" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Dr. Stefani LaFrenierre, MD</h4>
@@ -70,7 +70,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Dr. Heather Wong -->
                 <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer" onclick="openBioModal('heather')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/heather.png" alt="Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/heather.webp" alt="Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych</h4>
@@ -84,7 +84,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Milinda Estrada -->
                 <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden cursor-pointer" onclick="openBioModal('milinda')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/milinda.png" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/milinda.webp" alt="Milinda Estrada, PA-C" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Milinda Estrada, PA-C</h4>
@@ -98,7 +98,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Regina Dizon -->
                 <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden cursor-pointer" onclick="openBioModal('regina')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/regina.png" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/regina.webp" alt="Regina Dizon, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Regina Dizon, PMHNP-BC</h4>
@@ -112,7 +112,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Lorraine Nxumalo -->
                 <div class="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)] bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden cursor-pointer" onclick="openBioModal('lorraine')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/lorraine.png" alt="Lorraine Nxumalo, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/lorraine.webp" alt="Lorraine Nxumalo, PMHNP-BC" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Lorraine Nxumalo, PMHNP-BC</h4>
@@ -168,7 +168,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Lauren Kim -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/lauren.png" alt="Lauren Kim" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/lauren.webp" alt="Lauren Kim" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Lauren Kim</h4>
@@ -179,7 +179,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Jeffrey Phan -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/jeffrey.png" alt="Jeffrey Phan" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/jeffrey.webp" alt="Jeffrey Phan" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Jeffrey Phan</h4>
@@ -190,7 +190,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Dana Yan -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/dana.png" alt="Dana Yan" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/dana.webp" alt="Dana Yan" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Dana Yan</h4>
@@ -204,7 +204,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Maryam Nabihah -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal group overflow-hidden cursor-pointer" onclick="openBioModal('maryam')">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/Maryam.png" alt="Maryam Nabihah" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/Maryam.webp" alt="Maryam Nabihah" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Maryam Nabihah</h4>
@@ -218,7 +218,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Cyrus Jimenez -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-1 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/cyrus.png" alt="Cyrus Jimenez" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/cyrus.webp" alt="Cyrus Jimenez" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Cyrus Jimenez</h4>
@@ -229,7 +229,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Rylee Hickman -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-2 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/rylee.png" alt="Rylee Hickman" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/rylee.webp" alt="Rylee Hickman" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Rylee Hickman</h4>
@@ -240,7 +240,7 @@ $page_canonical   = 'https://resiliencymbmedicine.com/team';
                 <!-- Cathleen Sliney -->
                 <div class="bg-white rounded-[2rem] shadow-soft border border-gray-100 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 reveal reveal-delay-3 group overflow-hidden">
                     <div class="h-64 overflow-hidden rounded-t-[2rem]">
-                        <img src="assets/images/team/cathleen.png" alt="Cathleen Sliney" class="w-full h-full object-cover object-top transition-transform duration-500">
+                        <img src="assets/images/team/cathleen.webp" alt="Cathleen Sliney" class="w-full h-full object-cover object-top transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h4 class="text-lg font-bold text-primary">Cathleen Sliney</h4>
@@ -310,7 +310,7 @@ const teamBios = {
     stefani: {
         name: 'Dr. Stefani LaFrenierre, MD',
         title: 'Psychiatrist & Addiction Medicine | Founder',
-        img: 'assets/images/team/stefani.png',
+        img: 'assets/images/team/stefani.webp',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/stefani-lafrenierre-md/',
         bio: `<p>Dr. Stefani LaFrenierre is the founder of Resiliency Mind+Body Medicine® and a licensed Medical Doctor who is double board-certified in Adult Psychiatry and Addiction Medicine.</p>
               <p>She received her Medical Degree from the David Geffen School of Medicine at UCLA and completed her Adult Psychiatry residency training at San Mateo Behavioral Health and Recovery Services. She also completed a fellowship through the Harvard Program in Refugee Trauma with a certification in Global Mental Health, Trauma and Recovery.</p>
@@ -320,7 +320,7 @@ const teamBios = {
     heather: {
         name: 'Dr. Heather Wong, DMSc, MPAS, PA-C, CAQ-Psych',
         title: 'Physician Associate',
-        img: 'assets/images/team/heather.png',
+        img: 'assets/images/team/heather.webp',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/heather-wong-dmsc-mpas-pa-c-caq-psych/',
         bio: `<p>Dr. Heather Wong is a Doctorate level Physician Associate who has been working in Psychiatry and Addiction Medicine for more than six years.</p>
               <p>She is experienced in the treatment of depression, anxiety, ADHD, PTSD, bipolar disorders, substance use and dual diagnosis disorders. She has performed in several leadership positions, including as an associate medical director managing medical and psychiatric needs for multiple facilities. She also has developed and implemented culturally competent care processes while in her previous leadership positions.</p>
@@ -330,7 +330,7 @@ const teamBios = {
     milinda: {
         name: 'Milinda Estrada, PA-C',
         title: 'Physician Associate',
-        img: 'assets/images/team/milinda.png',
+        img: 'assets/images/team/milinda.webp',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/milinda-estrada-pa-c/',
         bio: `<p>Milinda Estrada earned her Master of Medical Science in Physician Assistant Studies from Chapman University and completed her undergraduate degree at Hamilton College in Clinton, New York, with a major in Biology and a minor in Women's and Gender Studies.</p>
               <p>As a Physician Associate at Resiliency Mind+Body Medicine®, Milinda brings a compassionate, patient-centered approach to psychiatric care. She is dedicated to working collaboratively with patients to develop individualized treatment plans that address the full spectrum of mental health needs.</p>`
@@ -338,7 +338,7 @@ const teamBios = {
     regina: {
         name: 'Regina Dizon, PMHNP-BC',
         title: 'Psychiatric Nurse Practitioner',
-        img: 'assets/images/team/regina.png',
+        img: 'assets/images/team/regina.webp',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/regina-dizon-pmhnp-bc/',
         bio: `<p>Regina Dizon is a passionate and highly experienced board-certified Psychiatric Mental Health Nurse Practitioner, proudly serving patients at Resiliency Mind+Body Medicine®.</p>
               <p>Her background also includes roles as an emergency medical technician, medical assistant, and nursing assistant, giving her a broad foundation and a personal touch in caring for patients.</p>
@@ -347,7 +347,7 @@ const teamBios = {
     lorraine: {
         name: 'Lorraine Nxumalo, PMHNP-BC',
         title: 'Psychiatric Nurse Practitioner',
-        img: 'assets/images/team/lorraine.png',
+        img: 'assets/images/team/lorraine.webp',
         bookUrl: 'https://resiliencymbmedicine.com/our-team/lorraine-nxumalo-pmhnp-bc/',
         bio: `<p>Lorraine Nxumalo is a board-certified Psychiatric Mental Health Nurse Practitioner dedicated to providing compassionate, patient-centered mental health care. She graduated from Charles R. Drew University of Medicine and Science and has experience working across diverse psychiatric settings.</p>
               <p>Lorraine believes in a collaborative approach to treatment where patients feel heard, supported, and actively involved in their care. She prioritizes accurate assessment, thoughtful diagnosis, and individualized treatment planning that addresses mental, emotional, and social well-being. Her goal is to equip patients with the knowledge, support, and tools needed to effectively manage their mental health and work toward lasting wellness.</p>
@@ -373,7 +373,7 @@ const teamBios = {
     maryam: {
         name: 'Maryam Nabihah',
         title: 'Interventional Psychiatry Technician',
-        img: 'assets/images/team/Maryam.png',
+        img: 'assets/images/team/Maryam.webp',
         bio: `<p>Maryam recently graduated from the University of California, Irvine with a degree in Biological Sciences. She spent two years in a psychiatric research lab working one-on-one with patients with autism spectrum disorder, where she built meaningful connections with individuals from diverse backgrounds. She also led her own research project exploring how sleep quality and exercise may help reduce ASD symptom severity.</p>
               <p>At the UCI Medical Center, Maryam worked as a Patient Experience Intern on the oncology unit, spending time with patients and families during some of their most vulnerable moments. Listening, supporting, and simply being present gave her a deeper appreciation for empathy and the small ways care can make a difference.</p>
               <p>She also volunteered with Crisis Text Line, providing real-time support to individuals in crisis. Maryam believes in a balanced, human-centered approach to mental health care and strives to ensure every patient feels heard, respected, and supported. Outside of work, she enjoys coffee, reading, and anything cat-related.</p>`
