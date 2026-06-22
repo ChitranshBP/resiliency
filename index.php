@@ -401,7 +401,7 @@ SCHEMA;
                         <div class="absolute inset-0 z-0">
                             <picture>
                                 <source media="(max-width: 767px)" srcset="https://magneticsmag.com/wp-content/uploads/2021/08/Brainsway1.png">
-                                <img src="https://magneticsmag.com/wp-content/uploads/2021/08/Brainsway1.png" alt="Deep TMS for OCD" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" loading="lazy" decoding="async">
+                                <img src="https://magneticsmag.com/wp-content/uploads/2021/08/Brainsway1.png" alt="Deep TMS for OCD" class="w-full h-full object-cover object-left transition-transform duration-1000 group-hover:scale-110" style="object-position: -20% center;" loading="lazy" decoding="async">
                             </picture>
                         </div>
                         <!-- Overlay Gradient -->
