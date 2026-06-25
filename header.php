@@ -276,6 +276,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                                 <a href="weight-loss" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Medical Weight Loss</a>
                                 <a href="hormone-therapy" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Hormone Therapy</a>
                                 <a href="supplements" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Supplements</a>
+                                <a href="microneedling" class="block px-4 py-3 text-sm text-gray-600 hover:text-primary hover:bg-neutral rounded-xl transition-colors font-medium">Microneedling</a>
                             </div>
                         </div>
                     </div>
@@ -424,6 +425,7 @@ $page_canonical   = isset($page_canonical)   ? $page_canonical   : $default_cano
                         <a href="weight-loss" class="text-white/80 hover:text-white transition-colors">Medical Weight Loss</a>
                         <a href="hormone-therapy" class="text-white/80 hover:text-white transition-colors">Hormone Therapy</a>
                         <a href="supplements" class="text-white/80 hover:text-white transition-colors">Supplements</a>
+                        <a href="microneedling" class="text-white/80 hover:text-white transition-colors">Microneedling</a>
                     </div>
                 </div>
 
