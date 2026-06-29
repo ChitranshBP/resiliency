@@ -54,7 +54,49 @@ $page_canonical   = 'https://resiliencymbmedicine.com/blog';
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 reveal">
-                <!-- Article - June 15 (Newest) -->
+                <!-- Article - June 25 (Newest) -->
+                <a href="blog-spravato-treatment-length" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/spravato_consultation.jpg" alt="How Long Are Spravato Treatments?" class="w-full h-full object-cover object-[center_20%] group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="clock" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
+                    </div>
+                    <div class="p-8">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Spravato</span>
+                            <span class="text-gray-400 text-sm font-light">Jun 25, 2026</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">How Long Are Spravato® Treatments? What Patients Can Expect</h3>
+                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
+                            Learn about Spravato treatment schedules, how long appointments take, monitoring requirements, and the full treatment program length.
+                        </p>
+                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
+                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Article - June 19 -->
+                <a href="blog-what-is-brainsway-deep-tms" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
+                    <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
+                        <img src="assets/images/dr_profile.png" alt="What Is BrainsWay Deep TMS?" class="w-full h-full object-cover object-[center_20%] group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <i data-lucide="brain" class="w-16 h-16 text-[#23bfe2]/30 hidden"></i>
+                    </div>
+                    <div class="p-8">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-[#23bfe2]/10 text-[#23bfe2] text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Deep TMS</span>
+                            <span class="text-gray-400 text-sm font-light">Jun 19, 2026</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#0B2035] mb-3 group-hover:text-[#23bfe2] transition-colors">What Is BrainsWay Deep TMS? A Complete Guide to Advanced Depression Treatment</h3>
+                        <p class="text-gray-600 font-light leading-relaxed line-clamp-2 mb-6">
+                            Learn about BrainsWay Deep TMS, an FDA-cleared, non-invasive treatment for depression and OCD. Find out how it works and what to expect.
+                        </p>
+                        <div class="flex items-center gap-2 text-[#23bfe2] font-bold text-sm group-hover:gap-3 transition-all">
+                            Read More <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Article - June 15 -->
                 <a href="blog-choosing-tms-provider" class="group bg-white border border-gray-100 rounded-[2rem] overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
                     <div class="h-48 overflow-hidden bg-gradient-to-br from-[#0B2035] to-[#0B2035]/80 flex items-center justify-center">
                         <img src="assets/images/choose_tms_provider_thumb.png" alt="How to Choose the Right Deep TMS Provider in California" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
